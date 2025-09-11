@@ -1,0 +1,3789 @@
+{
+  "mantra": "shiv_mahima_stotra_pushp_dant",
+  "language": "english",
+  "type": "word_to_word",
+  "totalWords": 755,
+  "alignedWords": [
+    {
+      "original": "महिम्नः",
+      "transliteration": "Mahimnah",
+      "translation": "Of greatness"
+    },
+    {
+      "original": "पारं",
+      "transliteration": "Param",
+      "translation": "The extent"
+    },
+    {
+      "original": "ते",
+      "transliteration": "Te",
+      "translation": "Your"
+    },
+    {
+      "original": "परमविदुषो",
+      "transliteration": "Paramavidushah",
+      "translation": "Of the supreme scholar"
+    },
+    {
+      "original": "यद्यसदृशी",
+      "transliteration": "Yadyasadṛshī",
+      "translation": "If it is improper"
+    },
+    {
+      "original": "स्तुतिर्ब्रह्मादीनामपि",
+      "transliteration": "Stutih",
+      "translation": "Praise"
+    },
+    {
+      "original": "तदवसन्नास्त्वयि",
+      "transliteration": "Brahmadinam",
+      "translation": "Of Brahma and others"
+    },
+    {
+      "original": "गिरः",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "अथाऽवाच्यः",
+      "transliteration": "Tat",
+      "translation": "That"
+    },
+    {
+      "original": "सर्वः",
+      "transliteration": "Avasannah",
+      "translation": "Powerless"
+    },
+    {
+      "original": "स्वमतिपरिणामावधि",
+      "transliteration": "Tvayi",
+      "translation": "In you"
+    },
+    {
+      "original": "गृणन्",
+      "transliteration": "Girah",
+      "translation": "Words"
+    },
+    {
+      "original": "ममाप्येष",
+      "transliteration": "Atha",
+      "translation": "However"
+    },
+    {
+      "original": "स्तोत्रे",
+      "transliteration": "Avachyah",
+      "translation": "Ineffable"
+    },
+    {
+      "original": "हर",
+      "transliteration": "Sarvah",
+      "translation": "All"
+    },
+    {
+      "original": "निरपवादः",
+      "transliteration": "Sva",
+      "translation": "One’s own"
+    },
+    {
+      "original": "परिकरः",
+      "transliteration": "Mati",
+      "translation": "Intellect"
+    },
+    {
+      "original": "अतीतः",
+      "transliteration": "Parinama",
+      "translation": "Limitation"
+    },
+    {
+      "original": "पंथानं",
+      "transliteration": "Avadhi",
+      "translation": "Limit"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Grinan",
+      "translation": "Uttering"
+    },
+    {
+      "original": "च",
+      "transliteration": "Mama",
+      "translation": "My"
+    },
+    {
+      "original": "महिमा",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "वाङ्मनसयोः",
+      "transliteration": "Eshah",
+      "translation": "This"
+    },
+    {
+      "original": "अतद्व्यावृत्त्या",
+      "transliteration": "Stotre",
+      "translation": "In this hymn"
+    },
+    {
+      "original": "यं",
+      "transliteration": "Hara",
+      "translation": "O Hara (Shiva)"
+    },
+    {
+      "original": "चकितमभिधत्ते",
+      "transliteration": "Nirapavadah",
+      "translation": "Without fault"
+    },
+    {
+      "original": "श्रुतिरपि",
+      "transliteration": "Parikarah",
+      "translation": "Equipment"
+    },
+    {
+      "original": "स",
+      "transliteration": "Atitah",
+      "translation": "Beyond"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "Panthanam",
+      "translation": "The path"
+    },
+    {
+      "original": "स्तोतव्यः",
+      "transliteration": "Tava",
+      "translation": "Your"
+    },
+    {
+      "original": "कतिविधगुणः",
+      "transliteration": "Cha",
+      "translation": "And"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "Mahima",
+      "translation": "Greatness"
+    },
+    {
+      "original": "विषयः",
+      "transliteration": "Vangmanasayoh",
+      "translation": "Of speech and mind"
+    },
+    {
+      "original": "पदे",
+      "transliteration": "Atadvyaavrittya",
+      "translation": "By indirect explanation"
+    },
+    {
+      "original": "त्वर्वाचीने",
+      "transliteration": "Yam",
+      "translation": "Whom"
+    },
+    {
+      "original": "पतति",
+      "transliteration": "Cakitam",
+      "translation": "In awe"
+    },
+    {
+      "original": "न",
+      "transliteration": "Abhidhatte",
+      "translation": "Declares"
+    },
+    {
+      "original": "मनः",
+      "transliteration": "Shrutih",
+      "translation": "The Vedas"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "न",
+      "transliteration": "Sa",
+      "translation": "He"
+    },
+    {
+      "original": "वचः",
+      "transliteration": "Kasya",
+      "translation": "Of whom"
+    },
+    {
+      "original": "मधुस्फीता",
+      "transliteration": "Stotavyah",
+      "translation": "To be praised"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "Katividha",
+      "translation": "Of what kind"
+    },
+    {
+      "original": "परमममृतं",
+      "transliteration": "Gunah",
+      "translation": "Quality"
+    },
+    {
+      "original": "निर्मितवतः",
+      "transliteration": "Kasya",
+      "translation": "Of whom"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Vishayah",
+      "translation": "Subject"
+    },
+    {
+      "original": "ब्रह्मन्",
+      "transliteration": "Pade",
+      "translation": "In the state"
+    },
+    {
+      "original": "किं",
+      "transliteration": "Tvarvacine",
+      "translation": "Inexpressible"
+    },
+    {
+      "original": "वागपि",
+      "transliteration": "Patati",
+      "translation": "Falls"
+    },
+    {
+      "original": "सुरगुरोर्विस्मयपदम्",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "मम",
+      "transliteration": "Manah",
+      "translation": "Mind"
+    },
+    {
+      "original": "त्वेतां",
+      "transliteration": "Kasya",
+      "translation": "Of whom"
+    },
+    {
+      "original": "वाणीं",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "गुणकथनपुण्येन",
+      "transliteration": "Vachah",
+      "translation": "Words"
+    },
+    {
+      "original": "भवतः",
+      "transliteration": "Madhusphita",
+      "translation": "Honey-sweet"
+    },
+    {
+      "original": "पुनामीत्यर्थेऽस्मिन्",
+      "transliteration": "Vachah",
+      "translation": "Words"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "Paramamritam",
+      "translation": "Supreme nectar"
+    },
+    {
+      "original": "बुद्धिर्व्यवसिता",
+      "transliteration": "Nirmitavatah",
+      "translation": "Created"
+    },
+    {
+      "original": "तवैश्वर्यं",
+      "transliteration": "Tava",
+      "translation": "Your"
+    },
+    {
+      "original": "यत्तज्जगदुदयरक्षाप्रलयकृत्",
+      "transliteration": "Brahman",
+      "translation": "O Brahman"
+    },
+    {
+      "original": "त्रयीवस्तु",
+      "transliteration": "Kim",
+      "translation": "What"
+    },
+    {
+      "original": "व्यस्तं",
+      "transliteration": "Vāgapi",
+      "translation": "Even speech"
+    },
+    {
+      "original": "तिस्रुषु",
+      "transliteration": "Suraguroh",
+      "translation": "Of the guru of the gods"
+    },
+    {
+      "original": "गुणभिन्नासु",
+      "transliteration": "Vismayapadam",
+      "translation": "A source of wonder"
+    },
+    {
+      "original": "तनुषु",
+      "transliteration": "Mama",
+      "translation": "My"
+    },
+    {
+      "original": "अभव्यानामस्मिन्",
+      "transliteration": "Tu",
+      "translation": "But"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "Etam",
+      "translation": "This"
+    },
+    {
+      "original": "रमणीयामरमणीं",
+      "transliteration": "Vaneem",
+      "translation": "Speech"
+    },
+    {
+      "original": "विहन्तुं",
+      "transliteration": "Gunakathan",
+      "translation": "The narration of qualities"
+    },
+    {
+      "original": "व्याक्रोशीं",
+      "transliteration": "Punyena",
+      "translation": "By merit"
+    },
+    {
+      "original": "विदधत",
+      "transliteration": "Bhavatah",
+      "translation": "Of yours"
+    },
+    {
+      "original": "इहैके",
+      "transliteration": "Punamiti",
+      "translation": "I purify"
+    },
+    {
+      "original": "जडधियः",
+      "transliteration": "Arthe",
+      "translation": "For the purpose"
+    },
+    {
+      "original": "किमीहः",
+      "transliteration": "Asmin",
+      "translation": "In this"
+    },
+    {
+      "original": "किंकायः",
+      "transliteration": "Puramathana",
+      "translation": "O destroyer of cities (Shiva)"
+    },
+    {
+      "original": "स",
+      "transliteration": "Buddhiḥ",
+      "translation": "Intellect"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "Vyavasita",
+      "translation": "Is resolved"
+    },
+    {
+      "original": "किमुपायस्त्रिभुवनं",
+      "transliteration": "Tava",
+      "translation": "Your"
+    },
+    {
+      "original": "किमाधारो",
+      "transliteration": "Aishvaryam",
+      "translation": "Power"
+    },
+    {
+      "original": "धाता",
+      "transliteration": "Yat",
+      "translation": "That which"
+    },
+    {
+      "original": "सृजति",
+      "transliteration": "Tat",
+      "translation": "That"
+    },
+    {
+      "original": "किमुपादान",
+      "transliteration": "Jagadudaya",
+      "translation": "Creation of the world"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Raksha",
+      "translation": "Protection"
+    },
+    {
+      "original": "च",
+      "transliteration": "Pralaya",
+      "translation": "Dissolution"
+    },
+    {
+      "original": "अजन्मानो",
+      "transliteration": "Krit",
+      "translation": "Causes"
+    },
+    {
+      "original": "लोकाः",
+      "transliteration": "Trayi",
+      "translation": "The Vedas (threefold knowledge)"
+    },
+    {
+      "original": "किमवयववन्तोऽपि",
+      "transliteration": "Vastu",
+      "translation": "Essence"
+    },
+    {
+      "original": "जगतां",
+      "transliteration": "Vyastam",
+      "translation": "Distributed"
+    },
+    {
+      "original": "अधिष्ठातारं",
+      "transliteration": "Tisrushu",
+      "translation": "In three"
+    },
+    {
+      "original": "किं",
+      "transliteration": "Guna",
+      "translation": "Qualities"
+    },
+    {
+      "original": "भवविधिरनादृत्य",
+      "transliteration": "Bhinnasu",
+      "translation": "Differentiated"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "Tanushu",
+      "translation": "In bodies"
+    },
+    {
+      "original": "अनीशो",
+      "transliteration": "Abhavyanam",
+      "translation": "Of the unworthy"
+    },
+    {
+      "original": "वा",
+      "transliteration": "Asmin",
+      "translation": "In this"
+    },
+    {
+      "original": "कुर्याद्",
+      "transliteration": "Varada",
+      "translation": "O bestower of boons"
+    },
+    {
+      "original": "भुवनजनने",
+      "transliteration": "Ramaniyam",
+      "translation": "Most beautiful"
+    },
+    {
+      "original": "कः",
+      "transliteration": "Aramaniyam",
+      "translation": "Not beautiful"
+    },
+    {
+      "original": "परिकरो",
+      "transliteration": "Vihantum",
+      "translation": "To destroy"
+    },
+    {
+      "original": "यतो",
+      "transliteration": "Vyakroshim",
+      "translation": "Crying out loudly"
+    },
+    {
+      "original": "मन्दास्त्वां",
+      "transliteration": "Vidadhata",
+      "translation": "Performing"
+    },
+    {
+      "original": "प्रत्यमरवर",
+      "transliteration": "Iha",
+      "translation": "Here"
+    },
+    {
+      "original": "संशेरत",
+      "transliteration": "Eke",
+      "translation": "Some"
+    },
+    {
+      "original": "इमे",
+      "transliteration": "Jadadhiyah",
+      "translation": "Dull-minded"
+    },
+    {
+      "original": "त्रयी",
+      "transliteration": "Kim",
+      "translation": "What"
+    },
+    {
+      "original": "साङ्ख्यं",
+      "transliteration": "Ihaḥ",
+      "translation": "Effort"
+    },
+    {
+      "original": "योगः",
+      "transliteration": "Kim",
+      "translation": "What"
+    },
+    {
+      "original": "पशुपतिमतं",
+      "transliteration": "Kayaḥ",
+      "translation": "Body"
+    },
+    {
+      "original": "वैष्णवमिति",
+      "transliteration": "Sa",
+      "translation": "He"
+    },
+    {
+      "original": "प्रभिन्ने",
+      "transliteration": "Khalu",
+      "translation": "Indeed"
+    },
+    {
+      "original": "प्रस्थाने",
+      "transliteration": "Kim",
+      "translation": "What"
+    },
+    {
+      "original": "परमिदमदः",
+      "transliteration": "Upayah",
+      "translation": "Means"
+    },
+    {
+      "original": "पथ्यमिति",
+      "transliteration": "Tribhuvanam",
+      "translation": "Three worlds"
+    },
+    {
+      "original": "च",
+      "transliteration": "Kim",
+      "translation": "What"
+    },
+    {
+      "original": "रुचीनां",
+      "transliteration": "Adharah",
+      "translation": "Support"
+    },
+    {
+      "original": "वैचित्र्यादृजुकुटिल",
+      "transliteration": "Dhata",
+      "translation": "Creator"
+    },
+    {
+      "original": "नानापथजुषां",
+      "transliteration": "Srijati",
+      "translation": "Creates"
+    },
+    {
+      "original": "नृणामेको",
+      "transliteration": "Kim",
+      "translation": "What"
+    },
+    {
+      "original": "गम्यस्त्वमसि",
+      "transliteration": "Upadanam",
+      "translation": "Material cause"
+    },
+    {
+      "original": "पयसामर्णव",
+      "transliteration": "Iti",
+      "translation": "Thus"
+    },
+    {
+      "original": "इव",
+      "transliteration": "Cha",
+      "translation": "And"
+    },
+    {
+      "original": "महोक्षः",
+      "transliteration": "Atarkya",
+      "translation": "Beyond logic"
+    },
+    {
+      "original": "खट्वाङ्गं",
+      "transliteration": "Aishvarye",
+      "translation": "In divine power"
+    },
+    {
+      "original": "परशुरजिनं",
+      "transliteration": "Tvayi",
+      "translation": "In you"
+    },
+    {
+      "original": "भस्म",
+      "transliteration": "Anavasara",
+      "translation": "Without opportunity"
+    },
+    {
+      "original": "फणिनः",
+      "transliteration": "Duhsthah",
+      "translation": "Mentally disturbed"
+    },
+    {
+      "original": "कपालं",
+      "transliteration": "Hatadhiyah",
+      "translation": "Of confused intellect"
+    },
+    {
+      "original": "चेतीयत्तव",
+      "transliteration": "Kutarkah",
+      "translation": "Wrong logic"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "Ayam",
+      "translation": "This"
+    },
+    {
+      "original": "तन्त्रोपकरणम्",
+      "transliteration": "Kam",
+      "translation": "Whom"
+    },
+    {
+      "original": "सुरास्तां",
+      "transliteration": "Chit",
+      "translation": "Some"
+    },
+    {
+      "original": "तामृद्धिं",
+      "transliteration": "Mukharayati",
+      "translation": "Makes vocal"
+    },
+    {
+      "original": "दधति",
+      "transliteration": "Mohaya",
+      "translation": "For delusion"
+    },
+    {
+      "original": "तु",
+      "transliteration": "Jagatah",
+      "translation": "Of the world"
+    },
+    {
+      "original": "भवद्भूप्रणिहितां",
+      "transliteration": "Ajanmanah",
+      "translation": "Unborn"
+    },
+    {
+      "original": "न",
+      "transliteration": "Lokah",
+      "translation": "Worlds"
+    },
+    {
+      "original": "हि",
+      "transliteration": "Kim",
+      "translation": "What"
+    },
+    {
+      "original": "स्वात्मारामं",
+      "transliteration": "Avayavavantah",
+      "translation": "Having parts"
+    },
+    {
+      "original": "विषयमृगतृष्णा",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "भ्रमयति",
+      "transliteration": "Jagatam",
+      "translation": "Of the worlds"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "Adhishthataram",
+      "translation": "Ruler"
+    },
+    {
+      "original": "कश्चित्",
+      "transliteration": "Kim",
+      "translation": "What"
+    },
+    {
+      "original": "सर्वं",
+      "transliteration": "Bhavavidhih",
+      "translation": "The process of existence"
+    },
+    {
+      "original": "सकलमपरस्त्वध्रुवमिदं",
+      "transliteration": "Anadhritya",
+      "translation": "Without considering"
+    },
+    {
+      "original": "परो",
+      "transliteration": "Bhavati",
+      "translation": "Happens"
+    },
+    {
+      "original": "ध्रौव्याऽध्रौव्ये",
+      "transliteration": "Anishah",
+      "translation": "Powerless"
+    },
+    {
+      "original": "जगति",
+      "transliteration": "Va",
+      "translation": "Or"
+    },
+    {
+      "original": "गदति",
+      "transliteration": "Kuryat",
+      "translation": "Would do"
+    },
+    {
+      "original": "व्यस्तविषये",
+      "transliteration": "Bhuvanajanane",
+      "translation": "In creation of the worlds"
+    },
+    {
+      "original": "समस्तेऽप्येतस्मिन्",
+      "transliteration": "Kah",
+      "translation": "Who"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "Parikarah",
+      "translation": "Equipment"
+    },
+    {
+      "original": "तैर्विस्मित",
+      "transliteration": "Yatah",
+      "translation": "From which"
+    },
+    {
+      "original": "इव",
+      "transliteration": "Mandah",
+      "translation": "Fools"
+    },
+    {
+      "original": "स्तुवन्",
+      "transliteration": "Tvam",
+      "translation": "You"
+    },
+    {
+      "original": "जिह्रेमि",
+      "transliteration": "Prati",
+      "translation": "Towards"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "Amaravara",
+      "translation": "O best among immortals"
+    },
+    {
+      "original": "न",
+      "transliteration": "Samsharata",
+      "translation": "Doubt"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "Ime",
+      "translation": "These"
+    },
+    {
+      "original": "ननु",
+      "transliteration": "Trayi",
+      "translation": "The three Vedas"
+    },
+    {
+      "original": "धृष्टा",
+      "transliteration": "Sankhyam",
+      "translation": "Sankhya philosophy"
+    },
+    {
+      "original": "मुखरता",
+      "transliteration": "Yogah",
+      "translation": "Yoga"
+    },
+    {
+      "original": "तवैश्वर्यं",
+      "transliteration": "Pashupatimatham",
+      "translation": "Shaivism"
+    },
+    {
+      "original": "यत्नाद्",
+      "transliteration": "Vaishnavam",
+      "translation": "Vaishnavism"
+    },
+    {
+      "original": "यदुपरि",
+      "transliteration": "Iti",
+      "translation": "Thus"
+    },
+    {
+      "original": "विरिञ्चिर्हरिरधः",
+      "transliteration": "Prabhinne",
+      "translation": "Differentiated"
+    },
+    {
+      "original": "परिच्छेतुं",
+      "transliteration": "Prasthane",
+      "translation": "Paths"
+    },
+    {
+      "original": "यातावनलमनलस्कन्धवपुषः",
+      "transliteration": "Paramidam",
+      "translation": "This supreme"
+    },
+    {
+      "original": "ततो",
+      "transliteration": "Adah",
+      "translation": "That"
+    },
+    {
+      "original": "भक्तिश्रद्धा-भरगुरु-गृणद्भ्यां",
+      "transliteration": "Pathyam",
+      "translation": "Proper"
+    },
+    {
+      "original": "गिरिश",
+      "transliteration": "Iti",
+      "translation": "Thus"
+    },
+    {
+      "original": "यत्",
+      "transliteration": "Cha",
+      "translation": "And"
+    },
+    {
+      "original": "स्वयं",
+      "transliteration": "Mahokshah",
+      "translation": "The great bull"
+    },
+    {
+      "original": "तस्थे",
+      "transliteration": "Khatvangam",
+      "translation": "A club (staff)"
+    },
+    {
+      "original": "ताभ्यां",
+      "transliteration": "Parashu",
+      "translation": "Axe"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Ajinam",
+      "translation": "Deerskin"
+    },
+    {
+      "original": "किम्",
+      "transliteration": "Bhasma",
+      "translation": "Ash"
+    },
+    {
+      "original": "अनुवृत्तिर्न",
+      "transliteration": "Phaninah",
+      "translation": "Serpent"
+    },
+    {
+      "original": "फलति",
+      "transliteration": "Kapalam",
+      "translation": "Skull"
+    },
+    {
+      "original": "अयत्नादासाद्य",
+      "transliteration": "Cha",
+      "translation": "And"
+    },
+    {
+      "original": "त्रिभुवनमवैरव्यतिकरं",
+      "transliteration": "Iti",
+      "translation": "Thus"
+    },
+    {
+      "original": "दशास्यो",
+      "transliteration": "Yat",
+      "translation": "That which"
+    },
+    {
+      "original": "यद्बाहूनभृत",
+      "transliteration": "Tava",
+      "translation": "Your"
+    },
+    {
+      "original": "रणकण्डू-परवशान्",
+      "transliteration": "Varada",
+      "translation": "O bestower of boons"
+    },
+    {
+      "original": "शिरःपद्मश्रेणी-रचितचरणाम्भोरुह-बलेः",
+      "transliteration": "Tantra",
+      "translation": "Sacred texts"
+    },
+    {
+      "original": "स्थिरायास्त्वद्भक्तेस्त्रिपुरहर",
+      "transliteration": "Upakaranam",
+      "translation": "Instruments"
+    },
+    {
+      "original": "विस्फूर्जितमिदम्",
+      "transliteration": "Surah",
+      "translation": "Gods"
+    },
+    {
+      "original": "अमुष्य",
+      "transliteration": "Tam",
+      "translation": "That"
+    },
+    {
+      "original": "त्वत्सेवा-समधिगतसारं",
+      "transliteration": "Tamriddhim",
+      "translation": "That prosperity"
+    },
+    {
+      "original": "भुजवनं",
+      "transliteration": "Dadhati",
+      "translation": "Possess"
+    },
+    {
+      "original": "बलात्",
+      "transliteration": "Tu",
+      "translation": "But"
+    },
+    {
+      "original": "कैलासेऽपि",
+      "transliteration": "Bhavat",
+      "translation": "Your"
+    },
+    {
+      "original": "त्वदधिवसतौ",
+      "transliteration": "Bhu",
+      "translation": "Earth"
+    },
+    {
+      "original": "विक्रमयतः",
+      "transliteration": "Pranihitam",
+      "translation": "Bestowed"
+    },
+    {
+      "original": "अलभ्या",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "पातालेऽपि",
+      "transliteration": "Hi",
+      "translation": "Indeed"
+    },
+    {
+      "original": "अलसचलितांगुष्ठशिरसि",
+      "transliteration": "Sva",
+      "translation": "Self"
+    },
+    {
+      "original": "प्रतिष्ठा",
+      "transliteration": "Atmaramam",
+      "translation": "One delighted in the self"
+    },
+    {
+      "original": "त्वय्यासीद्",
+      "transliteration": "Vishaya",
+      "translation": "Sensory objects"
+    },
+    {
+      "original": "ध्रुवमुपचितो",
+      "transliteration": "Mrigatrishna",
+      "translation": "Mirage"
+    },
+    {
+      "original": "मुह्यति",
+      "transliteration": "Bhramayati",
+      "translation": "Deludes"
+    },
+    {
+      "original": "खलः",
+      "transliteration": "Dhruvam",
+      "translation": "Eternal"
+    },
+    {
+      "original": "यदृद्धिं",
+      "transliteration": "Kashchit",
+      "translation": "Someone"
+    },
+    {
+      "original": "सुत्राम्णो",
+      "transliteration": "Sarvam",
+      "translation": "Everything"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "Sakalam",
+      "translation": "Entire"
+    },
+    {
+      "original": "परमोच्चैरपि",
+      "transliteration": "Aparah",
+      "translation": "Another"
+    },
+    {
+      "original": "सतीं",
+      "transliteration": "Tu",
+      "translation": "But"
+    },
+    {
+      "original": "अधश्चक्रे",
+      "transliteration": "Adhruvam",
+      "translation": "Impermanent"
+    },
+    {
+      "original": "बाणः",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "परिजनविधेयत्रिभुवनः",
+      "transliteration": "Parah",
+      "translation": "Supreme"
+    },
+    {
+      "original": "न",
+      "transliteration": "Dhrauvya",
+      "translation": "Permanence"
+    },
+    {
+      "original": "तच्चित्रं",
+      "transliteration": "Adhrauvye",
+      "translation": "Impermanence"
+    },
+    {
+      "original": "तस्मिन्",
+      "transliteration": "Jagati",
+      "translation": "In the world"
+    },
+    {
+      "original": "वरिवसितरि",
+      "transliteration": "Gadati",
+      "translation": "Speaks"
+    },
+    {
+      "original": "त्वच्चरणयोः",
+      "transliteration": "Vyasta",
+      "translation": "Scattered"
+    },
+    {
+      "original": "न",
+      "transliteration": "Vishayah",
+      "translation": "Subject"
+    },
+    {
+      "original": "कस्याप्युन्नत्यै",
+      "transliteration": "Samaste",
+      "translation": "In everything"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "शिरसस्त्वय्यवनतिः",
+      "transliteration": "Etasmin",
+      "translation": "In this"
+    },
+    {
+      "original": "अकाण्ड-ब्रह्माण्ड-क्षयचकित-देवासुरकृपा",
+      "transliteration": "Puramathana",
+      "translation": "O destroyer of cities"
+    },
+    {
+      "original": "विधेयस्याऽऽसीद्",
+      "transliteration": "Taih",
+      "translation": "By them"
+    },
+    {
+      "original": "यस्त्रिनयन",
+      "transliteration": "Vismita",
+      "translation": "Astonished"
+    },
+    {
+      "original": "विषं",
+      "transliteration": "Iva",
+      "translation": "As if"
+    },
+    {
+      "original": "संहृतवतः",
+      "transliteration": "Stuvan",
+      "translation": "Praising"
+    },
+    {
+      "original": "स",
+      "transliteration": "Jihremi",
+      "translation": "Hesitate"
+    },
+    {
+      "original": "कल्माषः",
+      "transliteration": "Tvam",
+      "translation": "You"
+    },
+    {
+      "original": "कण्ठे",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Khalu",
+      "translation": "Indeed"
+    },
+    {
+      "original": "न",
+      "transliteration": "Nanu",
+      "translation": "Surely"
+    },
+    {
+      "original": "कुरुते",
+      "transliteration": "Dhrishta",
+      "translation": "Bold"
+    },
+    {
+      "original": "न",
+      "transliteration": "Mukharata",
+      "translation": "Talkativeness"
+    },
+    {
+      "original": "श्रियमहो",
+      "transliteration": "Tava",
+      "translation": "Your"
+    },
+    {
+      "original": "विकारोऽपि",
+      "transliteration": "Aishvaryam",
+      "translation": "Power"
+    },
+    {
+      "original": "श्लाघ्यो",
+      "transliteration": "Yatnat",
+      "translation": "With effort"
+    },
+    {
+      "original": "भुवन-भय-",
+      "transliteration": "Yat",
+      "translation": "That which"
+    },
+    {
+      "original": "भङ्ग-",
+      "transliteration": "Upari",
+      "translation": "Above"
+    },
+    {
+      "original": "व्यसनिनः",
+      "transliteration": "Virinchih",
+      "translation": "Brahma"
+    },
+    {
+      "original": "असिद्धार्था",
+      "transliteration": "Harih",
+      "translation": "Vishnu"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "Adhah",
+      "translation": "Below"
+    },
+    {
+      "original": "क्वचिदपि",
+      "transliteration": "Paricchetum",
+      "translation": "To limit"
+    },
+    {
+      "original": "सदेवासुरनरे",
+      "transliteration": "Yatau",
+      "translation": "Went"
+    },
+    {
+      "original": "निवर्तन्ते",
+      "transliteration": "Anala",
+      "translation": "Fire"
+    },
+    {
+      "original": "नित्यं",
+      "transliteration": "Manala",
+      "translation": "Fire (alternate name)"
+    },
+    {
+      "original": "जगति",
+      "transliteration": "Skandha",
+      "translation": "Shoulder"
+    },
+    {
+      "original": "जयिनो",
+      "transliteration": "Vapushah",
+      "translation": "Of form"
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "Tatah",
+      "translation": "Then"
+    },
+    {
+      "original": "विशिखाः",
+      "transliteration": "Bhaktih",
+      "translation": "Devotion"
+    },
+    {
+      "original": "स",
+      "transliteration": "Shraddha",
+      "translation": "Faith"
+    },
+    {
+      "original": "पश्यन्नीश",
+      "transliteration": "Bhara",
+      "translation": "Load"
+    },
+    {
+      "original": "त्वामितरसुरसाधारणमभूत्",
+      "transliteration": "Guru",
+      "translation": "Heavy"
+    },
+    {
+      "original": "स्मरः",
+      "transliteration": "Grinadbhyam",
+      "translation": "Praising"
+    },
+    {
+      "original": "स्मर्तव्यात्मा",
+      "transliteration": "Girisha",
+      "translation": "O Lord of the mountains"
+    },
+    {
+      "original": "न",
+      "transliteration": "Yat",
+      "translation": "That which"
+    },
+    {
+      "original": "हि",
+      "transliteration": "Svayam",
+      "translation": "By oneself"
+    },
+    {
+      "original": "वशिषु",
+      "transliteration": "Tasthe",
+      "translation": "Stood"
+    },
+    {
+      "original": "पथ्यः",
+      "transliteration": "Tabyam",
+      "translation": "By them"
+    },
+    {
+      "original": "मही",
+      "transliteration": "Tava",
+      "translation": "Your"
+    },
+    {
+      "original": "पादाघाताद्",
+      "transliteration": "Kim",
+      "translation": "What"
+    },
+    {
+      "original": "व्रजति",
+      "transliteration": "Anuvrittih",
+      "translation": "Following"
+    },
+    {
+      "original": "सहसा",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "संशयपदं",
+      "transliteration": "Phalati",
+      "translation": "Bear fruit"
+    },
+    {
+      "original": "पदं",
+      "transliteration": "Ayatnat",
+      "translation": "Effortlessly"
+    },
+    {
+      "original": "विष्णोर्भ्राम्यद्",
+      "transliteration": "Asadya",
+      "translation": "Attaining"
+    },
+    {
+      "original": "भुज-परिघ-रुग्ण-ग्रह-गणम्",
+      "transliteration": "Tribhuvanam",
+      "translation": "Three worlds"
+    },
+    {
+      "original": "मुहुर्द्यौर्दौस्थ्यं",
+      "transliteration": "Avaira",
+      "translation": "Without enmity"
+    },
+    {
+      "original": "यात्यनिभृत-जटा-ताडित-तटा",
+      "transliteration": "Vyatikaram",
+      "translation": "Disturbance"
+    },
+    {
+      "original": "जगद्रक्षायै",
+      "transliteration": "Dashasya",
+      "translation": "Ravana (Ten-headed one)"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "Yat",
+      "translation": "That which"
+    },
+    {
+      "original": "नटसि",
+      "transliteration": "Bahun",
+      "translation": "Arms"
+    },
+    {
+      "original": "ननु",
+      "transliteration": "Abhrita",
+      "translation": "Wielded"
+    },
+    {
+      "original": "वामैव",
+      "transliteration": "Ranakandu",
+      "translation": "Battle itch"
+    },
+    {
+      "original": "विभुता",
+      "transliteration": "Paravashan",
+      "translation": "Overwhelmed by"
+    },
+    {
+      "original": "वियद्व्यापी",
+      "transliteration": "Shirah",
+      "translation": "Head"
+    },
+    {
+      "original": "तारा-गण-गुणित-फेनोद्गम-रुचिः",
+      "transliteration": "Padma",
+      "translation": "Lotus"
+    },
+    {
+      "original": "प्रवाहो",
+      "transliteration": "Shreni",
+      "translation": "Series"
+    },
+    {
+      "original": "वारां",
+      "transliteration": "Rachita",
+      "translation": "Arranged"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Charana",
+      "translation": "Feet"
+    },
+    {
+      "original": "पृषतलघुदृष्टः",
+      "transliteration": "Ambhoruha",
+      "translation": "Lotus-like"
+    },
+    {
+      "original": "शिरसि",
+      "transliteration": "Baleh",
+      "translation": "Strength"
+    },
+    {
+      "original": "ते",
+      "transliteration": "Sthirayāh",
+      "translation": "Firm"
+    },
+    {
+      "original": "जगद्-द्वीपाकारं",
+      "transliteration": "Tvat",
+      "translation": "Your"
+    },
+    {
+      "original": "जलधिवलयं",
+      "transliteration": "Bhakteh",
+      "translation": "Devotion"
+    },
+    {
+      "original": "तेन",
+      "transliteration": "Tripurahara",
+      "translation": "O Destroyer of Tripura"
+    },
+    {
+      "original": "कृतमिति",
+      "transliteration": "Visphurjitam",
+      "translation": "Resounding"
+    },
+    {
+      "original": "अनेनैव",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "ऊन्नेयं",
+      "transliteration": "Amushya",
+      "translation": "Of that person"
+    },
+    {
+      "original": "धृतमहिम",
+      "transliteration": "Tvat",
+      "translation": "Your"
+    },
+    {
+      "original": "दिव्यं",
+      "transliteration": "Seva",
+      "translation": "Service"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Samadhigata",
+      "translation": "Attained"
+    },
+    {
+      "original": "वपुः",
+      "transliteration": "Saram",
+      "translation": "Essence"
+    },
+    {
+      "original": "रथः",
+      "transliteration": "Bhujavanam",
+      "translation": "Strength of arms"
+    },
+    {
+      "original": "क्षोणी",
+      "transliteration": "Balat",
+      "translation": "By force"
+    },
+    {
+      "original": "यन्ता",
+      "transliteration": "Kailase",
+      "translation": "In Kailash"
+    },
+    {
+      "original": "शतधृतिरगेन्द्रो",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "धनुरथो",
+      "transliteration": "Tvat",
+      "translation": "Your"
+    },
+    {
+      "original": "रथाङ्गे",
+      "transliteration": "Adhivasatau",
+      "translation": "Dwelling"
+    },
+    {
+      "original": "चन्द्रार्कौ",
+      "transliteration": "Vikramayatah",
+      "translation": "Attempting"
+    },
+    {
+      "original": "रथ-चरण-पाणिः",
+      "transliteration": "Alabhya",
+      "translation": "Unattainable"
+    },
+    {
+      "original": "शर",
+      "transliteration": "Pātale",
+      "translation": "In the underworld"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "दिधक्षोस्ते",
+      "transliteration": "Alasa",
+      "translation": "Lazy"
+    },
+    {
+      "original": "कोऽयं",
+      "transliteration": "Chalita",
+      "translation": "Moved"
+    },
+    {
+      "original": "त्रिपुरतृणमाडम्बर-विधिः",
+      "transliteration": "Angushtha",
+      "translation": "Thumb"
+    },
+    {
+      "original": "विधेयैः",
+      "transliteration": "Shirasi",
+      "translation": "On the head"
+    },
+    {
+      "original": "क्रीडन्त्यो",
+      "transliteration": "Pratishtha",
+      "translation": "Fame"
+    },
+    {
+      "original": "न",
+      "transliteration": "Tvayi",
+      "translation": "In you"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "Asit",
+      "translation": "Was"
+    },
+    {
+      "original": "परतन्त्राः",
+      "transliteration": "Dhruvam",
+      "translation": "Certainly"
+    },
+    {
+      "original": "प्रभुधियः",
+      "transliteration": "Upachitah",
+      "translation": "Accumulated"
+    },
+    {
+      "original": "हरिस्ते",
+      "transliteration": "Muhyati",
+      "translation": "Gets deluded"
+    },
+    {
+      "original": "साहस्रं",
+      "transliteration": "Khalah",
+      "translation": "Wicked person"
+    },
+    {
+      "original": "कमल",
+      "transliteration": "Yadriddhim",
+      "translation": "That prosperity"
+    },
+    {
+      "original": "बलिमाधाय",
+      "transliteration": "Sutramnah",
+      "translation": "Of Indra"
+    },
+    {
+      "original": "पदयोः",
+      "transliteration": "Varada",
+      "translation": "O Bestower of boons"
+    },
+    {
+      "original": "यदेक",
+      "transliteration": "Parama",
+      "translation": "Supreme"
+    },
+    {
+      "original": "ओने",
+      "transliteration": "Ucchaih",
+      "translation": "Very high"
+    },
+    {
+      "original": "तस्मिन्",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "निजमुदहरन्",
+      "transliteration": "Satim",
+      "translation": "Existing"
+    },
+    {
+      "original": "नेत्रकमलम्",
+      "transliteration": "Adhah",
+      "translation": "Below"
+    },
+    {
+      "original": "गतो",
+      "transliteration": "Chakre",
+      "translation": "Placed"
+    },
+    {
+      "original": "भक्त्युद्रेकः",
+      "transliteration": "Banah",
+      "translation": "Banasura"
+    },
+    {
+      "original": "परिणतिमसौ",
+      "transliteration": "Parijana",
+      "translation": "Servants"
+    },
+    {
+      "original": "चक्रवपुषः",
+      "transliteration": "Vidheya",
+      "translation": "Submissive"
+    },
+    {
+      "original": "त्रयाणां",
+      "transliteration": "Tribhuvanah",
+      "translation": "Three worlds"
+    },
+    {
+      "original": "रक्षायै",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "त्रिपुरहर",
+      "transliteration": "Tat",
+      "translation": "That"
+    },
+    {
+      "original": "जागर्ति",
+      "transliteration": "Chitram",
+      "translation": "Surprising"
+    },
+    {
+      "original": "जगताम्",
+      "transliteration": "Tasmin",
+      "translation": "In him"
+    },
+    {
+      "original": "क्रतौ",
+      "transliteration": "Varivasitari",
+      "translation": "Devotee"
+    },
+    {
+      "original": "सुप्ते",
+      "transliteration": "Tvat",
+      "translation": "Your"
+    },
+    {
+      "original": "जाग्रत्",
+      "transliteration": "Charanayo",
+      "translation": "Of feet"
+    },
+    {
+      "original": "त्वमसि",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "फलयोगे",
+      "transliteration": "Kasya",
+      "translation": "Of anyone"
+    },
+    {
+      "original": "क्रतुमतां",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "Unnatyai",
+      "translation": "For elevation"
+    },
+    {
+      "original": "कर्म",
+      "transliteration": "Bhavati",
+      "translation": "Becomes"
+    },
+    {
+      "original": "प्रध्वस्तं",
+      "transliteration": "Shirasah",
+      "translation": "Of the head"
+    },
+    {
+      "original": "फलति",
+      "transliteration": "Tvayi",
+      "translation": "In you"
+    },
+    {
+      "original": "पुरुषाराधनमृते",
+      "transliteration": "Avanatih",
+      "translation": "Bowing"
+    },
+    {
+      "original": "अतस्त्वां",
+      "transliteration": "Akanda",
+      "translation": "Sudden"
+    },
+    {
+      "original": "सम्प्रेक्ष्य",
+      "transliteration": "Brahmanda",
+      "translation": "Universe"
+    },
+    {
+      "original": "क्रतुषु",
+      "transliteration": "Kshaya",
+      "translation": "Destruction"
+    },
+    {
+      "original": "फलदान-प्रतिभुवं",
+      "transliteration": "Cakita",
+      "translation": "Amazed"
+    },
+    {
+      "original": "श्रुतौ",
+      "transliteration": "Deva",
+      "translation": "Gods"
+    },
+    {
+      "original": "श्रद्धां",
+      "transliteration": "Asura",
+      "translation": "Demons"
+    },
+    {
+      "original": "बध्वा",
+      "transliteration": "Kripa",
+      "translation": "Compassion"
+    },
+    {
+      "original": "दृढपरिकरः",
+      "transliteration": "Vidheya",
+      "translation": "Obedient"
+    },
+    {
+      "original": "कर्मसु",
+      "transliteration": "Asya",
+      "translation": "Of this"
+    },
+    {
+      "original": "जनः",
+      "transliteration": "Asit",
+      "translation": "Was"
+    },
+    {
+      "original": "क्रियादक्षो",
+      "transliteration": "Trinayana",
+      "translation": "O Three-eyed Lord"
+    },
+    {
+      "original": "दक्षः",
+      "transliteration": "Visham",
+      "translation": "Poison"
+    },
+    {
+      "original": "क्रतुपतिरधीश",
+      "transliteration": "Samhritavatah",
+      "translation": "Consumed"
+    },
+    {
+      "original": "तनुभृतां",
+      "transliteration": "Asiddharthah",
+      "translation": "Unaccomplished"
+    },
+    {
+      "original": "ऋषीणाम्",
+      "transliteration": "Naiva",
+      "translation": "Never"
+    },
+    {
+      "original": "आर्त्विज्यं",
+      "transliteration": "Kvachit",
+      "translation": "Anywhere"
+    },
+    {
+      "original": "शरणद",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "सदस्याः",
+      "transliteration": "Sadeva",
+      "translation": "With gods"
+    },
+    {
+      "original": "सुर-गणाः",
+      "transliteration": "Asura",
+      "translation": "Demons"
+    },
+    {
+      "original": "क्रतुभ्रंशस्त्वत्तः",
+      "transliteration": "Nare",
+      "translation": "Humans"
+    },
+    {
+      "original": "क्रतुफल-विधान-व्यसनिनः",
+      "transliteration": "Nivartante",
+      "translation": "Retreat"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "Nityam",
+      "translation": "Always"
+    },
+    {
+      "original": "कर्तुः",
+      "transliteration": "Jagati",
+      "translation": "In the world"
+    },
+    {
+      "original": "श्रद्धा-विधुरम्",
+      "transliteration": "Jayinah",
+      "translation": "Victorious"
+    },
+    {
+      "original": "अभिचाराय",
+      "transliteration": "Yasya",
+      "translation": "Whose"
+    },
+    {
+      "original": "हि",
+      "transliteration": "Vishikhah",
+      "translation": "Arrows"
+    },
+    {
+      "original": "मखाः",
+      "transliteration": "Sa",
+      "translation": "He"
+    },
+    {
+      "original": "प्रजानाथं",
+      "transliteration": "Pashyan",
+      "translation": "Seeing"
+    },
+    {
+      "original": "नाथ",
+      "transliteration": "Isha",
+      "translation": "O Lord"
+    },
+    {
+      "original": "प्रसभमभिकं",
+      "transliteration": "Tvam",
+      "translation": "You"
+    },
+    {
+      "original": "स्वां",
+      "transliteration": "Itara",
+      "translation": "Other"
+    },
+    {
+      "original": "दुहितरं",
+      "transliteration": "Sura",
+      "translation": "Gods"
+    },
+    {
+      "original": "गतं",
+      "transliteration": "Sadharanam",
+      "translation": "Ordinary"
+    },
+    {
+      "original": "रोहिद्",
+      "transliteration": "Abhut",
+      "translation": "Became"
+    },
+    {
+      "original": "भूतां",
+      "transliteration": "Smarah",
+      "translation": "Kamadeva (God of Love)"
+    },
+    {
+      "original": "रिरमयिषुमृष्यस्य",
+      "transliteration": "Smartavyatma",
+      "translation": "Remembered soul"
+    },
+    {
+      "original": "वपुषा",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "धनुष्पाणेर्यातं",
+      "transliteration": "Hi",
+      "translation": "Indeed"
+    },
+    {
+      "original": "दिवमपि",
+      "transliteration": "Vashishu",
+      "translation": "In the controlled ones"
+    },
+    {
+      "original": "सपत्राकृतममुं",
+      "transliteration": "Pathyah",
+      "translation": "Beneficial"
+    },
+    {
+      "original": "त्रसन्तं",
+      "transliteration": "Paribhavah",
+      "translation": "Insult"
+    },
+    {
+      "original": "तेऽद्यापि",
+      "transliteration": "Mahi",
+      "translation": "Earth"
+    },
+    {
+      "original": "त्यजति",
+      "transliteration": "Pada",
+      "translation": "Foot"
+    },
+    {
+      "original": "न",
+      "transliteration": "Aghatat",
+      "translation": "By impact"
+    },
+    {
+      "original": "मृगव्याधरभसः",
+      "transliteration": "Vrajati",
+      "translation": "Moves"
+    },
+    {
+      "original": "स्वलावण्याशंसा",
+      "transliteration": "Sahasa",
+      "translation": "Suddenly"
+    },
+    {
+      "original": "धृतधनुषमह्नाय",
+      "transliteration": "Samshaya",
+      "translation": "Doubt"
+    },
+    {
+      "original": "तृणवत्",
+      "transliteration": "Padam",
+      "translation": "State"
+    },
+    {
+      "original": "पुरः",
+      "transliteration": "Vishnoh",
+      "translation": "Of Vishnu"
+    },
+    {
+      "original": "प्लुष्टं",
+      "transliteration": "Bhramyat",
+      "translation": "Revolving"
+    },
+    {
+      "original": "दृष्ट्वा",
+      "transliteration": "Bhuja",
+      "translation": "Arm"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "Parigha",
+      "translation": "Club-like"
+    },
+    {
+      "original": "पुष्पायुधमपि",
+      "transliteration": "Rugna",
+      "translation": "Broken"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "Graha",
+      "translation": "Planets"
+    },
+    {
+      "original": "स्त्रैणं",
+      "transliteration": "Ganam",
+      "translation": "Group"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "Muhuh",
+      "translation": "Again and again"
+    },
+    {
+      "original": "यमनिरत-देहार्ध-घटनात्",
+      "transliteration": "Dyauh",
+      "translation": "Sky"
+    },
+    {
+      "original": "अवैति",
+      "transliteration": "Dausthyam",
+      "translation": "Distress"
+    },
+    {
+      "original": "त्वामद्धा",
+      "transliteration": "Yati",
+      "translation": "Attains"
+    },
+    {
+      "original": "बत",
+      "transliteration": "Anibhritha",
+      "translation": "Unrestrained"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "Jata",
+      "translation": "Matted hair"
+    },
+    {
+      "original": "मुग्धा",
+      "transliteration": "Tadita",
+      "translation": "Struck"
+    },
+    {
+      "original": "युवतयः",
+      "transliteration": "Tata",
+      "translation": "Bank (of river)"
+    },
+    {
+      "original": "श्मशानेष्वाक्रीडा",
+      "transliteration": "Jagadrakshayai",
+      "translation": "For world protection"
+    },
+    {
+      "original": "स्मरहर",
+      "transliteration": "Tvam",
+      "translation": "You"
+    },
+    {
+      "original": "पिशाचाः",
+      "transliteration": "Natasi",
+      "translation": "Dance"
+    },
+    {
+      "original": "सहचराः",
+      "transliteration": "Nanu",
+      "translation": "Indeed"
+    },
+    {
+      "original": "चिता-भस्मालेपः",
+      "transliteration": "Vamaiva",
+      "translation": "Leftward (odd)"
+    },
+    {
+      "original": "स्रगपि",
+      "transliteration": "Vibhuta",
+      "translation": "Greatness"
+    },
+    {
+      "original": "नृकरोटी-परिकरः",
+      "transliteration": "Viyadvyapi",
+      "translation": "Pervading the sky"
+    },
+    {
+      "original": "अमङ्गल्यं",
+      "transliteration": "Tara",
+      "translation": "Stars"
+    },
+    {
+      "original": "शीलं",
+      "transliteration": "Gana",
+      "translation": "Group"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Gunita",
+      "translation": "Counted"
+    },
+    {
+      "original": "भवतु",
+      "transliteration": "Phena",
+      "translation": "Foam"
+    },
+    {
+      "original": "नामैवम्",
+      "transliteration": "Udgama",
+      "translation": "Origin"
+    },
+    {
+      "original": "अखिलं",
+      "transliteration": "Ruchih",
+      "translation": "Splendor"
+    },
+    {
+      "original": "तथापि",
+      "transliteration": "Pravahah",
+      "translation": "Stream"
+    },
+    {
+      "original": "स्मर्तॄणां",
+      "transliteration": "Varam",
+      "translation": "Of waters"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "Yah",
+      "translation": "Which"
+    },
+    {
+      "original": "परमं",
+      "transliteration": "Prishata",
+      "translation": "Small drop"
+    },
+    {
+      "original": "मङ्गलमसि",
+      "transliteration": "Laghu",
+      "translation": "Light"
+    },
+    {
+      "original": "मनः",
+      "transliteration": "Drishtah",
+      "translation": "Seen"
+    },
+    {
+      "original": "प्रत्यक्चित्ते",
+      "transliteration": "Shirasi",
+      "translation": "On the head"
+    },
+    {
+      "original": "सविधमविधायात्त-मरुतः",
+      "transliteration": "Te",
+      "translation": "Your"
+    },
+    {
+      "original": "प्रहृष्यद्रोमाणः",
+      "transliteration": "Jagat",
+      "translation": "World"
+    },
+    {
+      "original": "प्रमद-सलिलोत्सङ्गति-दृशः",
+      "transliteration": "Dvipa",
+      "translation": "Island"
+    },
+    {
+      "original": "यदालोक्याह्लादं",
+      "transliteration": "Akaram",
+      "translation": "Shape"
+    },
+    {
+      "original": "ह्रद",
+      "transliteration": "Jaladhi",
+      "translation": "Ocean"
+    },
+    {
+      "original": "इव",
+      "transliteration": "Valayam",
+      "translation": "Encircled"
+    },
+    {
+      "original": "निमज्यामृतमये",
+      "transliteration": "Tena",
+      "translation": "By that"
+    },
+    {
+      "original": "दधत्यन्तस्तत्त्वं",
+      "transliteration": "Kritam",
+      "translation": "Made"
+    },
+    {
+      "original": "किमपि",
+      "transliteration": "Iti",
+      "translation": "Thus"
+    },
+    {
+      "original": "यमिनस्तत्",
+      "transliteration": "Anenaiva",
+      "translation": "By this alone"
+    },
+    {
+      "original": "किल",
+      "transliteration": "Unneyam",
+      "translation": "Determined"
+    },
+    {
+      "original": "भवान्",
+      "transliteration": "Dhrita",
+      "translation": "Held"
+    },
+    {
+      "original": "त्वमर्कस्त्वं",
+      "transliteration": "Mahima",
+      "translation": "Greatness"
+    },
+    {
+      "original": "सोमस्त्वमसि",
+      "transliteration": "Divyam",
+      "translation": "Divine"
+    },
+    {
+      "original": "पवनस्त्वं",
+      "transliteration": "Tava",
+      "translation": "Your"
+    },
+    {
+      "original": "हुतवहः",
+      "transliteration": "Vapuh",
+      "translation": "Form"
+    },
+    {
+      "original": "त्वमापस्त्वं",
+      "transliteration": "Rathah",
+      "translation": "Chariot"
+    },
+    {
+      "original": "व्योम",
+      "transliteration": "Kshoni",
+      "translation": "Earth"
+    },
+    {
+      "original": "त्वमु",
+      "transliteration": "Yanta",
+      "translation": "Charioteer"
+    },
+    {
+      "original": "धरणिरात्मा",
+      "transliteration": "Shatadhritih",
+      "translation": "Indra (who holds a hundred sacrifices)"
+    },
+    {
+      "original": "त्वमिति",
+      "transliteration": "Agendrah",
+      "translation": "King of mountains (Meru)"
+    },
+    {
+      "original": "च",
+      "transliteration": "Dhanuh",
+      "translation": "Bow"
+    },
+    {
+      "original": "परिच्छिन्नामेवं",
+      "transliteration": "Rathah",
+      "translation": "Chariot"
+    },
+    {
+      "original": "त्वयि",
+      "transliteration": "Rathange",
+      "translation": "In the chariot wheel"
+    },
+    {
+      "original": "परिणता",
+      "transliteration": "Chandrarkau",
+      "translation": "Moon and Sun"
+    },
+    {
+      "original": "बिभ्रति",
+      "transliteration": "Ratha-charana-paniḥ",
+      "translation": "Chariot foot and hand"
+    },
+    {
+      "original": "गिरं",
+      "transliteration": "Sharah",
+      "translation": "Arrow"
+    },
+    {
+      "original": "न",
+      "transliteration": "Iti",
+      "translation": "Thus"
+    },
+    {
+      "original": "विद्मस्तत्तत्त्वं",
+      "transliteration": "Didhakshoh",
+      "translation": "Desiring to burn"
+    },
+    {
+      "original": "वयमिह",
+      "transliteration": "Te",
+      "translation": "Your"
+    },
+    {
+      "original": "तु",
+      "transliteration": "Koyam",
+      "translation": "What is this"
+    },
+    {
+      "original": "यत्",
+      "transliteration": "Tripura",
+      "translation": "Three cities"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "Trinam",
+      "translation": "Grass"
+    },
+    {
+      "original": "न",
+      "transliteration": "Aḍambara-vidhih",
+      "translation": "Grand preparation"
+    },
+    {
+      "original": "भवसि",
+      "transliteration": "Vidheyaih",
+      "translation": "By subordinates"
+    },
+    {
+      "original": "त्रयीं",
+      "transliteration": "Kridantyah",
+      "translation": "Playing"
+    },
+    {
+      "original": "तिस्रो",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "वृत्तीस्त्रिभुवनमथो",
+      "transliteration": "Khalu",
+      "translation": "Indeed"
+    },
+    {
+      "original": "त्रीनपि",
+      "transliteration": "Paratantrah",
+      "translation": "Dependent"
+    },
+    {
+      "original": "सुरान्",
+      "transliteration": "Prabhu-dhiyah",
+      "translation": "Master-minded"
+    },
+    {
+      "original": "अकाराद्यैर्वर्णैस्त्रिभिरभिदधत्",
+      "transliteration": "Harih",
+      "translation": "Lord Vishnu"
+    },
+    {
+      "original": "तीर्णविकृति",
+      "transliteration": "Te",
+      "translation": "Your"
+    },
+    {
+      "original": "तुरीयं",
+      "transliteration": "Sahasram",
+      "translation": "Thousand"
+    },
+    {
+      "original": "ते",
+      "transliteration": "Kamala",
+      "translation": "Lotuses"
+    },
+    {
+      "original": "धाम",
+      "transliteration": "Balim",
+      "translation": "Offering"
+    },
+    {
+      "original": "ध्वनिभिरवरुन्धानमणुभिः",
+      "transliteration": "Adhaya",
+      "translation": "Placing"
+    },
+    {
+      "original": "समस्तं",
+      "transliteration": "Padayoh",
+      "translation": "At the feet"
+    },
+    {
+      "original": "व्यस्तं",
+      "transliteration": "Yat",
+      "translation": "That"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "Ekona",
+      "translation": "One less"
+    },
+    {
+      "original": "शरणद",
+      "transliteration": "Tasmin",
+      "translation": "In that"
+    },
+    {
+      "original": "गृणात्योमिति",
+      "transliteration": "Nijam",
+      "translation": "Own"
+    },
+    {
+      "original": "पदम्",
+      "transliteration": "Udaharan",
+      "translation": "Uttered"
+    },
+    {
+      "original": "भवः",
+      "transliteration": "Netra",
+      "translation": "Eye"
+    },
+    {
+      "original": "शर्वो",
+      "transliteration": "Kamalam",
+      "translation": "Lotus"
+    },
+    {
+      "original": "रुद्रः",
+      "transliteration": "Gatah",
+      "translation": "Became"
+    },
+    {
+      "original": "पशुपतिरथो",
+      "transliteration": "Bhaktyudrekah",
+      "translation": "Overflow of devotion"
+    },
+    {
+      "original": "ग्रः",
+      "transliteration": "Parinatim",
+      "translation": "Transformation"
+    },
+    {
+      "original": "सहमहान्",
+      "transliteration": "Asau",
+      "translation": "This"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "Chakra",
+      "translation": "Discus"
+    },
+    {
+      "original": "भीमेशानाविति",
+      "transliteration": "Vapushah",
+      "translation": "Form"
+    },
+    {
+      "original": "यदभिधानाष्टकमिदम्",
+      "transliteration": "Trayanam",
+      "translation": "Of the three"
+    },
+    {
+      "original": "अमुष्मिन्",
+      "transliteration": "Rakshayai",
+      "translation": "For protection"
+    },
+    {
+      "original": "प्रत्येकं",
+      "transliteration": "Tripurahara",
+      "translation": "Destroyer of three cities"
+    },
+    {
+      "original": "प्रविचरति",
+      "transliteration": "Jagarti",
+      "translation": "Remains awake"
+    },
+    {
+      "original": "देव",
+      "transliteration": "Jagatam",
+      "translation": "Of the worlds"
+    },
+    {
+      "original": "श्रुतिरपि",
+      "transliteration": "Kratau",
+      "translation": "In the sacrifice"
+    },
+    {
+      "original": "प्रियायास्मैधाम्ने",
+      "transliteration": "Supte",
+      "translation": "Asleep"
+    },
+    {
+      "original": "प्रणिहित-नमस्योऽस्मि",
+      "transliteration": "Jagrat",
+      "translation": "Awake"
+    },
+    {
+      "original": "भवते",
+      "transliteration": "Tvam",
+      "translation": "You"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "Asi",
+      "translation": "Are"
+    },
+    {
+      "original": "नेदिष्ठाय",
+      "transliteration": "Phalayoge",
+      "translation": "In the fruit of action"
+    },
+    {
+      "original": "प्रियदव",
+      "transliteration": "Kratumatam",
+      "translation": "Of those who perform sacrifices"
+    },
+    {
+      "original": "दविष्ठाय",
+      "transliteration": "Kva",
+      "translation": "Where"
+    },
+    {
+      "original": "च",
+      "transliteration": "Karma",
+      "translation": "Action"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Pradhvastam",
+      "translation": "Destroyed"
+    },
+    {
+      "original": "क्षोदिष्ठाय",
+      "transliteration": "Phalati",
+      "translation": "Bears fruit"
+    },
+    {
+      "original": "स्मरहर",
+      "transliteration": "Purusharadhanam",
+      "translation": "Worship of the Supreme"
+    },
+    {
+      "original": "महिष्ठाय",
+      "transliteration": "Rute",
+      "translation": "Without"
+    },
+    {
+      "original": "च",
+      "transliteration": "Atah",
+      "translation": "Therefore"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Tvam",
+      "translation": "You"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "Samprekshya",
+      "translation": "Seeing"
+    },
+    {
+      "original": "वर्षिष्ठाय",
+      "transliteration": "Kratushu",
+      "translation": "In the sacrifices"
+    },
+    {
+      "original": "त्रिनयन",
+      "transliteration": "Phaladana",
+      "translation": "Fruit-giving"
+    },
+    {
+      "original": "यविष्ठाय",
+      "transliteration": "Pratibhuvam",
+      "translation": "Guarantor"
+    },
+    {
+      "original": "च",
+      "transliteration": "Shrutau",
+      "translation": "In the Vedas"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Shraddham",
+      "translation": "Faith"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Badhva",
+      "translation": "Binding"
+    },
+    {
+      "original": "सर्वस्मै",
+      "transliteration": "Dridhaparikarah",
+      "translation": "Firmly determined"
+    },
+    {
+      "original": "ते",
+      "transliteration": "Karmasu",
+      "translation": "In actions"
+    },
+    {
+      "original": "तदिदमतिसर्वाय",
+      "transliteration": "Janah",
+      "translation": "People"
+    },
+    {
+      "original": "च",
+      "transliteration": "Kriyadakshah",
+      "translation": "Efficient in rituals"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Dakshah",
+      "translation": "Daksha (a Prajapati)"
+    },
+    {
+      "original": "बहुल-रजसे",
+      "transliteration": "Kratupatih",
+      "translation": "Lord of sacrifices"
+    },
+    {
+      "original": "विश्वोत्पत्तौ",
+      "transliteration": "Adhishah",
+      "translation": "Supreme Lord"
+    },
+    {
+      "original": "भवाय",
+      "transliteration": "Tanubhrtam",
+      "translation": "Of embodied beings"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "Rishinam",
+      "translation": "Of sages"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Artvijyam",
+      "translation": "Priesthood"
+    },
+    {
+      "original": "प्रबल-तमसे",
+      "transliteration": "Sharanada",
+      "translation": "Giver of refuge"
+    },
+    {
+      "original": "तत्",
+      "transliteration": "Sadasyah",
+      "translation": "Members (of the sacrifice)"
+    },
+    {
+      "original": "संहारे",
+      "transliteration": "Suraganah",
+      "translation": "The group of gods"
+    },
+    {
+      "original": "हराय",
+      "transliteration": "Kratubhramshah",
+      "translation": "Destruction of the sacrifice"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "Tvattah",
+      "translation": "From you"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Kratuphala",
+      "translation": "Fruit of the sacrifice"
+    },
+    {
+      "original": "जन-सुखकृते",
+      "transliteration": "Vidhana",
+      "translation": "Regulation"
+    },
+    {
+      "original": "सत्त्वोद्रिक्तौ",
+      "transliteration": "Vyasaninah",
+      "translation": "Addicted"
+    },
+    {
+      "original": "मृडाय",
+      "transliteration": "Dhruvam",
+      "translation": "Certainly"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "Kartuh",
+      "translation": "Of the performer"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Shraddha",
+      "translation": "Faith"
+    },
+    {
+      "original": "प्रमहसि",
+      "transliteration": "Vidhuram",
+      "translation": "Devoid"
+    },
+    {
+      "original": "पदे",
+      "transliteration": "Abhicharaya",
+      "translation": "For black magic"
+    },
+    {
+      "original": "निस्त्रैगुण्ये",
+      "transliteration": "Hi",
+      "translation": "Indeed"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "Makhah",
+      "translation": "Sacrifices"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "Prajanatham",
+      "translation": "Lord of creatures"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Natha",
+      "translation": "Lord"
+    },
+    {
+      "original": "कृश-परिणति-चेतः",
+      "transliteration": "Prasabham",
+      "translation": "Forcefully"
+    },
+    {
+      "original": "क्लेशवश्यं",
+      "transliteration": "Abhikam",
+      "translation": "Towards"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "Swam",
+      "translation": "Own"
+    },
+    {
+      "original": "चेदं",
+      "transliteration": "Duhitaram",
+      "translation": "Daughter"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "Gatam",
+      "translation": "Gone"
+    },
+    {
+      "original": "च",
+      "transliteration": "Rohid",
+      "translation": "Into a deer"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Bhutam",
+      "translation": "Having become"
+    },
+    {
+      "original": "गुण-सीमोल्लङ्घिनी",
+      "transliteration": "Riramayishum",
+      "translation": "Wishing to enjoy"
+    },
+    {
+      "original": "शश्वदृद्धिः",
+      "transliteration": "Rishyasya",
+      "translation": "Of Rishi"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Vapusha",
+      "translation": "In the form of"
+    },
+    {
+      "original": "चकितममन्दीकृत्य",
+      "transliteration": "Dhanushpaneh",
+      "translation": "Wielder of bow"
+    },
+    {
+      "original": "मां",
+      "transliteration": "Yatam",
+      "translation": "Gone"
+    },
+    {
+      "original": "भक्तिराधाद्",
+      "transliteration": "Divam",
+      "translation": "To heaven"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "चरणयोस्ते",
+      "transliteration": "Sapatrakritam",
+      "translation": "Along with wife"
+    },
+    {
+      "original": "वाक्य-पुष्पोपहारम्",
+      "transliteration": "Amum",
+      "translation": "That (King)"
+    },
+    {
+      "original": "असित-गिरि-समं",
+      "transliteration": "Trasantam",
+      "translation": "Trembling"
+    },
+    {
+      "original": "स्यात्",
+      "transliteration": "Te",
+      "translation": "Your"
+    },
+    {
+      "original": "कज्जलं",
+      "transliteration": "Adyapi",
+      "translation": "Even today"
+    },
+    {
+      "original": "सिन्धु-पात्रे",
+      "transliteration": "Tyajati",
+      "translation": "Does not leave"
+    },
+    {
+      "original": "सुर-तरुवर-शाखा",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "लेखनी",
+      "transliteration": "Mrigavyadha",
+      "translation": "Hunter"
+    },
+    {
+      "original": "पत्रमुर्वी",
+      "transliteration": "Rabhasah",
+      "translation": "Furious"
+    },
+    {
+      "original": "लिखति",
+      "transliteration": "Svalavanya",
+      "translation": "Own beauty"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "Ashansa",
+      "translation": "Expectation"
+    },
+    {
+      "original": "गृहीत्वा",
+      "transliteration": "Dhrita",
+      "translation": "Holding"
+    },
+    {
+      "original": "शारदा",
+      "transliteration": "Dhanusham",
+      "translation": "Bow"
+    },
+    {
+      "original": "सर्वकालं",
+      "transliteration": "Ahnaya",
+      "translation": "For the battle"
+    },
+    {
+      "original": "तदपि",
+      "transliteration": "Trinavat",
+      "translation": "Like a blade of grass"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Purah",
+      "translation": "In front"
+    },
+    {
+      "original": "गुणानामीश",
+      "transliteration": "Plushtam",
+      "translation": "Burnt"
+    },
+    {
+      "original": "पारं",
+      "transliteration": "Drishtva",
+      "translation": "Seeing"
+    },
+    {
+      "original": "न",
+      "transliteration": "Puramathana",
+      "translation": "O Destroyer of cities"
+    },
+    {
+      "original": "याति",
+      "transliteration": "Pushpayudham",
+      "translation": "Kamadeva (God of love)"
+    },
+    {
+      "original": "असुर-सुर-मुनीन्द्रैरर्चितस्येन्दु-मौलेः",
+      "transliteration": "Api",
+      "translation": "Even"
+    },
+    {
+      "original": "ग्रथित-गुणमहिम्नो",
+      "transliteration": "Yadi",
+      "translation": "If"
+    },
+    {
+      "original": "निर्गुणस्येश्वरस्य",
+      "transliteration": "Strainam",
+      "translation": "Feminine"
+    },
+    {
+      "original": "सकल-गण-वरिष्ठः",
+      "transliteration": "Devi",
+      "translation": "Goddess"
+    },
+    {
+      "original": "पुष्पदन्ताभिधानः",
+      "transliteration": "Yamanirata",
+      "translation": "Engaged in Yoga"
+    },
+    {
+      "original": "रुचिरमलघुवृत्तैः",
+      "transliteration": "Dehardha",
+      "translation": "Half of the body"
+    },
+    {
+      "original": "स्तोत्रमेतच्चकार",
+      "transliteration": "Ghatanat",
+      "translation": "Due to uniting"
+    },
+    {
+      "original": "अहरहरनवद्यं",
+      "transliteration": "Avaiti",
+      "translation": "Considers"
+    },
+    {
+      "original": "धूर्जटेः",
+      "transliteration": "Tvam",
+      "translation": "You"
+    },
+    {
+      "original": "स्तोत्रमेतत्",
+      "transliteration": "Addha",
+      "translation": "Truly"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "Bata",
+      "translation": "Alas!"
+    },
+    {
+      "original": "परमभक्त्या",
+      "transliteration": "Varada",
+      "translation": "Bestower of boons"
+    },
+    {
+      "original": "शुद्ध-चित्तः",
+      "transliteration": "Mugdhah",
+      "translation": "Innocent women"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "Yuvatayah",
+      "translation": "Young women"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Smashaneshu",
+      "translation": "In cremation grounds"
+    },
+    {
+      "original": "स",
+      "transliteration": "Akrida",
+      "translation": "Sporting"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "Smarahara",
+      "translation": "O Destroyer of love (Shiva)"
+    },
+    {
+      "original": "शिवलोके",
+      "transliteration": "Pishachah",
+      "translation": "Ghosts"
+    },
+    {
+      "original": "रुद्रतुल्यस्तथाऽत्र",
+      "transliteration": "Sahacharah",
+      "translation": "Companions"
+    },
+    {
+      "original": "प्रचुरतर-धनायुः",
+      "transliteration": "Chita",
+      "translation": "Funeral pyre"
+    },
+    {
+      "original": "पुत्रवान्",
+      "transliteration": "Bhasma",
+      "translation": "Ashes"
+    },
+    {
+      "original": "कीर्तिमांश्च",
+      "transliteration": "Lepah",
+      "translation": "Smearing"
+    },
+    {
+      "original": "महेशान्नापरो",
+      "transliteration": "Sragapi",
+      "translation": "Garland also"
+    },
+    {
+      "original": "देवो",
+      "transliteration": "Nrkaroti",
+      "translation": "Human skulls"
+    },
+    {
+      "original": "महिम्नो",
+      "transliteration": "Parikarah",
+      "translation": "Ornament"
+    },
+    {
+      "original": "नापरा",
+      "transliteration": "Amangalyam",
+      "translation": "Inauspicious"
+    },
+    {
+      "original": "स्तुतिः",
+      "transliteration": "Sheelam",
+      "translation": "Nature"
+    },
+    {
+      "original": "अघोरान्नापरो",
+      "transliteration": "Tava",
+      "translation": "Your"
+    },
+    {
+      "original": "मन्त्रो",
+      "transliteration": "Bhavatu",
+      "translation": "Let it be"
+    },
+    {
+      "original": "नास्ति",
+      "transliteration": "Nama",
+      "translation": "Name"
+    },
+    {
+      "original": "तत्त्वं",
+      "transliteration": "Evam",
+      "translation": "Thus"
+    },
+    {
+      "original": "गुरोः",
+      "transliteration": "Akhilam",
+      "translation": "Entirely"
+    },
+    {
+      "original": "परम्",
+      "transliteration": "Tathapi",
+      "translation": "Nevertheless"
+    },
+    {
+      "original": "दीक्षा",
+      "transliteration": "Smartrinām",
+      "translation": "Of those who remember"
+    },
+    {
+      "original": "दानं",
+      "transliteration": "Varada",
+      "translation": "Bestower of boons"
+    },
+    {
+      "original": "तपस्तीर्थं",
+      "transliteration": "Paramam",
+      "translation": "Supreme"
+    },
+    {
+      "original": "ज्ञानं",
+      "transliteration": "Mangalam",
+      "translation": "Auspiciousness"
+    },
+    {
+      "original": "यागादिकाः",
+      "transliteration": "Asi",
+      "translation": "You are"
+    },
+    {
+      "original": "क्रियाः",
+      "transliteration": "Maheshanat",
+      "translation": "Than Maheshwara"
+    },
+    {
+      "original": "महिम्नस्तव",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "पाठस्य",
+      "transliteration": "Apara",
+      "translation": "Another"
+    },
+    {
+      "original": "कलां",
+      "transliteration": "Devah",
+      "translation": "God"
+    },
+    {
+      "original": "नार्हन्ति",
+      "transliteration": "Mahimnah",
+      "translation": "Than greatness"
+    },
+    {
+      "original": "षोडशीम्",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "कुसुमदशन-नामा",
+      "transliteration": "Apara",
+      "translation": "Another"
+    },
+    {
+      "original": "सर्व-गन्धर्व-राजः",
+      "transliteration": "Stutih",
+      "translation": "Praise"
+    },
+    {
+      "original": "शशिधरवर-मौलेः",
+      "transliteration": "Aghorat",
+      "translation": "Than Aghora"
+    },
+    {
+      "original": "देवदेवस्य",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "दासः",
+      "transliteration": "Apara",
+      "translation": "Another"
+    },
+    {
+      "original": "स",
+      "transliteration": "Mantrah",
+      "translation": "Mantra"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "Nasti",
+      "translation": "There is no"
+    },
+    {
+      "original": "निज-महिम्नो",
+      "transliteration": "Tattvam",
+      "translation": "Reality"
+    },
+    {
+      "original": "भ्रष्ट",
+      "transliteration": "Guroh",
+      "translation": "Than Guru"
+    },
+    {
+      "original": "एवास्य",
+      "transliteration": "Param",
+      "translation": "Supreme"
+    },
+    {
+      "original": "रोषात्",
+      "transliteration": "Diksha",
+      "translation": "Initiation"
+    },
+    {
+      "original": "स्तवनमिदम्",
+      "transliteration": "Danam",
+      "translation": "Charity"
+    },
+    {
+      "original": "आकाशीद्",
+      "transliteration": "Tapah",
+      "translation": "Austerity"
+    },
+    {
+      "original": "दिव्य-दिव्यं",
+      "transliteration": "Tirtham",
+      "translation": "Pilgrimage"
+    },
+    {
+      "original": "महिम्नः",
+      "transliteration": "Jnanam",
+      "translation": "Knowledge"
+    },
+    {
+      "original": "सुरगुरुम्",
+      "transliteration": "Yaga",
+      "translation": "Sacrifice"
+    },
+    {
+      "original": "अभिपूज्य",
+      "transliteration": "Adikah",
+      "translation": "Etc."
+    },
+    {
+      "original": "स्वर्ग-मोक्षैक-हेतुं",
+      "transliteration": "Kriyah",
+      "translation": "Actions"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "Mahimnah",
+      "translation": "Of greatness"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "Stava",
+      "translation": "Hymn"
+    },
+    {
+      "original": "मनुष्यः",
+      "transliteration": "Pathasya",
+      "translation": "Recitation"
+    },
+    {
+      "original": "प्राञ्जलिर्",
+      "transliteration": "Kalam",
+      "translation": "Fraction"
+    },
+    {
+      "original": "नान्य-चेताः",
+      "transliteration": "Narhanti",
+      "translation": "Do not equal"
+    },
+    {
+      "original": "व्रजति",
+      "transliteration": "Shodashim",
+      "translation": "One-sixteenth"
+    },
+    {
+      "original": "शिव-समीपं",
+      "transliteration": "Kusumadashana",
+      "translation": "Name of a celestial being"
+    },
+    {
+      "original": "किन्नरैः",
+      "transliteration": "Nama",
+      "translation": "Named"
+    },
+    {
+      "original": "स्तूयमानः",
+      "transliteration": "Sarva",
+      "translation": "All"
+    },
+    {
+      "original": "स्तवनमिदम्",
+      "transliteration": "Gandharva",
+      "translation": "Celestial musician"
+    },
+    {
+      "original": "अमोघं",
+      "transliteration": "Rajah",
+      "translation": "King"
+    },
+    {
+      "original": "पुष्पदन्तप्रणीतम्",
+      "transliteration": "Shashidhara",
+      "translation": "Moon-bearing"
+    },
+    {
+      "original": "आसमाप्तमिदं",
+      "transliteration": "Vara",
+      "translation": "Supreme"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "Mauleh",
+      "translation": "Crowned one"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "Deva",
+      "translation": "God"
+    },
+    {
+      "original": "गन्धर्व-भाषितम्",
+      "transliteration": "Devasya",
+      "translation": "Of the Lord"
+    },
+    {
+      "original": "अनौपम्यं",
+      "transliteration": "Dasah",
+      "translation": "Servant"
+    },
+    {
+      "original": "मनोहारि",
+      "transliteration": "Sa",
+      "translation": "He"
+    },
+    {
+      "original": "सर्वमीश्वरवर्णनम्",
+      "transliteration": "Khalu",
+      "translation": "Indeed"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Nija",
+      "translation": "His own"
+    },
+    {
+      "original": "एषा",
+      "transliteration": "Mahimnah",
+      "translation": "Glory"
+    },
+    {
+      "original": "वाङ्मयी",
+      "transliteration": "Bhrashta",
+      "translation": "Fallen"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "Eva",
+      "translation": "Indeed"
+    },
+    {
+      "original": "श्रीमच्छङ्कर-पादयोः",
+      "transliteration": "Asya",
+      "translation": "His"
+    },
+    {
+      "original": "अर्पिता",
+      "transliteration": "Roshat",
+      "translation": "Due to anger"
+    },
+    {
+      "original": "तेन",
+      "transliteration": "Stavanam",
+      "translation": "Hymn"
+    },
+    {
+      "original": "देवेशः",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "प्रीयतां",
+      "transliteration": "Akarsheet",
+      "translation": "Composed"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Divya",
+      "translation": "Divine"
+    },
+    {
+      "original": "सदाशिवः",
+      "transliteration": "Divyam",
+      "translation": "Divine"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Mahimnah",
+      "translation": "Greatness"
+    },
+    {
+      "original": "तत्त्वं",
+      "transliteration": "Suragurum",
+      "translation": "Guru of gods"
+    },
+    {
+      "original": "न",
+      "transliteration": "Abhipujya",
+      "translation": "Worshipping"
+    },
+    {
+      "original": "जानामि",
+      "transliteration": "Svarga",
+      "translation": "Heaven"
+    },
+    {
+      "original": "कीदृशोऽसि",
+      "transliteration": "Moksha",
+      "translation": "Liberation"
+    },
+    {
+      "original": "महेश्वर",
+      "transliteration": "Eka",
+      "translation": "Only"
+    },
+    {
+      "original": "यादृशोऽसि",
+      "transliteration": "Hetum",
+      "translation": "Cause"
+    },
+    {
+      "original": "महादेव",
+      "transliteration": "Pathati",
+      "translation": "Reads"
+    },
+    {
+      "original": "तादृशाय",
+      "transliteration": "Yadi",
+      "translation": "If"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "Manushyah",
+      "translation": "Human"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Pranjalih",
+      "translation": "With folded hands"
+    },
+    {
+      "original": "एककालं",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "द्विकालं",
+      "transliteration": "Anya",
+      "translation": "Other"
+    },
+    {
+      "original": "वा",
+      "transliteration": "Chetah",
+      "translation": "Minded"
+    },
+    {
+      "original": "त्रिकालं",
+      "transliteration": "Vrajati",
+      "translation": "Goes"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Shiva",
+      "translation": "Shiva"
+    },
+    {
+      "original": "पठेन्नरः",
+      "transliteration": "Samipam",
+      "translation": "Near"
+    },
+    {
+      "original": "सर्वपाप-विनिर्मुक्तः",
+      "transliteration": "Kinnaraih",
+      "translation": "By celestial beings"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "Stuyamanah",
+      "translation": "Being praised"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "Stavanam",
+      "translation": "Hymn"
+    },
+    {
+      "original": "महीयते",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "श्री",
+      "transliteration": "Amogham",
+      "translation": "Unfailing"
+    },
+    {
+      "original": "पुष्पदन्त-मुख-पङ्कज-निर्गतेन",
+      "transliteration": "Pushpadanta",
+      "translation": "Name of celestial being"
+    },
+    {
+      "original": "स्तोत्रेण",
+      "transliteration": "Pranitam",
+      "translation": "Composed"
+    },
+    {
+      "original": "किल्बिष-हरेण",
+      "transliteration": "Asamaptam",
+      "translation": "This is completed"
+    },
+    {
+      "original": "हर-प्रियेण",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "कण्ठस्थितेन",
+      "transliteration": "Stotram",
+      "translation": "Hymn"
+    },
+    {
+      "original": "पठितेन",
+      "transliteration": "Punyam",
+      "translation": "Auspicious"
+    },
+    {
+      "original": "समाहितेन",
+      "transliteration": "Gandharva",
+      "translation": "Celestial musician"
+    },
+    {
+      "original": "सुप्रीणितो",
+      "transliteration": "Bhashitam",
+      "translation": "Spoken"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "Anaupamyam",
+      "translation": "Incomparable"
+    },
+    {
+      "original": "भूतपतिर्महेशः",
+      "transliteration": "Manohari",
+      "translation": "Enchanting"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Sarvam",
+      "translation": "Entirely"
+    },
+    {
+      "original": "श्री",
+      "transliteration": "Ishvara",
+      "translation": "Lord"
+    },
+    {
+      "original": "पुष्पदन्त",
+      "transliteration": "Varnanam",
+      "translation": "Description"
+    },
+    {
+      "original": "विरचितं",
+      "transliteration": "Iti",
+      "translation": "Thus"
+    },
+    {
+      "original": "शिवमहिम्नः",
+      "transliteration": "Esha",
+      "translation": "This"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "Vangmayi",
+      "translation": "Verbal"
+    },
+    {
+      "original": "समाप्तम्",
+      "transliteration": "Puja",
+      "translation": "Worship"
+    },
+    {
+      "original": "---",
+      "transliteration": "Shrimad",
+      "translation": "Revered"
+    },
+    {
+      "original": "---",
+      "transliteration": "Shankara",
+      "translation": "Lord Shankara"
+    },
+    {
+      "original": "---",
+      "transliteration": "Padayoh",
+      "translation": "At the feet"
+    },
+    {
+      "original": "---",
+      "transliteration": "Arpita",
+      "translation": "Offered"
+    },
+    {
+      "original": "---",
+      "transliteration": "Tena",
+      "translation": "By that"
+    },
+    {
+      "original": "---",
+      "transliteration": "Deveshah",
+      "translation": "Lord of the Gods"
+    },
+    {
+      "original": "---",
+      "transliteration": "Priyatam",
+      "translation": "May be pleased"
+    },
+    {
+      "original": "---",
+      "transliteration": "Me",
+      "translation": "By me"
+    },
+    {
+      "original": "---",
+      "transliteration": "Sadashivah",
+      "translation": "Eternal Shiva"
+    },
+    {
+      "original": "---",
+      "transliteration": "Tava",
+      "translation": "Your"
+    },
+    {
+      "original": "---",
+      "transliteration": "Tattvam",
+      "translation": "Essence"
+    },
+    {
+      "original": "---",
+      "transliteration": "Na",
+      "translation": "Not"
+    },
+    {
+      "original": "---",
+      "transliteration": "Janami",
+      "translation": "I know"
+    },
+    {
+      "original": "---",
+      "transliteration": "Kidrashah",
+      "translation": "What kind"
+    },
+    {
+      "original": "---",
+      "transliteration": "Asi",
+      "translation": "Are"
+    },
+    {
+      "original": "---",
+      "transliteration": "Maheshvara",
+      "translation": "O Maheshwara"
+    },
+    {
+      "original": "---",
+      "transliteration": "Yadrishah",
+      "translation": "Whatever kind"
+    },
+    {
+      "original": "---",
+      "transliteration": "Asi",
+      "translation": "You are"
+    },
+    {
+      "original": "---",
+      "transliteration": "Mahadeva",
+      "translation": "O Mahadeva"
+    },
+    {
+      "original": "---",
+      "transliteration": "Tadrishaya",
+      "translation": "To that"
+    },
+    {
+      "original": "---",
+      "transliteration": "Namah",
+      "translation": "Salutations"
+    },
+    {
+      "original": "---",
+      "transliteration": "Namah",
+      "translation": "Salutations"
+    },
+    {
+      "original": "---",
+      "transliteration": "Ekakalam",
+      "translation": "One time"
+    },
+    {
+      "original": "---",
+      "transliteration": "Dvikalam",
+      "translation": "Two times"
+    },
+    {
+      "original": "---",
+      "transliteration": "Va",
+      "translation": "Or"
+    },
+    {
+      "original": "---",
+      "transliteration": "Trikalam",
+      "translation": "Three times"
+    },
+    {
+      "original": "---",
+      "transliteration": "Yah",
+      "translation": "Whoever"
+    },
+    {
+      "original": "---",
+      "transliteration": "Pathen",
+      "translation": "Recites"
+    },
+    {
+      "original": "---",
+      "transliteration": "Narah",
+      "translation": "A person"
+    },
+    {
+      "original": "---",
+      "transliteration": "Sarva",
+      "translation": "All"
+    },
+    {
+      "original": "---",
+      "transliteration": "Papa",
+      "translation": "Sins"
+    },
+    {
+      "original": "---",
+      "transliteration": "Vinirmuktah",
+      "translation": "Freed from"
+    },
+    {
+      "original": "---",
+      "transliteration": "Shiva",
+      "translation": "Shiva"
+    },
+    {
+      "original": "---",
+      "transliteration": "Loke",
+      "translation": "In the world"
+    },
+    {
+      "original": "---",
+      "transliteration": "Mahiyate",
+      "translation": "Becomes exalted"
+    },
+    {
+      "original": "---",
+      "transliteration": "Shri",
+      "translation": "Auspicious"
+    },
+    {
+      "original": "---",
+      "transliteration": "Pushpadanta",
+      "translation": "Name of celestial being"
+    },
+    {
+      "original": "---",
+      "transliteration": "Mukha",
+      "translation": "Mouth"
+    },
+    {
+      "original": "---",
+      "transliteration": "Pankaja",
+      "translation": "Lotus"
+    },
+    {
+      "original": "---",
+      "transliteration": "Nirgatena",
+      "translation": "Emerged from"
+    },
+    {
+      "original": "---",
+      "transliteration": "Stotrena",
+      "translation": "With the hymn"
+    },
+    {
+      "original": "---",
+      "transliteration": "Kilbisha",
+      "translation": "Sins"
+    },
+    {
+      "original": "---",
+      "transliteration": "Harena",
+      "translation": "Destroyer"
+    },
+    {
+      "original": "---",
+      "transliteration": "Hara",
+      "translation": "Shiva"
+    },
+    {
+      "original": "---",
+      "transliteration": "Priyena",
+      "translation": "Beloved"
+    },
+    {
+      "original": "---",
+      "transliteration": "Kanthasthitena",
+      "translation": "Kept in the throat"
+    },
+    {
+      "original": "---",
+      "transliteration": "Pathitena",
+      "translation": "Recited"
+    },
+    {
+      "original": "---",
+      "transliteration": "Samahitena",
+      "translation": "With concentration"
+    },
+    {
+      "original": "---",
+      "transliteration": "Suprinitah",
+      "translation": "Pleased"
+    },
+    {
+      "original": "---",
+      "transliteration": "Bhavati",
+      "translation": "Becomes"
+    },
+    {
+      "original": "---",
+      "transliteration": "Bhootapati",
+      "translation": "Lord of beings"
+    },
+    {
+      "original": "---",
+      "transliteration": "Maheshah",
+      "translation": "Great Lord"
+    },
+    {
+      "original": "---",
+      "transliteration": "Iti Shri",
+      "translation": "Thus ends"
+    },
+    {
+      "original": "---",
+      "transliteration": "Pushpadanta",
+      "translation": "Pushpadanta"
+    },
+    {
+      "original": "---",
+      "transliteration": "Virachitam",
+      "translation": "Composed"
+    },
+    {
+      "original": "---",
+      "transliteration": "Shivamahimnah",
+      "translation": "Shiva’s greatness"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\english\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\english\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.469Z"
+  }
+}

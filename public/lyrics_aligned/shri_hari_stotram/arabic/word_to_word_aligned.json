@@ -1,0 +1,429 @@
+{
+  "mantra": "shri_hari_stotram",
+  "language": "arabic",
+  "type": "word_to_word",
+  "totalWords": 83,
+  "alignedWords": [
+    {
+      "original": "जगत का रक्षक है",
+      "transliteration": "جَجَجَالْبَالَمْ",
+      "translation": "الحامي للكون"
+    },
+    {
+      "original": "गले में माला धारण करने वाला",
+      "transliteration": "شَلَتْكَنْثَمَالَمْ",
+      "translation": "ذو الصوت الجميل"
+    },
+    {
+      "original": "शरद पूर्णिमा के चंद्रमा के समान",
+      "transliteration": "شَرَجِسِهِرَبَالَمْ",
+      "translation": "نجم الارض"
+    },
+    {
+      "original": "महादैत्यों का काल",
+      "transliteration": "مَحَادَيْتْيَاكَالَمْ",
+      "translation": "وظل الزمان"
+    },
+    {
+      "original": "आकाशवत नीले शरीर वाला",
+      "transliteration": "نَبْهُونِيلَاكَاَيْمْ",
+      "translation": "الذي يسير في السماء"
+    },
+    {
+      "original": "दुर्निवार माया वाला",
+      "transliteration": "دُرَابَارَمَايَامْ",
+      "translation": "الطريق الصعب"
+    },
+    {
+      "original": "लक्ष्मी के सहायक",
+      "transliteration": "سُبَدْمَاسَحَايَمْ",
+      "translation": "مع صديق مخلص"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "समुद्र में निवास करने वाला",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "पुष्पों की हंसी बिखेरने वाला",
+      "transliteration": "سَادَامْبُودِهِيْفَاسَمْ",
+      "translation": "دائما في المحيط الروحي"
+    },
+    {
+      "original": "जगत का निवास स्थान",
+      "transliteration": "جَلَتْبُوشْبَهَاسَمْ",
+      "translation": "ابتسامة الزهور"
+    },
+    {
+      "original": "सौ सूर्यों के समान प्रकाशमान",
+      "transliteration": "جَجَتْسَنِفَاسَمْ",
+      "translation": "سكان الكون"
+    },
+    {
+      "original": "गदा और चक्र धारण करने वाला",
+      "transliteration": "شَتَادِيتْيَبْهَاسَمْ",
+      "translation": "الضوء الشمسي"
+    },
+    {
+      "original": "पीताम्बर धारण करने वाला",
+      "transliteration": "غَدَاتْشَكَرَشَسْتَرَمْ",
+      "translation": "سلاح المطرقة"
+    },
+    {
+      "original": "सुंदर मुस्कुराते मुख वाला",
+      "transliteration": "لَسَتْبِيتْفَسْتَرَمْ",
+      "translation": "يرتدي الثياب الصفراء"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "حَسَاتْشَارُوُوَقْتَرَمْ",
+      "translation": "ذو الوجه الجميل"
+    },
+    {
+      "original": "लक्ष्मी के गले का हार",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "वेदों का सार",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "जल में विहार करने वाला",
+      "transliteration": "رَمَاكَنْثَاهَارَمْ",
+      "translation": "قلادة على عنق راما"
+    },
+    {
+      "original": "धरती का भार हरने वाला",
+      "transliteration": "شْرُوتِفْرَاتَسَارَمْ",
+      "translation": "جوهر تقوى الأذن"
+    },
+    {
+      "original": "चिदानंद स्वरूप",
+      "transliteration": "جَلَانْتَرْفِيهَارَمْ",
+      "translation": "العيش في المياه"
+    },
+    {
+      "original": "मनोहर स्वरूप",
+      "transliteration": "دَرَابَهَارَحَارَمْ",
+      "translation": "حاملة الأرض"
+    },
+    {
+      "original": "अनेक रूप धारण करने वाला",
+      "transliteration": "شِدَانَنْدَرُوبَمْ",
+      "translation": "شكل الوعي الكامل"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "مَنُوجْنَسْوَرُوبَمْ",
+      "translation": "صورته البديعة"
+    },
+    {
+      "original": "जन्म और मृत्यु से रहित",
+      "transliteration": "دْرُتَانِيكَارُوبَمْ",
+      "translation": "الهيئة المتعددة"
+    },
+    {
+      "original": "परमानंद से परिपूर्ण",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "समाधि में लीन",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "सदैव नवीन",
+      "transliteration": "جَرَاجَنْمَهِينَامْ",
+      "translation": "الخالي من الشيخوخة"
+    },
+    {
+      "original": "जगत की उत्पत्ति का कारण",
+      "transliteration": "بَرَانَنْدَفِينَامْ",
+      "translation": "ملء السعادة"
+    },
+    {
+      "original": "देवताओं की सेना का ध्वज",
+      "transliteration": "سَمَادْهَانَالِيمْ",
+      "translation": "الانغماس في التنوير"
+    },
+    {
+      "original": "तीनों लोकों का एकमात्र सेतु",
+      "transliteration": "سَدَيْوَانَفِينَامْ",
+      "translation": "الأبدية"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "جَجَجَنْمَهِيتُمْ",
+      "translation": "سبب الخلق"
+    },
+    {
+      "original": "वेदों का गान करने वाला",
+      "transliteration": "سُورَانِيكَكِيتُمْ",
+      "translation": "الراية السماوية"
+    },
+    {
+      "original": "गरुड़ पर शयन करने वाला",
+      "transliteration": "تْرِيلُوكَيكَسِيتُمْ",
+      "translation": "الجسر عبر العوالم"
+    },
+    {
+      "original": "मुक्ति का कारण",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "शत्रुओं का मान मर्दन करने वाला",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "भक्तों के अनुकूल",
+      "transliteration": "كُرَتَامْنَايَجَانَمْ",
+      "translation": "المنشد للتراتيل المقدسة"
+    },
+    {
+      "original": "संसार रूपी वृक्ष का मूल",
+      "transliteration": "خَغَادِيشَيَانَمْ",
+      "translation": "الملك الطائر"
+    },
+    {
+      "original": "दुःखों को नष्ट करने वाला",
+      "transliteration": "فِيمُكْتَرْنِيدَانَمْ",
+      "translation": "السبب الأساسي للتحرر"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "حَرَارَاتِيمَانَمْ",
+      "translation": "ذو التقدير العظيم"
+    },
+    {
+      "original": "समस्त देवों के स्वामी",
+      "transliteration": "سْوَبْهَكْتَانُوكُولَمْ",
+      "translation": "الملائم لعباده المخلصين"
+    },
+    {
+      "original": "सुंदर केशों वाला",
+      "transliteration": "جَجَادْفُرَكْشَمُولَمْ",
+      "translation": "أصل خلق الكون"
+    },
+    {
+      "original": "जगत की छाया के स्वामी",
+      "transliteration": "نِرَسْتَارْتَشُولَمْ",
+      "translation": "القضاء على المعاناة"
+    },
+    {
+      "original": "हृदयाकाश में निवास करने वाला",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "सदा दिव्य शरीर वाला",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "समस्त इच्छाओं से मुक्त",
+      "transliteration": "سَمَسْتَامَرِيشَمْ",
+      "translation": "سيد جميع الألهة"
+    },
+    {
+      "original": "वैकुंठ के निवासी",
+      "transliteration": "دْوِيرِيفَابْكِيشَمْ",
+      "translation": "ذو الشعر المزدوج"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "جَجَادْفِيمْبَالِيشَمْ",
+      "translation": "صورة الكون"
+    },
+    {
+      "original": "देवताओं में सबसे बलवान",
+      "transliteration": "حْرُودَاكَاشَدِيشَمْ",
+      "translation": "أرض الفضاء السماوي"
+    },
+    {
+      "original": "तीनों लोकों में श्रेष्ठ",
+      "transliteration": "سَدَاء دِيفْيَادِهِمْ",
+      "translation": "دائم الجسد المقدس"
+    },
+    {
+      "original": "गुरुओं में श्रेष्ठ",
+      "transliteration": "فِيمُكْتَاخِيلَهَمْ",
+      "translation": "التحرر الكامل"
+    },
+    {
+      "original": "अपने स्वरूप में स्थित",
+      "transliteration": "سُوْفِيكُنْثَاجِهَمْ",
+      "translation": "المنزل الأبدي"
+    },
+    {
+      "original": "युद्ध में सदा धीर",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "महावीरों में वीर",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "महासागर के तट के समान",
+      "transliteration": "سُورَاعِبَلِيشْتَهَمْ",
+      "translation": "الأقوى بين الآلهة"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "تْرِيلُوكِيفَرِيشْتَهَمْ",
+      "translation": "الأعلى في العوالم الثلاثة"
+    },
+    {
+      "original": "लक्ष्मी को बाईं ओर रखने वाला",
+      "transliteration": "جُرُونَامْ غَرِيشْتَهَمْ",
+      "translation": "الأكثر عظمة بين المعلمين"
+    },
+    {
+      "original": "शेषनाग पर शयन करने वाला",
+      "transliteration": "سْوَرُوبَايَكَنِيشْتَهَمْ",
+      "translation": "في الشكل الثابت"
+    },
+    {
+      "original": "यज्ञों को अधीन करने वाला",
+      "transliteration": "سَادَاء يُدَّدَاهِيرَمْ",
+      "translation": "دائم الشجاعة في المعركة"
+    },
+    {
+      "original": "राग-द्वेष से रहित",
+      "transliteration": "مَحَافِيرَافِيرَمْ",
+      "translation": "البطل الشجاع"
+    },
+    {
+      "original": "मुनियों द्वारा गाया जाने वाला",
+      "transliteration": "مَحَامْبُودِهِتِيرَمْ",
+      "translation": "بحر الحكمة العظيم"
+    },
+    {
+      "original": "देवों से घिरा हुआ",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "गुणों से परे",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "رَمَافَامْبَاهَاجَمْ",
+      "translation": "الجزء الأيسر من راما"
+    },
+    {
+      "original": "जो इस स्तोत्र को नित्य",
+      "transliteration": "تَلاَنَجْرَانَاجَمْ",
+      "translation": "حامل الأفاعي"
+    },
+    {
+      "original": "चित्त को एकाग्र करके",
+      "transliteration": "كُرَتَادِهِينِيَاجَمْ",
+      "translation": "إتمام الطقوس الدينية"
+    },
+    {
+      "original": "इस अष्टक का पाठ करता है",
+      "transliteration": "جَاتَارَاجَرَاجَمْ",
+      "translation": "زوال التعلق"
+    },
+    {
+      "original": "मुरारि के कंठहार को",
+      "transliteration": "مُنِينْدَرَايْ سُوجِيتَمْ",
+      "translation": "بأغاني الحكماء"
+    },
+    {
+      "original": "वह विष्णु के शोकरहित",
+      "transliteration": "سُورَايْ سَمْبُرِيتَمْ",
+      "translation": "محاطاً بالآلهة"
+    },
+    {
+      "original": "ध्रुव लोक को प्राप्त करता है",
+      "transliteration": "غُونَاوْدْهَارَاتِيتَمْ",
+      "translation": "متفوق في الفضائل"
+    },
+    {
+      "original": "जन्म-मृत्यु के शोक को",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "फिर कभी नहीं पाता है",
+      "transliteration": "بَاجِهِمْ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "---",
+      "transliteration": "إِدَمْ يَسْتُو نِيتْيَمْ",
+      "translation": "من يقرأ هذا دائماً"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَمَادْهَايَا شِتْتَمْ",
+      "translation": "مركزاً عقله"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَتْهَدَشْتَكَمْ",
+      "translation": "يقرأ الأبيات"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَانْثَاهَارَمْ",
+      "translation": "عقد على عنقه"
+    },
+    {
+      "original": "---",
+      "transliteration": "مُرَارِيهِ",
+      "translation": "من موري"
+    },
+    {
+      "original": "---",
+      "transliteration": "فِيشْنُورْفِيشُوكَمْ",
+      "translation": "ليس له حزن"
+    },
+    {
+      "original": "---",
+      "transliteration": "ذْرُوَامْ",
+      "translation": "ثابت"
+    },
+    {
+      "original": "---",
+      "transliteration": "يَاتِي",
+      "translation": "يصل"
+    },
+    {
+      "original": "---",
+      "transliteration": "لُوكَمْ",
+      "translation": "العالم"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَرَاجَنْمَشُوكَمْ",
+      "translation": "حزن ولادة الشيخوخة"
+    },
+    {
+      "original": "---",
+      "transliteration": "بُونَرْفِينْدَتِي نُو",
+      "translation": "ولا يختبره مجددًا"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\arabic\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\arabic\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.774Z"
+  }
+}

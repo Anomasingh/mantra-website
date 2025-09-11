@@ -1,0 +1,1869 @@
+{
+  "mantra": "mahisasur_mardini",
+  "language": "english",
+  "type": "word_to_word",
+  "totalWords": 371,
+  "alignedWords": [
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O (addressing someone)"
+    },
+    {
+      "original": "गिरिनन्दिनि",
+      "transliteration": "girinandini",
+      "translation": "Mother of the mountains"
+    },
+    {
+      "original": "नन्दितमेदिनि",
+      "transliteration": "nanditamedini",
+      "translation": "She who brings joy"
+    },
+    {
+      "original": "विश्वविनोदिनि",
+      "transliteration": "vishwavinodini",
+      "translation": "She who brings joy to the world"
+    },
+    {
+      "original": "नन्दिनुते",
+      "transliteration": "nandinute",
+      "translation": "She who praises Nandi"
+    },
+    {
+      "original": "गिरिवरविन्ध्यशिरोऽधिनिवासिनि",
+      "transliteration": "girivara vindhyashiro dhinivasini",
+      "translation": "She who resides on the peak of mountains"
+    },
+    {
+      "original": "विष्णुविलासिनि",
+      "transliteration": "vishnuvilasini",
+      "translation": "She who is playful like Vishnu"
+    },
+    {
+      "original": "जिष्णुनुते",
+      "transliteration": "jishnunute",
+      "translation": "She who destroys enemies"
+    },
+    {
+      "original": "भगवति",
+      "transliteration": "bhagavati",
+      "translation": "Goddess (powerful one)"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O (addressing someone respectfully)"
+    },
+    {
+      "original": "शितिकण्ठकुटुम्बिनि",
+      "transliteration": "shitikanthakutumbini",
+      "translation": "She who has a cool neck"
+    },
+    {
+      "original": "भूरिकुटुम्बिनि",
+      "transliteration": "bhurikutumbini",
+      "translation": "She who has a large family"
+    },
+    {
+      "original": "भूरिकृते",
+      "transliteration": "bhurikrite",
+      "translation": "She who performs great deeds"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O (addressing someone respectfully)"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasuramardini",
+      "translation": "She who slays Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "She who has a beautiful head"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailsute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "सुरवरवर्षिणि",
+      "transliteration": "suravara-varshini",
+      "translation": "She who causes the gods to rain"
+    },
+    {
+      "original": "दुर्धरधर्षिणि",
+      "transliteration": "durdhara-dharshini",
+      "translation": "She who overcomes difficulties and obstacles"
+    },
+    {
+      "original": "दुर्मुखमर्षिणि",
+      "transliteration": "durmukhamarshini",
+      "translation": "She who strikes the evil faces"
+    },
+    {
+      "original": "हर्षरते",
+      "transliteration": "harsarate",
+      "translation": "She who delights in joy"
+    },
+    {
+      "original": "त्रिभुवनपोषिणि",
+      "transliteration": "tribhuvanaposini",
+      "translation": "She who nourishes the three worlds"
+    },
+    {
+      "original": "शङ्करतोषिणि",
+      "transliteration": "shankaratoshini",
+      "translation": "She who pleases Lord Shiva"
+    },
+    {
+      "original": "किल्बिषमोषिणि",
+      "transliteration": "kilbishamoshini",
+      "translation": "She who eradicates sins"
+    },
+    {
+      "original": "घोषरते",
+      "transliteration": "ghosharate",
+      "translation": "She who revels in the sound of victory"
+    },
+    {
+      "original": "दनुजनिरोषिणि",
+      "transliteration": "danujaniroshini",
+      "translation": "She who angers the demons"
+    },
+    {
+      "original": "दितिसुतरोषिणि",
+      "transliteration": "ditisutaroshini",
+      "translation": "She who enrages the sons of Diti"
+    },
+    {
+      "original": "दुर्मदशोषिणि",
+      "transliteration": "durmadoshoshini",
+      "translation": "She who destroys the arrogance of the wicked"
+    },
+    {
+      "original": "सिन्धुसुते",
+      "transliteration": "sindhusute",
+      "translation": "Daughter of the ocean"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasuramardini",
+      "translation": "She who killed Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "She who wears beautiful garlands"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O (used as a form of address)"
+    },
+    {
+      "original": "जगदम्ब",
+      "transliteration": "jagadamba",
+      "translation": "Mother of the Universe"
+    },
+    {
+      "original": "मदम्ब",
+      "transliteration": "madamba",
+      "translation": "The beloved form of the goddess"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "kadamba",
+      "translation": "The Kadamba tree or related to it"
+    },
+    {
+      "original": "वनप्रियवासिनि",
+      "transliteration": "vanapriyavāsini",
+      "translation": "She who resides in the forest"
+    },
+    {
+      "original": "हासरते",
+      "transliteration": "hāsarate",
+      "translation": "Laughing"
+    },
+    {
+      "original": "शिखरी",
+      "transliteration": "shikhari",
+      "translation": "Summit, Peak"
+    },
+    {
+      "original": "शिरोमणि",
+      "transliteration": "shiromani",
+      "translation": "The jewel of the head, the best"
+    },
+    {
+      "original": "तुङ्गहिमालय",
+      "transliteration": "tungahimalaya",
+      "translation": "The high Himalayan mountains"
+    },
+    {
+      "original": "शृङ्गनिजालय",
+      "transliteration": "shringanijalaya",
+      "translation": "The peak and its dwelling place"
+    },
+    {
+      "original": "मध्यगते",
+      "transliteration": "madhyagate",
+      "translation": "Located in the middle"
+    },
+    {
+      "original": "मधुमधुरे",
+      "transliteration": "madhumadhure",
+      "translation": "Sweet and pleasing"
+    },
+    {
+      "original": "मधुकैटभगञ्जिनी",
+      "transliteration": "madhukatabhaganjini",
+      "translation": "The destroyer of Madhu and Kaitabha"
+    },
+    {
+      "original": "कैटभभञ्जिनी",
+      "transliteration": "kaitabhabhanjini",
+      "translation": "The destroyer of Kaitabha"
+    },
+    {
+      "original": "रासरते",
+      "transliteration": "rāsarate",
+      "translation": "Dancing"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O (used as a form of address)"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "mahishasuramardini",
+      "translation": "The Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ramyakapardini",
+      "translation": "The one who resides on the beautiful mountain"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the Mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O"
+    },
+    {
+      "original": "शतखण्ड",
+      "transliteration": "shatakhanda",
+      "translation": "Hundred parts"
+    },
+    {
+      "original": "विखण्डितरुण्ड",
+      "transliteration": "vikhanditarunda",
+      "translation": "Divided roots"
+    },
+    {
+      "original": "वितुण्डितशुण्द",
+      "transliteration": "vitunditashund",
+      "translation": "Intensified sensation"
+    },
+    {
+      "original": "गजाधिपते",
+      "transliteration": "gajadhipate",
+      "translation": "Lord of elephants"
+    },
+    {
+      "original": "रिपुगजगण्ड",
+      "transliteration": "ripugajagand",
+      "translation": "Battle of elephant"
+    },
+    {
+      "original": "विदारणचण्ड",
+      "transliteration": "vidaranachanda",
+      "translation": "Disaster rage"
+    },
+    {
+      "original": "पराक्रमशुण्ड",
+      "transliteration": "parakramashund",
+      "translation": "Strengthened alertness"
+    },
+    {
+      "original": "मृगाधिपते",
+      "transliteration": "mrigadhipate",
+      "translation": "Lord of deer"
+    },
+    {
+      "original": "निजभुजदण्ड",
+      "transliteration": "nijabhujadanda",
+      "translation": "Own hand punishment"
+    },
+    {
+      "original": "निपातितखण्ड",
+      "transliteration": "nipatitakhand",
+      "translation": "Fallen part"
+    },
+    {
+      "original": "विपातितमुण्ड",
+      "transliteration": "vipatitamund",
+      "translation": "Fallen head"
+    },
+    {
+      "original": "भटाधिपते",
+      "transliteration": "bhatadhipate",
+      "translation": "Lord of soldiers"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "Call"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasurmardini",
+      "translation": "Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "Beautifully clad"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O"
+    },
+    {
+      "original": "रणदुर्मद",
+      "transliteration": "ranadurmada",
+      "translation": "One who has intense anger in battle"
+    },
+    {
+      "original": "शत्रुवधोदित",
+      "transliteration": "shatrvadhodita",
+      "translation": "One who rises from the killing of enemies"
+    },
+    {
+      "original": "दुर्धरनिर्जर",
+      "transliteration": "durdharnirjara",
+      "translation": "One who is extremely difficult to defeat"
+    },
+    {
+      "original": "शक्तिभृते",
+      "transliteration": "shaktibhṛte",
+      "translation": "One who holds power"
+    },
+    {
+      "original": "चतुरविचार",
+      "transliteration": "caturavichara",
+      "translation": "One with wise thinking"
+    },
+    {
+      "original": "धुरीणमहाशिव",
+      "transliteration": "dhurinamahashiva",
+      "translation": "The one who is based on the essence of Lord Shiva"
+    },
+    {
+      "original": "दूतकृत",
+      "transliteration": "dutakrita",
+      "translation": "One who is sent as a messenger"
+    },
+    {
+      "original": "प्रमथाधिपते",
+      "transliteration": "pramathadhipate",
+      "translation": "The lord of the demonic beings"
+    },
+    {
+      "original": "दुरितदुरीह",
+      "transliteration": "duritadurīha",
+      "translation": "One who removes sins"
+    },
+    {
+      "original": "दुराशयदुर्मति",
+      "transliteration": "durashayadurmati",
+      "translation": "One with evil intentions and bad thoughts"
+    },
+    {
+      "original": "दानवदुत",
+      "transliteration": "danavadut",
+      "translation": "One who is sent by demons"
+    },
+    {
+      "original": "कृतान्तमते",
+      "transliteration": "kritantamate",
+      "translation": "One who judges death"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasuramardini",
+      "translation": "One who killed the demon Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "One who wears beautiful adornments"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O (address)"
+    },
+    {
+      "original": "शरणागत",
+      "transliteration": "sharanagata",
+      "translation": "One who has come for refuge"
+    },
+    {
+      "original": "वैरिवधुवर",
+      "transliteration": "vairivadhuwara",
+      "translation": "The best of enemy's wives"
+    },
+    {
+      "original": "वीरवराभय",
+      "transliteration": "veeravaraabhaya",
+      "translation": "The greatest hero, free from fear"
+    },
+    {
+      "original": "दायकरे",
+      "transliteration": "dayakare",
+      "translation": "Giver"
+    },
+    {
+      "original": "त्रिभुवनमस्तक",
+      "transliteration": "tribhuvanamastaka",
+      "translation": "The head of the three worlds"
+    },
+    {
+      "original": "शुलविरोधि",
+      "transliteration": "shulvirodhi",
+      "translation": "Opponent of the trident"
+    },
+    {
+      "original": "शिरोऽधिकृतामल",
+      "transliteration": "shirodhikritamala",
+      "translation": "One whose head is adorned, pure"
+    },
+    {
+      "original": "शुलकरे",
+      "transliteration": "shulakare",
+      "translation": "Holder of the trident"
+    },
+    {
+      "original": "दुमिदुमितामर",
+      "transliteration": "dumidumitamara",
+      "translation": "Sounding like drums, immortal"
+    },
+    {
+      "original": "धुन्दुभिनादमहोमुखरीकृत",
+      "transliteration": "dhundubhinadamahomukhrikrit",
+      "translation": "Reverberating with great sound from the mouth"
+    },
+    {
+      "original": "दिङ्मकरे",
+      "transliteration": "dingmakare",
+      "translation": "Radiating light to the directions"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O (address)"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "mahishasuramardini",
+      "translation": "Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ramyakapardini",
+      "translation": "One who dwells on a beautiful mountain"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O (Invocation)"
+    },
+    {
+      "original": "निजहुङ्कृति",
+      "transliteration": "nijahunkriti",
+      "translation": "Self-voice"
+    },
+    {
+      "original": "मात्रनिराकृत",
+      "transliteration": "matranirakrit",
+      "translation": "Completely destroyed"
+    },
+    {
+      "original": "धूम्रविलोचन",
+      "transliteration": "dhumravilocan",
+      "translation": "Eyes filled with smoke"
+    },
+    {
+      "original": "धूम्रशते",
+      "transliteration": "dhumrashate",
+      "translation": "Resembling smoke"
+    },
+    {
+      "original": "समरविशोषित",
+      "transliteration": "samaravishoshit",
+      "translation": "Dried up from battle"
+    },
+    {
+      "original": "शोणितबीज",
+      "transliteration": "shonitbeej",
+      "translation": "Blood seed"
+    },
+    {
+      "original": "समुद्भवशोणित",
+      "transliteration": "samudbhavshonit",
+      "translation": "Originated blood"
+    },
+    {
+      "original": "बीजलते",
+      "transliteration": "beejalate",
+      "translation": "Spreading of seeds"
+    },
+    {
+      "original": "शिवशिवशुम्भ",
+      "transliteration": "shivshivashumbh",
+      "translation": "The power of Shiva"
+    },
+    {
+      "original": "निशुम्भमहाहव",
+      "transliteration": "nishumbhamaahav",
+      "translation": "Invocation of a great battle"
+    },
+    {
+      "original": "तर्पितभूत",
+      "transliteration": "tarpitaabhoot",
+      "translation": "Peaceful souls"
+    },
+    {
+      "original": "पिशाचरते",
+      "transliteration": "pishaachrate",
+      "translation": "Actions of demons"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "Invocation"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasurmardini",
+      "translation": "Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "Beautifully adorned"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "धनुरनुषङ्ग",
+      "transliteration": "dhanuranushang",
+      "translation": "The bowstring, the weapon used in battle"
+    },
+    {
+      "original": "रणक्षणसङ्ग",
+      "transliteration": "ranakshanasaṅga",
+      "translation": "A brief encounter in battle"
+    },
+    {
+      "original": "परिस्फुरदङ्ग",
+      "transliteration": "parisphuradang",
+      "translation": "Shining with great energy"
+    },
+    {
+      "original": "नटत्कटके",
+      "transliteration": "naṭatkṭake",
+      "translation": "The one who dances"
+    },
+    {
+      "original": "कनकपिशङ्ग",
+      "transliteration": "kanakapishang",
+      "translation": "The golden yellow color"
+    },
+    {
+      "original": "पृषत्कनिषङ्ग",
+      "transliteration": "prishatkanishang",
+      "translation": "The one who accompanies in battle"
+    },
+    {
+      "original": "रसद्भटशृङ्ग",
+      "transliteration": "rasadbhṭashṛṅga",
+      "translation": "Weapons used to slay demons"
+    },
+    {
+      "original": "हताबटुके",
+      "transliteration": "hataabathuke",
+      "translation": "The one who is defeated in battle"
+    },
+    {
+      "original": "कृतचतुरङ्ग",
+      "transliteration": "krutchaturanga",
+      "translation": "Equipped with four parts"
+    },
+    {
+      "original": "बलक्षितिरङ्ग",
+      "transliteration": "balakshitiranga",
+      "translation": "Empowered with the parts of strength"
+    },
+    {
+      "original": "घटद्बहुरङ्ग",
+      "transliteration": "ghatadbhruranga",
+      "translation": "Constructed from many different parts"
+    },
+    {
+      "original": "रटद्बटुके",
+      "transliteration": "raṭadbathuke",
+      "translation": "Advancing in battle with loud shouts"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasuramardini",
+      "translation": "Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "Adorned with beautiful jewels"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "सुरललना",
+      "transliteration": "surallana",
+      "translation": "The beauty of Goddess (Devi)"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "tatatheyī",
+      "translation": "Thus"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "tatatheyī",
+      "translation": "Thus"
+    },
+    {
+      "original": "कृताभिनयोदर",
+      "transliteration": "kṛtābhinayodara",
+      "translation": "One who performs the acting of dance"
+    },
+    {
+      "original": "नृत्यरते",
+      "transliteration": "nrityarate",
+      "translation": "One immersed in dance"
+    },
+    {
+      "original": "कृत",
+      "transliteration": "krta",
+      "translation": "Done"
+    },
+    {
+      "original": "कुकुथः",
+      "transliteration": "kukuthaḥ",
+      "translation": "A kind of sound"
+    },
+    {
+      "original": "कुकुथो",
+      "transliteration": "kukutho",
+      "translation": "A kind of sound"
+    },
+    {
+      "original": "गडदादिकताल",
+      "transliteration": "gadadadikatala",
+      "translation": "The sound of drums and percussion"
+    },
+    {
+      "original": "कुतूहल",
+      "transliteration": "kutuhala",
+      "translation": "Curiosity"
+    },
+    {
+      "original": "गानरते",
+      "transliteration": "ganarate",
+      "translation": "One immersed in song"
+    },
+    {
+      "original": "धुधुकुट",
+      "transliteration": "dhudhukut",
+      "translation": "The sound of a drum"
+    },
+    {
+      "original": "धुक्कुट",
+      "transliteration": "dhukkut",
+      "translation": "The sound of a drum"
+    },
+    {
+      "original": "धिंधिमित",
+      "transliteration": "dhindhimith",
+      "translation": "The sound of movement"
+    },
+    {
+      "original": "ध्वनि",
+      "transliteration": "dhvani",
+      "translation": "Sound"
+    },
+    {
+      "original": "धीर",
+      "transliteration": "dheera",
+      "translation": "Calm and steady"
+    },
+    {
+      "original": "मृदंग",
+      "transliteration": "mridang",
+      "translation": "A type of musical instrument"
+    },
+    {
+      "original": "निनादरते",
+      "transliteration": "ninadarate",
+      "translation": "One immersed in the sound"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O (Address)"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "mahishasuramardini",
+      "translation": "Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ramyakapardini",
+      "translation": "The one dwelling in beautiful mountains"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O (addressing someone)"
+    },
+    {
+      "original": "गिरिनन्दिनि",
+      "transliteration": "girinandini",
+      "translation": "Mother of the mountains"
+    },
+    {
+      "original": "नन्दितमेदिनि",
+      "transliteration": "nanditamedini",
+      "translation": "She who brings joy"
+    },
+    {
+      "original": "विश्वविनोदिनि",
+      "transliteration": "vishwavinodini",
+      "translation": "She who brings joy to the world"
+    },
+    {
+      "original": "नन्दिनुते",
+      "transliteration": "nandinute",
+      "translation": "She who praises Nandi"
+    },
+    {
+      "original": "गिरिवरविन्ध्यशिरोऽधिनिवासिनि",
+      "transliteration": "girivara vindhyashiro dhinivasini",
+      "translation": "She who resides on the peak of mountains"
+    },
+    {
+      "original": "विष्णुविलासिनि",
+      "transliteration": "vishnuvilasini",
+      "translation": "She who is playful like Vishnu"
+    },
+    {
+      "original": "जिष्णुनुते",
+      "transliteration": "jishnunute",
+      "translation": "She who destroys enemies"
+    },
+    {
+      "original": "भगवति",
+      "transliteration": "bhagavati",
+      "translation": "Goddess (powerful one)"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O (addressing someone respectfully)"
+    },
+    {
+      "original": "शितिकण्ठकुटुम्बिनि",
+      "transliteration": "shitikanthakutumbini",
+      "translation": "She who has a cool neck"
+    },
+    {
+      "original": "भूरिकुटुम्बिनि",
+      "transliteration": "bhurikutumbini",
+      "translation": "She who has a large family"
+    },
+    {
+      "original": "भूरिकृते",
+      "transliteration": "bhurikrite",
+      "translation": "She who performs great deeds"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O (addressing someone respectfully)"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasuramardini",
+      "translation": "She who slays Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "She who has a beautiful head"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailsute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "सुरवरवर्षिणि",
+      "transliteration": "suravara-varshini",
+      "translation": "She who causes the gods to rain"
+    },
+    {
+      "original": "दुर्धरधर्षिणि",
+      "transliteration": "durdhara-dharshini",
+      "translation": "She who overcomes difficulties and obstacles"
+    },
+    {
+      "original": "दुर्मुखमर्षिणि",
+      "transliteration": "durmukhamarshini",
+      "translation": "She who strikes the evil faces"
+    },
+    {
+      "original": "हर्षरते",
+      "transliteration": "harsarate",
+      "translation": "She who delights in joy"
+    },
+    {
+      "original": "त्रिभुवनपोषिणि",
+      "transliteration": "tribhuvanaposini",
+      "translation": "She who nourishes the three worlds"
+    },
+    {
+      "original": "शङ्करतोषिणि",
+      "transliteration": "shankaratoshini",
+      "translation": "She who pleases Lord Shiva"
+    },
+    {
+      "original": "किल्बिषमोषिणि",
+      "transliteration": "kilbishamoshini",
+      "translation": "She who eradicates sins"
+    },
+    {
+      "original": "घोषरते",
+      "transliteration": "ghosharate",
+      "translation": "She who revels in the sound of victory"
+    },
+    {
+      "original": "दनुजनिरोषिणि",
+      "transliteration": "danujaniroshini",
+      "translation": "She who angers the demons"
+    },
+    {
+      "original": "दितिसुतरोषिणि",
+      "transliteration": "ditisutaroshini",
+      "translation": "She who enrages the sons of Diti"
+    },
+    {
+      "original": "दुर्मदशोषिणि",
+      "transliteration": "durmadoshoshini",
+      "translation": "She who destroys the arrogance of the wicked"
+    },
+    {
+      "original": "सिन्धुसुते",
+      "transliteration": "sindhusute",
+      "translation": "Daughter of the ocean"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasuramardini",
+      "translation": "She who killed Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "She who wears beautiful garlands"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O (used as a form of address)"
+    },
+    {
+      "original": "जगदम्ब",
+      "transliteration": "jagadamba",
+      "translation": "Mother of the Universe"
+    },
+    {
+      "original": "मदम्ब",
+      "transliteration": "madamba",
+      "translation": "The beloved form of the goddess"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "kadamba",
+      "translation": "The Kadamba tree or related to it"
+    },
+    {
+      "original": "वनप्रियवासिनि",
+      "transliteration": "vanapriyavāsini",
+      "translation": "She who resides in the forest"
+    },
+    {
+      "original": "हासरते",
+      "transliteration": "hāsarate",
+      "translation": "Laughing"
+    },
+    {
+      "original": "शिखरी",
+      "transliteration": "shikhari",
+      "translation": "Summit, Peak"
+    },
+    {
+      "original": "शिरोमणि",
+      "transliteration": "shiromani",
+      "translation": "The jewel of the head, the best"
+    },
+    {
+      "original": "तुङ्गहिमालय",
+      "transliteration": "tungahimalaya",
+      "translation": "The high Himalayan mountains"
+    },
+    {
+      "original": "शृङ्गनिजालय",
+      "transliteration": "shringanijalaya",
+      "translation": "The peak and its dwelling place"
+    },
+    {
+      "original": "मध्यगते",
+      "transliteration": "madhyagate",
+      "translation": "Located in the middle"
+    },
+    {
+      "original": "मधुमधुरे",
+      "transliteration": "madhumadhure",
+      "translation": "Sweet and pleasing"
+    },
+    {
+      "original": "मधुकैटभगञ्जिनी",
+      "transliteration": "madhukatabhaganjini",
+      "translation": "The destroyer of Madhu and Kaitabha"
+    },
+    {
+      "original": "कैटभभञ्जिनी",
+      "transliteration": "kaitabhabhanjini",
+      "translation": "The destroyer of Kaitabha"
+    },
+    {
+      "original": "रासरते",
+      "transliteration": "rāsarate",
+      "translation": "Dancing"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O (used as a form of address)"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "mahishasuramardini",
+      "translation": "The Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ramyakapardini",
+      "translation": "The one who resides on the beautiful mountain"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the Mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O"
+    },
+    {
+      "original": "शतखण्ड",
+      "transliteration": "shatakhanda",
+      "translation": "Hundred parts"
+    },
+    {
+      "original": "विखण्डितरुण्ड",
+      "transliteration": "vikhanditarunda",
+      "translation": "Divided roots"
+    },
+    {
+      "original": "वितुण्डितशुण्द",
+      "transliteration": "vitunditashund",
+      "translation": "Intensified sensation"
+    },
+    {
+      "original": "गजाधिपते",
+      "transliteration": "gajadhipate",
+      "translation": "Lord of elephants"
+    },
+    {
+      "original": "रिपुगजगण्ड",
+      "transliteration": "ripugajagand",
+      "translation": "Battle of elephant"
+    },
+    {
+      "original": "विदारणचण्ड",
+      "transliteration": "vidaranachanda",
+      "translation": "Disaster rage"
+    },
+    {
+      "original": "पराक्रमशुण्ड",
+      "transliteration": "parakramashund",
+      "translation": "Strengthened alertness"
+    },
+    {
+      "original": "मृगाधिपते",
+      "transliteration": "mrigadhipate",
+      "translation": "Lord of deer"
+    },
+    {
+      "original": "निजभुजदण्ड",
+      "transliteration": "nijabhujadanda",
+      "translation": "Own hand punishment"
+    },
+    {
+      "original": "निपातितखण्ड",
+      "transliteration": "nipatitakhand",
+      "translation": "Fallen part"
+    },
+    {
+      "original": "विपातितमुण्ड",
+      "transliteration": "vipatitamund",
+      "translation": "Fallen head"
+    },
+    {
+      "original": "भटाधिपते",
+      "transliteration": "bhatadhipate",
+      "translation": "Lord of soldiers"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "Call"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasurmardini",
+      "translation": "Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "Beautifully clad"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O"
+    },
+    {
+      "original": "रणदुर्मद",
+      "transliteration": "ranadurmada",
+      "translation": "One who has intense anger in battle"
+    },
+    {
+      "original": "शत्रुवधोदित",
+      "transliteration": "shatrvadhodita",
+      "translation": "One who rises from the killing of enemies"
+    },
+    {
+      "original": "दुर्धरनिर्जर",
+      "transliteration": "durdharnirjara",
+      "translation": "One who is extremely difficult to defeat"
+    },
+    {
+      "original": "शक्तिभृते",
+      "transliteration": "shaktibhṛte",
+      "translation": "One who holds power"
+    },
+    {
+      "original": "चतुरविचार",
+      "transliteration": "caturavichara",
+      "translation": "One with wise thinking"
+    },
+    {
+      "original": "धुरीणमहाशिव",
+      "transliteration": "dhurinamahashiva",
+      "translation": "The one who is based on the essence of Lord Shiva"
+    },
+    {
+      "original": "दूतकृत",
+      "transliteration": "dutakrita",
+      "translation": "One who is sent as a messenger"
+    },
+    {
+      "original": "प्रमथाधिपते",
+      "transliteration": "pramathadhipate",
+      "translation": "The lord of the demonic beings"
+    },
+    {
+      "original": "दुरितदुरीह",
+      "transliteration": "duritadurīha",
+      "translation": "One who removes sins"
+    },
+    {
+      "original": "दुराशयदुर्मति",
+      "transliteration": "durashayadurmati",
+      "translation": "One with evil intentions and bad thoughts"
+    },
+    {
+      "original": "दानवदुत",
+      "transliteration": "danavadut",
+      "translation": "One who is sent by demons"
+    },
+    {
+      "original": "कृतान्तमते",
+      "transliteration": "kritantamate",
+      "translation": "One who judges death"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasuramardini",
+      "translation": "One who killed the demon Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "One who wears beautiful adornments"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O (address)"
+    },
+    {
+      "original": "शरणागत",
+      "transliteration": "sharanagata",
+      "translation": "One who has come for refuge"
+    },
+    {
+      "original": "वैरिवधुवर",
+      "transliteration": "vairivadhuwara",
+      "translation": "The best of enemy's wives"
+    },
+    {
+      "original": "वीरवराभय",
+      "transliteration": "veeravaraabhaya",
+      "translation": "The greatest hero, free from fear"
+    },
+    {
+      "original": "दायकरे",
+      "transliteration": "dayakare",
+      "translation": "Giver"
+    },
+    {
+      "original": "त्रिभुवनमस्तक",
+      "transliteration": "tribhuvanamastaka",
+      "translation": "The head of the three worlds"
+    },
+    {
+      "original": "शुलविरोधि",
+      "transliteration": "shulvirodhi",
+      "translation": "Opponent of the trident"
+    },
+    {
+      "original": "शिरोऽधिकृतामल",
+      "transliteration": "shirodhikritamala",
+      "translation": "One whose head is adorned, pure"
+    },
+    {
+      "original": "शुलकरे",
+      "transliteration": "shulakare",
+      "translation": "Holder of the trident"
+    },
+    {
+      "original": "दुमिदुमितामर",
+      "transliteration": "dumidumitamara",
+      "translation": "Sounding like drums, immortal"
+    },
+    {
+      "original": "धुन्दुभिनादमहोमुखरीकृत",
+      "transliteration": "dhundubhinadamahomukhrikrit",
+      "translation": "Reverberating with great sound from the mouth"
+    },
+    {
+      "original": "दिङ्मकरे",
+      "transliteration": "dingmakare",
+      "translation": "Radiating light to the directions"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O (address)"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "mahishasuramardini",
+      "translation": "Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ramyakapardini",
+      "translation": "One who dwells on a beautiful mountain"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O (Invocation)"
+    },
+    {
+      "original": "निजहुङ्कृति",
+      "transliteration": "nijahunkriti",
+      "translation": "Self-voice"
+    },
+    {
+      "original": "मात्रनिराकृत",
+      "transliteration": "matranirakrit",
+      "translation": "Completely destroyed"
+    },
+    {
+      "original": "धूम्रविलोचन",
+      "transliteration": "dhumravilocan",
+      "translation": "Eyes filled with smoke"
+    },
+    {
+      "original": "धूम्रशते",
+      "transliteration": "dhumrashate",
+      "translation": "Resembling smoke"
+    },
+    {
+      "original": "समरविशोषित",
+      "transliteration": "samaravishoshit",
+      "translation": "Dried up from battle"
+    },
+    {
+      "original": "शोणितबीज",
+      "transliteration": "shonitbeej",
+      "translation": "Blood seed"
+    },
+    {
+      "original": "समुद्भवशोणित",
+      "transliteration": "samudbhavshonit",
+      "translation": "Originated blood"
+    },
+    {
+      "original": "बीजलते",
+      "transliteration": "beejalate",
+      "translation": "Spreading of seeds"
+    },
+    {
+      "original": "शिवशिवशुम्भ",
+      "transliteration": "shivshivashumbh",
+      "translation": "The power of Shiva"
+    },
+    {
+      "original": "निशुम्भमहाहव",
+      "transliteration": "nishumbhamaahav",
+      "translation": "Invocation of a great battle"
+    },
+    {
+      "original": "तर्पितभूत",
+      "transliteration": "tarpitaabhoot",
+      "translation": "Peaceful souls"
+    },
+    {
+      "original": "पिशाचरते",
+      "transliteration": "pishaachrate",
+      "translation": "Actions of demons"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "Invocation"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasurmardini",
+      "translation": "Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "Beautifully adorned"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "धनुरनुषङ्ग",
+      "transliteration": "dhanuranushang",
+      "translation": "The bowstring, the weapon used in battle"
+    },
+    {
+      "original": "रणक्षणसङ्ग",
+      "transliteration": "ranakshanasaṅga",
+      "translation": "A brief encounter in battle"
+    },
+    {
+      "original": "परिस्फुरदङ्ग",
+      "transliteration": "parisphuradang",
+      "translation": "Shining with great energy"
+    },
+    {
+      "original": "नटत्कटके",
+      "transliteration": "naṭatkṭake",
+      "translation": "The one who dances"
+    },
+    {
+      "original": "कनकपिशङ्ग",
+      "transliteration": "kanakapishang",
+      "translation": "The golden yellow color"
+    },
+    {
+      "original": "पृषत्कनिषङ्ग",
+      "transliteration": "prishatkanishang",
+      "translation": "The one who accompanies in battle"
+    },
+    {
+      "original": "रसद्भटशृङ्ग",
+      "transliteration": "rasadbhṭashṛṅga",
+      "translation": "Weapons used to slay demons"
+    },
+    {
+      "original": "हताबटुके",
+      "transliteration": "hataabathuke",
+      "translation": "The one who is defeated in battle"
+    },
+    {
+      "original": "कृतचतुरङ्ग",
+      "transliteration": "krutchaturanga",
+      "translation": "Equipped with four parts"
+    },
+    {
+      "original": "बलक्षितिरङ्ग",
+      "transliteration": "balakshitiranga",
+      "translation": "Empowered with the parts of strength"
+    },
+    {
+      "original": "घटद्बहुरङ्ग",
+      "transliteration": "ghatadbhruranga",
+      "translation": "Constructed from many different parts"
+    },
+    {
+      "original": "रटद्बटुके",
+      "transliteration": "raṭadbathuke",
+      "translation": "Advancing in battle with loud shouts"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasuramardini",
+      "translation": "Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "Adorned with beautiful jewels"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "सुरललना",
+      "transliteration": "surallana",
+      "translation": "The beauty of Goddess (Devi)"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "tatatheyī",
+      "translation": "Thus"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "tatatheyī",
+      "translation": "Thus"
+    },
+    {
+      "original": "कृताभिनयोदर",
+      "transliteration": "kṛtābhinayodara",
+      "translation": "One who performs the acting of dance"
+    },
+    {
+      "original": "नृत्यरते",
+      "transliteration": "nrityarate",
+      "translation": "One immersed in dance"
+    },
+    {
+      "original": "कृत",
+      "transliteration": "krta",
+      "translation": "Done"
+    },
+    {
+      "original": "कुकुथः",
+      "transliteration": "kukuthaḥ",
+      "translation": "A kind of sound"
+    },
+    {
+      "original": "कुकुथो",
+      "transliteration": "kukutho",
+      "translation": "A kind of sound"
+    },
+    {
+      "original": "गडदादिकताल",
+      "transliteration": "gadadadikatala",
+      "translation": "The sound of drums and percussion"
+    },
+    {
+      "original": "कुतूहल",
+      "transliteration": "kutuhala",
+      "translation": "Curiosity"
+    },
+    {
+      "original": "गानरते",
+      "transliteration": "ganarate",
+      "translation": "One immersed in song"
+    },
+    {
+      "original": "धुधुकुट",
+      "transliteration": "dhudhukut",
+      "translation": "The sound of a drum"
+    },
+    {
+      "original": "धुक्कुट",
+      "transliteration": "dhukkut",
+      "translation": "The sound of a drum"
+    },
+    {
+      "original": "धिंधिमित",
+      "transliteration": "dhindhimith",
+      "translation": "The sound of movement"
+    },
+    {
+      "original": "ध्वनि",
+      "transliteration": "dhvani",
+      "translation": "Sound"
+    },
+    {
+      "original": "धीर",
+      "transliteration": "dheera",
+      "translation": "Calm and steady"
+    },
+    {
+      "original": "मृदंग",
+      "transliteration": "mridang",
+      "translation": "A type of musical instrument"
+    },
+    {
+      "original": "निनादरते",
+      "transliteration": "ninadarate",
+      "translation": "One immersed in the sound"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jaya",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O (Address)"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "mahishasuramardini",
+      "translation": "Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ramyakapardini",
+      "translation": "The one dwelling in beautiful mountains"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O (calling)"
+    },
+    {
+      "original": "मयि",
+      "transliteration": "mayi",
+      "translation": "To me (addressing)"
+    },
+    {
+      "original": "दीन",
+      "transliteration": "deen",
+      "translation": "Poor, unfortunate"
+    },
+    {
+      "original": "दयालुतया",
+      "transliteration": "dayalutaya",
+      "translation": "With kindness"
+    },
+    {
+      "original": "कृपयैव",
+      "transliteration": "kripayiva",
+      "translation": "By grace"
+    },
+    {
+      "original": "त्वया",
+      "transliteration": "tvaya",
+      "translation": "From you"
+    },
+    {
+      "original": "भवितव्यमुमे",
+      "transliteration": "bhavitavyamume",
+      "translation": "It must happen"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ayi",
+      "translation": "O (calling)"
+    },
+    {
+      "original": "जगतो",
+      "transliteration": "jagato",
+      "translation": "Of the world"
+    },
+    {
+      "original": "जननी",
+      "transliteration": "janani",
+      "translation": "Mother, progenitor"
+    },
+    {
+      "original": "कृपयासि",
+      "transliteration": "kripayasi",
+      "translation": "With kindness, it happens"
+    },
+    {
+      "original": "यथासि",
+      "transliteration": "yathasi",
+      "translation": "As it is"
+    },
+    {
+      "original": "तथानुमितासिरते",
+      "transliteration": "thanumitasirate",
+      "translation": "It happens as expected"
+    },
+    {
+      "original": "यदुचितमत्र",
+      "transliteration": "yaduchitamatra",
+      "translation": "As appropriate"
+    },
+    {
+      "original": "भवत्युररीकुरुतादुरुतापमपाकुरुते",
+      "transliteration": "bhavatyurarikurutadurutapamapakurute",
+      "translation": "What is being corrected or done"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "जय",
+      "transliteration": "jai",
+      "translation": "Victory"
+    },
+    {
+      "original": "हे",
+      "transliteration": "he",
+      "translation": "O (calling)"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "mahishasurmardini",
+      "translation": "Slayer of Mahishasura"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ramyakapardini",
+      "translation": "Beautiful and radiant goddess"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "shailasute",
+      "translation": "Daughter of the mountain"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\english\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\english\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.953Z"
+  }
+}

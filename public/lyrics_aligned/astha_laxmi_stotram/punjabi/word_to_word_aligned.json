@@ -1,0 +1,884 @@
+{
+  "mantra": "astha_laxmi_stotram",
+  "language": "punjabi",
+  "type": "word_to_word",
+  "totalWords": 174,
+  "alignedWords": [
+    {
+      "original": "आदिलक्ष्मी",
+      "transliteration": "ਆਦਿਲਕ੍ਸ਼੍ਮਿ",
+      "translation": "ਪ੍ਰਾਚੀਨ ਅਤੇ ਸ਼ੁਰੂਆਤੀ ਲਕ੍ਸ਼ਮੀ"
+    },
+    {
+      "original": "सुमनस",
+      "transliteration": "ਸੁਮਨਸਵੰਦਿਤ",
+      "translation": "ਫੁਲਾਂ ਨਾਲ ਸਨਮਾਨਿਤ"
+    },
+    {
+      "original": "मुनिगणमण्डित",
+      "transliteration": "ਸੁੰਦਰਿ ਮਾਧਵਿ",
+      "translation": "ਸੁੰਦਰ ਮਾਧਵੀ"
+    },
+    {
+      "original": "पंकजवासिनी",
+      "transliteration": "ਚੰਦਰ ਸਹੋਦਰਿ",
+      "translation": "ਚੰਦਰ ਦੇ ਭਾਈ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ਹੇਮਮਏ",
+      "translation": "ਸੋਨੇ ਨਾਲ ਭਰਪੂਰ"
+    },
+    {
+      "original": "धान्यलक्ष्मी",
+      "transliteration": "ਮੁਨੀਗਣਮੰਡਿਤ",
+      "translation": "ਸੰਤ ਮੋੜੇ ਹੋਏ"
+    },
+    {
+      "original": "अहिकलि",
+      "transliteration": "ਮੋਕ੍ਸ਼ਪ੍ਰਦਾਇਣੀ",
+      "translation": "ਮੁਕਤੀ ਦੇਣ ਵਾਲੀ"
+    },
+    {
+      "original": "क्षीरसमुद्भव",
+      "transliteration": "ਮੰਜੂਲਭਾਸ਼ਿਣੀ",
+      "translation": "ਸੁੰਦਰ ਬੋਲਣ ਵਾਲੀ"
+    },
+    {
+      "original": "मंगलदायिनी",
+      "transliteration": "ਵੇਦਨੁਤੇ",
+      "translation": "ਜੋ ਵੇਦਾਂ ਦੀ ਸੇਵਾ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ਪੰਕਜਵਾਸਿਨੀ",
+      "translation": "ਕੰਚਨ ਖੰਡ ਵਾਸੀ"
+    },
+    {
+      "original": "धैर्यलक्ष्मी",
+      "transliteration": "ਦੇਵਸੁਪੂਜਿਤ",
+      "translation": "ਦੇਵਤਿਆਂ ਦੁਆਰਾ ਸਨਮਾਨਿਤ"
+    },
+    {
+      "original": "जयवरवर्णिनि",
+      "transliteration": "ਸਦਗੁਣਵਰ੍ਸ਼ਿਣੀ",
+      "translation": "ਚੰਗੀਆਂ ਗੁਣਾਂ ਵਾਲੀ"
+    },
+    {
+      "original": "सुरगणपूजित",
+      "transliteration": "ਸ਼ਾਂਤਿਯੁਤੇ",
+      "translation": "ਜੋ ਸ਼ਾਂਤੀ ਨਾਲ ਸੰਪੂਰਨ ਹੈ"
+    },
+    {
+      "original": "भवभयहारिणि",
+      "transliteration": "ਜਯਜਯ",
+      "translation": "ਜਯ ਤੇ ਜਯ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ਹੇ ਮਧੁਸੂਦਨ",
+      "translation": "ਹੇ ਮਧੁਸੂਦਨ"
+    },
+    {
+      "original": "गजलक्ष्मी",
+      "transliteration": "ਕਾਮਿਨੀ",
+      "translation": "ਪ੍ਰੀਤਮ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ਆਦਿਲਕ੍ਸ਼੍ਮਿ",
+      "translation": "ਸ਼ੁਰੂਆਤ ਲਕ੍ਸ਼ਮੀ"
+    },
+    {
+      "original": "रथगज",
+      "transliteration": "ਸਦਾ",
+      "translation": "ਸਦਾ"
+    },
+    {
+      "original": "हरिहर",
+      "transliteration": "ਪਾਲਯ",
+      "translation": "ਰੱਖਿਆ ਕਰੋ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ਮਾਮ",
+      "translation": "ਮੇਰੀ"
+    },
+    {
+      "original": "सन्तानलक्ष्मी",
+      "transliteration": "ਅਹਿਕਲਿ",
+      "translation": "ਜਹਾਨ ਨੂੰ ਦੁਸ਼ਮਣੀ ਤੋਂ ਮੁਕਤ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "अहिखग",
+      "transliteration": "ਕਲਮਸ਼ਨਾਸ਼ਿਨੀ",
+      "translation": "ਪਾਪਾਂ ਨੂੰ ਮਿਟਾਉਣ ਵਾਲੀ"
+    },
+    {
+      "original": "गुणगणवारिधि",
+      "transliteration": "ਕਾਮਿਨੀ",
+      "translation": "ਪ੍ਰੀਤਮ"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "ਵਿਦਿਕਰੂਪੀਣੀ",
+      "translation": "ਵੈਦਿਕ ਰੂਪ ਵਾਲੀ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ਵੇਦਮਏ",
+      "translation": "ਵੇਦਾਂ ਨਾਲ ਭਰਪੂਰ"
+    },
+    {
+      "original": "विजयलक्ष्मी",
+      "transliteration": "ਖੀਰਸਮੁਦਭਵ",
+      "translation": "ਦੁੱਧ ਦੇ ਸਾਗਰ ਤੋਂ ਉੱਪਜੀ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਮੰਗਲਰੂਪੀਣੀ",
+      "translation": "ਸ਼ੁਭ ਰੂਪ ਵਾਲੀ"
+    },
+    {
+      "original": "अनुदिनमर्चित",
+      "transliteration": "ਮੰਤ੍ਰਨਿਵਾਸਿਨੀ",
+      "translation": "ਜੋ ਮੰਤ੍ਰਾਂ ਵਿੱਚ ਵਾਸ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "कनकधरास्तुति",
+      "transliteration": "ਮੰਤ੍ਰਨੁਤੇ",
+      "translation": "ਮੰਤ੍ਰਾਂ ਦੀ ਸੇਵਾ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ਮੰਗਲਦਾਇਣੀ",
+      "translation": "ਸ਼ੁਭ ਦਾਨ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "विद्यालक्ष्मी",
+      "transliteration": "ਅੰਬੁਜਵਾਸਿਨੀ",
+      "translation": "ਕਮਲ ਫੁੱਲ ਦੇ ਨਾਲ ਵਾਸ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "प्रणत",
+      "transliteration": "ਦੇਵਗਣਾਸ਼੍ਰਿਤ",
+      "translation": "ਦੇਵਤਿਆਂ ਦੁਆਰਾ ਸਹਾਇਤਾ ਲਈ ਪ੍ਰਭਾਵਿਤ"
+    },
+    {
+      "original": "मणिमयभूषित",
+      "transliteration": "ਪਾਦਯੁਤੇ",
+      "translation": "ਪੈਰਾਂ ਦੇ ਨਾਲ ਸੰਪੂਰਨ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "नवनिधिदायिनि",
+      "transliteration": "ਜਯਜਯ",
+      "translation": "ਜਯ ਤੇ ਜਯ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ਹੇ ਮਧੁਸੂਦਨ",
+      "translation": "ਹੇ ਮਧੁਸੂਦਨ"
+    },
+    {
+      "original": "धनलक्ष्मी",
+      "transliteration": "ਕਾਮਿਨੀ",
+      "translation": "ਪ੍ਰੀਤਮ"
+    },
+    {
+      "original": "धिमिधिमि",
+      "transliteration": "ਧਾਨ੍ਯਲਕ੍ਸ਼੍ਮਿ",
+      "translation": "ਅਨਾਜ ਦੀ ਲਕ੍ਸ਼ਮੀ"
+    },
+    {
+      "original": "घुमघुम",
+      "transliteration": "ਸਦਾ",
+      "translation": "ਸਦਾ"
+    },
+    {
+      "original": "वेदपुराणेतिहास",
+      "transliteration": "ਪਾਲਯ",
+      "translation": "ਰੱਖਿਆ ਕਰੋ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ਮਾਮ",
+      "translation": "ਮੇਰੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਯਵਰਵਰਣਿਨੀ",
+      "translation": "ਜਿਤੀ ਜਾਣ ਵਾਲੀ ਸ਼ਕਤੀ ਵਾਲੀ ਲਕ੍ਸ਼ਮੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਵੈਸ਼੍ਣਵੀ",
+      "translation": "ਵਿਸ਼ਣੂ ਦੀ ਸੰਤਾਨ, ਵਿਸ਼ਣੂ ਦੀ ਭਗਤੀ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਭਾਰ੍ਗਵੀ",
+      "translation": "ਭਰਗਵਾਨ ਸ਼ਿਵ ਦੀ ਸੰਤਾਨ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮੰਤ੍ਰਸਵਰੂਪੀਣੀ",
+      "translation": "ਜੋ ਮੰਤ੍ਰ ਰੂਪ ਵਿੱਚ ਵਾਸ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮੰਤ੍ਰਮਏ",
+      "translation": "ਮੰਤ੍ਰਾਂ ਨਾਲ ਭਰਪੂਰ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸੁਰਗਣਪੂਜਿਤ",
+      "translation": "ਦੇਵਤਿਆਂ ਦੁਆਰਾ ਸਨਮਾਨਿਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸ਼ੀਘ੍ਰਫਲਪ੍ਰਦ",
+      "translation": "ਤੁਰੰਤ ਫਲ ਦੇਣ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਗਿਆਨਵਿਕਾਸਿਨੀ",
+      "translation": "ਗਿਆਨ ਦੇ ਵਿਕਾਸ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸ਼ਾਸ੍ਤ੍ਰਨੁਤੇ",
+      "translation": "ਜੇਹੜੀ ਸਾਸ਼ਤਰ ਦੀ ਸੇਵਾ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਭਵਭਯਹਾਰਿਣੀ",
+      "translation": "ਸੰਸਾਰ ਦੇ ਭਯ ਨੂੰ ਦੂਰ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਾਪਵਿਮੋਚਨੀ",
+      "translation": "ਪਾਪਾਂ ਨੂੰ ਦੂਰ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸਾਧੁਜਨਾਸ਼੍ਰਿਤ",
+      "translation": "ਜੋ ਸਾਧੂਜਨ ਦੀ ਸਹਾਇਤਾ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਾਦਯੁਤੇ",
+      "translation": "ਪੈਰਾਂ ਦੇ ਨਾਲ ਸੰਪੂਰਨ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਯਜਯ",
+      "translation": "ਜਯ ਤੇ ਜਯ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹੇ ਮਧੁਸੂਦਨ",
+      "translation": "ਹੇ ਮਧੁਸੂਦਨ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਾਮਿਨੀ",
+      "translation": "ਪ੍ਰੀਤਮ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਧੈਰ੍ਯਲਕ੍ਸ਼੍ਮਿ",
+      "translation": "ਧੈਰਯ ਦੀ ਲਕ੍ਸ਼ਮੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸਦਾ",
+      "translation": "ਸਦਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਾਲਯ",
+      "translation": "ਰੱਖਿਆ ਕਰੋ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਾਮ",
+      "translation": "ਮੇਰੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਯਜਯ",
+      "translation": "ਜਯ ਤੇ ਜਯ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਦੁर्गतਿਨਾਸ਼ਿਨੀ",
+      "translation": "ਦੁਸ਼ਮਣੀਆਂ ਦੇ ਨਾਸ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਾਮਿਨੀ",
+      "translation": "ਪ੍ਰੀਤਮ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸਰਵਫਲਪ੍ਰਦ",
+      "translation": "ਸਭ ਫਲਾਂ ਦਾ ਦਾਨ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸ਼ਾਸ੍ਤ੍ਰਮਏ",
+      "translation": "ਸਾਸ਼ਤਰਾਂ ਨਾਲ ਭਰਪੂਰ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਰਥਗਜ",
+      "translation": "ਰਥ ਅਤੇ ਹਾਥੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਤੁਰਗਪਦਾਦਿ",
+      "translation": "ਘੋੜੇ ਅਤੇ ਰਾਜਪਦ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸਮਾਵ੍ਰਿਤ",
+      "translation": "ਸੰਪਰਕ ਵਿੱਚ ਆਉਣ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਰਿਜਨਮੰਡਿਤ",
+      "translation": "ਪਰਿਵਾਰ ਨਾਲ ਸਨਮਾਨਿਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਲੋਕਨੁਤੇ",
+      "translation": "ਲੋਕਾਂ ਦੁਆਰਾ ਸੇਵਾ ਕੀਤੀ ਜਾਂਦੀ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹਰਿਹਰ",
+      "translation": "ਹਰਿ ਅਤੇ ਹਰਿ ਦੇ ਰੂਪ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਬ੍ਰਹ੍ਮ",
+      "translation": "ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਸਿਰਜਣਹਾਰ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸੁਪੂਜਿਤ",
+      "translation": "ਸਨਮਾਨਿਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸੇਵਿਤ",
+      "translation": "ਸੇਵਾ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਤਾਪਨਿਵਾਰਿਣੀ",
+      "translation": "ਤਾਪ ਅਤੇ ਦੁੱਖ ਦੂਰ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਾਦਯੁਤੇ",
+      "translation": "ਪੈਰਾਂ ਦੇ ਨਾਲ ਸੰਪੂਰਨ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਯਜਯ",
+      "translation": "ਜਯ ਤੇ ਜਯ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹੇ ਮਧੁਸੂਦਨ",
+      "translation": "ਹੇ ਮਧੁਸੂਦਨ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਾਮਿਨੀ",
+      "translation": "ਪ੍ਰੀਤਮ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਗਜਲਕ੍ਸ਼੍ਮੀ",
+      "translation": "ਹਾਥੀ ਦੀ ਲਕ੍ਸ਼ਮੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਰੂਪੇਣੀ",
+      "translation": "ਰੂਪ ਵਿੱਚ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਾਲਯ",
+      "translation": "ਰੱਖਿਆ ਕਰੋ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਾਮ",
+      "translation": "ਮੇਰੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਅਹਿਖਗ ਵਾਹਿਨੀ",
+      "translation": "ਜੋ ਸੱਪੀ ਦੇ ਨਾਲ ਵਾਹਨ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮੋਹਿਨੀ",
+      "translation": "ਮੋਹ ਦੀ ਰੂਪ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਚਕ੍ਰਿਣੀ",
+      "translation": "ਚੱਕਰ ਦੀ ਰੂਪ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਰਾਗਵਿਵਧਿਨੀ",
+      "translation": "ਰਾਗ ਦੇ ਵਿਕਾਸ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਗਿਆਨਮਏ",
+      "translation": "ਗਿਆਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਗੁਣਗਣਵਾਰਿਧਿ",
+      "translation": "ਗੁਣਾਂ ਦੇ ਸਾਗਰ ਵਾਂਗ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਲੋਕਹਿਤੈਸ਼ਣੀ",
+      "translation": "ਲੋਕਾਂ ਦਾ ਫ਼ਾਇਦਾ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸਵਰਸਪਤ",
+      "translation": "ਆਪਣੇ ਸਵਰ ਨਾਲ ਭਰਪੂਰ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਭੂਸ਼ਿਤ",
+      "translation": "ਆਲੰਕ੍ਰਿਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਗਾਨਨੁਤੇ",
+      "translation": "ਗਾਯਾਂ ਨਾਲ ਸੇਵਾ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸਕਲ",
+      "translation": "ਸਭ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸੁਰਾਸੁਰ",
+      "translation": "ਦੇਵਤੇ ਅਤੇ ਰਾਸ਼ਟਰੀ ਸੰਤਾਨ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਦੇਵਮੁਨੀਸ਼੍ਵਰ",
+      "translation": "ਦੇਵਤੇ ਅਤੇ ਮੂਲ ਵਿਧੀ ਵਾਲਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਾਨਵਵੰਦੀਤ",
+      "translation": "ਮਨੁੱਖਾਂ ਦਾ ਸਨਮਾਨਿਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਾਦਯੁਤੇ",
+      "translation": "ਪੈਰਾਂ ਦੇ ਨਾਲ ਸੰਪੂਰਨ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਯਜਯ",
+      "translation": "ਜਯ ਤੇ ਜਯ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹੇ ਮਧੁਸੂਦਨ",
+      "translation": "ਹੇ ਮਧੁਸੂਦਨ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਾਮਿਨੀ",
+      "translation": "ਪ੍ਰੀਤਮ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸੰਤਾਨਲਕ੍ਸ਼੍ਮੀ",
+      "translation": "ਸਨਤਾਨ ਦੀ ਲਕ੍ਸ਼ਮੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਤਵੰ",
+      "translation": "ਤੂੰ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਾਲਯ",
+      "translation": "ਰੱਖਿਆ ਕਰੋ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਾਮ",
+      "translation": "ਮੇਰੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਯ",
+      "translation": "ਜਯ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਮਲਾਸਨੀ",
+      "translation": "ਕਮਲ ਦੀ ਲਕ੍ਸ਼ਮੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸਦਗਤਿਦਾਯਿਨੀ",
+      "translation": "ਭਲਾ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਗਿਆਨਵਿਕਾਸਿਨੀ",
+      "translation": "ਗਿਆਨ ਦਾ ਵਿਕਾਸ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਗਾਨਮਏ",
+      "translation": "ਗਾਣਿਆਂ ਨਾਲ ਭਰਪੂਰ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਅਨੁਦਿਨਮਰਚਿਤ",
+      "translation": "ਹਰ ਰੋਜ਼ ਪ੍ਰਸਿੱਧੀ ਨਾਲ ਅਰਚਿਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕੁਂਕੁਮਧੂਸਰ-",
+      "translation": "ਕੁੰਗੁਮ ਰੰਗ ਵਾਲੀ ਸ਼ੈਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਭੂਸ਼ਿਤ",
+      "translation": "ਸ਼ੋਭਾ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਵਾਸਿਤ",
+      "translation": "ਸੁੰਗਧ ਨਾਲ ਭਰਪੂਰ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਵਾਦਯਨੁਤੇ",
+      "translation": "ਸੰਗੀਤ ਦੀ ਸੇਵਾ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਨਕਧਰਾਸਤੁਤੀ",
+      "translation": "ਸੋਨੇ ਦੇ ਧਾਰਕ ਦੀ ਸੇਵਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਵੈਭਵ",
+      "translation": "ਸ਼ਾਨ-ਸ਼ੌਕਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਵੰਡੀਤ",
+      "translation": "ਸਨਮਾਨਿਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸ਼ੰਕਰ",
+      "translation": "ਸ਼ੰਕਰ ਦੇ ਰੂਪ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਦੇਸ਼ਿਕ",
+      "translation": "ਦੇਸ਼ ਦੇ ਅਧਿਕਾਰੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਾਨਯ",
+      "translation": "ਮਾਣਯੋਗ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਦੇ",
+      "translation": "ਪਦਾਂ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਯਜਯ",
+      "translation": "ਜਯ ਤੇ ਜਯ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹੇ ਮਧੁਸੂਦਨ",
+      "translation": "ਹੇ ਮਧੁਸੂਦਨ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਾਮਿਨੀ",
+      "translation": "ਪ੍ਰੀਤਮ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਵਿਜਯਲਕ੍ਸ਼੍ਮੀ",
+      "translation": "ਵਿਜੇਤਾ ਦੀ ਲਕ੍ਸ਼ਮੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸਦਾ",
+      "translation": "ਸਦਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਾਲਯ",
+      "translation": "ਰੱਖਿਆ ਕਰੋ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਾਮ",
+      "translation": "ਮੇਰੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪ੍ਰਣਤ",
+      "translation": "ਆਦਰ ਸਨਮਾਨ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸੁਰੇਸ਼੍ਵਰੀ",
+      "translation": "ਦੇਵਤਿਆਂ ਦੀ ਮਾਲਕਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਭਾਰਤੀ",
+      "translation": "ਭਾਰਤ ਦੀ ਦੇਵੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਭਾਰਗਵੀ",
+      "translation": "ਬ੍ਰਹਮਾਂ ਦੀ ਬੇਟੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸ਼ੋਕਵਿਨਾਸ਼ਿਨੀ",
+      "translation": "ਦੁੱਖ ਨੂੰ ਦੂਰ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਰਤਨਮਏ",
+      "translation": "ਰਤਨ ਦਾ ਰੂਪ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਣਿਮਯਭੂਸ਼ਿਤ",
+      "translation": "ਮਣੀਆਂ ਨਾਲ ਆਲੰਕ੍ਰਿਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਣਰਵਿਭੂਸ਼ਣ",
+      "translation": "ਕੰਨ ਨੂੰ ਆਲੰਕ੍ਰਿਤ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸ਼ਾਂਤਿਸਮਾਵ੍ਰਿਤ",
+      "translation": "ਸ਼ਾਂਤੀ ਨਾਲ ਆਵਰਿਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹਾਸ੍ਯਮੁਖੇ",
+      "translation": "ਹੱਸਦੇ ਹੋਏ ਮੁਖ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਨਵਨਿਧਿਦਾਯਿਨੀ",
+      "translation": "ਨਵੀਂ ਦਾਨ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਲਿਮਲਹਾਰਿਣੀ",
+      "translation": "ਕਲੀ ਦਾ ਦੂਰ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਾਮਿਤ",
+      "translation": "ਇੱਛਾ ਪੂਰਨ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਫਲਪ੍ਰਦ",
+      "translation": "ਫਲ ਦੇਣ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹਸਤਯੁਤੇ",
+      "translation": "ਹੱਥਾਂ ਨਾਲ ਸੰਪੂਰਨ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਯਜਯ",
+      "translation": "ਜਯ ਤੇ ਜਯ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹੇ ਮਧੁਸੂਦਨ",
+      "translation": "ਹੇ ਮਧੁਸੂਦਨ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਾਮਿਨੀ",
+      "translation": "ਪ੍ਰੀਤਮ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਵਿਦ੍ਯਾਲਕ੍ਸ਼੍ਮੀ",
+      "translation": "ਗਿਆਨ ਦੀ ਲਕ੍ਸ਼ਮੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸਦਾ",
+      "translation": "ਸਦਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਾਲਯ",
+      "translation": "ਰੱਖਿਆ ਕਰੋ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਾਮ",
+      "translation": "ਮੇਰੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਧਿਮਿਧਿਮਿ",
+      "translation": "ਧਮ ਧਮ ਸਵਰ ਵਿੱਚ ਧੁਨੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਧਿੰਧਿਮਿ",
+      "translation": "ਧੂਣੀ ਦੀ ਧੁਨੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਧਿੰਧਿਮਿ",
+      "translation": "ਧੂਣੀ ਦੀ ਧੁਨੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਧਿੰਧਿਮਿ",
+      "translation": "ਧੂਣੀ ਦੀ ਧੁਨੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਦੁੰਦੁਭਿ",
+      "translation": "ਤਾਓ ਦੀ ਧੁਨੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਨਾਦ",
+      "translation": "ਸੰਗੀਤ ਦੀ ਧੁਨੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸੁਪੂਰਨਮਏ",
+      "translation": "ਪਰਿਪੂਰਨ ਸੁੰਦਰਤਾ ਨਾਲ ਭਰਪੂਰ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਘੁਮਘੁਮ",
+      "translation": "ਘੁਮਣੇ ਵਾਲੀ ਧੁਨੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਘੁਘੁਮ",
+      "translation": "ਘੁਮਣੇ ਵਾਲੀ ਧੁਨੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਘੁਘੁਮ",
+      "translation": "ਘੁਮਣੇ ਵਾਲੀ ਧੁਨੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸ਼ੰਖਨਿਨਾਦ",
+      "translation": "ਸ਼ੰਖ ਦੀ ਧੁਨੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸੁਵਾਦ੍ਯਨੁਤੇ",
+      "translation": "ਸੁਵਾਦ ਨਾਲ ਸੰਗੀਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਵੇਦਪੁਰਾਣੇਤਿਹਾਸ",
+      "translation": "ਵੇਦ ਅਤੇ ਪੁਰਾਣਿਆਂ ਦਾ ਇਤਿਹਾਸ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸੁਪੂਜਿਤ",
+      "translation": "ਸਨਮਾਨਿਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਵੈਦਿਕਮਾਰਗ",
+      "translation": "ਵੈਦਿਕ ਰਸਤੇ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪ੍ਰਦਰਸ਼ਯੁਤੇ",
+      "translation": "ਪ੍ਰਗਟ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਯਜਯ",
+      "translation": "ਜਯ ਤੇ ਜਯ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹੇ ਮਧੁਸੂਦਨ",
+      "translation": "ਹੇ ਮਧੁਸੂਦਨ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕਾਮਿਨੀ",
+      "translation": "ਪ੍ਰੀਤਮ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਧਨਲਕ੍ਸ਼੍ਮੀ",
+      "translation": "ਧਨ ਦੀ ਲਕ੍ਸ਼ਮੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਰੂਪੇਣ",
+      "translation": "ਰੂਪ ਵਿੱਚ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਾਲਯ",
+      "translation": "ਰੱਖਿਆ ਕਰੋ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਾਮ",
+      "translation": "ਮੇਰੀ"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\punjabi\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\punjabi\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.332Z"
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "mantra": "astha_laxmi_stotram",
+  "language": "german",
+  "type": "word_to_word",
+  "totalWords": 40,
+  "alignedWords": [
+    {
+      "original": "आदिलक्ष्मी",
+      "transliteration": "Adilakshmi",
+      "translation": "Ursprüngliche Lakshmi"
+    },
+    {
+      "original": "सुमनस",
+      "transliteration": "Sumanas",
+      "translation": "Reinen Geistes"
+    },
+    {
+      "original": "मुनिगणमण्डित",
+      "transliteration": "Muniganamandita",
+      "translation": "Geschmückt von Weisen"
+    },
+    {
+      "original": "पंकजवासिनी",
+      "transliteration": "Pankajavasini",
+      "translation": "Auf einer Lotusblume wohnend"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "Jayajaya",
+      "translation": "Sieg, Sieg"
+    },
+    {
+      "original": "धान्यलक्ष्मी",
+      "transliteration": "Dhanyalakshmi",
+      "translation": "Lakshmi des Getreides"
+    },
+    {
+      "original": "अहिकलि",
+      "transliteration": "Ahikali",
+      "translation": "Zerstörerin von Schlangen und Feinden"
+    },
+    {
+      "original": "क्षीरसमुद्भव",
+      "transliteration": "Kshirasamudbhava",
+      "translation": "Aus dem Milchozean geboren"
+    },
+    {
+      "original": "मंगलदायिनी",
+      "transliteration": "Mangaladayini",
+      "translation": "Spenderin von Glück"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "Jayajaya",
+      "translation": "Sieg, Sieg"
+    },
+    {
+      "original": "धैर्यलक्ष्मी",
+      "transliteration": "Dhairyalakshmi",
+      "translation": "Lakshmi des Mutes"
+    },
+    {
+      "original": "जयवरवर्णिनि",
+      "transliteration": "Jayavaravarnini",
+      "translation": "Siegbringende Schönheit"
+    },
+    {
+      "original": "सुरगणपूजित",
+      "transliteration": "Suraganapujita",
+      "translation": "Verehrt von Gruppen von Göttern"
+    },
+    {
+      "original": "भवभयहारिणि",
+      "transliteration": "Bhavabhayaharini",
+      "translation": "Entfernerin weltlicher Ängste"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "Jayajaya",
+      "translation": "Sieg, Sieg"
+    },
+    {
+      "original": "गजलक्ष्मी",
+      "transliteration": "Gajalakshmi",
+      "translation": "Lakshmi der Elefanten"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "Jayajaya",
+      "translation": "Sieg, Sieg"
+    },
+    {
+      "original": "रथगज",
+      "transliteration": "Rathagaja",
+      "translation": "Wagen und Elefanten"
+    },
+    {
+      "original": "हरिहर",
+      "transliteration": "Harihara",
+      "translation": "Vishnu und Shiva"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "Jayajaya",
+      "translation": "Sieg, Sieg"
+    },
+    {
+      "original": "सन्तानलक्ष्मी",
+      "transliteration": "Santanalakshmi",
+      "translation": "Lakshmi der Nachkommen"
+    },
+    {
+      "original": "अहिखग",
+      "transliteration": "Ahikhaga",
+      "translation": "Schlangen und Vögel"
+    },
+    {
+      "original": "गुणगणवारिधि",
+      "transliteration": "Gunaganavaridhi",
+      "translation": "Ozean der Tugenden"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "Sakala",
+      "translation": "Alles"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "Jayajaya",
+      "translation": "Sieg, Sieg"
+    },
+    {
+      "original": "विजयलक्ष्मी",
+      "transliteration": "Vijayalakshmi",
+      "translation": "Lakshmi des Sieges"
+    },
+    {
+      "original": "जय",
+      "transliteration": "Jaya",
+      "translation": "Sieg"
+    },
+    {
+      "original": "अनुदिनमर्चित",
+      "transliteration": "Anudinamarchita",
+      "translation": "Täglich verehrt"
+    },
+    {
+      "original": "कनकधरास्तुति",
+      "transliteration": "Kanakadharastuti",
+      "translation": "Hymne des goldenen Segens"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "Jayajaya",
+      "translation": "Sieg, Sieg"
+    },
+    {
+      "original": "विद्यालक्ष्मी",
+      "transliteration": "Vidyalakshmi",
+      "translation": "Lakshmi des Wissens"
+    },
+    {
+      "original": "प्रणत",
+      "transliteration": "Pranata",
+      "translation": "Verneigt"
+    },
+    {
+      "original": "मणिमयभूषित",
+      "transliteration": "Manimayabhushita",
+      "translation": "Geschmückt mit Edelsteinen"
+    },
+    {
+      "original": "नवनिधिदायिनि",
+      "transliteration": "Navanidhidayini",
+      "translation": "Spenderin der neun Schätze"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "Jayajaya",
+      "translation": "Sieg, Sieg"
+    },
+    {
+      "original": "धनलक्ष्मी",
+      "transliteration": "Dhanalakshmi",
+      "translation": "Lakshmi des Reichtums"
+    },
+    {
+      "original": "धिमिधिमि",
+      "transliteration": "Dhimidhimi",
+      "translation": "Rhythmische Trommelklänge"
+    },
+    {
+      "original": "घुमघुम",
+      "transliteration": "Ghumaghuma",
+      "translation": "Hallende Trommelschläge"
+    },
+    {
+      "original": "वेदपुराणेतिहास",
+      "transliteration": "Vedapuranaetihasa",
+      "translation": "Veden, Puranas und Geschichten"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "Jayajaya",
+      "translation": "Sieg, Sieg"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\german\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\german\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.297Z"
+  }
+}

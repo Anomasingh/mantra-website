@@ -1,0 +1,344 @@
+{
+  "mantra": "shiv_panchakshar",
+  "language": "punjabi",
+  "type": "word_to_word",
+  "totalWords": 66,
+  "alignedWords": [
+    {
+      "original": "नागेन्द्रहाराय",
+      "transliteration": "ਨਾਗੇੰਦਰਹਾਰਾਯ",
+      "translation": "ਨਾਗਰਾਜ ਦੀ ਹਾਰ ਰੂਪ ਵਿੱਚ ਹੌਣ ਵਾਲੇ"
+    },
+    {
+      "original": "त्रिलोचनाय",
+      "transliteration": "ਤ੍ਰਿਲੋਚਨਾਯ",
+      "translation": "ਤਿੰਨ ਅੱਖਾਂ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "भस्माङ्गरागाय",
+      "transliteration": "ਭਸਮਾਂਗਰਾਗਾਯ",
+      "translation": "ਬਸਮ ਨਾਲ ਸਿੰਗਾਰ ਕਰਨ ਵਾਲੇ ਮਹੇਸ਼੍ਵਰ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "ਮਹੇਸ਼੍ਵਰਾਯ",
+      "translation": "ਮਹੇਸ਼੍ਵਰ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "नित्याय",
+      "transliteration": "ਨਿਤ੍ਯਾਯ",
+      "translation": "ਸਦਾ ਸਚੇ ਅਤੇ ਪਵਿੱਤਰ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "शुद्धाय",
+      "transliteration": "ਸ਼ੁੱਧਾਯ",
+      "translation": "ਪਵਿੱਤਰ ਅਤੇ ਦਿਗੰਬਰ ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "ਦਿਗੰਬਰਾਯ",
+      "translation": "ਦਿਗੰਬਰ ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "ਤਸ੍ਮੈ",
+      "translation": "'ਨ' ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "न काराय",
+      "transliteration": "ਨ ਕਾਰਾਯ",
+      "translation": "'ਨ' ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "ਨਮ: ਸ਼ਿਵਾਯ",
+      "translation": "ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "मन्दाकिनी",
+      "transliteration": "ਮੰਦਾਕਿਨੀ",
+      "translation": "ਮੰਦਾਕਿਨੀ ਦੇ ਪਾਣੀ ਅਤੇ ਚੰਦਨ ਨਾਲ ਸਜਿਆ ਹੋਇਆ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "सलीलचन्दन",
+      "transliteration": "ਸਲਿਲਚੰਦਨ",
+      "translation": "ਚੰਦਨ ਨਾਲ ਰਚਿਆ ਹੋਇਆ"
+    },
+    {
+      "original": "चर्चिताय",
+      "transliteration": "ਚਰਚਿਤਾਯ",
+      "translation": "ਸਾਰੇ ਦੁਨੀਆਂ ਵਿੱਚ ਪ੍ਰਸਿੱਧ"
+    },
+    {
+      "original": "नन्दीश्वर",
+      "transliteration": "ਨੰਦੀਸ਼੍ਵਰ",
+      "translation": "ਨੰਦੀ ਦਾ ਈਸ਼ਵਰ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "प्रमथनाथ",
+      "transliteration": "ਪ੍ਰਮਥਨਾਥ",
+      "translation": "ਪ੍ਰਮਥ ਗਣਾਂ ਦੇ ਪ੍ਰਭੂ ਮਹੇਸ਼੍ਵਰ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "ਮਹੇਸ਼੍ਵਰਾਯ",
+      "translation": "ਮਹੇਸ਼੍ਵਰ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "मन्दारपुष्प",
+      "transliteration": "ਮੰਦਾਰਪੁਸ਼ਪ",
+      "translation": "ਮੰਦਾਰ ਅਤੇ ਹੋਰ ਪੂਸਪਾਂ ਨਾਲ ਪੂਜਿਆ ਹੋਇਆ"
+    },
+    {
+      "original": "बहुपुष्प",
+      "transliteration": "ਬਹੁਪੁਸ਼ਪ",
+      "translation": "ਬਹੁਤ ਸਾਰੇ ਫੁੱਲਾਂ ਨਾਲ ਪੂਜਿਆ ਹੋਇਆ"
+    },
+    {
+      "original": "सुपूजिताय",
+      "transliteration": "ਸੂਪੂਜਿਤਾਯ",
+      "translation": "ਪੁਜਿਆ ਹੋਇਆ"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "ਤਸ੍ਮੈ",
+      "translation": "'ਮ' ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "म काराय",
+      "transliteration": "ਮ ਕਾਰਾਯ",
+      "translation": "'ਮ' ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "ਨਮ: ਸ਼ਿਵਾਯ",
+      "translation": "ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "ਸ਼ਿਵਾਯ",
+      "translation": "ਸ਼ਿਵਾ ਦਾ ਰੂਪ"
+    },
+    {
+      "original": "गोरिवदनाब्जवृंद",
+      "transliteration": "ਗੌਰੀਵਦਨਾਬ੍ਜਵ੍ਰਿੰਦ",
+      "translation": "ਗੌਰੀ ਦੇ ਚੰਬਲ ਰੂਪ ਵਾਲਾ"
+    },
+    {
+      "original": "सूर्याय",
+      "transliteration": "ਸੂਰਯਾਯ",
+      "translation": "ਸੂਰਜ ਦਾ ਰੂਪ ਵਾਲਾ"
+    },
+    {
+      "original": "दक्षाध्वरनाशकाय",
+      "transliteration": "ਦਕ੍ਸ਼ਾਧ੍ਵਰਨਾਸਕਾਯ",
+      "translation": "ਦੱਖਣੀ ਯਗਯਾਂ ਨੂੰ ਨਸ਼ਟ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "original": "श्रीनीलकंठाय",
+      "transliteration": "ਸ਼੍ਰੀਨੀਲਕਣਠਾਯ",
+      "translation": "ਨੀਲਕੰਠ ਵਾਲਾ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "वृषध्वजाय",
+      "transliteration": "ਵਰਸ਼ਧ੍ਵਜਾਯ",
+      "translation": "ਬਲਿਸ਼ਟ ਝੰਡਾ ਵਾਲਾ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "ਤਸ੍ਮੈ",
+      "translation": "'ਸ਼ਿ' ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "शि काराय",
+      "transliteration": "ਸ਼ਿ ਕਾਰਾਯ",
+      "translation": "'ਸ਼ਿ' ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "ਨਮ: ਸ਼ਿਵਾਯ",
+      "translation": "ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "वसिष्ठ",
+      "transliteration": "ਵਸਿਸ਼੍ਟ",
+      "translation": "ਵਸਿਸ਼੍ਟ ਰਿਸ਼ੀ"
+    },
+    {
+      "original": "कुम्भोद्भव",
+      "transliteration": "ਕੁੰਭੋਧ੍ਭਵ",
+      "translation": "ਕੂੰਭ ਦਾ ਉਤਪੰਨ"
+    },
+    {
+      "original": "गौतमार्य",
+      "transliteration": "ਗੌਤਮਾਰ੍ਯ",
+      "translation": "ਗੌਤਮ ਰਿਸ਼ੀ"
+    },
+    {
+      "original": "मुनीन्द्र",
+      "transliteration": "ਮੁਨੀੰਦਰ",
+      "translation": "ਮੂਨੀ ਅਤੇ ਦੇਵਤਾ ਦੁਆਰਾ ਪੂਜਿਆ ਗਿਆ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "देव",
+      "transliteration": "ਦੇਵ",
+      "translation": "ਦੇਵਤਾ"
+    },
+    {
+      "original": "अर्चित",
+      "transliteration": "ਅਰਚਿਤ",
+      "translation": "ਪੂਜਿਆ ਗਿਆ"
+    },
+    {
+      "original": "शेखराय",
+      "transliteration": "ਸ਼ੇਖਰਾਯ",
+      "translation": "ਸ਼ਹਿਰ ਦਾ ਸਿਰ"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "ਚੰਦਰ",
+      "translation": "ਚੰਦ੍ਰਮਾ"
+    },
+    {
+      "original": "अर्क",
+      "transliteration": "ਅਰਕ",
+      "translation": "ਸੂਰਜ"
+    },
+    {
+      "original": "वैश्वानर",
+      "transliteration": "ਵੈਸ਼ਵਾਨਰ",
+      "translation": "ਅੱਗ ਦੀ ਰੂਪ ਵਿੱਚ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "लोचनाय",
+      "transliteration": "ਲੋਚਨਾਯ",
+      "translation": "ਅੱਖਾਂ ਵਾਲਾ"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "ਤਸ੍ਮੈ",
+      "translation": "'ਵ' ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "व काराय",
+      "transliteration": "ਵ ਕਾਰਾਯ",
+      "translation": "'ਵ' ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "ਨਮ: ਸ਼ਿਵਾਯ",
+      "translation": "ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "यक्ष",
+      "transliteration": "ਯਕਸ਼ਸ੍ਵਰੂਪਾਯ",
+      "translation": "ਯਕਸ਼ ਦੇ ਰੂਪ ਵਿੱਚ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "स्वरूपाय",
+      "transliteration": "ਜਟਾਧਰਾਯ",
+      "translation": "ਜਟਾਂ ਵਾਲਾ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "जटाधराय",
+      "transliteration": "ਪਿਨਾਕਹਸ੍ਤਾਯ",
+      "translation": "ਪਿਨਾਕ ਧਨੁਸ਼ ਨਾਲ ਹਥਿਆਰਧਾਰੀ"
+    },
+    {
+      "original": "पिनाकहस्ताय",
+      "transliteration": "ਸਨਾਤਨਾਯ",
+      "translation": "ਸਨਾਤਨ ਰੂਪ ਵਾਲਾ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "सनातनाय",
+      "transliteration": "ਦਿਵ੍ਯਾਯ",
+      "translation": "ਦੁਵੀਏ"
+    },
+    {
+      "original": "दिव्याय",
+      "transliteration": "ਦੇਵਾਯ",
+      "translation": "ਦੇਵਤਾ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "देवाय",
+      "transliteration": "ਦਿਗੰਬਰਾਯ",
+      "translation": "ਦਿਗੰਬਰ ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "ਤਸ੍ਮੈ",
+      "translation": "'ਯ' ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "ਯ ਕਾਰਾਯ",
+      "translation": "'ਯ' ਰੂਪ ਵਾਲੇ ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "य काराय",
+      "transliteration": "ਨਮ: ਸ਼ਿਵਾਯ",
+      "translation": "ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਨਮਸਕਾਰ"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "ਪੰਜਾਖ੍ਸ਼ਰਮਿਦੰ",
+      "translation": "ਪੰਜ ਅੱਖਰੀ ਮੰਤਰ"
+    },
+    {
+      "original": "पञ्चाक्षरमिदं",
+      "transliteration": "ਪੂੰਞੰ",
+      "translation": "ਪਵਿੱਤਰਤਾ"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "ਯ:",
+      "translation": "ਜੋ"
+    },
+    {
+      "original": "यः",
+      "transliteration": "ਪਠੇਤ्",
+      "translation": "ਪੜ੍ਹੇ"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "ਸ਼ਿਵਸੰਨਿਧੌ",
+      "translation": "ਸ਼ਿਵ ਦੀ ਹਾਜ਼ਰੀ ਵਿੱਚ"
+    },
+    {
+      "original": "शिवसन्निधौ",
+      "transliteration": "ਸ਼ਿਵਲੋਕੰ",
+      "translation": "ਸ਼ਿਵ ਦਾ ਲੋਕ"
+    },
+    {
+      "original": "शिवलोकं",
+      "transliteration": "ਅਵਾਪ੍ਨੋਤੀ",
+      "translation": "ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "अवाप्नोति",
+      "transliteration": "ਸ਼ਿਵੇਨ",
+      "translation": "ਸ਼ਿਵ ਨਾਲ"
+    },
+    {
+      "original": "शिवेन",
+      "transliteration": "ਸਹ",
+      "translation": "ਖੁਸ਼ੀ ਨਾਲ"
+    },
+    {
+      "original": "सह",
+      "transliteration": "ਮੋਡਤੇ",
+      "translation": "ਆਨੰਦ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "मोदीते",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\punjabi\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\punjabi\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.623Z"
+  }
+}

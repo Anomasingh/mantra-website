@@ -1,0 +1,1089 @@
+{
+  "mantra": "daxinmurti_stotram",
+  "language": "bengali",
+  "type": "word_to_word",
+  "totalWords": 215,
+  "alignedWords": [
+    {
+      "original": "ध्यानम्",
+      "transliteration": "ধ্যানম্",
+      "translation": "মনন বা ধ্যান, যা পরম ব্রহ্মের অভ্যন্তরীণ উপলব্ধি বা চেতনাকে প্রকাশিত করে"
+    },
+    {
+      "original": "मौनव्याख्या",
+      "transliteration": "মৌনব্যাখ্যা",
+      "translation": "চুপ থাকা, যা পরম ব্রহ্মের প্রকৃত সত্যের বিশ্লেষণ বা ব্যাখ্যা প্রকাশ করে"
+    },
+    {
+      "original": "प्रकटित",
+      "transliteration": "প্রকাশিত",
+      "translation": "যা প্রকাশিত হয়েছে, প্রকাশিত সত্য বা তত্ত্ব"
+    },
+    {
+      "original": "परब्रह्मतत्त्वं",
+      "transliteration": "পরব্রহ্মতত্ত্বং",
+      "translation": "পরম ব্রহ্মের তত্ত্ব, যা সমস্ত সৃষ্টির আদি এবং শেষ"
+    },
+    {
+      "original": "युवानं",
+      "transliteration": "যুবানং",
+      "translation": "যুবক বা তরুণ, যা চিরন্তন জীবনের জন্য প্রয়োজনীয় শক্তি এবং উৎসাহকে নির্দেশ করে"
+    },
+    {
+      "original": "वर्षिष्ठांते",
+      "transliteration": "বর্ষিষ্ঠান্তে",
+      "translation": "প্রাচীন বা সবচেয়ে অভিজ্ঞ, যিনি বয়সে প্রাচীন এবং জ্ঞানী হয়েছেন"
+    },
+    {
+      "original": "वसद्",
+      "transliteration": "বসদ্",
+      "translation": "বাস করা, বসবাসের অবস্থায় থাকা"
+    },
+    {
+      "original": "ऋषिगणौः",
+      "transliteration": "ঋষিগণৌঃ",
+      "translation": "ঋষিগণের মধ্যে, যারা সত্যের অনুসন্ধান ও শিক্ষা প্রদানকারী"
+    },
+    {
+      "original": "आवृतं",
+      "transliteration": "আবৃতং",
+      "translation": "আবৃত বা আবদ্ধ, যা প্রकटিত হয়নি বা যা গোপন রাখা হয়েছে"
+    },
+    {
+      "original": "ब्रह्मनिष्ठैः",
+      "transliteration": "ব্রহ্মনিষ্ঠৈঃ",
+      "translation": "যারা ব্রহ্মের মধ্যে অবস্থিত, যারা আত্মবিশ্বাসী এবং আত্মজ্ঞানী"
+    },
+    {
+      "original": "आचार्येन्द्रं",
+      "transliteration": "আচার্যেন্দ্রং",
+      "translation": "আচার্য, শিক্ষাদাতা, যিনি আধ্যাত্মিক জ্ঞানের গুরু"
+    },
+    {
+      "original": "करकलित",
+      "transliteration": "করকলিত",
+      "translation": "যিনি বা যা হাতে তৈরি বা তৈরি করা হয়েছে"
+    },
+    {
+      "original": "चिन्मुद्रमानंदमूर्तिं",
+      "transliteration": "চিন্মুদ্রামানন্দমূর্তিং",
+      "translation": "চেতনাময় মুদ্রার রূপ, যা আধ্যাত্মিক জ্ঞানের আস্বাদন ও প্রশান্তি প্রকাশ করে"
+    },
+    {
+      "original": "स्वात्मारामं",
+      "transliteration": "স্বাত্মারামং",
+      "translation": "নিজের আত্মার আনন্দ, যিনি নিজস্ব আত্মজ্ঞান এবং আনন্দ লাভ করেন"
+    },
+    {
+      "original": "मुदितवदनं",
+      "transliteration": "মুদিতবদনং",
+      "translation": "আনন্দিত মুখ, যারা হাস্যোজ্জ্বল এবং সুখী"
+    },
+    {
+      "original": "दक्षिणामूर्तिमीडे",
+      "transliteration": "দক্ষিণামূর্তিমিডে",
+      "translation": "দক্ষিণামূর্তি, যা সকল অন্ধকার দূরীভূত করে এবং আত্মজ্ঞান প্রদান করে"
+    },
+    {
+      "original": "विश्वं",
+      "transliteration": "বিশ্বং",
+      "translation": "বিশ্ব (বিশ্বের সত্তা), যা সকল কিছু ধারণ করে"
+    },
+    {
+      "original": "दर्पणदृश्यमान",
+      "transliteration": "দarpণদৃশ্যমাননগরীতুল্যং",
+      "translation": "আয়নার মতো, যা নিজের ভিতরকার পৃথিবীকে দেখে, তেমনই এই জগতের প্রকৃতি প্রতিভাসিত হয়।"
+    },
+    {
+      "original": "नगरीतुल्यं",
+      "transliteration": "নিজান্তর্গতং",
+      "translation": "নিজের অন্তর্গত সত্তা, যা বাহ্যিক জগৎ এর সাথে সম্পর্কিত নয়।"
+    },
+    {
+      "original": "निजान्तर्गतं",
+      "transliteration": "পশ্যন্নात्मনি",
+      "translation": "নিজে আত্মার মধ্যে নিজেকে দেখছে, যা আত্মবিশ্বাসের অনুভূতি।"
+    },
+    {
+      "original": "पश्यन्नात्मनि",
+      "transliteration": "মায়য়া",
+      "translation": "মায়া, যা বিভ্রম বা মিথ্যা প্রকৃতি তৈরি করে"
+    },
+    {
+      "original": "मायया",
+      "transliteration": "বহিরিভূতং",
+      "translation": "বাহ্যিক সৃষ্টি, যা আমাদের অনুভূতির মধ্যে বাহিরে সৃষ্টি হয়।"
+    },
+    {
+      "original": "बहिरिवोद्भूतं",
+      "transliteration": "যেমন",
+      "translation": "যেমন, যেভাবে, উদাহরণস্বরূপ"
+    },
+    {
+      "original": "यथा निद्रया",
+      "transliteration": "নিদ্রয়া",
+      "translation": "ঘুমের মতো, যখন সমস্ত কিছু অন্ধকারে ও বিভ্রান্তিতে নিমজ্জিত হয়ে পড়ে।"
+    },
+    {
+      "original": "यः",
+      "transliteration": "যঃ",
+      "translation": "যিনি, যেই ব্যক্তি প্রকৃত সত্যকে দেখায়।"
+    },
+    {
+      "original": "साक्षात्कुरुते",
+      "transliteration": "সাক্ষাত্কুরুতে",
+      "translation": "সোজাসুজি সত্য প্রকাশ করেন, যিনি সত্যকে সরাসরি দেখতে সক্ষম।"
+    },
+    {
+      "original": "प्रबोधसमये",
+      "transliteration": "প্রबোধসময়ে",
+      "translation": "জাগরণের সময়, যখন সত্য প্রকাশিত হয়।"
+    },
+    {
+      "original": "स्वात्मानमेवाद्वयं",
+      "transliteration": "স্বात्मানমেবাদ্বয়ং",
+      "translation": "নিজের আত্মকে এক রূপে অনুভব করা, একত্বের অনুভূতি।"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "তস্বৈ",
+      "translation": "তাঁকে (গুরু), যিনি পৃথিবীকে এবং আত্মকে দেখিয়ে পথ নির্দেশ করেন।"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "শ্রীগুরুমূর্তই",
+      "translation": "শ্রী গুরুমূর্তি, সেই গুরু, যিনি সমস্ত বিভ্রমকে দূর করেন এবং সত্যের পথে পরিচালিত করেন।"
+    },
+    {
+      "original": "नम",
+      "transliteration": "নম",
+      "translation": "প্রণাম, শ্রদ্ধা, সম্মান।"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "ইদং",
+      "translation": "এটি (এই গুরুমূর্তি), যা সমস্ত বিশ্বকে এবং আত্মাকে একত্বের মধ্যে একসাথে এনে দেয়।"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "শ্রীদক্ষিণামূর্তই",
+      "translation": "শ্রী দক্ষিণামূর্তি, যিনি সমস্ত বিভ্রান্তি এবং অন্ধকার দূর করে আলোক প্রদান করেন।"
+    },
+    {
+      "original": "बीजस्य",
+      "transliteration": "বীজের ভিতরের অঙ্কুর",
+      "translation": "বীজের ভিতরের অঙ্কুর"
+    },
+    {
+      "original": "अन्तरिवाङ्कुरो",
+      "transliteration": "পৃথিবী",
+      "translation": "পৃথিবী"
+    },
+    {
+      "original": "जगदिदं",
+      "transliteration": "পুনরায় সৃষ্টি",
+      "translation": "পুনরায় সৃষ্টি"
+    },
+    {
+      "original": "प्राङ्गनिर्विकल्पं",
+      "transliteration": "পুনরায়",
+      "translation": "পুনরায়"
+    },
+    {
+      "original": "पुनः",
+      "transliteration": "মায়ার তৈরি স্থান ও কাল",
+      "translation": "মায়ার তৈরি স্থান ও কাল"
+    },
+    {
+      "original": "मायाकल्पित",
+      "transliteration": "বৈচিত্র্যরূপী",
+      "translation": "বৈচিত্র্যরূপী"
+    },
+    {
+      "original": "देशकालकलना",
+      "transliteration": "মায়ার মতো",
+      "translation": "মায়ার মতো"
+    },
+    {
+      "original": "वैचित्र्यचित्रीकृतम्",
+      "transliteration": "প্রকাশিত করে",
+      "translation": "প্রকাশিত করে"
+    },
+    {
+      "original": "मायावीव",
+      "transliteration": "মহাযোগীর মতো",
+      "translation": "মহাযোগীর মতো"
+    },
+    {
+      "original": "विजृम्भयत्यपि",
+      "transliteration": "যে",
+      "translation": "যে"
+    },
+    {
+      "original": "महायोगीव",
+      "transliteration": "স্বেচ্ছায়",
+      "translation": "স্বেচ্ছায়"
+    },
+    {
+      "original": "यः",
+      "transliteration": "তাকে",
+      "translation": "তাকে"
+    },
+    {
+      "original": "स्वेच्छया",
+      "transliteration": "শ্রীগুরুমূর্তির প্রতি",
+      "translation": "শ্রীগুরুমূর্তির প্রতি"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "নম",
+      "translation": "নম"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "এই",
+      "translation": "এই"
+    },
+    {
+      "original": "नम",
+      "transliteration": "শ্রীদক্ষিণামূর্তির প্রতি",
+      "translation": "শ্রীদক্ষিণামূর্তির প্রতি"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "যারই",
+      "translation": "যারই"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "উদ্ভাসিত",
+      "translation": "উদ্ভাসিত"
+    },
+    {
+      "original": "यस्यैव",
+      "transliteration": "সত্যস্বরূপ",
+      "translation": "সত্যস্বরূপ"
+    },
+    {
+      "original": "स्फुरणं",
+      "transliteration": "মিথ্যা কল্পনা",
+      "translation": "মিথ্যা কল্পনা"
+    },
+    {
+      "original": "सदात्मकम्",
+      "transliteration": "প্রকাশিত হয়",
+      "translation": "প্রকাশিত হয়"
+    },
+    {
+      "original": "असत्कल्पार्थकं",
+      "transliteration": "সাক্ষাৎ সত্য সে",
+      "translation": "সাক্ষাৎ সত্য সে"
+    },
+    {
+      "original": "भासते",
+      "transliteration": "বেদের শর্তে বা শিক্ষায়",
+      "translation": "বেদের শর্তে বা শিক্ষায়"
+    },
+    {
+      "original": "साक्षात्तत्त्वमसीति",
+      "transliteration": "যে",
+      "translation": "যে"
+    },
+    {
+      "original": "वेदवचसा",
+      "transliteration": "যিনি শরণাগতদের সত্য বোঝাতে সহায়ক",
+      "translation": "যিনি শরণাগতদের সত্য বোঝাতে সহায়ক"
+    },
+    {
+      "original": "यो",
+      "transliteration": "যে ব্যক্তি প্রকৃত সত্যকে সরাসরি উপলব্ধি করে",
+      "translation": "যে ব্যক্তি প্রকৃত সত্যকে সরাসরি উপলব্ধি করে"
+    },
+    {
+      "original": "बोधयत्याश्रितान्",
+      "transliteration": "পৃথিবীজন্মের চক্রের বাইরে ফিরে",
+      "translation": "পৃথিবীজন্মের চক্রের বাইরে ফিরে"
+    },
+    {
+      "original": "यत्साक्षात्करणाद्भवेन्न",
+      "transliteration": "তাকে",
+      "translation": "তাকে"
+    },
+    {
+      "original": "पुनरावृत्तिर्भवाम्भोनिधौ",
+      "transliteration": "শ্রীগুরুমূর্তির প্রতি",
+      "translation": "শ্রীগুরুমূর্তির প্রতি"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "নম",
+      "translation": "নম"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "এই",
+      "translation": "এই"
+    },
+    {
+      "original": "नम",
+      "transliteration": "শ্রীদক্ষিণামূর্তির প্রতি",
+      "translation": "শ্রীদক্ষিণামূর্তির প্রতি"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "বিভিন্ন",
+      "translation": "বিভিন্ন"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "ফাটল",
+      "translation": "ফাটল"
+    },
+    {
+      "original": "नानाच्छिद्रघटोदरस्थितमहादीपप्रभा",
+      "transliteration": "পাত্র",
+      "translation": "পাত্র"
+    },
+    {
+      "original": "भास्वरं",
+      "transliteration": "অন্তর",
+      "translation": "অন্তর"
+    },
+    {
+      "original": "ज्ञानं",
+      "transliteration": "স্থিত",
+      "translation": "স্থিত"
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "বড় প্রদীপের আলো",
+      "translation": "বড় প্রদীপের আলো"
+    },
+    {
+      "original": "तु",
+      "transliteration": "দীপ্ত",
+      "translation": "দীপ্ত"
+    },
+    {
+      "original": "चक्षुरादिकरणद्वारा",
+      "transliteration": "জ্ঞান",
+      "translation": "জ্ঞান"
+    },
+    {
+      "original": "वहिः",
+      "transliteration": "যার",
+      "translation": "যার"
+    },
+    {
+      "original": "स्पन्दते",
+      "transliteration": "তবে",
+      "translation": "তবে"
+    },
+    {
+      "original": "जानामीति",
+      "transliteration": "চক্ষুর আদিকরণ দ্বারার",
+      "translation": "চক্ষুর আদিকরণ দ্বারার"
+    },
+    {
+      "original": "तमेव",
+      "transliteration": "বাহিরে",
+      "translation": "বাহিরে"
+    },
+    {
+      "original": "भान्तम्",
+      "transliteration": "কম্পিত হয়",
+      "translation": "কম্পিত হয়"
+    },
+    {
+      "original": "अनुभवात्येतत्समस्तं",
+      "transliteration": "আমি জানি",
+      "translation": "আমি জানি"
+    },
+    {
+      "original": "जगत्",
+      "transliteration": "তাকে",
+      "translation": "তাকে"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "আলোকিত হয়",
+      "translation": "আলোকিত হয়"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "তাকে",
+      "translation": "তাকে"
+    },
+    {
+      "original": "नम",
+      "transliteration": "আলোকিত হয়",
+      "translation": "আলোকিত হয়"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "এটি সব",
+      "translation": "এটি সব"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "জগত",
+      "translation": "জগত"
+    },
+    {
+      "original": "देहं",
+      "transliteration": "তাকে",
+      "translation": "তাকে"
+    },
+    {
+      "original": "प्राणम्",
+      "transliteration": "শ্রীগুরুমূর্তির প্রতি",
+      "translation": "শ্রীগুরুমূর্তির প্রতি"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "নম",
+      "translation": "নম"
+    },
+    {
+      "original": "इन्द्रियाणि",
+      "transliteration": "এই",
+      "translation": "এই"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "শ্রীদক্ষিণামূর্তির প্রতি",
+      "translation": "শ্রীদক্ষিণামূর্তির প্রতি"
+    },
+    {
+      "original": "चलां",
+      "transliteration": "শরীর",
+      "translation": "শরীর"
+    },
+    {
+      "original": "बुद्धिं",
+      "transliteration": "প্রাণ",
+      "translation": "প্রাণ"
+    },
+    {
+      "original": "च",
+      "transliteration": "এবং",
+      "translation": "এবং"
+    },
+    {
+      "original": "शून्यं",
+      "transliteration": "ইন্দ্রিয়",
+      "translation": "ইন্দ্রিয়"
+    },
+    {
+      "original": "विदुः",
+      "transliteration": "এবং",
+      "translation": "এবং"
+    },
+    {
+      "original": "स्त्री",
+      "transliteration": "চলন্ত",
+      "translation": "চলন্ত"
+    },
+    {
+      "original": "बाल",
+      "transliteration": "বুদ্ধি",
+      "translation": "বুদ্ধি"
+    },
+    {
+      "original": "अन्ध",
+      "transliteration": "এবং",
+      "translation": "এবং"
+    },
+    {
+      "original": "जड",
+      "transliteration": "শূন্য",
+      "translation": "শূন্য"
+    },
+    {
+      "original": "उपमाः",
+      "transliteration": "জানে",
+      "translation": "জানে"
+    },
+    {
+      "original": "त्वम्",
+      "transliteration": "মহিলা",
+      "translation": "মহিলা"
+    },
+    {
+      "original": "अहम्",
+      "transliteration": "শিশু",
+      "translation": "শিশু"
+    },
+    {
+      "original": "इति",
+      "transliteration": "অন্ধ",
+      "translation": "অন্ধ"
+    },
+    {
+      "original": "भ्रान्ताः",
+      "transliteration": "মূর্খের মত",
+      "translation": "মূর্খের মত"
+    },
+    {
+      "original": "भृशम्",
+      "transliteration": "আমি অহংকার করি",
+      "translation": "আমি অহংকার করি"
+    },
+    {
+      "original": "वादिनः",
+      "transliteration": "ভ্রান্ত",
+      "translation": "ভ্রান্ত"
+    },
+    {
+      "original": "मायाशक्तिविलासकल्पितमहाव्यामोहसंहारिणो",
+      "transliteration": "বিপর্যস্ত",
+      "translation": "বিপর্যস্ত"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "বাদী",
+      "translation": "বাদী"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "মায়াশক্তির খেলা দ্বারা তৈরি",
+      "translation": "মায়াশক্তির খেলা দ্বারা তৈরি"
+    },
+    {
+      "original": "नम",
+      "transliteration": "মহামোহের বিনাশকারী",
+      "translation": "মহামোহের বিনাশকারী"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "তাকে",
+      "translation": "তাকে"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "শ্রীগুরুমূর্তির প্রতি",
+      "translation": "শ্রীগুরুমূর্তির প্রতি"
+    },
+    {
+      "original": "राहुग्रस्त",
+      "transliteration": "নম",
+      "translation": "নম"
+    },
+    {
+      "original": "दिवाकरेन्दुसदृशो",
+      "transliteration": "এই",
+      "translation": "এই"
+    },
+    {
+      "original": "मायासमाच्छादनात्",
+      "transliteration": "শ্রীদক্ষিণামূর্তির প্রতি",
+      "translation": "শ্রীদক্ষিণামূর্তির প্রতি"
+    },
+    {
+      "original": "सन्मात्रः",
+      "transliteration": "রাহুগ্রস্ত",
+      "translation": "রাহুগ্রস্ত"
+    },
+    {
+      "original": "करणोपसंहरणतो",
+      "transliteration": "দিবাকরের মতো চন্দ্রমা",
+      "translation": "দিবাকরের মতো চন্দ্রমা"
+    },
+    {
+      "original": "यो",
+      "transliteration": "মায়ার আচ্ছাদনের মাধ্যমে",
+      "translation": "মায়ার আচ্ছাদনের মাধ্যমে"
+    },
+    {
+      "original": "अभूत्",
+      "transliteration": "সৎমাত্র",
+      "translation": "সৎমাত্র"
+    },
+    {
+      "original": "सुषुप्तः",
+      "transliteration": "ক্রিয়ার অবসান থেকে",
+      "translation": "ক্রিয়ার অবসান থেকে"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "যে ব্যক্তি নিদ্রিত ছিল",
+      "translation": "যে ব্যক্তি নিদ্রিত ছিল"
+    },
+    {
+      "original": "प्रागस्वाप्समिति",
+      "transliteration": "পুরুষ",
+      "translation": "পুরুষ"
+    },
+    {
+      "original": "प्रबोधसमये",
+      "transliteration": "প্রাগস্বাপ্সমিতি",
+      "translation": "প্রাগস্বাপ্সমিতি"
+    },
+    {
+      "original": "यः",
+      "transliteration": "প্রবোধসময়ে",
+      "translation": "প্রবোধসময়ে"
+    },
+    {
+      "original": "प्रत्यभिज्ञायते",
+      "transliteration": "যে",
+      "translation": "যে"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "প্রত্যাভিজ্ঞায়িত",
+      "translation": "প্রত্যাভিজ্ঞায়িত"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "তাকে",
+      "translation": "তাকে"
+    },
+    {
+      "original": "नम",
+      "transliteration": "শ্রীগুরুমূর্তির প্রতি",
+      "translation": "শ্রীগুরুমূর্তির প্রতি"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "নম",
+      "translation": "নম"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "এই",
+      "translation": "এই"
+    },
+    {
+      "original": "बाल्यादिष्वपि",
+      "transliteration": "শ্রীদক্ষিণামূর্তির প্রতি",
+      "translation": "শ্রীদক্ষিণামূর্তির প্রতি"
+    },
+    {
+      "original": "जाग्रदादिषु",
+      "transliteration": "বাল্যাদিস্বাপি",
+      "translation": "শিশুকাল সহ সমস্ত অবস্থায়"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "জাগ্রদাদিষু",
+      "translation": "জাগ্রন্ত অবস্থায়"
+    },
+    {
+      "original": "सर्वास्ववस्थास्वपि",
+      "transliteration": "তথা",
+      "translation": "এবং"
+    },
+    {
+      "original": "व्यावृत्तास्वनुवर्तमानमहमित्यन्तः",
+      "transliteration": "সর্বাস্ববস্থাস্বপি",
+      "translation": "সমস্ত অবস্থাতেও"
+    },
+    {
+      "original": "स्फुरन्तं",
+      "transliteration": "ব্যবৃত্তাস্বনুভর্তমাহমিত্যন্তঃ",
+      "translation": "যার মধ্যে আমি সর্বদা অভ্যন্তরীণ অনুভব করি"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "স্ফুরন্ত",
+      "translation": "উজ্জ্বল হওয়া"
+    },
+    {
+      "original": "स्वात्मानं",
+      "transliteration": "সদা",
+      "translation": "সর্বদা"
+    },
+    {
+      "original": "प्रकटीकरोति",
+      "transliteration": "স্বাত্মানং",
+      "translation": "নিজ আত্মাকে"
+    },
+    {
+      "original": "भजतां",
+      "transliteration": "প্রকাশিত করে",
+      "translation": "প্রকাশিত করে"
+    },
+    {
+      "original": "यो",
+      "transliteration": "ভজিতাং",
+      "translation": "ভক্তদের"
+    },
+    {
+      "original": "मुद्रया",
+      "transliteration": "যে",
+      "translation": "যে"
+    },
+    {
+      "original": "अभद्रया",
+      "transliteration": "মুদ্রাযাভদ্রয়া",
+      "translation": "মন্দল স্বরূপে"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "তাকে",
+      "translation": "তাকে"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "শ্রীগুরুমূর্তির প্রতি",
+      "translation": "শ্রীগুরুমূর্তির প্রতি"
+    },
+    {
+      "original": "नम",
+      "transliteration": "নম",
+      "translation": "নম"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "এই",
+      "translation": "এই"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "শ্রীদক্ষিণামূর্তির প্রতি",
+      "translation": "শ্রীদক্ষিণামূর্তির প্রতি"
+    },
+    {
+      "original": "विश्वं",
+      "transliteration": "বিশ্বং",
+      "translation": "বিশ্ব"
+    },
+    {
+      "original": "पश्यति",
+      "transliteration": "পশ্যতি",
+      "translation": "দেখে"
+    },
+    {
+      "original": "कार्यकारणतया",
+      "transliteration": "কর্তব্যকারণতয়া",
+      "translation": "কারণ-ফল সম্পর্ক"
+    },
+    {
+      "original": "स्वस्वामिसम्बन्धतः",
+      "transliteration": "স্বস্বামিসংবদ্ধঃ",
+      "translation": "নিজের অধিকারী সম্পর্ক"
+    },
+    {
+      "original": "शिष्याचार्यतया",
+      "transliteration": "শিষ্যাচার্যতয়া",
+      "translation": "শিষ্য-গুরু সম্পর্ক"
+    },
+    {
+      "original": "तथैव",
+      "transliteration": "তথৈব",
+      "translation": "এবং একইভাবে"
+    },
+    {
+      "original": "पितृपुत्राद्यात्मना",
+      "transliteration": "পিতৃপুত্রাদ্যাত্মনা",
+      "translation": "পিতৃ-পুত্রসহ আত্মিক সম্পর্ক"
+    },
+    {
+      "original": "भेदतः",
+      "transliteration": "ভেদতঃ",
+      "translation": "বিভেদ"
+    },
+    {
+      "original": "स्वप्ने",
+      "transliteration": "স্বপ্নে",
+      "translation": "স্বপ্নে"
+    },
+    {
+      "original": "जाग्रति",
+      "transliteration": "জাগ্রতি",
+      "translation": "জাগ্রতিকালে"
+    },
+    {
+      "original": "वा",
+      "transliteration": "বা",
+      "translation": "অথবা"
+    },
+    {
+      "original": "यः",
+      "transliteration": "যে",
+      "translation": "যে"
+    },
+    {
+      "original": "एष",
+      "transliteration": "ঈষ",
+      "translation": "এই"
+    },
+    {
+      "original": "पुरुषः",
+      "transliteration": "পুরুষঃ",
+      "translation": "পুরুষ"
+    },
+    {
+      "original": "मायापरिभ्रामितः",
+      "transliteration": "মায়াপরিভ্রামিতঃ",
+      "translation": "মায়ার দ্বারা বিভ্রান্ত"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "তস্মৈ",
+      "translation": "তাকে"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "শ্রীগুরুমূর্তয়",
+      "translation": "শ্রীগুরুমূর্তির প্রতি"
+    },
+    {
+      "original": "नम",
+      "transliteration": "নম",
+      "translation": "নম"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "ইদং",
+      "translation": "এটি"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "শ্রীদক্ষিণামূর্তয়",
+      "translation": "শ্রীদক্ষিণামূর্তির প্রতি"
+    },
+    {
+      "original": "भूरम्",
+      "transliteration": "ভূরম্ভাংস্যনলো'নিলো'অম্বরমহরনাথো হিমাংশু পুমান",
+      "translation": "পৃথিবী, আকাশ, আগুন, বাতাস, সূর্য, চাঁদ, ইত্যাদি সবই তাতে প্রকাশ পায়।"
+    },
+    {
+      "original": "भास्य",
+      "transliteration": "ইত্যাভাতি",
+      "translation": "এটি প্রকাশিত হয়"
+    },
+    {
+      "original": "अनलः",
+      "transliteration": "চরাচরাত্মকমিদং",
+      "translation": "এটি সমস্ত জড় এবং জীবের অস্তিত্বের সত্ত্বা"
+    },
+    {
+      "original": "अनिलः",
+      "transliteration": "যস্যৈব",
+      "translation": "যার মধ্যে"
+    },
+    {
+      "original": "आम्बर",
+      "transliteration": "মূর্ত্যষ্টকম",
+      "translation": "এটি সেই সত্ত্বার আটটি রূপ যা সকলের মধ্যে প্রকাশিত হয়।"
+    },
+    {
+      "original": "महर्",
+      "transliteration": "নান্যৎ",
+      "translation": "আর কিছু নয়"
+    },
+    {
+      "original": "नाथः",
+      "transliteration": "কিঞ্ছন",
+      "translation": "কিছুই"
+    },
+    {
+      "original": "हिमांशु",
+      "transliteration": "বিদ্যতে",
+      "translation": "পাওয়া যায়"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "বিমৃশতাং",
+      "translation": "যারা চিন্তা করে"
+    },
+    {
+      "original": "इति",
+      "transliteration": "যস্মাৎপরসমাদ্বিভোঃ",
+      "translation": "যে কারণে অন্য এক চিরন্তন সত্ত্বার মধ্যে এই প্রকাশ ঘটে।"
+    },
+    {
+      "original": "अभाति",
+      "transliteration": "তস্মৈ",
+      "translation": "তাকে"
+    },
+    {
+      "original": "चराचर",
+      "transliteration": "শ্রীগুরুমূর্তয়",
+      "translation": "শ্রীগুরুমূর্তির প্রতি"
+    },
+    {
+      "original": "आत्मकम्",
+      "transliteration": "নম",
+      "translation": "নম"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "ইদং",
+      "translation": "এটি"
+    },
+    {
+      "original": "यस्यैव",
+      "transliteration": "শ্রীদক্ষিণামূর্তয়",
+      "translation": "শ্রীদক্ষিণামূর্তির প্রতি"
+    },
+    {
+      "original": "मूर्त्यष्टकम्",
+      "transliteration": "সর্বাত্মত্বমিতি",
+      "translation": "এটি সর্বব্যাপী সত্ত্বার অস্তিত্বের বর্ণনা"
+    },
+    {
+      "original": "नान्यत्",
+      "transliteration": "স্ফুটীকৃতমিদং",
+      "translation": "এটি সুস্পষ্টভাবে প্রকাশিত হয়েছে"
+    },
+    {
+      "original": "किञ्चन",
+      "transliteration": "যস্মাদমুষ্মিন",
+      "translation": "যেহেতু এই স্তোত্রে"
+    },
+    {
+      "original": "विद्यते",
+      "transliteration": "স্তবে",
+      "translation": "এই স্তোত্রে"
+    },
+    {
+      "original": "विमृशतां",
+      "transliteration": "তেনাস্য",
+      "translation": "তাঁর শ্রবণ দ্বারা"
+    },
+    {
+      "original": "यस्मात्",
+      "transliteration": "শ্রবণাত্তদর্থমননাদ্ধ্যানাচ্চ",
+      "translation": "শ্রবণ, ধ্যান, এবং সঙ্গীতের মাধ্যমে তার অভ্যন্তরীণ জ্ঞান প্রকাশিত হয়"
+    },
+    {
+      "original": "परस्मात्",
+      "transliteration": "সংকীর্তনাত্",
+      "translation": "সঙ্গীতের মাধ্যমে"
+    },
+    {
+      "original": "विभोः",
+      "transliteration": "সর্বাত্মত্বমহাবিভূতিসহিতং",
+      "translation": "এটি মহা ক্ষমতার সঙ্গে সর্বব্যাপী সত্ত্বার ঐক্য"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "স্যাদীশ্বরত্বং স্বতঃ",
+      "translation": "এটি স্বীয় ঈশ্বরত্বের প্রকাশ"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "সিদ্ধ্যেত্ততপুনরষ্টধা",
+      "translation": "এটি সিদ্ধির পূর্ণতা এবং সেগুলোর পুনরাবৃত্তি"
+    },
+    {
+      "original": "नम",
+      "transliteration": "পরিণতম্",
+      "translation": "এটি পরিণত হয়"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "চৈশ্বর্যমব্যাহতম্",
+      "translation": "এটি অবিচলিত ঈশ্বরত্বের প্রকাশ"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "ইতি",
+      "translation": "এভাবে"
+    },
+    {
+      "original": "सर्वात्मत्वमिति",
+      "transliteration": "শ্রীমচ্ছংকরাচার্যবিরচিতং",
+      "translation": "শ্রীমচ্চংকরাচার্য কর্তৃক রচিত"
+    },
+    {
+      "original": "स्फुटीकृतम्",
+      "transliteration": "দক্ষিণামূর্তিস্তোত্র",
+      "translation": "শ্রীদক্ষিণামূর্তির স্তোত্র"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "সম্পূর্ণम्",
+      "translation": "সম্পূর্ণ"
+    },
+    {
+      "original": "यस्माद्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अमुष्मिन्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्तवे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तेनास्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रवणात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तदर्थम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अननाद्ध्यानाच्च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संकीर्तनात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वात्मत्वमहाविभूतिसहितं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्यादीश्वरत्वं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वतः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सिद्ध्येत्तत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुनरष्टधा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परिणतं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चैश्वर्यम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अव्याहतम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\bengali\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\bengali\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.381Z"
+  }
+}

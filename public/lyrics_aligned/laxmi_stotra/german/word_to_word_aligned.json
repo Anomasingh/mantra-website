@@ -1,0 +1,1599 @@
+{
+  "mantra": "laxmi_stotra",
+  "language": "german",
+  "type": "word_to_word",
+  "totalWords": 317,
+  "alignedWords": [
+    {
+      "original": "जय",
+      "transliteration": "Śrīlakṣmīstotraṁ",
+      "translation": "Lakshmi-Stotra"
+    },
+    {
+      "original": "पद्मपलाशाक्षि",
+      "transliteration": "Agastyaracitam",
+      "translation": "Vom Weisen Agastya verfasst"
+    },
+    {
+      "original": "जय",
+      "transliteration": "Ṛṣivara",
+      "translation": "Bester der Weisen"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "Agasta",
+      "translation": "Agastya"
+    },
+    {
+      "original": "श्रीपतिप्रिये",
+      "transliteration": "Dvāra",
+      "translation": "Durch"
+    },
+    {
+      "original": "जय",
+      "transliteration": "Racita",
+      "translation": "Verfasst"
+    },
+    {
+      "original": "मातर्",
+      "transliteration": "Śrīlakṣmī",
+      "translation": "Lakshmi"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "Stotra",
+      "translation": "Hymnus"
+    },
+    {
+      "original": "संसारार्णवतारिणि",
+      "transliteration": "Yah",
+      "translation": "Dies"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "Atyanta",
+      "translation": "Sehr"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Phaladāyī",
+      "translation": "Fruchtbringend"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Hai",
+      "translation": "Ist"
+    },
+    {
+      "original": "सुरेश्वरि",
+      "transliteration": "Jaya",
+      "translation": "Sieg"
+    },
+    {
+      "original": "हरिप्रिये",
+      "transliteration": "Padmapalāśākṣi",
+      "translation": "Die mit Lotusblüten Augen"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Tvaṁ",
+      "translation": "Du"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Śrīpātipriye",
+      "translation": "Geliebte des Herrn der Welt"
+    },
+    {
+      "original": "दयानिधे",
+      "transliteration": "Mātar",
+      "translation": "Mutter"
+    },
+    {
+      "original": "पद्मालये",
+      "transliteration": "Mahālakṣmī",
+      "translation": "Große Lakshmi"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Saṁsārārṇavatāriṇi",
+      "translation": "Die den Ozean der Welt überwindet"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Mahālakṣmī",
+      "translation": "Große Lakshmi"
+    },
+    {
+      "original": "च",
+      "transliteration": "Namastubhyaṁ",
+      "translation": "Verbeugung vor dir"
+    },
+    {
+      "original": "सर्वदे",
+      "transliteration": "Sureśvari",
+      "translation": "Herrin der Götter"
+    },
+    {
+      "original": "सर्वभूतहितार्थाय",
+      "transliteration": "Haripriye",
+      "translation": "Geliebte von Hari"
+    },
+    {
+      "original": "वसुवृष्टिं",
+      "transliteration": "Dāyānidhe",
+      "translation": "O Schatz der Barmherzigkeit"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "Padmālaye",
+      "translation": "O Du, die im Lotus lebt"
+    },
+    {
+      "original": "कुरु",
+      "transliteration": "Ca",
+      "translation": "Und"
+    },
+    {
+      "original": "जगन्मातर्द",
+      "transliteration": "Sarvade",
+      "translation": "Die den Wohlstand für alle gewährt"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Sarvabhūtahitārthāya",
+      "translation": "Zum Wohle aller Lebewesen"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Vasuvṛṣṭiṁ",
+      "translation": "Gewährerin des Wohlstands"
+    },
+    {
+      "original": "दयानिधे",
+      "transliteration": "Sadā",
+      "translation": "Immer"
+    },
+    {
+      "original": "दयावति",
+      "transliteration": "Kuru",
+      "translation": "Gewähre"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Jaganmātarnamastubhyaṁ",
+      "translation": "Verbeugung vor der Mutter der Welt"
+    },
+    {
+      "original": "विश्वेश्वरि",
+      "transliteration": "Dāyānidhe",
+      "translation": "O Schatz der Barmherzigkeit"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "Dāyāvati",
+      "translation": "Du, die Barmherzigkeit ist"
+    },
+    {
+      "original": "ते",
+      "transliteration": "Viśveśvari",
+      "translation": "Herrin des Universums"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Namo'stu Te",
+      "translation": "Ich verbeuge mich vor dir"
+    },
+    {
+      "original": "क्षीरार्णवसुते",
+      "transliteration": "Namaḥ",
+      "translation": "Verbeugung"
+    },
+    {
+      "original": "नमस्त्रैलोक्यधारिणि",
+      "transliteration": "Kṣīrārṇavasute",
+      "translation": "Tochter des Milchmeeres"
+    },
+    {
+      "original": "वसुवृष्टे",
+      "transliteration": "Trailokyadhāriṇi",
+      "translation": "Die die drei Welten trägt"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Vasuvṛṣṭe",
+      "translation": "O Gewährerin des Wohlstands"
+    },
+    {
+      "original": "रक्ष",
+      "transliteration": "Rakṣa",
+      "translation": "Schütze"
+    },
+    {
+      "original": "मां",
+      "transliteration": "Māṁ",
+      "translation": "Mich"
+    },
+    {
+      "original": "शरणागतं",
+      "transliteration": "Śaraṇāgataṁ",
+      "translation": "Der Zuflucht gesucht hat"
+    },
+    {
+      "original": "रक्ष",
+      "transliteration": "Rakṣa",
+      "translation": "Schütze"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "Tvaṁ",
+      "translation": "Du"
+    },
+    {
+      "original": "देवदेवेशि",
+      "transliteration": "Devadeveśi",
+      "translation": "Herrin der Herrscher der Götter"
+    },
+    {
+      "original": "देवदेवस्य",
+      "transliteration": "Devadevasya",
+      "translation": "Geliebte des Herrn der Götter"
+    },
+    {
+      "original": "वल्लभे",
+      "transliteration": "Vallabhe",
+      "translation": "Geliebte"
+    },
+    {
+      "original": "दरिद्रात्त्राहि",
+      "transliteration": "Daridrātttrāhi",
+      "translation": "Schütze mich vor der Armut"
+    },
+    {
+      "original": "मां",
+      "transliteration": "Māṁ",
+      "translation": "Mich"
+    },
+    {
+      "original": "लक्ष्मि",
+      "transliteration": "Lakṣmī",
+      "translation": "Lakshmi"
+    },
+    {
+      "original": "कृपां",
+      "transliteration": "Kṛpāṁ",
+      "translation": "Gnade"
+    },
+    {
+      "original": "कुरु",
+      "transliteration": "Kuru",
+      "translation": "Gewähre"
+    },
+    {
+      "original": "ममोपरि",
+      "transliteration": "Mamopari",
+      "translation": "Auf mir"
+    },
+    {
+      "original": "नमस्त्रैलोक्यजननि",
+      "transliteration": "Namastrailokyajanani",
+      "translation": "Verbeugung vor der Mutter der drei Welten"
+    },
+    {
+      "original": "नमस्त्रैलोक्यपावनि",
+      "transliteration": "Namastrailokyapāvani",
+      "translation": "Verbeugung vor der Reinigerin der drei Welten"
+    },
+    {
+      "original": "ब्रह्मादयो",
+      "transliteration": "Brahmādayo",
+      "translation": "Brahma und andere"
+    },
+    {
+      "original": "नमस्ते",
+      "transliteration": "Namaste",
+      "translation": "Verbeugung vor dir"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "Tvāṁ",
+      "translation": "Vor dir"
+    },
+    {
+      "original": "जगदानन्ददायिनि",
+      "transliteration": "Jagadānandadāyini",
+      "translation": "Die den Weltsegen gewährt"
+    },
+    {
+      "original": "विष्णुप्रिये",
+      "transliteration": "Viṣṇupriye",
+      "translation": "Geliebte von Vishnu"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Namastubhyaṁ",
+      "translation": "Verbeugung vor dir"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Namastubhyaṁ",
+      "translation": "Verbeugung vor dir"
+    },
+    {
+      "original": "जगद्धिते",
+      "transliteration": "Jagaddhite",
+      "translation": "Zum Wohle der Welt"
+    },
+    {
+      "original": "आर्तहन्त्रि",
+      "transliteration": "Ārthahantṛ",
+      "translation": "Heilerin der Leidenden"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Namastubhyaṁ",
+      "translation": "Verbeugung vor dir"
+    },
+    {
+      "original": "समृद्धिं",
+      "transliteration": "Samṛddhiṁ",
+      "translation": "Wohlstand"
+    },
+    {
+      "original": "कुरु",
+      "transliteration": "Kuru",
+      "translation": "Gewähre"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Me",
+      "translation": "Mir"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "Sadā",
+      "translation": "Immer"
+    },
+    {
+      "original": "अब्जवासे",
+      "transliteration": "Abjāvāse",
+      "translation": "O Du, die im Lotus wohnt"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Namastubhyaṁ",
+      "translation": "Verbeugung vor dir"
+    },
+    {
+      "original": "चपलायै",
+      "transliteration": "Capalāyai",
+      "translation": "Die Unbeständige"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "Namo Namaḥ",
+      "translation": "Ich verbeuge mich immer"
+    },
+    {
+      "original": "चंचलायै",
+      "transliteration": "Cañcalāyai",
+      "translation": "Die Unruhige"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Lalitāyai",
+      "translation": "Die Anmutige"
+    },
+    {
+      "original": "ललितायै",
+      "transliteration": "Namaḥ",
+      "translation": "Verbeugung"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "Pradyumnajanani",
+      "translation": "Mutter von Pradyumna"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Mātuḥ tubhyaṁ",
+      "translation": "Verbeugung vor dir, Mutter"
+    },
+    {
+      "original": "प्रद्युम्नजननि",
+      "transliteration": "Namo Namaḥ",
+      "translation": "Ich verbeuge mich immer"
+    },
+    {
+      "original": "मातुस्तुभ्यं",
+      "transliteration": "Paripālaya",
+      "translation": "Beschütze"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "Bho",
+      "translation": "O"
+    },
+    {
+      "original": "परिपालय",
+      "transliteration": "Mātar māṁ",
+      "translation": "Mutter, mich"
+    },
+    {
+      "original": "भो",
+      "transliteration": "Tubhyaṁ",
+      "translation": "Vor dir"
+    },
+    {
+      "original": "मातर्मां",
+      "transliteration": "Śaraṇāgataṁ",
+      "translation": "Der Zuflucht gesucht hat"
+    },
+    {
+      "original": "तुभ्यं",
+      "transliteration": "Śaraṇye",
+      "translation": "Du, die Zuflucht gibst"
+    },
+    {
+      "original": "शरणागतं",
+      "transliteration": "Tvāṁ",
+      "translation": "Vor dir"
+    },
+    {
+      "original": "शरण्ये",
+      "transliteration": "Prapanno'smi",
+      "translation": "Ich habe mich ergeben"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "Kamale",
+      "translation": "Im Lotus"
+    },
+    {
+      "original": "प्रपन्नोऽस्मि",
+      "transliteration": "Kamalālaye",
+      "translation": "Der im Lotus wohnt"
+    },
+    {
+      "original": "कमले",
+      "transliteration": "Trāhi",
+      "translation": "Schütze"
+    },
+    {
+      "original": "कमलालये",
+      "transliteration": "Trāhi",
+      "translation": "Schütze"
+    },
+    {
+      "original": "त्राहि त्राहि",
+      "transliteration": "Mahālakṣmī",
+      "translation": "Große Lakshmi"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "Paritrāṇaparāyaṇe",
+      "translation": "Der den Schutz gewährt"
+    },
+    {
+      "original": "परित्राणपरायणे",
+      "transliteration": "Pāṇḍityaṁ",
+      "translation": "Weisheit"
+    },
+    {
+      "original": "पाण्डित्यं",
+      "transliteration": "Śobhate",
+      "translation": "Sieht gut aus"
+    },
+    {
+      "original": "शोभते",
+      "transliteration": "Naiva",
+      "translation": "Nicht"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "Na",
+      "translation": "Nicht"
+    },
+    {
+      "original": "न",
+      "transliteration": "Śobhanti",
+      "translation": "Sie schmücken"
+    },
+    {
+      "original": "शोभन्ति",
+      "transliteration": "Guṇā",
+      "translation": "Tugenden"
+    },
+    {
+      "original": "गुणा",
+      "transliteration": "Nare",
+      "translation": "Menschen"
+    },
+    {
+      "original": "नरे",
+      "transliteration": "Śīlatvaṁ",
+      "translation": "Tugend"
+    },
+    {
+      "original": "शीलत्वं",
+      "transliteration": "Naiva",
+      "translation": "Nicht"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "Śobhēta",
+      "translation": "Ziert"
+    },
+    {
+      "original": "शोभेत",
+      "transliteration": "Mahālakṣmī",
+      "translation": "Große Lakshmi"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "Tvayā",
+      "translation": "Durch dich"
+    },
+    {
+      "original": "त्वया",
+      "transliteration": "Vinā",
+      "translation": "Ohne"
+    },
+    {
+      "original": "विना",
+      "transliteration": "Tāvad virājate",
+      "translation": "In dem Maße, wie es erstrahlt"
+    },
+    {
+      "original": "तावद्विराजते",
+      "transliteration": "Rūpaṁ",
+      "translation": "Die Form"
+    },
+    {
+      "original": "रूपं",
+      "transliteration": "Tāvacchīlaṁ",
+      "translation": "In dem Maße, wie es Tugend zeigt"
+    },
+    {
+      "original": "तावच्छीलं",
+      "transliteration": "Virājate",
+      "translation": "Erstrahlt"
+    },
+    {
+      "original": "विराजते",
+      "transliteration": "Tāvadguṇā",
+      "translation": "In dem Maße, wie Tugenden vorhanden sind"
+    },
+    {
+      "original": "तावद्गुणा",
+      "transliteration": "Narāṇāṁ",
+      "translation": "Der Menschen"
+    },
+    {
+      "original": "नराणां",
+      "transliteration": "Ca",
+      "translation": "Und"
+    },
+    {
+      "original": "च",
+      "transliteration": "Yāvallakṣmīḥ",
+      "translation": "Solange Lakshmi zufrieden ist"
+    },
+    {
+      "original": "यावल्लक्ष्मीः",
+      "transliteration": "Prasīdati",
+      "translation": "Ist zufrieden"
+    },
+    {
+      "original": "प्रसीदति",
+      "transliteration": "Lakṣmītvayālaṅkr̥tamanavā",
+      "translation": "Die von dir, Lakshmi, geschmückten Menschen"
+    },
+    {
+      "original": "लक्ष्मित्वयालंकृतमानवा",
+      "transliteration": "Ye",
+      "translation": "Die"
+    },
+    {
+      "original": "ये",
+      "transliteration": "Pāpair vimuktā",
+      "translation": "Die von Sünden befreiten"
+    },
+    {
+      "original": "पापैर्विमुक्ता",
+      "transliteration": "Nṛpalokamānyāḥ",
+      "translation": "Geachtet im Königreich"
+    },
+    {
+      "original": "नृपलोकमान्याः",
+      "transliteration": "Guṇair vihīnā",
+      "translation": "Ohne Tugenden"
+    },
+    {
+      "original": "गुणैर्विहीना",
+      "transliteration": "Guṇino",
+      "translation": "Die von Tugenden"
+    },
+    {
+      "original": "गुणिनो",
+      "transliteration": "Bhavanti",
+      "translation": "Werden"
+    },
+    {
+      "original": "भवन्ति",
+      "transliteration": "Duśīlinaḥ",
+      "translation": "Übeltäter"
+    },
+    {
+      "original": "दुशीलिनः",
+      "transliteration": "Śīlavatāṁ",
+      "translation": "Die Tugendhaften"
+    },
+    {
+      "original": "शीलवतां",
+      "transliteration": "Variṣṭāḥ",
+      "translation": "Die Höchsten"
+    },
+    {
+      "original": "वरिष्ठाः",
+      "transliteration": "Lakṣmīr bhūṣayate",
+      "translation": "Lakshmi schmückt"
+    },
+    {
+      "original": "लक्ष्मीर्भूषयते",
+      "transliteration": "Rūpaṁ",
+      "translation": "Die Form"
+    },
+    {
+      "original": "रूपं",
+      "transliteration": "Lakṣmīr bhūṣayate",
+      "translation": "Lakshmi schmückt"
+    },
+    {
+      "original": "लक्ष्मीर्भूषयते",
+      "transliteration": "Kulaṁ",
+      "translation": "Die Familie"
+    },
+    {
+      "original": "कुलं",
+      "transliteration": "Lakṣmīr bhūṣayate",
+      "translation": "Lakshmi schmückt"
+    },
+    {
+      "original": "लक्ष्मीर्भूषयते",
+      "transliteration": "Vidyāṁ",
+      "translation": "Das Wissen"
+    },
+    {
+      "original": "विद्यां",
+      "transliteration": "Sarvāllakṣmīr viśiṣyate",
+      "translation": "Alle Arten von Lakshmi sind übertrumpft"
+    },
+    {
+      "original": "सर्वाल्लक्ष्मीर्विशिष्यते",
+      "transliteration": "Lakṣmī",
+      "translation": "Lakshmi"
+    },
+    {
+      "original": "लक्ष्मी",
+      "transliteration": "Tvadguṇakīrttanena",
+      "translation": "Durch das Singen deiner Tugenden"
+    },
+    {
+      "original": "त्वद्गुणकीर्तनेन",
+      "transliteration": "Kamalābhūryātyalaṁ",
+      "translation": "Über den Lotus"
+    },
+    {
+      "original": "कमलाभूर्यात्यलं",
+      "transliteration": "Jihmatāṁ",
+      "translation": "Täuscher"
+    },
+    {
+      "original": "जिह्मतां",
+      "transliteration": "Rudrādyā",
+      "translation": "Von Rudra und anderen"
+    },
+    {
+      "original": "रुद्राद्या",
+      "transliteration": "Ravicandradevapathayo",
+      "translation": "Die Sonne, Mond, Götter und deren Ehemänner"
+    },
+    {
+      "original": "रविचन्द्रदेवपतयो",
+      "transliteration": "Vaktuṁ",
+      "translation": "Können sprechen"
+    },
+    {
+      "original": "वक्तुं",
+      "transliteration": "Ca",
+      "translation": "Und"
+    },
+    {
+      "original": "च",
+      "transliteration": "Naiva",
+      "translation": "Nicht"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "Kṣamāḥ",
+      "translation": "Kann"
+    },
+    {
+      "original": "क्षमाः",
+      "transliteration": "Asmābhiḥ",
+      "translation": "Wir"
+    },
+    {
+      "original": "अस्माभिस्तव",
+      "transliteration": "Tvā",
+      "translation": "Du"
+    },
+    {
+      "original": "रूपलक्षणगुणान्वक्तुं",
+      "transliteration": "Rūpalakṣaṇaguṇānvaktuṁ",
+      "translation": "Kann die Form und Eigenschaften beschreiben"
+    },
+    {
+      "original": "कथं",
+      "transliteration": "Kathaṁ",
+      "translation": "Wie"
+    },
+    {
+      "original": "शक्यते",
+      "transliteration": "Śakyate",
+      "translation": "Möglich"
+    },
+    {
+      "original": "मातर्मां",
+      "transliteration": "Mātarmāṁ",
+      "translation": "Mutter, mich"
+    },
+    {
+      "original": "परिपाहि",
+      "transliteration": "Paripāhi",
+      "translation": "Beschütze"
+    },
+    {
+      "original": "विश्वजननि",
+      "transliteration": "Viśvajanani",
+      "translation": "Mutter der Welt"
+    },
+    {
+      "original": "कृत्वा",
+      "transliteration": "Kṛtvā",
+      "translation": "Durch tun"
+    },
+    {
+      "original": "ममेष्टं",
+      "transliteration": "Mameṣṭaṁ",
+      "translation": "Mein Lieblingsziel"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "Dīnārttibhītaṁ",
+      "translation": "Der, der in Armut und Furcht ist"
+    },
+    {
+      "original": "दीनार्तिभीतं",
+      "transliteration": "Bhavatāpāpīḍitaṁ",
+      "translation": "Der, der durch dein Leiden gequält wird"
+    },
+    {
+      "original": "भवतापपीडितं",
+      "transliteration": "Dhanairvihīnaṁ",
+      "translation": "Der ohne Reichtum"
+    },
+    {
+      "original": "धनैर्विहीनं",
+      "transliteration": "Tava",
+      "translation": "Dein"
+    },
+    {
+      "original": "तव पार्श्वमागतं",
+      "transliteration": "Pārśvamāgataṁ",
+      "translation": "Der zu deiner Seite gekommen ist"
+    },
+    {
+      "original": "कृपानिधित्वान्मम",
+      "transliteration": "Kṛpānidhitvān",
+      "translation": "O Schatz der Gnade"
+    },
+    {
+      "original": "लक्ष्मी सत्वरं धनप्रदानाद्धन्नायकं कुरु",
+      "transliteration": "Mama",
+      "translation": "Mein"
+    },
+    {
+      "original": "मां विलोक्य",
+      "transliteration": "Lakṣmī",
+      "translation": "Lakshmi"
+    },
+    {
+      "original": "जननि हरिप्रिये",
+      "transliteration": "Satvaraṁ",
+      "translation": "Schnell"
+    },
+    {
+      "original": "निर्धनं",
+      "transliteration": "Dhanapradānāddhannāyakaṁ",
+      "translation": "Der Geber von Reichtum und Nahrung"
+    },
+    {
+      "original": "त्वत्समीपमागतं",
+      "transliteration": "Kuru",
+      "translation": "Gewähre"
+    },
+    {
+      "original": "देहि मे झटिति लक्ष्मी",
+      "transliteration": "Māṁ",
+      "translation": "Mich"
+    },
+    {
+      "original": "कराग्रं वस्त्रकांचनवरान्नमद्भुतं",
+      "transliteration": "Vilokya",
+      "translation": "Betrachtend"
+    },
+    {
+      "original": "त्वमेव जननी लक्ष्मी",
+      "transliteration": "Janani",
+      "translation": "Mutter"
+    },
+    {
+      "original": "पिता लक्ष्मी त्वमेव च",
+      "transliteration": "Haripriye",
+      "translation": "O Freundin von Hari"
+    },
+    {
+      "original": "त्राहि त्राहि महालक्ष्मी",
+      "transliteration": "Nirdhanaṁ",
+      "translation": "Der Arme"
+    },
+    {
+      "original": "त्राहि त्राहि सुरेश्वरि",
+      "transliteration": "Tvatsamīpamāgataṁ",
+      "translation": "Der zu deinem (Fuß) gekommen ist"
+    },
+    {
+      "original": "त्राहि त्राहि जगन्मातरं",
+      "transliteration": "Dehi",
+      "translation": "Gib"
+    },
+    {
+      "original": "दरिद्रात्त्राहि",
+      "transliteration": "Me",
+      "translation": "Mir"
+    },
+    {
+      "original": "वेगतः",
+      "transliteration": "Jhaṭiti",
+      "translation": "Schnell"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Lakṣmī",
+      "translation": "Lakshmi"
+    },
+    {
+      "original": "जगद्धात्रि",
+      "transliteration": "Karāgraṁ",
+      "translation": "Die Handfläche"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Vastrakāñcanavarānnabhutam",
+      "translation": "Wundervolle, goldene Kleider"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "Tvameva",
+      "translation": "Du bist es"
+    },
+    {
+      "original": "धर्माधारे",
+      "transliteration": "Jananī",
+      "translation": "Die Mutter"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "Lakṣmī",
+      "translation": "Lakshmi"
+    },
+    {
+      "original": "नमः सम्पत्तिदायिनी",
+      "transliteration": "Pitā",
+      "translation": "Der Vater"
+    },
+    {
+      "original": "दरिद्रार्णवमग्नोऽहं",
+      "transliteration": "Tvameva",
+      "translation": "Du bist es"
+    },
+    {
+      "original": "निमग्नोऽहं",
+      "transliteration": "Ca",
+      "translation": "Und"
+    },
+    {
+      "original": "रसातले",
+      "transliteration": "Trāhi",
+      "translation": "Schütze"
+    },
+    {
+      "original": "मज्जन्तं",
+      "transliteration": "Trāhi",
+      "translation": "Schütze"
+    },
+    {
+      "original": "मां करे धृत्वा",
+      "transliteration": "Mahālakṣmī",
+      "translation": "Große Lakshmi"
+    },
+    {
+      "original": "सूद्धर",
+      "transliteration": "Trāhi",
+      "translation": "Schütze"
+    },
+    {
+      "original": "त्वं रमे द्रुतं",
+      "transliteration": "Trāhi",
+      "translation": "Schütze"
+    },
+    {
+      "original": "किं लक्ष्मी",
+      "transliteration": "Sureśvari",
+      "translation": "O Göttin der Götter"
+    },
+    {
+      "original": "बहुनोक्तेन",
+      "transliteration": "Trāhi",
+      "translation": "Schütze"
+    },
+    {
+      "original": "जल्पितेन",
+      "transliteration": "Trāhi",
+      "translation": "Schütze"
+    },
+    {
+      "original": "पुनः पुनः",
+      "transliteration": "Jaganmātaraḥ",
+      "translation": "Mutter der Welt"
+    },
+    {
+      "original": "अन्यन्मे शरणं नास्ति",
+      "transliteration": "Daridrātttrāhi",
+      "translation": "Schütze den Armen"
+    },
+    {
+      "original": "सत्यं सत्यं हरिप्रिये",
+      "transliteration": "Vegataḥ",
+      "translation": "Schnell"
+    },
+    {
+      "original": "एतच्श्रुत्वा",
+      "transliteration": "Namastubhyaṁ",
+      "translation": "Verbeugung vor dir"
+    },
+    {
+      "original": "अगस्तिवाक्यं",
+      "transliteration": "Jagaddhātri",
+      "translation": "Die Weltbewahrerin"
+    },
+    {
+      "original": "हृष्यमाण",
+      "transliteration": "Namastubhyaṁ",
+      "translation": "Verbeugung vor dir"
+    },
+    {
+      "original": "हरिप्रिये",
+      "transliteration": "Namo Namaḥ",
+      "translation": "Ich verbeuge mich immer"
+    },
+    {
+      "original": "उवाच",
+      "transliteration": "Dharmādhāre",
+      "translation": "Stütze der Tugend"
+    },
+    {
+      "original": "मधुरां",
+      "transliteration": "Namastubhyaṁ",
+      "translation": "Verbeugung vor dir"
+    },
+    {
+      "original": "वाणीं",
+      "transliteration": "Namaḥ",
+      "translation": "Verbeugung"
+    },
+    {
+      "original": "तुष्टाहं",
+      "transliteration": "Sampattidāyinī",
+      "translation": "Die Spenderin des Wohlstands"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Daridrārṇavamagno'ham",
+      "translation": "Ich, der im Ozean der Armut versunken ist"
+    },
+    {
+      "original": "सर्वदा",
+      "transliteration": "Nimagno'ham",
+      "translation": "Ich bin versunken"
+    },
+    {
+      "original": "लक्ष्मीर्वाच",
+      "transliteration": "Rasātale",
+      "translation": "In der Unterwelt"
+    },
+    {
+      "original": "यत्त्वयोक्तमिदं स्तोत्रं",
+      "transliteration": "Majjantaṁ",
+      "translation": "Der in den Abgrund sinkt"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Māṁ",
+      "translation": "Mich"
+    },
+    {
+      "original": "पठिष्यति",
+      "transliteration": "Kare",
+      "translation": "In der Hand"
+    },
+    {
+      "original": "मानवः",
+      "transliteration": "Dhṛtvā",
+      "translation": "Halte"
+    },
+    {
+      "original": "शृणोति",
+      "transliteration": "Sūddhara",
+      "translation": "Der Retter"
+    },
+    {
+      "original": "च",
+      "transliteration": "Tvaṁ",
+      "translation": "Du"
+    },
+    {
+      "original": "महाभागस्तस्याहं वशवर्तिनी",
+      "transliteration": "Rame",
+      "translation": "Befreie"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Drutaṁ",
+      "translation": "Schnell"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "Kiṁ",
+      "translation": "Was"
+    },
+    {
+      "original": "महापुण्यं",
+      "transliteration": "Lakṣmī",
+      "translation": "Lakshmi"
+    },
+    {
+      "original": "लक्ष्म्यगस्तिप्रकीर्तितं",
+      "transliteration": "Bahunoktena",
+      "translation": "Durch viele Worte"
+    },
+    {
+      "original": "विष्णुप्रसादजननं",
+      "transliteration": "Jalpitenā",
+      "translation": "Durch gesprochenes"
+    },
+    {
+      "original": "चतुर्वर्गफलप्रदं",
+      "transliteration": "Punaḥ",
+      "translation": "Wieder"
+    },
+    {
+      "original": "राजद्वारे",
+      "transliteration": "Punaḥ",
+      "translation": "Wieder"
+    },
+    {
+      "original": "जयश्चैव",
+      "transliteration": "Anyanme",
+      "translation": "Es gibt keine andere Zuflucht"
+    },
+    {
+      "original": "शत्रोश्चैव",
+      "transliteration": "Śaraṇaṁ",
+      "translation": "Zuflucht"
+    },
+    {
+      "original": "पराजयः",
+      "transliteration": "Nāsti",
+      "translation": "Es gibt nicht"
+    },
+    {
+      "original": "भूतप्रेतपिशाचानां",
+      "transliteration": "Satyaṁ",
+      "translation": "Wahrheit"
+    },
+    {
+      "original": "व्याघ्राणां",
+      "transliteration": "Satyaṁ",
+      "translation": "Wahrheit"
+    },
+    {
+      "original": "न",
+      "transliteration": "Haripriye",
+      "translation": "O Freundin von Hari"
+    },
+    {
+      "original": "भयं",
+      "transliteration": "Etacchrutvā",
+      "translation": "Nachdem sie dies gehört hatte"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "Agastivākyaṁ",
+      "translation": "Die Worte von Agasti"
+    },
+    {
+      "original": "न",
+      "transliteration": "Hṛṣyamāṇa",
+      "translation": "Freudenvoll"
+    },
+    {
+      "original": "शस्त्रानलतोयौघाद्भयं",
+      "transliteration": "Haripriya",
+      "translation": "O Freundin von Hari"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "Uvāca",
+      "translation": "Sie sprach"
+    },
+    {
+      "original": "प्रजायते",
+      "transliteration": "Madhurāṁ",
+      "translation": "Süße"
+    },
+    {
+      "original": "दुर्वृत्तानां",
+      "transliteration": "Vāṇīṁ",
+      "translation": "Stimme"
+    },
+    {
+      "original": "च",
+      "transliteration": "Tuṣṭāhaṁ",
+      "translation": "Ich bin zufrieden"
+    },
+    {
+      "original": "पापानां",
+      "transliteration": "Tava",
+      "translation": "Deine"
+    },
+    {
+      "original": "बहुहानिकरं",
+      "transliteration": "Sarvadā",
+      "translation": "Immer"
+    },
+    {
+      "original": "परं",
+      "transliteration": "Lakṣmīr uvāca",
+      "translation": "Lakshmi sprach"
+    },
+    {
+      "original": "मन्दुराकरिशालासु",
+      "transliteration": "Yat tvayoktam idaṁ",
+      "translation": "Dieses, was du gesagt hast"
+    },
+    {
+      "original": "गवां",
+      "transliteration": "Stotraṁ",
+      "translation": "Gebet"
+    },
+    {
+      "original": "गोष्ठे",
+      "transliteration": "Yaḥ",
+      "translation": "Der"
+    },
+    {
+      "original": "समाहितः",
+      "transliteration": "Paṭhiṣyati",
+      "translation": "Der es lesen wird"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "Mānavaḥ",
+      "translation": "Mensch"
+    },
+    {
+      "original": "तद्दोषशान्त्यर्थं",
+      "transliteration": "Śṛṇoti",
+      "translation": "Hört"
+    },
+    {
+      "original": "महापातकनाशनं",
+      "transliteration": "Ca",
+      "translation": "Und"
+    },
+    {
+      "original": "सर्वसौख्यकरं",
+      "transliteration": "Mahābhāga",
+      "translation": "Glücklicher"
+    },
+    {
+      "original": "नृणाम",
+      "transliteration": "Tasyāhaṁ",
+      "translation": "Ich bin ihm unterworfen"
+    },
+    {
+      "original": "आयुरारोग्यदं",
+      "transliteration": "Vaśavartinī",
+      "translation": "Unterworfen"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "Nityaṁ",
+      "translation": "Immer"
+    },
+    {
+      "original": "अगस्रिआमुनिना प्रोक्तं",
+      "transliteration": "Paṭhati",
+      "translation": "Liest"
+    },
+    {
+      "original": "प्रजानां",
+      "transliteration": "Yo",
+      "translation": "Wer"
+    },
+    {
+      "original": "हितकाम्यया",
+      "transliteration": "Bhaktyā",
+      "translation": "Mit Hingabe"
+    },
+    {
+      "original": "इत्यगस्तिविरचितं",
+      "transliteration": "Tvalakṣmīstasya",
+      "translation": "Der von Lakshmi gesegnet wird"
+    },
+    {
+      "original": "लक्ष्मीस्तोत्रं",
+      "transliteration": "Naśyati",
+      "translation": "Wird nicht zerstört"
+    },
+    {
+      "original": "सम्पूर्णं",
+      "transliteration": "Raṇaśca",
+      "translation": "Die Schlacht"
+    },
+    {
+      "original": "---",
+      "transliteration": "Naśyate",
+      "translation": "Wird zerstört"
+    },
+    {
+      "original": "---",
+      "transliteration": "Tīvraṁ",
+      "translation": "Heftig"
+    },
+    {
+      "original": "---",
+      "transliteration": "Viyogaṁ",
+      "translation": "Trennung"
+    },
+    {
+      "original": "---",
+      "transliteration": "Naiva",
+      "translation": "Nie"
+    },
+    {
+      "original": "---",
+      "transliteration": "Paśyati",
+      "translation": "Sieht"
+    },
+    {
+      "original": "---",
+      "transliteration": "Yaḥ",
+      "translation": "Der (der)"
+    },
+    {
+      "original": "---",
+      "transliteration": "Paṭhet",
+      "translation": "Liest"
+    },
+    {
+      "original": "---",
+      "transliteration": "Prātārutthāya",
+      "translation": "Morgens aufstehend"
+    },
+    {
+      "original": "---",
+      "transliteration": "Śraddhā-bhaktisamnvitaḥ",
+      "translation": "Mit Glauben und Hingabe"
+    },
+    {
+      "original": "---",
+      "transliteration": "Gṛhe",
+      "translation": "Im Haus"
+    },
+    {
+      "original": "---",
+      "transliteration": "Tasyā",
+      "translation": "Sein"
+    },
+    {
+      "original": "---",
+      "transliteration": "Sadā",
+      "translation": "Immer"
+    },
+    {
+      "original": "---",
+      "transliteration": "Sthāsyē",
+      "translation": "Wird verbleiben"
+    },
+    {
+      "original": "---",
+      "transliteration": "Nityaṁ",
+      "translation": "Immer"
+    },
+    {
+      "original": "---",
+      "transliteration": "Śrīpatinā saha",
+      "translation": "Mit dem Herrn Sri"
+    },
+    {
+      "original": "---",
+      "transliteration": "Sukhasaubhāgyasampanno",
+      "translation": "Der, der Wohlstand und Glück hat"
+    },
+    {
+      "original": "---",
+      "transliteration": "Manasvī",
+      "translation": "Der mit einem klaren Geist"
+    },
+    {
+      "original": "---",
+      "transliteration": "Buddhimān",
+      "translation": "Der, der weise ist"
+    },
+    {
+      "original": "---",
+      "transliteration": "Bhavet",
+      "translation": "Wird"
+    },
+    {
+      "original": "---",
+      "transliteration": "Putravān",
+      "translation": "Der mit Söhnen"
+    },
+    {
+      "original": "---",
+      "transliteration": "Guṇavān",
+      "translation": "Der, der Tugenden hat"
+    },
+    {
+      "original": "---",
+      "transliteration": "Śreṣṭho",
+      "translation": "Der Beste"
+    },
+    {
+      "original": "---",
+      "transliteration": "Bhogabhoktā",
+      "translation": "Der, der Vergnügen genießt"
+    },
+    {
+      "original": "---",
+      "transliteration": "Ca",
+      "translation": "Und"
+    },
+    {
+      "original": "---",
+      "transliteration": "Mānavaḥ",
+      "translation": "Der Mensch"
+    },
+    {
+      "original": "---",
+      "transliteration": "Idaṁ",
+      "translation": "Dies"
+    },
+    {
+      "original": "---",
+      "transliteration": "Stotraṁ",
+      "translation": "Gebet"
+    },
+    {
+      "original": "---",
+      "transliteration": "Mahāpuṇyaṁ",
+      "translation": "Von großem Verdienst"
+    },
+    {
+      "original": "---",
+      "transliteration": "Lakṣmyagastiprakīrtitaṁ",
+      "translation": "Von Agasti verkündet"
+    },
+    {
+      "original": "---",
+      "transliteration": "Viṣṇuprasādajananaṁ",
+      "translation": "Die Quelle des Wohlwollens von Vishnu"
+    },
+    {
+      "original": "---",
+      "transliteration": "Caturvargaphalapradaṁ",
+      "translation": "Die den Erfolg in den vier Lebenszielen bringt"
+    },
+    {
+      "original": "---",
+      "transliteration": "Rājadvāre",
+      "translation": "Am Tor des Königs"
+    },
+    {
+      "original": "---",
+      "transliteration": "Jayaścaiva",
+      "translation": "Sieg und auch"
+    },
+    {
+      "original": "---",
+      "transliteration": "Śatroścaiva",
+      "translation": "Der Sieg über Feinde"
+    },
+    {
+      "original": "---",
+      "transliteration": "Parājayaḥ",
+      "translation": "Der Verlust"
+    },
+    {
+      "original": "---",
+      "transliteration": "Bhūtapretapiśācānāṁ",
+      "translation": "Vor Geistern, Dämonen und Untoten"
+    },
+    {
+      "original": "---",
+      "transliteration": "Vyāghrāṇāṁ",
+      "translation": "Vor Tigern"
+    },
+    {
+      "original": "---",
+      "transliteration": "Na",
+      "translation": "Kein Angst"
+    },
+    {
+      "original": "---",
+      "transliteration": "Bhayaṁ",
+      "translation": "Furcht"
+    },
+    {
+      "original": "---",
+      "transliteration": "Tasyā",
+      "translation": "Von ihm"
+    },
+    {
+      "original": "---",
+      "transliteration": "Prajāyate",
+      "translation": "Wird erzeugt"
+    },
+    {
+      "original": "---",
+      "transliteration": "Na",
+      "translation": "Nicht"
+    },
+    {
+      "original": "---",
+      "transliteration": "Śastrānalatoyaughādbhayaṁ",
+      "translation": "Kein Furcht vor Waffen oder Wasserfluten"
+    },
+    {
+      "original": "---",
+      "transliteration": "Tasyā",
+      "translation": "Von ihm"
+    },
+    {
+      "original": "---",
+      "transliteration": "Prajāyate",
+      "translation": "Wird erzeugt"
+    },
+    {
+      "original": "---",
+      "transliteration": "Durvṛttānāṁ",
+      "translation": "Die der schlechten Taten"
+    },
+    {
+      "original": "---",
+      "transliteration": "Ca",
+      "translation": "Und"
+    },
+    {
+      "original": "---",
+      "transliteration": "Pāpānāṁ",
+      "translation": "Verbrechen"
+    },
+    {
+      "original": "---",
+      "transliteration": "Bahuhānikaraṁ",
+      "translation": "Verursacht viele Schäden"
+    },
+    {
+      "original": "---",
+      "transliteration": "Paraṁ",
+      "translation": "Und auch"
+    },
+    {
+      "original": "---",
+      "transliteration": "Mandurākarishālāsu",
+      "translation": "In den Büffelställen"
+    },
+    {
+      "original": "---",
+      "transliteration": "Gavāṁ",
+      "translation": "Die Kühe"
+    },
+    {
+      "original": "---",
+      "transliteration": "Goṣṭhe",
+      "translation": "In den Ställen"
+    },
+    {
+      "original": "---",
+      "transliteration": "Samāhitaḥ",
+      "translation": "Im Einklang"
+    },
+    {
+      "original": "---",
+      "transliteration": "Paṭhettaddoṣaśāntyarthaṁ",
+      "translation": "Er wird es lesen zur Befreiung von Sünden"
+    },
+    {
+      "original": "---",
+      "transliteration": "Mahāpātakanāśanaṁ",
+      "translation": "Zur Zerstörung von großen Vergehen"
+    },
+    {
+      "original": "---",
+      "transliteration": "Sarvasaukhyakaraṁ",
+      "translation": "Der für Glück und Wohlstand sorgt"
+    },
+    {
+      "original": "---",
+      "transliteration": "Nṛṇām",
+      "translation": "Für die Menschen"
+    },
+    {
+      "original": "---",
+      "transliteration": "Āyurārogyadaṁ",
+      "translation": "Für Gesundheit und langes Leben"
+    },
+    {
+      "original": "---",
+      "transliteration": "Tathā",
+      "translation": "Ebenso"
+    },
+    {
+      "original": "---",
+      "transliteration": "Agasriāmuninā proktaṁ",
+      "translation": "Von Agasti in der Vergangenheit gesagt"
+    },
+    {
+      "original": "---",
+      "transliteration": "Prajānāṁ",
+      "translation": "Für das Wohl der Menschen"
+    },
+    {
+      "original": "---",
+      "transliteration": "Hitakāmyayā",
+      "translation": "Mit dem Wunsch nach Wohlstand"
+    },
+    {
+      "original": "---",
+      "transliteration": "Ityaḥ agastivṛtaṁ",
+      "translation": "So ist das von Agasti verfasste Gebet"
+    },
+    {
+      "original": "---",
+      "transliteration": "Lakṣmīstotraṁ sampūrṇaṁ",
+      "translation": "Das vollständige Lakshmi-Gebet"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\laxmi_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\laxmi_stotra\\german\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\laxmi_stotra\\german\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.826Z"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "mantra": "shiv_panchakshar",
+  "language": "arabic",
+  "type": "word_to_word",
+  "totalWords": 69,
+  "alignedWords": [
+    {
+      "original": "नागेन्द्रहाराय",
+      "transliteration": "ناگندھرہارائے",
+      "translation": "الذي يملك ناغنغا وله ثلاث عيون"
+    },
+    {
+      "original": "त्रिलोचनाय",
+      "transliteration": "تريلوشاناي",
+      "translation": "الذي له ثلاث عيون"
+    },
+    {
+      "original": "भस्माङ्गरागाय",
+      "transliteration": "بسمانغاراغاي",
+      "translation": "الذي له لون رمادي وأحمر"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "ماهيشواراي",
+      "translation": "الذي هو ماهايشوار"
+    },
+    {
+      "original": "नित्याय",
+      "transliteration": "نيتايا",
+      "translation": "الذي هو أبدي"
+    },
+    {
+      "original": "शुद्धाय",
+      "transliteration": "شُدهاي",
+      "translation": "الذي هو طاهر"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "ديغمباري",
+      "translation": "الذي هو عارٍ في السماء"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "تسمي",
+      "translation": "من أجله"
+    },
+    {
+      "original": "न काराय",
+      "transliteration": "لا",
+      "translation": "لا"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "كَ",
+      "translation": "من"
+    },
+    {
+      "original": "मन्दाकिनी",
+      "transliteration": "راي",
+      "translation": "راي"
+    },
+    {
+      "original": "सलीलचन्दन",
+      "transliteration": "نمَه",
+      "translation": "أعبده"
+    },
+    {
+      "original": "चर्चिताय",
+      "transliteration": "شِوَايَ",
+      "translation": "الذي هو شيف"
+    },
+    {
+      "original": "नन्दीश्वर",
+      "transliteration": "منداقيني",
+      "translation": "الذي هو ماء من نهر منداكيني"
+    },
+    {
+      "original": "प्रमथनाथ",
+      "transliteration": "سَلِيلشندن",
+      "translation": "الذي يشبه العطر المضاء بالضوء"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "شَرْشِتَى",
+      "translation": "الذي هو مشهور"
+    },
+    {
+      "original": "मन्दारपुष्प",
+      "transliteration": "نَنديشْوَر",
+      "translation": "الذي هو مالك ناندي"
+    },
+    {
+      "original": "बहुपुष्प",
+      "transliteration": "برَمَث نَاثَ",
+      "translation": "الذي هو مالك براماث"
+    },
+    {
+      "original": "सुपूजिताय",
+      "transliteration": "ماهيشواراي",
+      "translation": "الذي هو ماهاييشوار"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "منداربُشْب",
+      "translation": "الذي زُين بالزهور من زهرة ماندار"
+    },
+    {
+      "original": "म काराय",
+      "transliteration": "بَهُوبُشْب",
+      "translation": "الذي زُين بالزهور العديدة"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "سُبُوجِتَى",
+      "translation": "الذي يعبده وتقدسه"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "تسمي",
+      "translation": "من أجله"
+    },
+    {
+      "original": "गोरिवदनाब्जवृंद",
+      "transliteration": "م",
+      "translation": "من"
+    },
+    {
+      "original": "सूर्याय",
+      "transliteration": "كَ",
+      "translation": "من"
+    },
+    {
+      "original": "दक्षाध्वरनाशकाय",
+      "transliteration": "راي",
+      "translation": "راي"
+    },
+    {
+      "original": "श्रीनीलकंठाय",
+      "transliteration": "نمَه",
+      "translation": "أعبده"
+    },
+    {
+      "original": "वृषध्वजाय",
+      "transliteration": "شِوَايَ",
+      "translation": "الذي هو شيف"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "شِوَايَ",
+      "translation": "الذي هو شيف"
+    },
+    {
+      "original": "शि काराय",
+      "transliteration": "غوري ويدانا أَجبَرْنَ",
+      "translation": "الذي يشبه وجه غوري"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "سورِياي",
+      "translation": "الذي هو مثل الشمس"
+    },
+    {
+      "original": "वसिष्ठ",
+      "transliteration": "دَكشَادْهَوَرَنَاشَكَى",
+      "translation": "الذي أوقف ياجيا دَكشا"
+    },
+    {
+      "original": "कुम्भोद्भव",
+      "transliteration": "شري نيلكانثي",
+      "translation": "الذي هو نيليكنث"
+    },
+    {
+      "original": "गौतमार्य",
+      "transliteration": "ورشَدْهواجاي",
+      "translation": "الذي هو حامل راية الفرس"
+    },
+    {
+      "original": "मुनीन्द्र",
+      "transliteration": "تسمي",
+      "translation": "من أجله"
+    },
+    {
+      "original": "देव",
+      "transliteration": "شِ",
+      "translation": "أعبده"
+    },
+    {
+      "original": "अर्चित",
+      "transliteration": "كاراي",
+      "translation": "الذي يقوم بكل شيء"
+    },
+    {
+      "original": "शेखराय",
+      "transliteration": "نمَه",
+      "translation": "أعبده"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "شِوَايَ",
+      "translation": "الذي هو شيف"
+    },
+    {
+      "original": "अर्क",
+      "transliteration": "فيشِشْتَكُمْبُودْبَهاجَواتَمَارِي",
+      "translation": "الذي هو وشيث وأمهار"
+    },
+    {
+      "original": "वैश्वानर",
+      "transliteration": "مونيِندري دِيوارِشِيتْشَخَرَاَي",
+      "translation": "الذي هو مكرس من كبار المجاهدين"
+    },
+    {
+      "original": "लोचनाय",
+      "transliteration": "شَندَرْآرْكْ",
+      "translation": "الذي هو ضوء القمر والشمس"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "فيشْوانارْلُوچْنَايَا",
+      "translation": "الذي ينظر إلى جميع الخلائق"
+    },
+    {
+      "original": "व काराय",
+      "transliteration": "تسمي",
+      "translation": "من أجله"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "وَ",
+      "translation": "وأيضًا"
+    },
+    {
+      "original": "यक्ष",
+      "transliteration": "كَ",
+      "translation": "من"
+    },
+    {
+      "original": "स्वरूपाय",
+      "transliteration": "راي",
+      "translation": "راي"
+    },
+    {
+      "original": "जटाधराय",
+      "transliteration": "نمَه",
+      "translation": "أعبده"
+    },
+    {
+      "original": "पिनाकहस्ताय",
+      "transliteration": "شِوَايَ",
+      "translation": "الذي هو شيف"
+    },
+    {
+      "original": "सनातनाय",
+      "transliteration": "يَكشَسْوَرُوپَايَ",
+      "translation": "الذي هو بشكل يَكْشَسْ"
+    },
+    {
+      "original": "दिव्याय",
+      "transliteration": "جَتَادْهَرَايَ",
+      "translation": "الذي هو حامل جَتَّا"
+    },
+    {
+      "original": "देवाय",
+      "transliteration": "پِنَاکَہَستَائَي",
+      "translation": "الذي هو حامل السهم"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "سناتناي",
+      "translation": "الذي هو أزلي"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "دِوَیَا",
+      "translation": "الذي هو إلهي"
+    },
+    {
+      "original": "य काराय",
+      "transliteration": "دِوَایَ",
+      "translation": "الذي هو إله"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "دِغَمبَرَايَ",
+      "translation": "الذي هو عارٍ في السماء"
+    },
+    {
+      "original": "पञ्चाक्षरमिदं",
+      "transliteration": "تسمي",
+      "translation": "من أجله"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "يَ",
+      "translation": "وأيضًا"
+    },
+    {
+      "original": "यः",
+      "transliteration": "کارای",
+      "translation": "الذي يقوم بكل شيء"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "نمَه",
+      "translation": "أعبده"
+    },
+    {
+      "original": "शिवसन्निधौ",
+      "transliteration": "شِوَايَ",
+      "translation": "الذي هو شيف"
+    },
+    {
+      "original": "शिवलोकं",
+      "transliteration": "پنجاکشرمِدَں",
+      "translation": "هذا هو المنتر المكون من خمسة أحرف"
+    },
+    {
+      "original": "अवाप्नोति",
+      "transliteration": "پُنْيَم",
+      "translation": "الذي يملأه الطهارة"
+    },
+    {
+      "original": "शिवेन",
+      "transliteration": "یَہ",
+      "translation": "الذي"
+    },
+    {
+      "original": "सह",
+      "transliteration": "پٹھِیچِشِواسَنِدھَو",
+      "translation": "الذي يقرأه في مكان شيف"
+    },
+    {
+      "original": "मोदीते",
+      "transliteration": "شِوَلُوکَمَواپَنوتِی",
+      "translation": "الذي يدخل عالم شيف"
+    },
+    {
+      "original": "---",
+      "transliteration": "شِوَین",
+      "translation": "الذي مع شيف"
+    },
+    {
+      "original": "---",
+      "transliteration": "سہ",
+      "translation": "مع"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَودَتِے",
+      "translation": "الذي يفرح معهم"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\arabic\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\arabic\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.569Z"
+  }
+}

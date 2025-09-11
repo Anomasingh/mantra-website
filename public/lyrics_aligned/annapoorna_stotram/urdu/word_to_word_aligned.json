@@ -1,0 +1,734 @@
+{
+  "mantra": "annapoorna_stotram",
+  "language": "urdu",
+  "type": "word_to_word",
+  "totalWords": 144,
+  "alignedWords": [
+    {
+      "original": "नित्यानन्दकरी",
+      "transliteration": "نِتْیَانَنْدَکَرِی",
+      "translation": "جو ہمیشہ خوشی دینے والی ہے"
+    },
+    {
+      "original": "वराभयकरी",
+      "transliteration": "وَرَابْھَیَکَرِی",
+      "translation": "جو خوف سے آزاد کرنے والی ہے"
+    },
+    {
+      "original": "सौन्दर्यरत्नाकरी",
+      "transliteration": "سْوَندَرْیَرَتْنَاکَرِی",
+      "translation": "جو خوبصورتی اور زیورات دینے والی ہے"
+    },
+    {
+      "original": "निर्धूताखिलघोरपावनकरी",
+      "transliteration": "نِرْدْھُوتَاخِلَغُورَپَاوَنَکَرِی",
+      "translation": "جو تمام برائیوں کو دور کرنے والی ہے"
+    },
+    {
+      "original": "प्रत्यक्षमाहेश्वरी",
+      "transliteration": "پَرْتْیَکْشَمَاہِشْوَرِی",
+      "translation": "جو ظاہر ہونے والی مہیشوری ہے"
+    },
+    {
+      "original": "प्रालेयाचलवंशपावनकरी",
+      "transliteration": "پَرَالے یَاتْچَلَوَنْشَپَاوَنَکَرِی",
+      "translation": "جو پریشانیوں کو دور کرنے والی ہے"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "کاشِی پُورَادْھِیْشْوَرِی",
+      "translation": "جو کاشی کی مالک ہے"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "بھِکْشَاں",
+      "translation": "بھیک دینے والی ہے"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "دےہِی",
+      "translation": "عطا کرنے والی ہے"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "کْرِپَاوَلَمْبَنَکَرِی",
+      "translation": "جو کرم کی مدد دینے والی ہے"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "مَاتَانَنْنَپُورْنِیشْوَرِی",
+      "translation": "جو اناپورنا ماتا ہے"
+    },
+    {
+      "original": "नानारत्नविचित्रभूषणकरी",
+      "transliteration": "نَانَارَتْنَوِچِتْرَبْھُوشَنَکَرِی",
+      "translation": "جو مختلف قسم کے زیورات دینے والی ہے"
+    },
+    {
+      "original": "हेमाम्बराडम्बरी",
+      "transliteration": "ہِیْمَامْبَرَآڈَمْبَرِی",
+      "translation": "جو سونے کا لباس پہنے ہوئی ہے"
+    },
+    {
+      "original": "मुक्ताहारविलम्बमान",
+      "transliteration": "مکتَاہَارَوِلَمْبَمَانَاوِلَسَدْوَکْشُوجَکُمْبھَانْتَرِی",
+      "translation": "جو موتی کے ہار پہننے والی ہے"
+    },
+    {
+      "original": "विलसद्वक्षोजकुम्भान्तरी",
+      "transliteration": "کاشِی پُورَہَگْرُوَوَاسِتَانگَرُوچِیرِے",
+      "translation": "جو کاشی کی خوبصورت روحانی قدرت کی حامل ہے"
+    },
+    {
+      "original": "काश्मीरागरुवासिताङ्गरुचिरे",
+      "transliteration": "کاشِی پُورَادْھِیْشْوَرِی",
+      "translation": "جو کاشی کی مالک ہے"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "بھِکْشَاں دےہِی",
+      "translation": "بھیک دینے والی ہے"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "کْرِپَاوَلَمْبَنَکَرِی",
+      "translation": "جو کرم کی مدد دینے والی ہے"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "مَاتَانَنْنَپُورْنِیشْوَرِی",
+      "translation": "جو اناپورنا ماتا ہے"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "یوگَانَنْدَکَرِی",
+      "translation": "جو یوگ میں خوشی دینے والی ہے"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "رِپْکْشَیَکَرِی",
+      "translation": "جو دشمنوں کو ختم کرنے والی ہے"
+    },
+    {
+      "original": "योगानन्दकरी",
+      "transliteration": "دھَرْمَارْتْھَنِشْتَاکَرِی",
+      "translation": "جو دھرمی اور مالی فائدہ دینے والی ہے"
+    },
+    {
+      "original": "रिपुक्षयकरी",
+      "transliteration": "چَندْرَارْکَانَلَبْھَاسَمَانَلَہَرِی",
+      "translation": "جو چاند سورج اور آگ کی طرح چمکنے والی ہے"
+    },
+    {
+      "original": "धर्मार्थनिष्ठाकरी",
+      "transliteration": "تْرَیَلَوْکْیَرَکْشَاکَرِی",
+      "translation": "جو تینوں جہانوں کی حفاظت کرنے والی ہے"
+    },
+    {
+      "original": "चन्द्रार्कानलभासमानलहरी",
+      "transliteration": "سَرْوَئیشْوَرْیَسَمَسْتَوَانْچِتَکَرِی",
+      "translation": "جو تمام خواہشات اور دولت دینے والی ہے"
+    },
+    {
+      "original": "त्रैलोक्यरक्षाकरी",
+      "transliteration": "کاشِی پُورَادْھِیْشْوَرِی",
+      "translation": "جو کاشی کی مالک ہے"
+    },
+    {
+      "original": "सर्वैश्वर्यसमस्तवाञ्छितकरी",
+      "transliteration": "بھِکْشَاں دےہِی",
+      "translation": "بھیک دینے والی ہے"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "کْرِپَاوَلَمْبَنَکَرِی",
+      "translation": "جو کرم کی مدد دینے والی ہے"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "مَاتَانَنْنَپُورْنِیشْوَرِی",
+      "translation": "جو اناپورنا ماتا ہے"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "کَیْلَاسَآچَلَکَندَرَالَیَکَرِی",
+      "translation": "جو کیلاس پہاڑ کی غار میں سکون دینے والی ہے"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "گَورِی اُما شَںکَرِی",
+      "translation": "جو گوری، اُما اور شَنکَر کی بیوی ہے"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "کَوْمَارِی نِگْمَارْتھَگَوْچَرَکَرِی",
+      "translation": "جو کماری اور نِگم کی مرادوں کو پورا کرنے والی ہے"
+    },
+    {
+      "original": "कैलासाचलकन्दरालयकरी",
+      "transliteration": "اُمْکَارَبیجَاکْشَرِی",
+      "translation": "جو او مکار کی بیج ہے"
+    },
+    {
+      "original": "गौरी",
+      "transliteration": "مَوْکْشَدْوَارَکَپَآٹَپَآٹَنَکَرِی",
+      "translation": "جو نجات کے دروازے کو کھولنے والی ہے"
+    },
+    {
+      "original": "उमा",
+      "transliteration": "کاشِی پُورَادْھِیْشْوَرِی",
+      "translation": "جو کاشی کی مالک ہے"
+    },
+    {
+      "original": "शङ्करी",
+      "transliteration": "بھِکْشَاں دےہِی",
+      "translation": "بھیک دینے والی ہے"
+    },
+    {
+      "original": "कौमारी",
+      "transliteration": "کْرِپَاوَلَمْبَنَکَرِی",
+      "translation": "جو کرم کی مدد دینے والی ہے"
+    },
+    {
+      "original": "निगमार्थगोचरकरी",
+      "transliteration": "مَاتَانَنْنَپُورْنِیشْوَرِی",
+      "translation": "جو اناپورنا ماتا ہے"
+    },
+    {
+      "original": "ओङ्कारबीजाक्षरी",
+      "transliteration": "دْرِشْیَادْرِشْیَویبھُوتِوَاہَنَکَرِی",
+      "translation": "جو نظر آنے والی اور نہ آنے والی چیزوں کی طاقت کو برداشت کرنے والی ہے"
+    },
+    {
+      "original": "मोक्षद्वारकपाटपाटनकरी",
+      "transliteration": "بْرَہْمَانْڈبھَانْڈُودَرِی",
+      "translation": "جو برہمانڈ کے تمام خزانے کو رکھنے والی ہے"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "لِیلَانَاتَکَسُوترَبھِیْدَنَکَرِی",
+      "translation": "جو لِیلا اور نٹک کے دھاگوں کو توڑنے والی ہے"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "وَیْگْنَانَدیپَانْکُورِی",
+      "translation": "جو علم کا دیپک دینے والی ہے"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "شْریوِشْوِیشَمَنَہْپْرَسَادْھَنَکَرِی",
+      "translation": "جو دنیا کے تمام ذہنوں کو خوش کرنے والی ہے"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "کاشِی پُورَادْھِیْشْوَرِی",
+      "translation": "جو کاشی کی مالک ہے"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "بھِکْشَاں دےہِی",
+      "translation": "بھیک دینے والی ہے"
+    },
+    {
+      "original": "दृश्यादृश्यविभूतिवाहनकरी",
+      "transliteration": "کْرِپَاوَلَمْبَنَکَرِی",
+      "translation": "جو کرم کی مدد دینے والی ہے"
+    },
+    {
+      "original": "ब्रह्माण्डभाण्डोदरी",
+      "transliteration": "مَاتَانَنْنَپُورْنِیشْوَرِی",
+      "translation": "جو اناپورنا ماتا ہے"
+    },
+    {
+      "original": "लीलानाटकसूत्रभेदनकरी",
+      "transliteration": "اُرْوِیْسَرْوَجَنِیشْوَرِی",
+      "translation": "جو تمام مخلوقات کی دیوی ہے"
+    },
+    {
+      "original": "विज्ञानदीपाङ्कुरी",
+      "transliteration": "بھگَواتِی مَاتَانَنْنَپُورْنِیشْوَرِی",
+      "translation": "جو بھگواتی اور اناپورنا ماتا ہے"
+    },
+    {
+      "original": "श्रीविश्वेशमनःप्रसादनकरी",
+      "transliteration": "وینی نِیلاسَمانَکُنْتَلَہَرِی",
+      "translation": "جو نیلے رنگ کی لٹوں کے ساتھ ہے"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "نِتْیَانَنْنَدَانِیشْوَرِی",
+      "translation": "جو ہمیشہ اناں دینے والی ہے"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "سَرْوَآنَنْدَکَرِی",
+      "translation": "جو تمام خوشیاں دینے والی ہے"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "سَدا شُبھَکَرِی",
+      "translation": "جو ہمیشہ نیک عمل کرنے والی ہے"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "کاشِی پُورَادْھِیْشْوَرِی",
+      "translation": "جو کاشی کی مالک ہے"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "بھِکْشَاں دےہِی",
+      "translation": "بھیک دینے والی ہے"
+    },
+    {
+      "original": "उर्वीसर्वजनेश्वरी",
+      "transliteration": "کْرِپَاوَلَمْبَنَکَرِی",
+      "translation": "جو کرم کی مدد دینے والی ہے"
+    },
+    {
+      "original": "भगवती",
+      "transliteration": "مَاتَانَنْنَپُورْنِیشْوَرِی",
+      "translation": "جو اناپورنا ماتا ہے"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "آدِکْشَانْتَسَمَسْٹَورْنَنَکَرِی",
+      "translation": "جو ابتدائی کائنات سے تمام رنگوں کی تخلیق کرنے والی ہے"
+    },
+    {
+      "original": "वेणीनीलसमानकुन्तलहरी",
+      "transliteration": "شَمْبُھُسْتِرِبْھَاوَاکَرِی",
+      "translation": "جو شَمبھو کی تین مختلف طبیعتوں کی پرورش کرنے والی ہے"
+    },
+    {
+      "original": "नित्यान्नदानेश्वरी",
+      "transliteration": "کاشْمِیراَٹْرِجَلَیشْوَرِی",
+      "translation": "جو کشمیری راتوں کی مالکہ ہے"
+    },
+    {
+      "original": "सर्वानन्दकरी",
+      "transliteration": "تْریلاہَرِی نِتْیَانْکُورَا شَرْوَرِی",
+      "translation": "جو ہمیشہ نئی روشنی دینے والی ہے"
+    },
+    {
+      "original": "सदा शुभकरी",
+      "transliteration": "کَامَاکَانْکْشَکَرِی",
+      "translation": "جو خواہشوں کی تکمیل کرنے والی ہے"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "جَنُودَیَکَرِی",
+      "translation": "جو لوگوں کی بیداری اور عروج دینے والی ہے"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "کاشِی پُورَادْھِیْشْوَرِی",
+      "translation": "جو کاشی کی مالک ہے"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "بھِکْشَاں دےہِی",
+      "translation": "بھیک دینے والی ہے"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "کْرِپَاوَلَمْبَنَکَرِی",
+      "translation": "جو کرم کی مدد دینے والی ہے"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "مَاتَانَنْنَپُورْنِیشْوَرِی",
+      "translation": "جو اناپورنا ماتا ہے"
+    },
+    {
+      "original": "आदिक्षान्तसमस्तवर्णनकरी",
+      "transliteration": "دیوِی سَرْوَویچِتْرَرنْتَراچِتَا",
+      "translation": "جو مختلف قسم کے قیمتی جواہرات سے تخلیق ہونے والی ہے"
+    },
+    {
+      "original": "शम्भोस्त्रिभावाकरी",
+      "transliteration": "دَاکْشَایَنی سُنْدَرِی",
+      "translation": "جو داکشاینی اور خوبصورت ہے"
+    },
+    {
+      "original": "काश्मीरात्रिजलेश्वरी",
+      "transliteration": "وَامَنْ سْوَادُوپَیُودھَرْپْریا کَرِی",
+      "translation": "جو ذائقے دار دودھ دینے والی ہے"
+    },
+    {
+      "original": "त्रिलहरी",
+      "transliteration": "سَوْبھاگْیَمَاَہیشْوَرِی",
+      "translation": "جو خوشی اور کامیابی دینے والی ہے"
+    },
+    {
+      "original": "नित्याङ्कुरा शर्वरी",
+      "transliteration": "بھَکْتَابْھِیْشْٹَکَرِی",
+      "translation": "جو اپنے بھکتوں کی تمام آرزوئیں پوری کرنے والی ہے"
+    },
+    {
+      "original": "कामाकाङ्क्षकरी",
+      "transliteration": "سَدا شُبھَکَرِی",
+      "translation": "جو ہمیشہ نیک عمل کرنے والی ہے"
+    },
+    {
+      "original": "जनोदयकरी",
+      "transliteration": "کاشِی پُورَادْھِیْشْوَرِی",
+      "translation": "جو کاشی کی مالک ہے"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "بھِکْشَاں دےہِی",
+      "translation": "بھیک دینے والی ہے"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "کْرِپَاوَلَمْبَنَکَرِی",
+      "translation": "جو کرم کی مدد دینے والی ہے"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "مَاتَانَنْنَپُورْنِیشْوَرِی",
+      "translation": "جو اناپورنا ماتا ہے"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "چندرآرْکَانَلَکُوٹِکُوٹِسَدْرِشَا",
+      "translation": "جو چاند اور سورج کی روشنی کی مانند ہے"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "چندرآمْشُبِمْبَادْھَارِی",
+      "translation": "جو چاند کے منظر کی حامل ہے"
+    },
+    {
+      "original": "सर्वविचित्ररत्नरचिता",
+      "transliteration": "چندرآرْکَآگْنِسَمَانَکُنْتَلَدْھَارِی",
+      "translation": "جو چاند سورج اور آگ کی طرح کے بالوں کی حامل ہے"
+    },
+    {
+      "original": "दाक्षायणी",
+      "transliteration": "چندرآرْکَورْنِیشْوَرِی",
+      "translation": "جو چاند سورج کے رنگوں والی ہے"
+    },
+    {
+      "original": "सुन्दरी",
+      "transliteration": "مالا پُستَک پَاشَا سَآنکُشَدْھَارِی",
+      "translation": "جو مالا، کتاب، رسی اور ہنچر کی حامل ہے"
+    },
+    {
+      "original": "वामं",
+      "transliteration": "کاشِی پُورَادْھِیْشْوَرِی",
+      "translation": "جو کاشی کی مالک ہے"
+    },
+    {
+      "original": "स्वादुपयोधरप्रियकरी",
+      "transliteration": "بھِکْشَاں",
+      "translation": "بھیک دینے والی ہے"
+    },
+    {
+      "original": "सौभाग्यमाहेश्वरी",
+      "transliteration": "دےہِی",
+      "translation": "دینے والی ہے"
+    },
+    {
+      "original": "भक्ताभीष्टकरी",
+      "transliteration": "کْرِپَاوَلَمْبَنَکَرِی",
+      "translation": "جو کرم کی مدد دینے والی ہے"
+    },
+    {
+      "original": "सदा शुभकरी",
+      "transliteration": "مَاتَانَنْنَپُورْنِیشْوَرِی",
+      "translation": "جو اناپورنا ماتا ہے"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "کْشَتْرَتْرَانَکَرِی",
+      "translation": "جو راجاؤں کی حفاظت کرنے والی ہے"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "مَہَابْھَیَکَرِی",
+      "translation": "جو عظیم خوف کو دور کرنے والی ہے"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "مَاتَا",
+      "translation": "ماں ہے"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "کْرِپَاسَآگَرِی",
+      "translation": "جو کرم کی سمندر والی ہے"
+    },
+    {
+      "original": "चन्द्रार्कानलकोटिकोटिसदृशा",
+      "transliteration": "ساکْشَانْمُکْشَکَرِی",
+      "translation": "جو خودمکش کے دروازے کی کھولنے والی ہے"
+    },
+    {
+      "original": "चन्द्रांशुबिम्बाधरी",
+      "transliteration": "سَدا",
+      "translation": "ہمیشہ"
+    },
+    {
+      "original": "चन्द्रार्काग्निसमानकुन्तलधरी",
+      "transliteration": "شِوْکَرِی",
+      "translation": "جو شیو کی مہارت والی ہے"
+    },
+    {
+      "original": "चन्द्रार्कवर्णेश्वरी",
+      "transliteration": "وَشْوِشْوَرْشْرِیدْھَارِی",
+      "translation": "جو ویسواس کی شاہی والی ہے"
+    },
+    {
+      "original": "मालापुस्तकपाशासाङ्कुशधरी",
+      "transliteration": "دَکْشَاکْرَنْدَکَرِی",
+      "translation": "جو دَکش کے رونے والی ہے"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "نِرَامَیَکَرِی",
+      "translation": "جو بیماریوں کو دور کرنے والی ہے"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "کاشِی پُورَادْھِیْشْوَرِی",
+      "translation": "جو کاشی کی مالک ہے"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "بھِکْشَاں",
+      "translation": "بھیک دینے والی ہے"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "دےہِی",
+      "translation": "دینے والی ہے"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "کْرِپَاوَلَمْبَنَکَرِی",
+      "translation": "جو کرم کی مدد دینے والی ہے"
+    },
+    {
+      "original": "चन्द्रार्कानलकोटिकोटिसदृशा",
+      "transliteration": "مَاتَانَنْنَپُورْنِیشْوَرِی",
+      "translation": "جو اناپورنا ماتا ہے"
+    },
+    {
+      "original": "चन्द्रांशुबिम्बाधरी",
+      "transliteration": "اَنبُورْنِے",
+      "translation": "جو ہمیشہ بھرا ہوا ہے"
+    },
+    {
+      "original": "चन्द्रार्काग्निसमानकुन्तलधरी",
+      "transliteration": "سَداپُورْنِے",
+      "translation": "جو ہمیشہ بھر پور ہے"
+    },
+    {
+      "original": "चन्द्रार्कवर्णेश्वरी",
+      "transliteration": "شَنکَرْپْرَانَولْلَبھِے",
+      "translation": "جو شنکر کے پرانوں کی پسندیدہ ہیں"
+    },
+    {
+      "original": "मालापुस्तकपाशासाङ्कुशधरी",
+      "transliteration": "جْنَانَویَرَآگْیَسِدْھْیَرَتْمِ",
+      "translation": "جو علم اور ویرگ کے لئے ہے"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "بھِکْشَاں",
+      "translation": "بھیک دینے والی ہے"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "دےہِی",
+      "translation": "دینے والی ہے"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "چْ",
+      "translation": "اور"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "پَارْوَتِی",
+      "translation": "پاروتی (ماتا)"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "مَاتَا",
+      "translation": "ماں ہے"
+    },
+    {
+      "original": "क्षत्रत्राणकरी",
+      "transliteration": "چْ",
+      "translation": "اور"
+    },
+    {
+      "original": "महाऽभयकरी",
+      "transliteration": "پَارْوَتِی",
+      "translation": "پاروتی (ماتا)"
+    },
+    {
+      "original": "माता",
+      "transliteration": "دِیوِی",
+      "translation": "دیوی ہے"
+    },
+    {
+      "original": "कृपासागरी",
+      "transliteration": "پِتَا",
+      "translation": "باپ ہے"
+    },
+    {
+      "original": "साक्षान्मोक्षकरी",
+      "transliteration": "دِیو",
+      "translation": "خدا ہے"
+    },
+    {
+      "original": "सदा शिवकरी",
+      "transliteration": "مَہِشْوَرَہْ",
+      "translation": "مہیشور ہیں"
+    },
+    {
+      "original": "विश्वेश्वरश्रीधरी",
+      "transliteration": "بَانْدھْوَہْ",
+      "translation": "رشتہ دار ہیں"
+    },
+    {
+      "original": "दक्षाक्रन्दकरी",
+      "transliteration": "شِوْبَھَکْتَاشْچْ",
+      "translation": "شیو کے بھکت ہیں"
+    },
+    {
+      "original": "निरामयकरी",
+      "transliteration": "سْوَدِیشُو",
+      "translation": "وطن"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "بھْوَنَتْرَیَمْ",
+      "translation": "تینوں جہان"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अन्नपूर्णे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सदापूर्णे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शङ्करप्राणवल्लभे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ज्ञानवैराग्यसिद्ध्यर्थं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पार्वति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "माता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पार्वती",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पिता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देवो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "महेश्वरः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बान्धवाः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शिवभक्ताश्च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वदेशो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भुवनत्रयम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\urdu\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\urdu\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.193Z"
+  }
+}

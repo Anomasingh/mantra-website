@@ -1,0 +1,859 @@
+{
+  "mantra": "maruti_stotra",
+  "language": "english",
+  "type": "word_to_word",
+  "totalWords": 169,
+  "alignedWords": [
+    {
+      "original": "ॐ",
+      "transliteration": "Om",
+      "translation": "Sacred Sound Om"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "Namo",
+      "translation": "Salutations"
+    },
+    {
+      "original": "भगवते",
+      "transliteration": "Bhagavate",
+      "translation": "To the Divine Lord"
+    },
+    {
+      "original": "विचित्रवीर",
+      "transliteration": "Vichitravira",
+      "translation": "Wonderful Hero"
+    },
+    {
+      "original": "हनुमते",
+      "transliteration": "Hanumate",
+      "translation": "To Hanuman"
+    },
+    {
+      "original": "प्रलयकाल",
+      "transliteration": "Pralayakala",
+      "translation": "Time of Dissolution"
+    },
+    {
+      "original": "अनलप्रभा",
+      "transliteration": "Analaprabha",
+      "translation": "Radiance of Fire"
+    },
+    {
+      "original": "प्रज्वलनाय",
+      "transliteration": "Prajvalanaya",
+      "translation": "To the Blazing One"
+    },
+    {
+      "original": "प्रताप",
+      "transliteration": "Pratapa",
+      "translation": "Majesty"
+    },
+    {
+      "original": "वज्रदेहाय",
+      "transliteration": "Vajradehaya",
+      "translation": "To the Adamantine Body"
+    },
+    {
+      "original": "अंजनी",
+      "transliteration": "Anjani",
+      "translation": "Anjani"
+    },
+    {
+      "original": "गर्भ",
+      "transliteration": "Garbha",
+      "translation": "Womb"
+    },
+    {
+      "original": "संभूताय",
+      "transliteration": "Sambhutaya",
+      "translation": "To the One Born of"
+    },
+    {
+      "original": "हसच्चारुवक्त्रं",
+      "transliteration": "Hasaccharuvaktram",
+      "translation": "Beautiful Smiling Face"
+    },
+    {
+      "original": "भजेऽहं भजेऽहं",
+      "transliteration": "Bhajeham Bhajeham",
+      "translation": "I Worship, I Worship"
+    },
+    {
+      "original": "रमाकण्ठहारं",
+      "transliteration": "Ramakanthaharam",
+      "translation": "Wearing Rama's Necklace"
+    },
+    {
+      "original": "श्रुतिव्रातसारं",
+      "transliteration": "Shrutivratasaram",
+      "translation": "Essence of the Vedas"
+    },
+    {
+      "original": "जलान्तर्विहारं",
+      "transliteration": "Jalantarviharam",
+      "translation": "Playing in the Waters"
+    },
+    {
+      "original": "धराभारहारं",
+      "transliteration": "Dharabharaharam",
+      "translation": "Bearer of Earth's Burden"
+    },
+    {
+      "original": "चिदानन्द रूपं",
+      "transliteration": "Chidananda rupam",
+      "translation": "Form of Consciousness-Bliss"
+    },
+    {
+      "original": "मनोज्ञस्वरूपं",
+      "transliteration": "Manojnasvarupam",
+      "translation": "Beautiful Form"
+    },
+    {
+      "original": "ध्रुतानेकरूपं",
+      "transliteration": "Dhrutanekarupam",
+      "translation": "Bearer of Many Forms"
+    },
+    {
+      "original": "जराजन्महीनं",
+      "transliteration": "Jarajanmahinam",
+      "translation": "Beyond Age and Birth"
+    },
+    {
+      "original": "परानन्दपीनं",
+      "transliteration": "Paranandapinam",
+      "translation": "Full of Supreme Bliss"
+    },
+    {
+      "original": "समाधानलीनं",
+      "transliteration": "Samadhaninam",
+      "translation": "Absorbed in Meditation"
+    },
+    {
+      "original": "सदैवानवीनं",
+      "transliteration": "Sadaivanavinam",
+      "translation": "Ever New"
+    },
+    {
+      "original": "जगज्जन्महेतुं",
+      "transliteration": "Jagajanmahetum",
+      "translation": "Cause of World's Birth"
+    },
+    {
+      "original": "सुरानीककेतुं",
+      "transliteration": "Suranikaketum",
+      "translation": "Banner of Divine Army"
+    },
+    {
+      "original": "त्रिलोकैकसेतुं",
+      "transliteration": "Trilokaikasetum",
+      "translation": "Bridge of Three Worlds"
+    },
+    {
+      "original": "कृताम्नायगानं",
+      "transliteration": "Kritamnayaganam",
+      "translation": "Singer of Sacred Texts"
+    },
+    {
+      "original": "खगाधीशयानं",
+      "transliteration": "Khagadhishyanam",
+      "translation": "Riding the Bird King"
+    },
+    {
+      "original": "विमुक्तेर्निदानं",
+      "transliteration": "Vimukternidanam",
+      "translation": "Source of Liberation"
+    },
+    {
+      "original": "हरारातिमानं",
+      "transliteration": "Hararatimanam",
+      "translation": "Destroyer of Hara's Enemies"
+    },
+    {
+      "original": "स्वभक्तानुकूलं",
+      "transliteration": "Svabhaktanukulam",
+      "translation": "Kind to Devotees"
+    },
+    {
+      "original": "जगद्वृक्षमूलं",
+      "transliteration": "Jagadvrikshamulam",
+      "translation": "Root of World Tree"
+    },
+    {
+      "original": "निरस्तार्तशूलं",
+      "transliteration": "Nirastartashulam",
+      "translation": "Remover of Pain"
+    },
+    {
+      "original": "समस्तामरेशं",
+      "transliteration": "Samastamresham",
+      "translation": "Lord of All Gods"
+    },
+    {
+      "original": "द्विरेफाभकेशं",
+      "transliteration": "Dvirefabhakesham",
+      "translation": "With Bee-like Hair"
+    },
+    {
+      "original": "जगद्विम्बलेशं",
+      "transliteration": "Jagadvimbalesham",
+      "translation": "Lord of World Image"
+    },
+    {
+      "original": "हृदाकाशदेशं",
+      "transliteration": "Hridakashadesha",
+      "translation": "Dwelling in Heart Space"
+    },
+    {
+      "original": "सदा दिव्यदेहं",
+      "transliteration": "Sada divyadeham",
+      "translation": "Ever Divine Body"
+    },
+    {
+      "original": "विमुक्ताखिलेहं",
+      "transliteration": "Vimuktakhileham",
+      "translation": "Free from All Bonds"
+    },
+    {
+      "original": "सुवैकुण्ठगेहं",
+      "transliteration": "Suvaikunthageham",
+      "translation": "Resident of Vaikuntha"
+    },
+    {
+      "original": "सुरालिबलिष्ठं",
+      "transliteration": "Suralibalishtham",
+      "translation": "Strongest Among Gods"
+    },
+    {
+      "original": "त्रिलोकीवरिष्ठं",
+      "transliteration": "Trilokivarishtham",
+      "translation": "Best of Three Worlds"
+    },
+    {
+      "original": "गुरुं गरिष्ठं",
+      "transliteration": "Gurum garishtham",
+      "translation": "Greatest Teacher"
+    },
+    {
+      "original": "स्वरूपैकनिष्ठं",
+      "transliteration": "Svarupaikanishtham",
+      "translation": "Established in True Form"
+    },
+    {
+      "original": "सदा युद्धधीरं",
+      "transliteration": "Sada yuddhabhiram",
+      "translation": "Ever Brave in Battle"
+    },
+    {
+      "original": "महावीरवीरं",
+      "transliteration": "Mahaviviram",
+      "translation": "Greatest of Heroes"
+    },
+    {
+      "original": "महाम्भोधितीरं",
+      "transliteration": "Mahambhodhitiram",
+      "translation": "Shore of Great Ocean"
+    },
+    {
+      "original": "रमावामभागं",
+      "transliteration": "Ramavamabhagam",
+      "translation": "Left Side of Rama"
+    },
+    {
+      "original": "तलानग्रनागं",
+      "transliteration": "Talanagramagam",
+      "translation": "Serpent at the Base"
+    },
+    {
+      "original": "कृताधीनयागं",
+      "transliteration": "Kritadhinayagam",
+      "translation": "Performer of Controlled Sacrifice"
+    },
+    {
+      "original": "गतारागरागं",
+      "transliteration": "Gataragaragam",
+      "translation": "Free from Attachments"
+    },
+    {
+      "original": "मुनीन्द्रैः सुगीतं",
+      "transliteration": "Munindraiah sugitam",
+      "translation": "Well-sung by Great Sages"
+    },
+    {
+      "original": "सुरैः संपरीतं",
+      "transliteration": "Suraih samparitam",
+      "translation": "Surrounded by Gods"
+    },
+    {
+      "original": "गुणौधैरतीतं",
+      "transliteration": "Gunaudhairatitam",
+      "translation": "Beyond All Qualities"
+    },
+    {
+      "original": "क्लीं",
+      "transliteration": "Klim",
+      "translation": "Seed Syllable Klim"
+    },
+    {
+      "original": "ह्रीं",
+      "transliteration": "Hrim",
+      "translation": "Seed Syllable Hrim"
+    },
+    {
+      "original": "श्रीं",
+      "transliteration": "Shrim",
+      "translation": "Seed Syllable Shrim"
+    },
+    {
+      "original": "मुखबंधन",
+      "transliteration": "Mukhabandhana",
+      "translation": "Face Binding"
+    },
+    {
+      "original": "सर्वमुखबंधन",
+      "transliteration": "Sarvamukhabandhana",
+      "translation": "Binding All Faces"
+    },
+    {
+      "original": "वशमानय",
+      "transliteration": "Vashamanaya",
+      "translation": "Bring Under Control"
+    },
+    {
+      "original": "स्वाहा",
+      "transliteration": "Svaha",
+      "translation": "So Be It"
+    },
+    {
+      "original": "फट्",
+      "transliteration": "Phat",
+      "translation": "Destroy"
+    },
+    {
+      "original": "मुनीन्द्रैः",
+      "transliteration": "Munindraiah",
+      "translation": "By Great Sages"
+    },
+    {
+      "original": "सुगीतं",
+      "transliteration": "Sugitam",
+      "translation": "Well-sung"
+    },
+    {
+      "original": "सुरैः",
+      "transliteration": "Suraih",
+      "translation": "By Gods"
+    },
+    {
+      "original": "संपरीतं",
+      "transliteration": "Samparitam",
+      "translation": "Completely Surrounded"
+    },
+    {
+      "original": "गुणौधैः",
+      "transliteration": "Gunaudhaih",
+      "translation": "By Multitude of Virtues"
+    },
+    {
+      "original": "अतीतं",
+      "transliteration": "Atitam",
+      "translation": "Transcendent"
+    },
+    {
+      "original": "भजेऽहं",
+      "transliteration": "Bhajeham",
+      "translation": "I Worship"
+    },
+    {
+      "original": "भजेऽहं",
+      "transliteration": "Bhajeham",
+      "translation": "I Worship"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "यस्तु",
+      "transliteration": "Yastu",
+      "translation": "Whoever"
+    },
+    {
+      "original": "नित्यं",
+      "transliteration": "Nityam",
+      "translation": "Daily"
+    },
+    {
+      "original": "समाधाय",
+      "transliteration": "Samadhaya",
+      "translation": "Having Concentrated"
+    },
+    {
+      "original": "चित्तं",
+      "transliteration": "Chittam",
+      "translation": "Mind"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "Pathet",
+      "translation": "Should Recite"
+    },
+    {
+      "original": "अष्टकं",
+      "transliteration": "Ashtakam",
+      "translation": "Eight Verses"
+    },
+    {
+      "original": "मुरारेः",
+      "transliteration": "Murareh",
+      "translation": "Of Murari (Krishna)"
+    },
+    {
+      "original": "स विष्णोः",
+      "transliteration": "Sa Vishnoh",
+      "translation": "He of Vishnu"
+    },
+    {
+      "original": "विशोकं",
+      "transliteration": "Vishokam",
+      "translation": "Free from Sorrow"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "Dhruvam",
+      "translation": "Certainly"
+    },
+    {
+      "original": "याति",
+      "transliteration": "Yati",
+      "translation": "Goes"
+    },
+    {
+      "original": "लोकं",
+      "transliteration": "Lokam",
+      "translation": "To the World"
+    },
+    {
+      "original": "जराजन्म",
+      "transliteration": "Jarajanma",
+      "translation": "Old Age and Birth"
+    },
+    {
+      "original": "शोकं",
+      "transliteration": "Shokam",
+      "translation": "Sorrow"
+    },
+    {
+      "original": "पुनर्विन्दते",
+      "transliteration": "Punarvindate",
+      "translation": "Finds Again"
+    },
+    {
+      "original": "नो",
+      "transliteration": "No",
+      "translation": "Not"
+    },
+    {
+      "original": "प्रकट",
+      "transliteration": "Prakata",
+      "translation": "Manifest"
+    },
+    {
+      "original": "विक्रम",
+      "transliteration": "Vikrama",
+      "translation": "Valor"
+    },
+    {
+      "original": "वीर",
+      "transliteration": "Vira",
+      "translation": "Hero"
+    },
+    {
+      "original": "दैत्य",
+      "transliteration": "Daitya",
+      "translation": "Demon"
+    },
+    {
+      "original": "दानव",
+      "transliteration": "Danava",
+      "translation": "Titan"
+    },
+    {
+      "original": "यक्ष",
+      "transliteration": "Yaksha",
+      "translation": "Celestial Being"
+    },
+    {
+      "original": "रक्षो",
+      "transliteration": "Raksho",
+      "translation": "Protector"
+    },
+    {
+      "original": "गण",
+      "transliteration": "Gana",
+      "translation": "Group"
+    },
+    {
+      "original": "ग्रह",
+      "transliteration": "Graha",
+      "translation": "Planetary Force"
+    },
+    {
+      "original": "बंधनाय",
+      "transliteration": "Bandhanaya",
+      "translation": "For Binding"
+    },
+    {
+      "original": "भूत",
+      "transliteration": "Bhuta",
+      "translation": "Element Being"
+    },
+    {
+      "original": "ग्रहबंधनाय",
+      "transliteration": "Grahabandhanaya",
+      "translation": "For Binding Planets"
+    },
+    {
+      "original": "प्रेत",
+      "transliteration": "Preta",
+      "translation": "Spirit"
+    },
+    {
+      "original": "पिशाच",
+      "transliteration": "Pishacha",
+      "translation": "Evil Spirit"
+    },
+    {
+      "original": "शाकिनी",
+      "transliteration": "Shakini",
+      "translation": "Shakini"
+    },
+    {
+      "original": "डाकिनी",
+      "transliteration": "Dakini",
+      "translation": "Dakini"
+    },
+    {
+      "original": "काकिनी",
+      "transliteration": "Kakini",
+      "translation": "Kakini"
+    },
+    {
+      "original": "कामिनी",
+      "transliteration": "Kamini",
+      "translation": "Enchantress"
+    },
+    {
+      "original": "ब्रह्म",
+      "transliteration": "Brahma",
+      "translation": "Brahma"
+    },
+    {
+      "original": "राक्षस",
+      "transliteration": "Rakshasa",
+      "translation": "Demon"
+    },
+    {
+      "original": "चोर",
+      "transliteration": "Chora",
+      "translation": "Thief"
+    },
+    {
+      "original": "मारी",
+      "transliteration": "Mari",
+      "translation": "Destroyer"
+    },
+    {
+      "original": "एहि",
+      "transliteration": "Ehi",
+      "translation": "Come Here"
+    },
+    {
+      "original": "आगच्छ",
+      "transliteration": "Agachcha",
+      "translation": "Come Forward"
+    },
+    {
+      "original": "आवेशय",
+      "transliteration": "Aveshaya",
+      "translation": "Enter"
+    },
+    {
+      "original": "मम",
+      "transliteration": "Mama",
+      "translation": "My"
+    },
+    {
+      "original": "हृदये",
+      "transliteration": "Hridaye",
+      "translation": "In Heart"
+    },
+    {
+      "original": "प्रवेशय",
+      "transliteration": "Praveshaya",
+      "translation": "Enter Within"
+    },
+    {
+      "original": "स्फुर",
+      "transliteration": "Sphura",
+      "translation": "Manifest"
+    },
+    {
+      "original": "प्रस्फुर",
+      "transliteration": "Prasphura",
+      "translation": "Manifest Fully"
+    },
+    {
+      "original": "सत्यं",
+      "transliteration": "Satyam",
+      "translation": "Truth"
+    },
+    {
+      "original": "कथय",
+      "transliteration": "Kathaya",
+      "translation": "Speak"
+    },
+    {
+      "original": "व्याघ्र",
+      "transliteration": "Vyaghra",
+      "translation": "Tiger"
+    },
+    {
+      "original": "मुख",
+      "transliteration": "Mukha",
+      "translation": "Face"
+    },
+    {
+      "original": "बंधन",
+      "transliteration": "Bandhana",
+      "translation": "Binding"
+    },
+    {
+      "original": "सर्प",
+      "transliteration": "Sarpa",
+      "translation": "Serpent"
+    },
+    {
+      "original": "राज",
+      "transliteration": "Raja",
+      "translation": "King"
+    },
+    {
+      "original": "नारी",
+      "transliteration": "Nari",
+      "translation": "Woman"
+    },
+    {
+      "original": "सभा",
+      "transliteration": "Sabha",
+      "translation": "Assembly"
+    },
+    {
+      "original": "शत्रु",
+      "transliteration": "Shatru",
+      "translation": "Enemy"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "Sarva",
+      "translation": "All"
+    },
+    {
+      "original": "लंका",
+      "transliteration": "Lanka",
+      "translation": "Lanka"
+    },
+    {
+      "original": "प्रासाद",
+      "transliteration": "Prasada",
+      "translation": "Palace"
+    },
+    {
+      "original": "भंजन",
+      "transliteration": "Bhanjana",
+      "translation": "Destroyer"
+    },
+    {
+      "original": "अमुकं",
+      "transliteration": "Amukam",
+      "translation": "Such and Such"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Me",
+      "translation": "To Me"
+    },
+    {
+      "original": "वशमानय",
+      "transliteration": "Vashamanaya",
+      "translation": "Bring Under Control"
+    },
+    {
+      "original": "क्लीं",
+      "transliteration": "Klim",
+      "translation": "Seed Syllable Klim"
+    },
+    {
+      "original": "ह्रीं",
+      "transliteration": "Hrim",
+      "translation": "Seed Syllable Hrim"
+    },
+    {
+      "original": "श्रीं",
+      "transliteration": "Shrim",
+      "translation": "Seed Syllable Shrim"
+    },
+    {
+      "original": "राजानं",
+      "transliteration": "Rajanam",
+      "translation": "The King"
+    },
+    {
+      "original": "स्त्रिय",
+      "transliteration": "Striya",
+      "translation": "Woman"
+    },
+    {
+      "original": "आकर्षय",
+      "transliteration": "Akarshaya",
+      "translation": "Attract"
+    },
+    {
+      "original": "शत्रुन्मर्दय",
+      "transliteration": "Shatrunmardaya",
+      "translation": "Crush the Enemies"
+    },
+    {
+      "original": "मारय",
+      "transliteration": "Maraya",
+      "translation": "Destroy"
+    },
+    {
+      "original": "चूर्णय",
+      "transliteration": "Churnaya",
+      "translation": "Pulverize"
+    },
+    {
+      "original": "खे",
+      "transliteration": "Khe",
+      "translation": "In Sky"
+    },
+    {
+      "original": "श्रीरामचंद्र",
+      "transliteration": "Shriramachandra",
+      "translation": "Sri Ramachandra"
+    },
+    {
+      "original": "आज्ञया",
+      "transliteration": "Ajnaya",
+      "translation": "By Command"
+    },
+    {
+      "original": "कार्यसिद्धिं",
+      "transliteration": "Karyasiddhim",
+      "translation": "Task Accomplishment"
+    },
+    {
+      "original": "कुरु",
+      "transliteration": "Kuru",
+      "translation": "Do"
+    },
+    {
+      "original": "ह्रां",
+      "transliteration": "Hram",
+      "translation": "Seed Syllable Hram"
+    },
+    {
+      "original": "ह्रूं",
+      "transliteration": "Hrum",
+      "translation": "Seed Syllable Hrum"
+    },
+    {
+      "original": "ह्रैं",
+      "transliteration": "Hraim",
+      "translation": "Seed Syllable Hraim"
+    },
+    {
+      "original": "ह्रौं",
+      "transliteration": "Hraum",
+      "translation": "Seed Syllable Hraum"
+    },
+    {
+      "original": "ह्रः",
+      "transliteration": "Hraha",
+      "translation": "Seed Syllable Hraha"
+    },
+    {
+      "original": "फट्",
+      "transliteration": "Phat",
+      "translation": "Destroy"
+    },
+    {
+      "original": "स्वाहा",
+      "transliteration": "Svaha",
+      "translation": "So Be It"
+    },
+    {
+      "original": "हन",
+      "transliteration": "Hana",
+      "translation": "Strike"
+    },
+    {
+      "original": "हुं",
+      "transliteration": "Hum",
+      "translation": "Seed Syllable Hum"
+    },
+    {
+      "original": "एकादशशतवारं",
+      "transliteration": "Ekadashashatavaram",
+      "translation": "One Hundred Eleven Times"
+    },
+    {
+      "original": "जपित्वा",
+      "transliteration": "Japitva",
+      "translation": "After Reciting"
+    },
+    {
+      "original": "सर्वशत्रून्",
+      "transliteration": "Sarvashatrun",
+      "translation": "All Enemies"
+    },
+    {
+      "original": "वशमानयति",
+      "transliteration": "Vashamanayati",
+      "translation": "Brings Under Control"
+    },
+    {
+      "original": "नान्यथा",
+      "transliteration": "Nanyatha",
+      "translation": "Not Otherwise"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Iti",
+      "translation": "Thus"
+    },
+    {
+      "original": "श्रीमारुति",
+      "transliteration": "Shrimaruti",
+      "translation": "Sri Maruti"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "Stotram",
+      "translation": "Hymn"
+    },
+    {
+      "original": "संपूर्णम्",
+      "transliteration": "Sampurnam",
+      "translation": "Complete"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\maruti_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\maruti_stotra\\english\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\maruti_stotra\\english\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.023Z"
+  }
+}

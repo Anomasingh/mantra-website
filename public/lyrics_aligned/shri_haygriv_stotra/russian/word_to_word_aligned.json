@@ -1,0 +1,1284 @@
+{
+  "mantra": "shri_haygriv_stotra",
+  "language": "russian",
+  "type": "word_to_word",
+  "totalWords": 254,
+  "alignedWords": [
+    {
+      "original": "श्रीमान्",
+      "transliteration": "Шриман",
+      "translation": "Господин"
+    },
+    {
+      "original": "वेङ्कटनाथार्यः",
+      "transliteration": "Векатанатхаарьях",
+      "translation": "Вектанатха (божество)"
+    },
+    {
+      "original": "कवितार्किककेसरी",
+      "transliteration": "Кавитаркикакесари",
+      "translation": "Лев поэтов и логиков"
+    },
+    {
+      "original": "वेदान्ताचार्यवर्यो",
+      "transliteration": "Ведантаачарьяварйо",
+      "translation": "Лучший из учителей Веданты"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Ме",
+      "translation": "Мой"
+    },
+    {
+      "original": "सन्निधत्तां",
+      "transliteration": "Саннидхаттам",
+      "translation": "Пусть пребывает"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "Сада",
+      "translation": "Вечно"
+    },
+    {
+      "original": "हृदि",
+      "transliteration": "Хрыди",
+      "translation": "В сердце"
+    },
+    {
+      "original": "ज्ञानानन्द",
+      "transliteration": "Джняанананда",
+      "translation": "Счастье знания"
+    },
+    {
+      "original": "मयं",
+      "transliteration": "Маям",
+      "translation": "Являющийся"
+    },
+    {
+      "original": "देवं",
+      "transliteration": "Девам",
+      "translation": "Божественное существо"
+    },
+    {
+      "original": "निर्मलस्फटिकाकृतिम्",
+      "transliteration": "Нирмаласфатикакритим",
+      "translation": "Образ чистого кристалла"
+    },
+    {
+      "original": "आधारं",
+      "transliteration": "Ааарам",
+      "translation": "Основа"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "Сарва",
+      "translation": "Все"
+    },
+    {
+      "original": "विद्यानां",
+      "transliteration": "Видьяанам",
+      "translation": "Знания"
+    },
+    {
+      "original": "हयग्रीवम्",
+      "transliteration": "Хаягриивам",
+      "translation": "Хайгрива (божество)"
+    },
+    {
+      "original": "उपास्महे",
+      "transliteration": "Упаасмахе",
+      "translation": "Мы поклоняемся"
+    },
+    {
+      "original": "स्वतस्सिद्धं",
+      "transliteration": "Сватасиддхам",
+      "translation": "Само-свободное"
+    },
+    {
+      "original": "शुद्धस्फटिकमणि",
+      "transliteration": "Шудхасфатикамани",
+      "translation": "Чистый кристалл"
+    },
+    {
+      "original": "भूभृत्प्रतिभटं",
+      "transliteration": "Бхубхритпратибатам",
+      "translation": "Владыка земли"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "Судхаа",
+      "translation": "Амброзия"
+    },
+    {
+      "original": "सध्रीचीभिर्",
+      "transliteration": "Садхричи-бхир",
+      "translation": "С чистыми"
+    },
+    {
+      "original": "धुतिभिर्",
+      "transliteration": "Дхутибхир",
+      "translation": "Очистительными"
+    },
+    {
+      "original": "अवदातत्रिभुवनम्",
+      "transliteration": "Авдаататрибуанам",
+      "translation": "Чистый мир"
+    },
+    {
+      "original": "समाहारस्साम्नां",
+      "transliteration": "Анатайстрайянтайр",
+      "translation": "Бесконечным"
+    },
+    {
+      "original": "प्रतिपदमृचां",
+      "transliteration": "Ануvihита",
+      "translation": "Сдерживаемый"
+    },
+    {
+      "original": "धाम यजुषां",
+      "transliteration": "Хеша",
+      "translation": "Образ"
+    },
+    {
+      "original": "लयः",
+      "transliteration": "Халахалам",
+      "translation": "Молоко"
+    },
+    {
+      "original": "प्रत्यूहानां",
+      "transliteration": "Хаташешаавадьям",
+      "translation": "Побежденный недостаток"
+    },
+    {
+      "original": "लहरि",
+      "transliteration": "Хаявадана",
+      "translation": "Лицо коня"
+    },
+    {
+      "original": "विततिर्बोधजलधेः",
+      "transliteration": "Мииди",
+      "translation": "Тело"
+    },
+    {
+      "original": "कथा",
+      "transliteration": "Махи",
+      "translation": "Земля"
+    },
+    {
+      "original": "दर्पक्षुभ्यत्",
+      "transliteration": "Махах",
+      "translation": "Великое"
+    },
+    {
+      "original": "कथककुल",
+      "transliteration": "Самаахарассамаанам",
+      "translation": "Собрание мантр"
+    },
+    {
+      "original": "कोलाहलभवं",
+      "transliteration": "Пратпадамричам",
+      "translation": "Шаг за шагом в мантре"
+    },
+    {
+      "original": "प्राची",
+      "transliteration": "Дхаама",
+      "translation": "Место"
+    },
+    {
+      "original": "सन्ध्या",
+      "transliteration": "Яджушам",
+      "translation": "Яджуры (ритуальные гимны)"
+    },
+    {
+      "original": "काचिदन्तर्",
+      "transliteration": "Лаях",
+      "translation": "Ликование"
+    },
+    {
+      "original": "निशायाः",
+      "transliteration": "Пратюуханаам",
+      "translation": "Противодействие"
+    },
+    {
+      "original": "प्रज्ञादृष्टेरञ्जन",
+      "transliteration": "Лахари",
+      "translation": "Волна"
+    },
+    {
+      "original": "श्रीरपूर्वा",
+      "transliteration": "Витатирбодхаджалдхех",
+      "translation": "Волна в океане сознания"
+    },
+    {
+      "original": "वक्त्री",
+      "transliteration": "Ката",
+      "translation": "Рассказ"
+    },
+    {
+      "original": "वेदान्",
+      "transliteration": "Дарпакшубхят",
+      "translation": "От раздражения"
+    },
+    {
+      "original": "भातु",
+      "transliteration": "Катхакакула",
+      "translation": "Род рассказчиков"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Колаахалавахам",
+      "translation": "Волнение"
+    },
+    {
+      "original": "वाजि",
+      "transliteration": "Харатвантардхваантам",
+      "translation": "Разрушение тьмы"
+    },
+    {
+      "original": "वक्त्रा",
+      "transliteration": "Хаявадана",
+      "translation": "Лицо коня"
+    },
+    {
+      "original": "वागीशाख्या",
+      "transliteration": "Хеша",
+      "translation": "Образ"
+    },
+    {
+      "original": "वासुदेवस्य",
+      "transliteration": "Халахалах",
+      "translation": "Слово \"хала\" в контексте разрушения"
+    },
+    {
+      "original": "मूर्तिः",
+      "transliteration": "Праачи",
+      "translation": "Восток"
+    },
+    {
+      "original": "विशुद्ध",
+      "transliteration": "Сандхья",
+      "translation": "Вечерняя сумерка"
+    },
+    {
+      "original": "विज्ञान",
+      "transliteration": "Каачи",
+      "translation": "Одна"
+    },
+    {
+      "original": "घन",
+      "transliteration": "Антах",
+      "translation": "Внутри"
+    },
+    {
+      "original": "स्वरूपं",
+      "transliteration": "Нишааях",
+      "translation": "Ночь"
+    },
+    {
+      "original": "विज्ञान",
+      "transliteration": "Праджня",
+      "translation": "Мудрость"
+    },
+    {
+      "original": "विश्राणन",
+      "transliteration": "Дриштих",
+      "translation": "Взгляд"
+    },
+    {
+      "original": "बद्ध",
+      "transliteration": "Ранджан",
+      "translation": "Окрашивание"
+    },
+    {
+      "original": "दीक्षम्",
+      "transliteration": "Шриирпурва",
+      "translation": "Преображение красоты"
+    },
+    {
+      "original": "दयानिधिं",
+      "transliteration": "Вактри",
+      "translation": "Речь (в контексте)"
+    },
+    {
+      "original": "देहभृतां",
+      "transliteration": "Ведан",
+      "translation": "Веды"
+    },
+    {
+      "original": "शरण्यं",
+      "transliteration": "Бхату",
+      "translation": "Являться"
+    },
+    {
+      "original": "देवम्",
+      "transliteration": "Ме",
+      "translation": "Моё"
+    },
+    {
+      "original": "हयग्रीवम्",
+      "transliteration": "Ваджи",
+      "translation": "Победитель"
+    },
+    {
+      "original": "अहं",
+      "transliteration": "Вактара",
+      "translation": "Речь (повторение)"
+    },
+    {
+      "original": "प्रपद्ये",
+      "transliteration": "Вагишакхья",
+      "translation": "Владыка речи"
+    },
+    {
+      "original": "अपौरुषेयैर्",
+      "transliteration": "Васудевасья",
+      "translation": "Васудева (Бог)"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "Муртих",
+      "translation": "Форма"
+    },
+    {
+      "original": "वाक्प्रपञ्चैः",
+      "transliteration": "Вишуддха",
+      "translation": "Чистый"
+    },
+    {
+      "original": "अद्यापि",
+      "transliteration": "Виджняна",
+      "translation": "Знание"
+    },
+    {
+      "original": "ते",
+      "transliteration": "Гхана",
+      "translation": "Масса, плотный"
+    },
+    {
+      "original": "भूति",
+      "transliteration": "Сварупам",
+      "translation": "Суть"
+    },
+    {
+      "original": "मदृष्ट",
+      "transliteration": "Виджняна",
+      "translation": "Знание"
+    },
+    {
+      "original": "पाराम्",
+      "transliteration": "Вишраанан",
+      "translation": "Открытие"
+    },
+    {
+      "original": "स्तुवन्नहं",
+      "transliteration": "Баддха",
+      "translation": "Связанный"
+    },
+    {
+      "original": "मुग्ध",
+      "transliteration": "Диаксхам",
+      "translation": "Инициация"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Даяанидхим",
+      "translation": "Источник милосердия"
+    },
+    {
+      "original": "त्वयैव",
+      "transliteration": "Дехабхритам",
+      "translation": "Обладающий телом"
+    },
+    {
+      "original": "कारुण्यतो",
+      "transliteration": "Шараньям",
+      "translation": "Защита, прибежище"
+    },
+    {
+      "original": "नाथ",
+      "transliteration": "Девам",
+      "translation": "Бог"
+    },
+    {
+      "original": "कटाक्षणीयः",
+      "transliteration": "Хаягривам",
+      "translation": "Хайгрива (божество)"
+    },
+    {
+      "original": "दाक्षिण्य",
+      "transliteration": "Ахам",
+      "translation": "Я"
+    },
+    {
+      "original": "रम्या",
+      "transliteration": "Прападье",
+      "translation": "Прибегаю"
+    },
+    {
+      "original": "गिरिशस्य",
+      "transliteration": "Апаурушейар",
+      "translation": "Не человеческий"
+    },
+    {
+      "original": "मूर्तिः",
+      "transliteration": "Апи",
+      "translation": "Даже"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "Вакпрапанчаих",
+      "translation": "Течением речи"
+    },
+    {
+      "original": "सरोजासन",
+      "transliteration": "Аджяапи",
+      "translation": "Даже сейчас"
+    },
+    {
+      "original": "धर्मपत्नी",
+      "transliteration": "Те",
+      "translation": "Ваши"
+    },
+    {
+      "original": "व्यासादयोऽपि",
+      "transliteration": "Бхути",
+      "translation": "Счастье, процветание"
+    },
+    {
+      "original": "व्यपदेश्य",
+      "transliteration": "Мадришта",
+      "translation": "Видение"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "Парам",
+      "translation": "Удаление"
+    },
+    {
+      "original": "स्फुरन्ति",
+      "transliteration": "Стуваннахам",
+      "translation": "Прославляя себя"
+    },
+    {
+      "original": "सर्वे",
+      "transliteration": "Мугдха",
+      "translation": "Очарованный"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Ити",
+      "translation": "Так"
+    },
+    {
+      "original": "शक्ति",
+      "transliteration": "Твайева",
+      "translation": "Только тобой"
+    },
+    {
+      "original": "लेशैः",
+      "transliteration": "Кааруньято",
+      "translation": "С состраданием"
+    },
+    {
+      "original": "मन्दोऽभविष्यन्",
+      "transliteration": "Наафа",
+      "translation": "Господь"
+    },
+    {
+      "original": "नियतं",
+      "transliteration": "Катаакшанииях",
+      "translation": "Око милосердия"
+    },
+    {
+      "original": "विरिञ्चो",
+      "transliteration": "Даакшинья",
+      "translation": "Милосердие, доброта"
+    },
+    {
+      "original": "वाचां",
+      "transliteration": "Рамья",
+      "translation": "Прекрасный"
+    },
+    {
+      "original": "निधे",
+      "transliteration": "Гирисасья",
+      "translation": "Гора (в контексте)"
+    },
+    {
+      "original": "वञ्चित",
+      "transliteration": "Муртих",
+      "translation": "Образ, форма"
+    },
+    {
+      "original": "भाग",
+      "transliteration": "Деви",
+      "translation": "Богиня"
+    },
+    {
+      "original": "धेयः",
+      "transliteration": "Сараоджасана",
+      "translation": "Лотосное сиденье"
+    },
+    {
+      "original": "दैत्यापनीतान्",
+      "transliteration": "Дхармапатни",
+      "translation": "Законная жена"
+    },
+    {
+      "original": "दययैव",
+      "transliteration": "Вяасадайя",
+      "translation": "Вяаса и другие учителя"
+    },
+    {
+      "original": "भूयोऽपि",
+      "transliteration": "Апи",
+      "translation": "Также"
+    },
+    {
+      "original": "अध्यापयिष्यो",
+      "transliteration": "Вяпадешья",
+      "translation": "Изложение, объяснение"
+    },
+    {
+      "original": "निगमान्",
+      "transliteration": "Ваачах",
+      "translation": "Речь"
+    },
+    {
+      "original": "न",
+      "transliteration": "Сфуранти",
+      "translation": "Является ярким, сверкающим"
+    },
+    {
+      "original": "चेत्",
+      "transliteration": "Сарве",
+      "translation": "Все"
+    },
+    {
+      "original": "त्वम्",
+      "transliteration": "Тава",
+      "translation": "Твой"
+    },
+    {
+      "original": "वितर्क",
+      "transliteration": "Шакти",
+      "translation": "Сила, энергия"
+    },
+    {
+      "original": "डोलां",
+      "transliteration": "Лешайх",
+      "translation": "Следы, малое количество"
+    },
+    {
+      "original": "व्यवधूय",
+      "transliteration": "Мандо'бхавищан",
+      "translation": "Будущий"
+    },
+    {
+      "original": "सत्वे",
+      "transliteration": "Ниятам",
+      "translation": "Определённый, установленный"
+    },
+    {
+      "original": "बृहस्पतिं",
+      "transliteration": "Виринчо",
+      "translation": "Брахма (творец)"
+    },
+    {
+      "original": "वर्तयसे",
+      "transliteration": "Ваачам",
+      "translation": "Речь"
+    },
+    {
+      "original": "यतस्त्वम्",
+      "transliteration": "Нидхе",
+      "translation": "Хранить, давать"
+    },
+    {
+      "original": "तेनैव",
+      "transliteration": "Ванчита",
+      "translation": "Обманутый"
+    },
+    {
+      "original": "देव",
+      "transliteration": "Бхага",
+      "translation": "Доля, часть"
+    },
+    {
+      "original": "त्रिदशेश्वराणाम्",
+      "transliteration": "Дхеях",
+      "translation": "Тот, кто подлежит выполнению"
+    },
+    {
+      "original": "अस्पृष्ट",
+      "transliteration": "Дайтяапанитан",
+      "translation": "Привлеченные демонами"
+    },
+    {
+      "original": "डोलायित",
+      "transliteration": "Даяйаева",
+      "translation": "Только милосердием"
+    },
+    {
+      "original": "माधिराज्यम्",
+      "transliteration": "Бхуюопи",
+      "translation": "Снова"
+    },
+    {
+      "original": "अग्नोउ",
+      "transliteration": "Адхьапайишйо",
+      "translation": "Тот, кто обучает"
+    },
+    {
+      "original": "समिद्धार्चिषि",
+      "transliteration": "Нигамн",
+      "translation": "Священные тексты"
+    },
+    {
+      "original": "सप्ततन्तोः",
+      "transliteration": "На",
+      "translation": "Нет"
+    },
+    {
+      "original": "आतस्थिवान्",
+      "transliteration": "Чет",
+      "translation": "Если"
+    },
+    {
+      "original": "मन्त्रमयं",
+      "transliteration": "Твам",
+      "translation": "Ты"
+    },
+    {
+      "original": "शरीरम्",
+      "transliteration": "Витарка",
+      "translation": "Рассмотрение, размышление"
+    },
+    {
+      "original": "अखण्ड",
+      "transliteration": "Долам",
+      "translation": "Колебание"
+    },
+    {
+      "original": "सारैर्",
+      "transliteration": "Вьявадхуя",
+      "translation": "Прерывать, нарушать"
+    },
+    {
+      "original": "हविषां",
+      "transliteration": "Сатве",
+      "translation": "Существование, бытие"
+    },
+    {
+      "original": "प्रदानैः",
+      "transliteration": "Брихаспатим",
+      "translation": "Брихаспати (господин планет)"
+    },
+    {
+      "original": "आप्यायनं",
+      "transliteration": "Вартайасе",
+      "translation": "Вращаешь, приводишь в движение"
+    },
+    {
+      "original": "व्योम",
+      "transliteration": "Ятас твам",
+      "translation": "Так как ты"
+    },
+    {
+      "original": "सदां",
+      "transliteration": "Тенаива",
+      "translation": "Именно таким образом"
+    },
+    {
+      "original": "विधत्से",
+      "transliteration": "Дев",
+      "translation": "Бог"
+    },
+    {
+      "original": "यन्मूलमीदृक्",
+      "transliteration": "Тридашешвараанам",
+      "translation": "Господь всех тридевов"
+    },
+    {
+      "original": "प्रतिभाति",
+      "transliteration": "Аспрышта",
+      "translation": "Нечистый, не затронутый"
+    },
+    {
+      "original": "तत्वं",
+      "transliteration": "Долайт",
+      "translation": "Качать, перемещать"
+    },
+    {
+      "original": "या",
+      "transliteration": "Мадхираджям",
+      "translation": "Власть мудрого"
+    },
+    {
+      "original": "मूलमाम्नाय",
+      "transliteration": "Агноу",
+      "translation": "В огне (в контексте)"
+    },
+    {
+      "original": "महाद्रुमाणाम्",
+      "transliteration": "Самиддхарчисхи",
+      "translation": "Воплощение огненной жертвы"
+    },
+    {
+      "original": "तत्वेन",
+      "transliteration": "Саптатантос",
+      "translation": "Состоящий из семидесяти связок"
+    },
+    {
+      "original": "जानन्ति",
+      "transliteration": "Атастхиван",
+      "translation": "Состоящий, стоящий на"
+    },
+    {
+      "original": "विशुद्ध",
+      "transliteration": "Мантрамайям",
+      "translation": "Состоящий из мантр"
+    },
+    {
+      "original": "सत्वाः",
+      "transliteration": "Шарийрам",
+      "translation": "Тело"
+    },
+    {
+      "original": "त्वाम्",
+      "transliteration": "Акханда",
+      "translation": "Невредимый, цельный"
+    },
+    {
+      "original": "अक्षराम्",
+      "transliteration": "Саарир",
+      "translation": "Сущность, суть"
+    },
+    {
+      "original": "अक्षर",
+      "transliteration": "Хавишам",
+      "translation": "Жертвенные подношения"
+    },
+    {
+      "original": "मातृकां",
+      "transliteration": "Праданайх",
+      "translation": "Через дарение"
+    },
+    {
+      "original": "ते",
+      "transliteration": "Апьяянан",
+      "translation": "Расширение, возвышение"
+    },
+    {
+      "original": "अव्याकृताद्",
+      "transliteration": "Вьом",
+      "translation": "Небо"
+    },
+    {
+      "original": "व्याकृत",
+      "transliteration": "Сада",
+      "translation": "Всегда"
+    },
+    {
+      "original": "वानसि",
+      "transliteration": "Видхатсе",
+      "translation": "Ты создашь, установишь"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "Янмуламидрик",
+      "translation": "Истинная основа"
+    },
+    {
+      "original": "नामानि",
+      "transliteration": "Пратибхати",
+      "translation": "Выражает, проявляется"
+    },
+    {
+      "original": "रूपाणि",
+      "transliteration": "Татвам",
+      "translation": "Суть, принцип"
+    },
+    {
+      "original": "च",
+      "transliteration": "Я",
+      "translation": "Та (женский род)"
+    },
+    {
+      "original": "यानि",
+      "transliteration": "Мулмамнаи",
+      "translation": "Основная школа, учение"
+    },
+    {
+      "original": "पूर्वम्",
+      "transliteration": "Махадрумаанам",
+      "translation": "Великие деревья (в контексте)"
+    },
+    {
+      "original": "शंसन्ति",
+      "transliteration": "Татвен",
+      "translation": "Суть"
+    },
+    {
+      "original": "तेषां",
+      "transliteration": "Джананти",
+      "translation": "Понимают"
+    },
+    {
+      "original": "चरमां",
+      "transliteration": "Вишуддха",
+      "translation": "Чистый, непорочный"
+    },
+    {
+      "original": "प्रतिष्टां",
+      "transliteration": "Саттвах",
+      "translation": "Существа (в контексте)"
+    },
+    {
+      "original": "वागीश्वर",
+      "transliteration": "Тваам",
+      "translation": "Тебя"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "Акшарам",
+      "translation": "Неразрушимый, вечный"
+    },
+    {
+      "original": "त्वदुपज्ञ",
+      "transliteration": "Акшара",
+      "translation": "Неразрушимый"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "Матрикам",
+      "translation": "Мать (в смысле сущности)"
+    },
+    {
+      "original": "मुग्धेन्दु",
+      "transliteration": "Тэ",
+      "translation": "Твои"
+    },
+    {
+      "original": "निष्यन्द",
+      "transliteration": "Авьякритат",
+      "translation": "Без формы, неопределённый"
+    },
+    {
+      "original": "विलोभ",
+      "transliteration": "Вьякрит",
+      "translation": "Формированный, конкретный"
+    },
+    {
+      "original": "नीयां",
+      "transliteration": "Ванаси",
+      "translation": "Ты пребываешь, существуешь"
+    },
+    {
+      "original": "मूर्तिं",
+      "transliteration": "Твам",
+      "translation": "Ты"
+    },
+    {
+      "original": "तवानन्द",
+      "transliteration": "Наамани",
+      "translation": "Имена"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "Рупаани",
+      "translation": "Образы, формы"
+    },
+    {
+      "original": "प्रसूतिम्",
+      "transliteration": "Ч",
+      "translation": "И"
+    },
+    {
+      "original": "विपश्चितश्चेतसि",
+      "transliteration": "Яни",
+      "translation": "Те, которые"
+    },
+    {
+      "original": "भावयन्ते",
+      "transliteration": "Пурвам",
+      "translation": "Прошлое, прежний"
+    },
+    {
+      "original": "वेला",
+      "transliteration": "Шансанти",
+      "translation": "Хвалят, воспевают"
+    },
+    {
+      "original": "मुदारामिव",
+      "transliteration": "Тешам",
+      "translation": "Их"
+    },
+    {
+      "original": "दुग्ध",
+      "transliteration": "Чарамам",
+      "translation": "Высший, конечный"
+    },
+    {
+      "original": "सिन्धोः",
+      "transliteration": "Пратиштам",
+      "translation": "Установление, утвердить"
+    },
+    {
+      "original": "मनोगतं",
+      "transliteration": "Ваагишвара",
+      "translation": "Владыка речи"
+    },
+    {
+      "original": "पश्यति",
+      "transliteration": "Тваам",
+      "translation": "Тебя"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Твадупаджня",
+      "translation": "Тот, кто знает тебя"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "Ваачах",
+      "translation": "Речь"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "Мугдхенду",
+      "translation": "Лунный свет, который привлекает"
+    },
+    {
+      "original": "मनीषिणां",
+      "transliteration": "Нищьянда",
+      "translation": "Капающий, струящий"
+    },
+    {
+      "original": "मानस",
+      "transliteration": "Вилобха нийам",
+      "translation": "Тот, кто притягивает"
+    },
+    {
+      "original": "राज",
+      "transliteration": "Муртим",
+      "translation": "Образ, форма"
+    },
+    {
+      "original": "हंसम्",
+      "transliteration": "Тваананда",
+      "translation": "Твое блаженство"
+    },
+    {
+      "original": "स्वयं",
+      "transliteration": "Судха",
+      "translation": "Нектар, амброзия"
+    },
+    {
+      "original": "पुरोभाव",
+      "transliteration": "Прсутиим",
+      "translation": "Рождение, создание"
+    },
+    {
+      "original": "विवादभाजः",
+      "transliteration": "Випашчиташчетаси",
+      "translation": "В разуме просветленных"
+    },
+    {
+      "original": "किंकुर्वते",
+      "transliteration": "Бхаавайанте",
+      "translation": "Почитают, размышляют"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "Вела",
+      "translation": "Время, эпоха"
+    },
+    {
+      "original": "गिरो",
+      "transliteration": "Мудаарам Ива",
+      "translation": "Как волны молочного океана"
+    },
+    {
+      "original": "यथार्हम्",
+      "transliteration": "Дуғдха Синдох",
+      "translation": "Океан молока"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "Маногатам",
+      "translation": "В умах, мыслях"
+    },
+    {
+      "original": "क्षणार्धं",
+      "transliteration": "Пашяти",
+      "translation": "Видит, наблюдает"
+    },
+    {
+      "original": "कलयन्ति",
+      "transliteration": "Йах",
+      "translation": "Тот, кто"
+    },
+    {
+      "original": "ये",
+      "transliteration": "Сада",
+      "translation": "Всегда"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "Тваам",
+      "translation": "Тебя"
+    },
+    {
+      "original": "आप्लावयन्तं",
+      "transliteration": "Манищинам",
+      "translation": "Умные, мыслящие"
+    },
+    {
+      "original": "विशदैर्",
+      "transliteration": "Манас",
+      "translation": "Разум"
+    },
+    {
+      "original": "मयूखैः",
+      "transliteration": "Раджахансам",
+      "translation": "Царь лебедей"
+    },
+    {
+      "original": "वाचां",
+      "transliteration": "Свам",
+      "translation": "Сам"
+    },
+    {
+      "original": "प्रवाहैर्",
+      "transliteration": "Пуробхава",
+      "translation": "Проявление, форма"
+    },
+    {
+      "original": "अनिवारितैस्ते",
+      "transliteration": "Вивадабхажах",
+      "translation": "Разногласие, спор"
+    },
+    {
+      "original": "मन्दाकिनीं",
+      "transliteration": "Кинкурвате",
+      "translation": "Что говорит, что делает"
+    },
+    {
+      "original": "मन्दयितुं",
+      "transliteration": "Тасья",
+      "translation": "Его"
+    },
+    {
+      "original": "क्षमन्ते",
+      "transliteration": "Гиро",
+      "translation": "Речь, слова"
+    },
+    {
+      "original": "स्वामिन्",
+      "transliteration": "Ятархам",
+      "translation": "Как положено"
+    },
+    {
+      "original": "भवद्ध्यान",
+      "transliteration": "Апхи",
+      "translation": "Также"
+    },
+    {
+      "original": "सुधाभिषेकात्",
+      "transliteration": "Кшандардхам",
+      "translation": "Половина мгновения"
+    },
+    {
+      "original": "वहन्ति",
+      "transliteration": "Калаянти",
+      "translation": "Они делают, размышляют"
+    },
+    {
+      "original": "धन्याः",
+      "transliteration": "Йе",
+      "translation": "Те, кто"
+    },
+    {
+      "original": "पुलकानुबन्धम्",
+      "transliteration": "Тваам",
+      "translation": "Тебя"
+    },
+    {
+      "original": "अलक्षिते",
+      "transliteration": "Аплавайантам",
+      "translation": "Омывают, поглощают"
+    },
+    {
+      "original": "क्वापि",
+      "transliteration": "Вишадаир",
+      "translation": "Ясные, четкие"
+    },
+    {
+      "original": "निरूढ",
+      "transliteration": "Муйкхаих",
+      "translation": "Лучи"
+    },
+    {
+      "original": "मूलं",
+      "transliteration": "Вачам",
+      "translation": "Речь"
+    },
+    {
+      "original": "अङ्गेष्विवानन्दथुम्",
+      "transliteration": "Правахаир",
+      "translation": "Потоки"
+    },
+    {
+      "original": "अङ्कुरन्तम्",
+      "transliteration": "Анивариатайте",
+      "translation": "Невозможные для остановки"
+    },
+    {
+      "original": "स्वामिन्",
+      "transliteration": "Мандакиниям",
+      "translation": "Река Мандакини"
+    },
+    {
+      "original": "प्रतीचा",
+      "transliteration": "Мандайитум",
+      "translation": "Успокаивают, заставляют замедлить"
+    },
+    {
+      "original": "हृदयेन",
+      "transliteration": "Кшамантэ",
+      "translation": "Потерпят, позволяют"
+    },
+    {
+      "original": "धन्याः",
+      "transliteration": "Свамин",
+      "translation": "Господин"
+    },
+    {
+      "original": "त्वद्ध्यान",
+      "transliteration": "Бхаваддхьяна",
+      "translation": "Медитация о тебе"
+    },
+    {
+      "original": "चन्द्रोदय",
+      "transliteration": "Судхабхишекат",
+      "translation": "С омовением нектаром"
+    },
+    {
+      "original": "वर्धमानम्",
+      "transliteration": "Ваханти",
+      "translation": "Несут, переносят"
+    },
+    {
+      "original": "अमान्त",
+      "transliteration": "Дханьях",
+      "translation": "Блаженные, благословенные"
+    },
+    {
+      "original": "मानन्द",
+      "transliteration": "Пулаканубандхам",
+      "translation": "Дотрагиваясь к счастью"
+    },
+    {
+      "original": "पयोधिमन्तः",
+      "transliteration": "Алакшите",
+      "translation": "Незаметный, скрытый"
+    },
+    {
+      "original": "पयोभिरक्ष्णां",
+      "transliteration": "Квапи",
+      "translation": "Где-либо"
+    },
+    {
+      "original": "परिवाहयन्ति",
+      "transliteration": "Нируудха",
+      "translation": "Прочно укоренившийся"
+    },
+    {
+      "original": "---",
+      "transliteration": "Мулум",
+      "translation": "Корень, основание"
+    },
+    {
+      "original": "---",
+      "transliteration": "Ангешви",
+      "translation": "Как в частях тела"
+    },
+    {
+      "original": "---",
+      "transliteration": "Анандатхум",
+      "translation": "Восхищение, блаженство"
+    },
+    {
+      "original": "---",
+      "transliteration": "Анкуртам",
+      "translation": "Прорастающий, растущий"
+    },
+    {
+      "original": "---",
+      "transliteration": "Свамин",
+      "translation": "Господин"
+    },
+    {
+      "original": "---",
+      "transliteration": "Пратича",
+      "translation": "Путь, направление"
+    },
+    {
+      "original": "---",
+      "transliteration": "Хридейен",
+      "translation": "Сердцем"
+    },
+    {
+      "original": "---",
+      "transliteration": "Дханьях",
+      "translation": "Благословенные"
+    },
+    {
+      "original": "---",
+      "transliteration": "Тваддхьяна",
+      "translation": "Твоя медитация"
+    },
+    {
+      "original": "---",
+      "transliteration": "Чандродая",
+      "translation": "Восход луны"
+    },
+    {
+      "original": "---",
+      "transliteration": "Вардаманам",
+      "translation": "Увеличивающийся"
+    },
+    {
+      "original": "---",
+      "transliteration": "Амаант",
+      "translation": "Неограниченный, бесконечный"
+    },
+    {
+      "original": "---",
+      "transliteration": "Маананд",
+      "translation": "Счастье, блаженство"
+    },
+    {
+      "original": "---",
+      "transliteration": "Пайодхимантха",
+      "translation": "Полный океан, наполненный водой"
+    },
+    {
+      "original": "---",
+      "transliteration": "Пайобхикшнаам",
+      "translation": "Защищаемый водами"
+    },
+    {
+      "original": "---",
+      "transliteration": "Паривахаянти",
+      "translation": "Течёт, переносит"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\russian\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\russian\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.932Z"
+  }
+}

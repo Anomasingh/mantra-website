@@ -1,0 +1,2094 @@
+{
+  "mantra": "hanuman_chalisa",
+  "language": "telugu",
+  "type": "word_to_word",
+  "totalWords": 416,
+  "alignedWords": [
+    {
+      "original": "श्री-गुरु",
+      "transliteration": "శ్రీగురు",
+      "translation": "శ్రీ గురువు"
+    },
+    {
+      "original": "चरण",
+      "transliteration": "చరణ్",
+      "translation": "పాదము"
+    },
+    {
+      "original": "सरोज",
+      "transliteration": "సరోజ్",
+      "translation": "నలుపు పువ్వు"
+    },
+    {
+      "original": "रज",
+      "transliteration": "రజ్",
+      "translation": "మట్టి"
+    },
+    {
+      "original": "निज",
+      "transliteration": "निज్",
+      "translation": "స్వంత"
+    },
+    {
+      "original": "मनु",
+      "transliteration": "మను",
+      "translation": "మనసు"
+    },
+    {
+      "original": "मुकुरु",
+      "transliteration": "ముకురు",
+      "translation": "అక్షి గది"
+    },
+    {
+      "original": "सुधारि",
+      "transliteration": "సుధారి",
+      "translation": "శుద్ధి చేయుట"
+    },
+    {
+      "original": "बरनउँ",
+      "transliteration": "బర్ణౌ",
+      "translation": "వివరించుట"
+    },
+    {
+      "original": "रघुबर",
+      "transliteration": "రఘుబర్",
+      "translation": "రఘు పుత్రుడు"
+    },
+    {
+      "original": "बिमल",
+      "transliteration": "బిమల్",
+      "translation": "పరిశుద్ధమైన"
+    },
+    {
+      "original": "जसु",
+      "transliteration": "జస",
+      "translation": "కీర్తి"
+    },
+    {
+      "original": "जो",
+      "transliteration": "జో",
+      "translation": "ఎవరైనా"
+    },
+    {
+      "original": "दायकु",
+      "transliteration": "దాయకు",
+      "translation": "దయ చేయు"
+    },
+    {
+      "original": "फल",
+      "transliteration": "ఫల",
+      "translation": "ఫలము"
+    },
+    {
+      "original": "चारि",
+      "transliteration": "చారి",
+      "translation": "నాలుగు"
+    },
+    {
+      "original": "बुद्धिहीन",
+      "transliteration": "బుద్ధిహీన్",
+      "translation": "మూర్ఖుడైన"
+    },
+    {
+      "original": "तनु",
+      "transliteration": "తను",
+      "translation": "శరీరం"
+    },
+    {
+      "original": "जानिके",
+      "transliteration": "జానికే",
+      "translation": "తెలుసుకున్నప్పుడు"
+    },
+    {
+      "original": "सुमिरौं",
+      "transliteration": "సుమిరౌँ",
+      "translation": "స్మరించు"
+    },
+    {
+      "original": "पवन",
+      "transliteration": "పావన్",
+      "translation": "గాలి"
+    },
+    {
+      "original": "कुमार",
+      "transliteration": "కుమార్",
+      "translation": "కుమారుడు"
+    },
+    {
+      "original": "बल",
+      "transliteration": "బల",
+      "translation": "శక్తి"
+    },
+    {
+      "original": "बुधि",
+      "transliteration": "బుధి",
+      "translation": "వివేకం"
+    },
+    {
+      "original": "विद्या",
+      "transliteration": "విద్యా",
+      "translation": "జ్ఞానం"
+    },
+    {
+      "original": "देहु",
+      "transliteration": "దేవు",
+      "translation": "ఇస్తూ"
+    },
+    {
+      "original": "मोहि",
+      "transliteration": "మోహి",
+      "translation": "నాకు"
+    },
+    {
+      "original": "हरहु",
+      "transliteration": "హరహు",
+      "translation": "తీసివేయి"
+    },
+    {
+      "original": "कलेश",
+      "transliteration": "కਲੇశ",
+      "translation": "కష్టము"
+    },
+    {
+      "original": "विकार",
+      "transliteration": "వికార",
+      "translation": "చెడు లక్షణం"
+    },
+    {
+      "original": "जय",
+      "transliteration": "జయ",
+      "translation": "విజయం"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "హనుమాన్",
+      "translation": "హనుమాన్"
+    },
+    {
+      "original": "ज्ञान",
+      "transliteration": "జ్ఞాన",
+      "translation": "జ్ఞానం"
+    },
+    {
+      "original": "गुण",
+      "transliteration": "గుణ",
+      "translation": "లక్షణం"
+    },
+    {
+      "original": "सागर",
+      "transliteration": "సాగర",
+      "translation": "సముద్రం"
+    },
+    {
+      "original": "जय",
+      "transliteration": "కపీస్",
+      "translation": "వానరరాజు"
+    },
+    {
+      "original": "कपीस",
+      "transliteration": "తి",
+      "translation": "ఇది"
+    },
+    {
+      "original": "तिहुँ",
+      "transliteration": "లోక",
+      "translation": "ప్రపంచం"
+    },
+    {
+      "original": "लोक",
+      "transliteration": "ఉదాగర",
+      "translation": "వెలుగు"
+    },
+    {
+      "original": "उजागर",
+      "transliteration": "రామ",
+      "translation": "రాముడు"
+    },
+    {
+      "original": "राम",
+      "transliteration": "దూత",
+      "translation": "దూత"
+    },
+    {
+      "original": "दूत",
+      "transliteration": "అతులిత",
+      "translation": "అపారమైన"
+    },
+    {
+      "original": "अतुलित",
+      "transliteration": "బల",
+      "translation": "శక్తి"
+    },
+    {
+      "original": "बल",
+      "transliteration": "ధామ",
+      "translation": "స్థానం"
+    },
+    {
+      "original": "धामा",
+      "transliteration": "అంజని",
+      "translation": "అంజని"
+    },
+    {
+      "original": "अंजनि",
+      "transliteration": "పుత్ర",
+      "translation": "కుమారుడు"
+    },
+    {
+      "original": "पुत्र",
+      "transliteration": "పావనసుత",
+      "translation": "గాలిప్రియ"
+    },
+    {
+      "original": "पवनसुत",
+      "transliteration": "నామ",
+      "translation": "పేరు"
+    },
+    {
+      "original": "नामा",
+      "transliteration": "మహాబీర్",
+      "translation": "మహానాయకుడు"
+    },
+    {
+      "original": "महाबीर",
+      "transliteration": "బిక్రమ్",
+      "translation": "దృఢమైన"
+    },
+    {
+      "original": "बिक्रम",
+      "transliteration": "బజరంగీ",
+      "translation": "బలవంతుడు"
+    },
+    {
+      "original": "बजरंगी",
+      "transliteration": "కుమతి",
+      "translation": "చెడు మనస్సు"
+    },
+    {
+      "original": "कुमति",
+      "transliteration": "నివార",
+      "translation": "నివారించు"
+    },
+    {
+      "original": "निवार",
+      "transliteration": "సుమతి",
+      "translation": "మంచి అభిప్రాయం"
+    },
+    {
+      "original": "सुमति",
+      "transliteration": "కె",
+      "translation": "యొక్క"
+    },
+    {
+      "original": "के",
+      "transliteration": "సంగీ",
+      "translation": "స్నేహితుడు"
+    },
+    {
+      "original": "संगी",
+      "transliteration": "కంచన",
+      "translation": "వెండి"
+    },
+    {
+      "original": "कंचन",
+      "transliteration": "బరన్",
+      "translation": "రంగు"
+    },
+    {
+      "original": "बरन",
+      "transliteration": "బిరాజ్",
+      "translation": "భాసితం"
+    },
+    {
+      "original": "बिराज",
+      "transliteration": "సుబేసా",
+      "translation": "అందమైన వేషం"
+    },
+    {
+      "original": "सुबेसा",
+      "transliteration": "కానన్",
+      "translation": "అరణ్యము"
+    },
+    {
+      "original": "कानन",
+      "transliteration": "కుందల్",
+      "translation": "కాపలరంగు"
+    },
+    {
+      "original": "कुंडल",
+      "transliteration": "కుంచిత",
+      "translation": "వంక"
+    },
+    {
+      "original": "कुँचित",
+      "transliteration": "కేశ",
+      "translation": "జుట్టు"
+    },
+    {
+      "original": "केसा",
+      "transliteration": "హాత్",
+      "translation": "చేతి"
+    },
+    {
+      "original": "हाथ",
+      "transliteration": "బజ్ర",
+      "translation": "వज్రం"
+    },
+    {
+      "original": "वज्र",
+      "transliteration": "అరూ",
+      "translation": "మరియు"
+    },
+    {
+      "original": "अरु",
+      "transliteration": "ధ్వజ",
+      "translation": "జెండా"
+    },
+    {
+      "original": "ध्वजा",
+      "transliteration": "బిరాజే",
+      "translation": "బాసించిన"
+    },
+    {
+      "original": "बिराजे",
+      "transliteration": "కాంధే",
+      "translation": "భుజం"
+    },
+    {
+      "original": "कांधे",
+      "transliteration": "మూజ్",
+      "translation": "మాంజ"
+    },
+    {
+      "original": "मूंज",
+      "transliteration": "జనేూ",
+      "translation": "వెంకాయ"
+    },
+    {
+      "original": "जनेऊ",
+      "transliteration": "సాజే",
+      "translation": "అలంకరించు"
+    },
+    {
+      "original": "साजे",
+      "transliteration": "శంకర్",
+      "translation": "శంకర"
+    },
+    {
+      "original": "शंकर",
+      "transliteration": "సువన్",
+      "translation": "సువంతుడు"
+    },
+    {
+      "original": "सुवन",
+      "transliteration": "కేశరి",
+      "translation": "నలుపు"
+    },
+    {
+      "original": "केसरी",
+      "transliteration": "నందన్",
+      "translation": "ఇంద్ర"
+    },
+    {
+      "original": "नंदन",
+      "transliteration": "తేజ్",
+      "translation": "ప్రకాశ"
+    },
+    {
+      "original": "तेज",
+      "transliteration": "ప్రతాప్",
+      "translation": "విజయ"
+    },
+    {
+      "original": "प्रताप",
+      "transliteration": "మహా",
+      "translation": "గొప్ప"
+    },
+    {
+      "original": "महा",
+      "transliteration": "జగవందన్",
+      "translation": "ప్రపౙచ్చవిశ్వవరణం"
+    },
+    {
+      "original": "जगवंदन",
+      "transliteration": "విద్యావాన్",
+      "translation": "జ్ఞానజీవి"
+    },
+    {
+      "original": "विद्यावान",
+      "transliteration": "గుణీ",
+      "translation": "విశ్వాసం"
+    },
+    {
+      "original": "गुनी",
+      "transliteration": "అతి",
+      "translation": "అధిక"
+    },
+    {
+      "original": "अति",
+      "transliteration": "చాతుర",
+      "translation": "ప్రతిభావంతుడు"
+    },
+    {
+      "original": "चातुर",
+      "transliteration": "రామ",
+      "translation": "రాముడు"
+    },
+    {
+      "original": "राम",
+      "transliteration": "కాజ్",
+      "translation": "కార్య"
+    },
+    {
+      "original": "काज",
+      "transliteration": "కరిబే",
+      "translation": "చేయుట"
+    },
+    {
+      "original": "करिबे",
+      "transliteration": "కో",
+      "translation": "చేయు"
+    },
+    {
+      "original": "को",
+      "transliteration": "ఆతుర",
+      "translation": "సాహసపూర్వక"
+    },
+    {
+      "original": "आतुर",
+      "transliteration": "ప్రభు",
+      "translation": "ప్రభు"
+    },
+    {
+      "original": "प्रभु",
+      "transliteration": "చరిత్ర",
+      "translation": "కథ"
+    },
+    {
+      "original": "चरित्र",
+      "transliteration": "సునిబే",
+      "translation": "వినిపించు"
+    },
+    {
+      "original": "सुनिबे",
+      "transliteration": "కో",
+      "translation": "ఎవరో"
+    },
+    {
+      "original": "को",
+      "transliteration": "రసియా",
+      "translation": "అమృత"
+    },
+    {
+      "original": "रसिया",
+      "transliteration": "రామ",
+      "translation": "రాముడు"
+    },
+    {
+      "original": "राम",
+      "transliteration": "లక్షన్",
+      "translation": "లక్షణం"
+    },
+    {
+      "original": "लखन",
+      "transliteration": "సీత",
+      "translation": "సీత"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "మనబసియ",
+      "translation": "మనసుపోగా"
+    },
+    {
+      "original": "मनबसिया",
+      "transliteration": "సూక్ష్మ",
+      "translation": "చిన్న"
+    },
+    {
+      "original": "सूक्ष्म",
+      "transliteration": "రూప",
+      "translation": "రూపం"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "ధరి",
+      "translation": "ఉన్న"
+    },
+    {
+      "original": "धरी",
+      "transliteration": "సియహి",
+      "translation": "సీత"
+    },
+    {
+      "original": "सियहि",
+      "transliteration": "దికావా",
+      "translation": "చూపు"
+    },
+    {
+      "original": "दिखावा",
+      "transliteration": "వికట్",
+      "translation": "భయం"
+    },
+    {
+      "original": "विकट",
+      "transliteration": "రూప",
+      "translation": "రూపం"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "ధరి",
+      "translation": "ఉన్న"
+    },
+    {
+      "original": "धरी",
+      "transliteration": "లంక",
+      "translation": "జనము"
+    },
+    {
+      "original": "लंक",
+      "transliteration": "జరావా",
+      "translation": "దూరమైన"
+    },
+    {
+      "original": "जरावा",
+      "transliteration": "భీమ్",
+      "translation": "భీమ్"
+    },
+    {
+      "original": "भीम",
+      "transliteration": "రూప",
+      "translation": "రూపం"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "ధరి",
+      "translation": "ఉన్న"
+    },
+    {
+      "original": "धरी",
+      "transliteration": "అసుర",
+      "translation": "రాక్షసుడు"
+    },
+    {
+      "original": "असुर",
+      "transliteration": "సంహారే",
+      "translation": "నశించడం"
+    },
+    {
+      "original": "सँहारे",
+      "transliteration": "రామచంద్ర",
+      "translation": "రామచంద్ర"
+    },
+    {
+      "original": "रामचंद्र",
+      "transliteration": "కె",
+      "translation": "యొక్క"
+    },
+    {
+      "original": "के",
+      "transliteration": "కాజ్",
+      "translation": "కార్య"
+    },
+    {
+      "original": "काज",
+      "transliteration": "సవాఱే",
+      "translation": "తీర్చుట"
+    },
+    {
+      "original": "सवाँरे",
+      "transliteration": "కాజ్",
+      "translation": "కార్య"
+    },
+    {
+      "original": "लाय",
+      "transliteration": "సజీవన్",
+      "translation": "ప్రాణించే"
+    },
+    {
+      "original": "सजीवन",
+      "transliteration": "లక్షన్",
+      "translation": "లక్షణం"
+    },
+    {
+      "original": "लखन",
+      "transliteration": "జియాయే",
+      "translation": "ప్రాణం పోయిన"
+    },
+    {
+      "original": "जियाए",
+      "transliteration": "శ్రి",
+      "translation": "శ్రేయస్సు"
+    },
+    {
+      "original": "श्री",
+      "transliteration": "రఘుబీర్",
+      "translation": "రఘుబీర"
+    },
+    {
+      "original": "रघुबीर",
+      "transliteration": "హర్షి",
+      "translation": "ఆనందం"
+    },
+    {
+      "original": "हरषि",
+      "transliteration": "ఉర్",
+      "translation": "హృదయం"
+    },
+    {
+      "original": "उर",
+      "transliteration": "లాయే",
+      "translation": "తీసుకొచ్చారు"
+    },
+    {
+      "original": "लाए",
+      "transliteration": "రఘుపతి",
+      "translation": "రఘుపతి"
+    },
+    {
+      "original": "रघुपति",
+      "transliteration": "కీంహీ",
+      "translation": "చేశాడు"
+    },
+    {
+      "original": "कीन्ही",
+      "transliteration": "చాలా",
+      "translation": "చాలా"
+    },
+    {
+      "original": "बहुत",
+      "transliteration": "బడాయి",
+      "translation": "ప్రశంస"
+    },
+    {
+      "original": "बड़ाई",
+      "transliteration": "తుం",
+      "translation": "మీరు"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "మమ",
+      "translation": "నా"
+    },
+    {
+      "original": "मम",
+      "transliteration": "ప్రియ",
+      "translation": "ప్రియమైన"
+    },
+    {
+      "original": "प्रिय",
+      "transliteration": "భరత-హి",
+      "translation": "భరత్‌తో"
+    },
+    {
+      "original": "भरत-हि",
+      "transliteration": "సమ",
+      "translation": "సమాన"
+    },
+    {
+      "original": "सम",
+      "transliteration": "भाई",
+      "translation": "అన్న"
+    },
+    {
+      "original": "भाई",
+      "transliteration": "సహస",
+      "translation": "లక్షలు"
+    },
+    {
+      "original": "सहस",
+      "transliteration": "బదన్",
+      "translation": "ముఖం"
+    },
+    {
+      "original": "बदन",
+      "transliteration": "তোমারো",
+      "translation": "మీ"
+    },
+    {
+      "original": "तुम्हरो",
+      "transliteration": "జస",
+      "translation": "కీర్తి"
+    },
+    {
+      "original": "जस",
+      "transliteration": "గావే",
+      "translation": "పాడుతుంది"
+    },
+    {
+      "original": "गावै",
+      "transliteration": "అస",
+      "translation": "ఇది"
+    },
+    {
+      "original": "अस",
+      "transliteration": "చెప్పి",
+      "translation": "చెప్పింది"
+    },
+    {
+      "original": "कहि",
+      "transliteration": "శ్రీపతి",
+      "translation": "శ్రీపతి"
+    },
+    {
+      "original": "श्रीपति",
+      "transliteration": "కంఠ",
+      "translation": "మెడ"
+    },
+    {
+      "original": "कंठ",
+      "transliteration": "లగావే",
+      "translation": "అంటించు"
+    },
+    {
+      "original": "लगावै",
+      "transliteration": "సనకాదిక",
+      "translation": "సనక, సనాతన"
+    },
+    {
+      "original": "सनकादिक",
+      "transliteration": "బ్రహ్మాది",
+      "translation": "బ్రహ్మ మొదలైన"
+    },
+    {
+      "original": "ब्रह्मादि",
+      "transliteration": "మునీసా",
+      "translation": "ఋషి"
+    },
+    {
+      "original": "मुनीसा",
+      "transliteration": "యమ",
+      "translation": "యమ"
+    },
+    {
+      "original": "नारद",
+      "transliteration": "కుబేర",
+      "translation": "కుబేర"
+    },
+    {
+      "original": "सारद",
+      "transliteration": "దిగ్పాల్",
+      "translation": "దిక్పాల"
+    },
+    {
+      "original": "सहित",
+      "transliteration": "జహాన్",
+      "translation": "ఎక్కడ"
+    },
+    {
+      "original": "अहीसा",
+      "transliteration": "తె",
+      "translation": "వారు"
+    },
+    {
+      "original": "जम",
+      "transliteration": "కవి",
+      "translation": "కవి"
+    },
+    {
+      "original": "कुबेर",
+      "transliteration": "కోవిద",
+      "translation": "పండితులు"
+    },
+    {
+      "original": "दिगपाल",
+      "transliteration": "చెప్పి",
+      "translation": "చెప్పింది"
+    },
+    {
+      "original": "जहाँ",
+      "transliteration": "సకే",
+      "translation": "చేయగలిగింది"
+    },
+    {
+      "original": "ते",
+      "transliteration": "కహాన్",
+      "translation": "ఎక్కడ"
+    },
+    {
+      "original": "कवि",
+      "transliteration": "తె",
+      "translation": "వారు"
+    },
+    {
+      "original": "कोविद",
+      "transliteration": "తుం",
+      "translation": "మీరు"
+    },
+    {
+      "original": "कहि",
+      "transliteration": "ఉపకార",
+      "translation": "సహాయం"
+    },
+    {
+      "original": "सके",
+      "transliteration": "సుగ్రీవహి",
+      "translation": "సుగ్రీవకు"
+    },
+    {
+      "original": "कहाँ",
+      "transliteration": "కీంహా",
+      "translation": "చేశాడు"
+    },
+    {
+      "original": "ते",
+      "transliteration": "రామ",
+      "translation": "రాముడు"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "మిలాయ",
+      "translation": "కలిపి"
+    },
+    {
+      "original": "उपकार",
+      "transliteration": "రాజ్",
+      "translation": "రాజ్యం"
+    },
+    {
+      "original": "सुग्रीवहि",
+      "transliteration": "పద",
+      "translation": "స్థానం"
+    },
+    {
+      "original": "कीन्हा",
+      "transliteration": "దీంహా",
+      "translation": "ఇచ్చాడు"
+    },
+    {
+      "original": "राम",
+      "transliteration": "তোমারো",
+      "translation": "మీ"
+    },
+    {
+      "original": "मिलाय",
+      "transliteration": "మంత్ర",
+      "translation": "మంత్రం"
+    },
+    {
+      "original": "राज",
+      "transliteration": "బిభీషణ",
+      "translation": "విభీషణ"
+    },
+    {
+      "original": "पद",
+      "transliteration": "మానా",
+      "translation": "అంగీకరించాడు"
+    },
+    {
+      "original": "दीन्हा",
+      "transliteration": "లంకేశ్వర",
+      "translation": "లంకేశ్వర"
+    },
+    {
+      "original": "तुम्हरो",
+      "transliteration": "భయే",
+      "translation": "అయ్యాడు"
+    },
+    {
+      "original": "मंत्र",
+      "transliteration": "సబ్",
+      "translation": "అన్ని"
+    },
+    {
+      "original": "बिभीषण",
+      "transliteration": "జగ",
+      "translation": "ప్రపంచం"
+    },
+    {
+      "original": "माना",
+      "transliteration": "జానా",
+      "translation": "తెలిసింది"
+    },
+    {
+      "original": "लंकेश्वर",
+      "transliteration": "జుగ",
+      "translation": "యుగం"
+    },
+    {
+      "original": "भये",
+      "transliteration": "సహస్త్ర",
+      "translation": "లక్షల"
+    },
+    {
+      "original": "सब",
+      "transliteration": "జోజన్",
+      "translation": "యోజన"
+    },
+    {
+      "original": "जग",
+      "transliteration": "పర",
+      "translation": "పై"
+    },
+    {
+      "original": "जाना",
+      "transliteration": "భాను",
+      "translation": "సూర్యుడు"
+    },
+    {
+      "original": "जुग",
+      "transliteration": "లిల్యో",
+      "translation": "తినిపించాడు"
+    },
+    {
+      "original": "सहस्त्र",
+      "transliteration": "తాహి",
+      "translation": "ఆ"
+    },
+    {
+      "original": "जोजन",
+      "transliteration": "మధుర",
+      "translation": "మధుర"
+    },
+    {
+      "original": "पर",
+      "transliteration": "ఫల",
+      "translation": "ఫలము"
+    },
+    {
+      "original": "भानू",
+      "transliteration": "జానూ",
+      "translation": "తెలుసుకో"
+    },
+    {
+      "original": "लिल्यो",
+      "transliteration": "ప్రభు",
+      "translation": "ప్రభు"
+    },
+    {
+      "original": "ताहि",
+      "transliteration": "ముద్రికా",
+      "translation": "ముద్రిక"
+    },
+    {
+      "original": "मधुर",
+      "transliteration": "మేలు",
+      "translation": "చేర్చడం"
+    },
+    {
+      "original": "फ़ल",
+      "transliteration": "ముఖ",
+      "translation": "ముఖం"
+    },
+    {
+      "original": "जानू",
+      "transliteration": "మాహీ",
+      "translation": "ముఖం"
+    },
+    {
+      "original": "प्रभु",
+      "transliteration": "జలధి",
+      "translation": "సముద్రం"
+    },
+    {
+      "original": "मुद्रिका",
+      "transliteration": "లాంఘి",
+      "translation": "దాటింది"
+    },
+    {
+      "original": "मेलि",
+      "transliteration": "గయే",
+      "translation": "వెళ్ళాడు"
+    },
+    {
+      "original": "मुख",
+      "transliteration": "అచరజ",
+      "translation": "ఆశ్చర్యం"
+    },
+    {
+      "original": "माही",
+      "transliteration": "నాహి",
+      "translation": "లేదు"
+    },
+    {
+      "original": "जलधि",
+      "transliteration": "దుర్గమ",
+      "translation": "కష్టమైన"
+    },
+    {
+      "original": "लाँघि",
+      "transliteration": "కాజ్",
+      "translation": "కార్య"
+    },
+    {
+      "original": "गए",
+      "transliteration": "జగత",
+      "translation": "ప్రపంచం"
+    },
+    {
+      "original": "अचरज",
+      "transliteration": "కె",
+      "translation": "యొక్క"
+    },
+    {
+      "original": "नाही",
+      "transliteration": "జేటే",
+      "translation": "అన్ని"
+    },
+    {
+      "original": "दुर्गम",
+      "transliteration": "సుగమ",
+      "translation": "సులభం"
+    },
+    {
+      "original": "काज",
+      "transliteration": "అనుగ్రహ",
+      "translation": "కృప"
+    },
+    {
+      "original": "जगत",
+      "transliteration": "তোমার",
+      "translation": "మీ"
+    },
+    {
+      "original": "के",
+      "transliteration": "తేటే",
+      "translation": "శక్తివంతమైన"
+    },
+    {
+      "original": "जेते",
+      "transliteration": "రామ",
+      "translation": "రాముడు"
+    },
+    {
+      "original": "सुगम",
+      "transliteration": "ద్వారే",
+      "translation": "ద్వారం"
+    },
+    {
+      "original": "अनुग्रह",
+      "transliteration": "తుం",
+      "translation": "మీరు"
+    },
+    {
+      "original": "तुम्हरे",
+      "transliteration": "రఖ్వారే",
+      "translation": "రక్షకులు"
+    },
+    {
+      "original": "तेते",
+      "transliteration": "హోత్",
+      "translation": "అవుతుంది"
+    },
+    {
+      "original": "राम",
+      "transliteration": "నా",
+      "translation": "కాదు"
+    },
+    {
+      "original": "दुआरे",
+      "transliteration": "ఆజ్ఞ",
+      "translation": "ఆదేశం"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "బిను",
+      "translation": "లేకుండా"
+    },
+    {
+      "original": "रखवारे",
+      "transliteration": "పైసారే",
+      "translation": "సమర్థ"
+    },
+    {
+      "original": "होत",
+      "transliteration": "సబ్",
+      "translation": "అన్ని"
+    },
+    {
+      "original": "ना",
+      "transliteration": "సుఖ",
+      "translation": "సంతోషం"
+    },
+    {
+      "original": "आज्ञा",
+      "transliteration": "లహే",
+      "translation": "పొందుతారు"
+    },
+    {
+      "original": "बिनु",
+      "transliteration": "তোমারী",
+      "translation": "మీ"
+    },
+    {
+      "original": "पैसारे",
+      "transliteration": "శరణ",
+      "translation": "ఆశ్రయం"
+    },
+    {
+      "original": "सब",
+      "transliteration": "రక్షక",
+      "translation": "రక్షకుడు"
+    },
+    {
+      "original": "सुख",
+      "transliteration": "కాహు",
+      "translation": "ఎవరూ"
+    },
+    {
+      "original": "लहैं",
+      "transliteration": "కో",
+      "translation": "కి"
+    },
+    {
+      "original": "तुम्हारी",
+      "transliteration": "డర్నా",
+      "translation": "భయపడటం"
+    },
+    {
+      "original": "सरना",
+      "transliteration": "ఆపన్",
+      "translation": "మీ"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "तेज",
+      "translation": "శక్తి"
+    },
+    {
+      "original": "रक्षक",
+      "transliteration": "సమ్హారో",
+      "translation": "నియంత్రించు"
+    },
+    {
+      "original": "काहु",
+      "transliteration": "ఆపై",
+      "translation": "ఉన్న"
+    },
+    {
+      "original": "को",
+      "transliteration": "మూడు",
+      "translation": "మూడు"
+    },
+    {
+      "original": "डरना",
+      "transliteration": "లోక్",
+      "translation": "లోకం"
+    },
+    {
+      "original": "आपन",
+      "transliteration": "హాక్",
+      "translation": "అంగీకరించు"
+    },
+    {
+      "original": "तेज",
+      "transliteration": "తై",
+      "translation": "ఈ"
+    },
+    {
+      "original": "सम्हारो",
+      "transliteration": "కాపై",
+      "translation": "భయపడటం"
+    },
+    {
+      "original": "आपै",
+      "transliteration": "భూత్",
+      "translation": "దెయ్యం"
+    },
+    {
+      "original": "तीनों",
+      "transliteration": "పిశాచ",
+      "translation": "భూతం"
+    },
+    {
+      "original": "लोक",
+      "transliteration": "నికట",
+      "translation": "సమీపంలో"
+    },
+    {
+      "original": "हाँक",
+      "transliteration": "నహి",
+      "translation": "లేదు"
+    },
+    {
+      "original": "तै",
+      "transliteration": "అవే",
+      "translation": "రానుండి"
+    },
+    {
+      "original": "कापै",
+      "transliteration": "మహావీర్",
+      "translation": "మహావీర్"
+    },
+    {
+      "original": "भूत",
+      "transliteration": "when",
+      "translation": "ఎప్పుడు"
+    },
+    {
+      "original": "पिशाच",
+      "transliteration": "నామ",
+      "translation": "పేరు"
+    },
+    {
+      "original": "निकट",
+      "transliteration": "సునావే",
+      "translation": "చెప్పు"
+    },
+    {
+      "original": "नहि",
+      "transliteration": "నాసై",
+      "translation": "నశించడం"
+    },
+    {
+      "original": "आवै",
+      "transliteration": "రోగ్",
+      "translation": "వ్యాధి"
+    },
+    {
+      "original": "महावीर",
+      "transliteration": "హరే",
+      "translation": "నశించు"
+    },
+    {
+      "original": "जब",
+      "transliteration": "సబ్",
+      "translation": "అన్ని"
+    },
+    {
+      "original": "नाम",
+      "transliteration": "పీడ",
+      "translation": "నొప్పి"
+    },
+    {
+      "original": "सुनावै",
+      "transliteration": "జపత",
+      "translation": "జపించడం"
+    },
+    {
+      "original": "नासै",
+      "transliteration": "నిరంతర",
+      "translation": "శాశ్వత"
+    },
+    {
+      "original": "रोग",
+      "transliteration": "హనుమత్",
+      "translation": "హనుమాన్"
+    },
+    {
+      "original": "हरे",
+      "transliteration": "బీరా",
+      "translation": "వీరుడు"
+    },
+    {
+      "original": "सब",
+      "transliteration": "సంకట",
+      "translation": "కష్టాలు"
+    },
+    {
+      "original": "पीरा",
+      "transliteration": "తై",
+      "translation": "ఈ"
+    },
+    {
+      "original": "जपत",
+      "transliteration": "హనుమాన్",
+      "translation": "హనుమాన్"
+    },
+    {
+      "original": "निरंतर",
+      "transliteration": "ఛుడావే",
+      "translation": "విముక్తి"
+    },
+    {
+      "original": "हनुमत",
+      "transliteration": "మన",
+      "translation": "మనసు"
+    },
+    {
+      "original": "बीरा",
+      "transliteration": "క్రమ్",
+      "translation": "చర్య"
+    },
+    {
+      "original": "संकट",
+      "transliteration": "వచన్",
+      "translation": "మాటలు"
+    },
+    {
+      "original": "तै",
+      "transliteration": "ధ్యాన్",
+      "translation": "ధ్యానం"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "జో",
+      "translation": "ఎవరు"
+    },
+    {
+      "original": "छुडावै",
+      "transliteration": "లావే",
+      "translation": "తీసుకొచ్చేది"
+    },
+    {
+      "original": "मन",
+      "transliteration": "సబ్",
+      "translation": "అన్ని"
+    },
+    {
+      "original": "क्रम",
+      "transliteration": "పర",
+      "translation": "పై"
+    },
+    {
+      "original": "वचन",
+      "transliteration": "రామ",
+      "translation": "రాముడు"
+    },
+    {
+      "original": "ध्यान",
+      "transliteration": "తపస్వీ",
+      "translation": "యోగి"
+    },
+    {
+      "original": "जो",
+      "transliteration": "రాజా",
+      "translation": "రాజు"
+    },
+    {
+      "original": "लावै",
+      "transliteration": "తిన్‌కే",
+      "translation": "వారి"
+    },
+    {
+      "original": "सब",
+      "transliteration": "కాజ్",
+      "translation": "కార్య"
+    },
+    {
+      "original": "पर",
+      "transliteration": "సకల్",
+      "translation": "అన్ని"
+    },
+    {
+      "original": "राम",
+      "transliteration": "తుం",
+      "translation": "మీరు"
+    },
+    {
+      "original": "तपस्वी",
+      "transliteration": "సాజా",
+      "translation": "చేస్తాడు"
+    },
+    {
+      "original": "राजा",
+      "transliteration": "ఇంకా",
+      "translation": "మరియు"
+    },
+    {
+      "original": "तिनके",
+      "transliteration": "మనోరథ్",
+      "translation": "కోరిక"
+    },
+    {
+      "original": "काज",
+      "transliteration": "జో",
+      "translation": "ఎవరు"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "కోయి",
+      "translation": "ఎవరూ"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "లావే",
+      "translation": "తీసుకొచ్చేది"
+    },
+    {
+      "original": "साजा",
+      "transliteration": "సోఈ",
+      "translation": "అదే"
+    },
+    {
+      "original": "और",
+      "transliteration": "అమిత్",
+      "translation": "అమితమైన"
+    },
+    {
+      "original": "मनोरथ",
+      "transliteration": "జీవన్",
+      "translation": "జీవితం"
+    },
+    {
+      "original": "जो",
+      "transliteration": "ఫల్",
+      "translation": "ఫలితం"
+    },
+    {
+      "original": "कोई",
+      "transliteration": "పావే",
+      "translation": "పొందుతారు"
+    },
+    {
+      "original": "लावै",
+      "transliteration": "చారో",
+      "translation": "నాలుగు"
+    },
+    {
+      "original": "सोई",
+      "transliteration": "జుగ",
+      "translation": "యుగం"
+    },
+    {
+      "original": "अमित",
+      "transliteration": "పరతాప్",
+      "translation": "ప్రతాపం"
+    },
+    {
+      "original": "जीवन",
+      "transliteration": "তোমার",
+      "translation": "మీ"
+    },
+    {
+      "original": "फल",
+      "transliteration": "హై",
+      "translation": "ఉంది"
+    },
+    {
+      "original": "पावै",
+      "transliteration": "పరసిద్ధ",
+      "translation": "ప్రసిద్ధి"
+    },
+    {
+      "original": "चारों",
+      "transliteration": "జగత",
+      "translation": "ప్రపంచం"
+    },
+    {
+      "original": "युग",
+      "transliteration": "ఉదియారా",
+      "translation": "వెలుగులు"
+    },
+    {
+      "original": "परताप",
+      "transliteration": "సాధు",
+      "translation": "మంచి మనసు"
+    },
+    {
+      "original": "तुम्हारा",
+      "transliteration": "సంత్",
+      "translation": "సద్గురు"
+    },
+    {
+      "original": "है",
+      "transliteration": "కె",
+      "translation": "యొక్క"
+    },
+    {
+      "original": "परसिद्ध",
+      "transliteration": "తుం",
+      "translation": "మీరు"
+    },
+    {
+      "original": "जगत",
+      "transliteration": "రఖ్వారే",
+      "translation": "రక్షకులు"
+    },
+    {
+      "original": "उजियारा",
+      "transliteration": "అసుర",
+      "translation": "రాక్షసులు"
+    },
+    {
+      "original": "साधु",
+      "transliteration": "నికందన్",
+      "translation": "నాశనం"
+    },
+    {
+      "original": "संत",
+      "transliteration": "రామ",
+      "translation": "రాముడు"
+    },
+    {
+      "original": "के",
+      "transliteration": "దులారే",
+      "translation": "ప్రేమించు"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "అష్ట",
+      "translation": "ఆరు"
+    },
+    {
+      "original": "रखवारे",
+      "transliteration": "సిద్ధి",
+      "translation": "విజయము"
+    },
+    {
+      "original": "असुर",
+      "transliteration": "తొమ్మిది",
+      "translation": "తొమ్మిది"
+    },
+    {
+      "original": "निकंदन",
+      "transliteration": "నిధి",
+      "translation": "రత్నం"
+    },
+    {
+      "original": "राम",
+      "transliteration": "కె",
+      "translation": "యొక్క"
+    },
+    {
+      "original": "दुलारे",
+      "transliteration": "దాత",
+      "translation": "వరాలు"
+    },
+    {
+      "original": "अष्ट",
+      "transliteration": "అస",
+      "translation": "ఇది"
+    },
+    {
+      "original": "सिद्धि",
+      "transliteration": "వర",
+      "translation": "వరం"
+    },
+    {
+      "original": "नौ",
+      "transliteration": "దిన్",
+      "translation": "పేద"
+    },
+    {
+      "original": "निधि",
+      "transliteration": "జానకీ",
+      "translation": "సీత"
+    },
+    {
+      "original": "के",
+      "transliteration": "మాత",
+      "translation": "తల్లి"
+    },
+    {
+      "original": "दाता",
+      "transliteration": "రామ",
+      "translation": "రాముడు"
+    },
+    {
+      "original": "अस",
+      "transliteration": "రసాయన",
+      "translation": "ఔషధం"
+    },
+    {
+      "original": "बर",
+      "transliteration": "তোমার",
+      "translation": "మీ"
+    },
+    {
+      "original": "दीन",
+      "transliteration": "పాసా",
+      "translation": "పాసు"
+    },
+    {
+      "original": "जानकी",
+      "transliteration": "సదా",
+      "translation": "ఎప్పుడూ"
+    },
+    {
+      "original": "माता",
+      "transliteration": "రహో",
+      "translation": "ఉండండి"
+    },
+    {
+      "original": "राम",
+      "transliteration": "రఘుపతి",
+      "translation": "రఘు వంశాధిపతి"
+    },
+    {
+      "original": "रसायन",
+      "transliteration": "కె",
+      "translation": "యొక్క"
+    },
+    {
+      "original": "तुम्हरे",
+      "transliteration": "దాసా",
+      "translation": "దాసుడు"
+    },
+    {
+      "original": "पासा",
+      "transliteration": "তোমার",
+      "translation": "మీ"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "భజన",
+      "translation": "భజన"
+    },
+    {
+      "original": "रहो",
+      "transliteration": "రామ",
+      "translation": "రాముడు"
+    },
+    {
+      "original": "रघुपति",
+      "transliteration": "కో",
+      "translation": "కి"
+    },
+    {
+      "original": "के",
+      "transliteration": "పావే",
+      "translation": "పొందుతారు"
+    },
+    {
+      "original": "दासा",
+      "transliteration": "జనమ్",
+      "translation": "జన్మం"
+    },
+    {
+      "original": "तुम्हरे",
+      "transliteration": "జనమ్",
+      "translation": "జన్మం"
+    },
+    {
+      "original": "भजन",
+      "transliteration": "కె",
+      "translation": "యొక్క"
+    },
+    {
+      "original": "राम",
+      "transliteration": "దుఃఖ",
+      "translation": "బాధ"
+    },
+    {
+      "original": "को",
+      "transliteration": "బిస్రావే",
+      "translation": "మర్చిపోవడం"
+    },
+    {
+      "original": "पावै",
+      "transliteration": "అంతకాల",
+      "translation": "అంతిమ కాలం"
+    },
+    {
+      "original": "जनम",
+      "transliteration": "రఘువర్పూర్",
+      "translation": "రఘువంశపతి"
+    },
+    {
+      "original": "जनम",
+      "transliteration": "జాయీ",
+      "translation": "వెళ్ళిపోవడం"
+    },
+    {
+      "original": "के",
+      "transliteration": "जहाँ",
+      "translation": "ఎక్కడ"
+    },
+    {
+      "original": "दुख",
+      "transliteration": "జన్మ",
+      "translation": "జన్మం"
+    },
+    {
+      "original": "बिसरावै",
+      "transliteration": "హరिभక్త",
+      "translation": "హరికి భక్తి"
+    },
+    {
+      "original": "अंतकाल",
+      "transliteration": "కహాయీ",
+      "translation": "చెప్పబడిన"
+    },
+    {
+      "original": "रघुवरपुर",
+      "transliteration": "ఇంకా",
+      "translation": "మరియు"
+    },
+    {
+      "original": "जाई",
+      "transliteration": "దేవత",
+      "translation": "దేవుడు"
+    },
+    {
+      "original": "जहाँ",
+      "transliteration": "చిత్త",
+      "translation": "మనసు"
+    },
+    {
+      "original": "जन्म",
+      "transliteration": "నా",
+      "translation": "కాదు"
+    },
+    {
+      "original": "हरिभक्त",
+      "transliteration": "ధరై",
+      "translation": "పట్టుకోవడం"
+    },
+    {
+      "original": "कहाई",
+      "transliteration": "హనుమత్",
+      "translation": "హనుమాన్"
+    },
+    {
+      "original": "और",
+      "transliteration": "సే",
+      "translation": "సేవ"
+    },
+    {
+      "original": "देवता",
+      "transliteration": "సర్వ",
+      "translation": "అన్ని"
+    },
+    {
+      "original": "चित्त",
+      "transliteration": "సుఖ",
+      "translation": "సంతోషం"
+    },
+    {
+      "original": "ना",
+      "transliteration": "కరై",
+      "translation": "చేస్తుంది"
+    },
+    {
+      "original": "धरई",
+      "transliteration": "సంకట",
+      "translation": "కష్టాలు"
+    },
+    {
+      "original": "हनुमत",
+      "transliteration": "కటై",
+      "translation": "తొలగించు"
+    },
+    {
+      "original": "सेई",
+      "transliteration": "మిటై",
+      "translation": "సమాప్తి"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "సబ్",
+      "translation": "అన్ని"
+    },
+    {
+      "original": "सुख",
+      "transliteration": "పీడ",
+      "translation": "నొప్పి"
+    },
+    {
+      "original": "करई",
+      "transliteration": "జో",
+      "translation": "ఎవరు"
+    },
+    {
+      "original": "संकट",
+      "transliteration": "సుమిరై",
+      "translation": "జపించడం"
+    },
+    {
+      "original": "कटै",
+      "transliteration": "హనుమత్",
+      "translation": "హనుమాన్"
+    },
+    {
+      "original": "मिटै",
+      "transliteration": "బలబీరా",
+      "translation": "వీరుడు"
+    },
+    {
+      "original": "सब",
+      "transliteration": "జై",
+      "translation": "విజయం"
+    },
+    {
+      "original": "पीरा",
+      "transliteration": "జై",
+      "translation": "విజయం"
+    },
+    {
+      "original": "जो",
+      "transliteration": "హనుమాన్",
+      "translation": "హనుమాన్"
+    },
+    {
+      "original": "सुमिरै",
+      "transliteration": "గుసై",
+      "translation": "గౌరవం"
+    },
+    {
+      "original": "बलबीरा",
+      "transliteration": "కృపా",
+      "translation": "దయ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "కరహు",
+      "translation": "చేయండి"
+    },
+    {
+      "original": "जय",
+      "transliteration": "గురు",
+      "translation": "గురువు"
+    },
+    {
+      "original": "जय",
+      "transliteration": "దేవ",
+      "translation": "దేవుడు"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "కీ",
+      "translation": "యొక్క"
+    },
+    {
+      "original": "गुसाईं",
+      "transliteration": "నాయీ",
+      "translation": "విధానం"
+    },
+    {
+      "original": "कृपा",
+      "transliteration": "జో",
+      "translation": "ఎవరు"
+    },
+    {
+      "original": "करहु",
+      "transliteration": "సత్",
+      "translation": "నిజం"
+    },
+    {
+      "original": "गुरु",
+      "transliteration": "బార్",
+      "translation": "సారధి"
+    },
+    {
+      "original": "देव",
+      "transliteration": "పాఠ్",
+      "translation": "చదవడం"
+    },
+    {
+      "original": "की",
+      "transliteration": "కర్",
+      "translation": "చేయండి"
+    },
+    {
+      "original": "नाई",
+      "transliteration": "కోయి",
+      "translation": "ఎవరు"
+    },
+    {
+      "original": "जो",
+      "transliteration": "ఛూటహి",
+      "translation": "విముక్తి"
+    },
+    {
+      "original": "सत",
+      "transliteration": "బంధి",
+      "translation": "బంధం"
+    },
+    {
+      "original": "बार",
+      "transliteration": "మహా",
+      "translation": "గొప్ప"
+    },
+    {
+      "original": "पाठ",
+      "transliteration": "సుఖ",
+      "translation": "సంతోషం"
+    },
+    {
+      "original": "कर",
+      "transliteration": "హోਈ",
+      "translation": "అవుతుంది"
+    },
+    {
+      "original": "कोई",
+      "transliteration": "జో",
+      "translation": "ఎవరు"
+    },
+    {
+      "original": "छूटहि",
+      "transliteration": "యహ్",
+      "translation": "ఇది"
+    },
+    {
+      "original": "बंदी",
+      "transliteration": "పఢే",
+      "translation": "చదవడం"
+    },
+    {
+      "original": "महा",
+      "transliteration": "హనుమాన్",
+      "translation": "హనుమాన్"
+    },
+    {
+      "original": "सुख",
+      "transliteration": "చాలీసా",
+      "translation": "చాలీసా"
+    },
+    {
+      "original": "होई",
+      "transliteration": "హోయ్",
+      "translation": "అవుతుంది"
+    },
+    {
+      "original": "जो",
+      "transliteration": "సిద్ధ",
+      "translation": "సిద్ది"
+    },
+    {
+      "original": "यह",
+      "transliteration": "సాక్షీ",
+      "translation": "సాక్షి"
+    },
+    {
+      "original": "पढ़े",
+      "transliteration": "గౌరీసా",
+      "translation": "గౌరీ"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "తులసీదాస్",
+      "translation": "తులసీదాస్"
+    },
+    {
+      "original": "चालीसा",
+      "transliteration": "సదా",
+      "translation": "ఎప్పుడూ"
+    },
+    {
+      "original": "होय",
+      "transliteration": "హరి",
+      "translation": "హరియే"
+    },
+    {
+      "original": "सिद्ध",
+      "transliteration": "చేరా",
+      "translation": "సేవ"
+    },
+    {
+      "original": "साखी",
+      "transliteration": "కీజై",
+      "translation": "చేయండి"
+    },
+    {
+      "original": "गौरीसा",
+      "transliteration": "నాథ్",
+      "translation": "దేవుడు"
+    },
+    {
+      "original": "तुलसीदास",
+      "transliteration": "హృదయ",
+      "translation": "మనసు"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "మహా",
+      "translation": "గొప్ప"
+    },
+    {
+      "original": "हरि",
+      "transliteration": "డేరా",
+      "translation": "నివాసం"
+    },
+    {
+      "original": "चेरा",
+      "transliteration": "పవన్",
+      "translation": "వాయు"
+    },
+    {
+      "original": "कीजै",
+      "transliteration": "తనయ",
+      "translation": "కుమారుడు"
+    },
+    {
+      "original": "नाथ",
+      "transliteration": "సంకట",
+      "translation": "కష్టాలు"
+    },
+    {
+      "original": "हृदय",
+      "transliteration": "హరణ",
+      "translation": "తొలగించు"
+    },
+    {
+      "original": "मह",
+      "transliteration": "మంగళ",
+      "translation": "శుభం"
+    },
+    {
+      "original": "डेरा",
+      "transliteration": "మూరతి",
+      "translation": "రూపం"
+    },
+    {
+      "original": "पवन",
+      "transliteration": "రూప",
+      "translation": "రూపం"
+    },
+    {
+      "original": "तनय",
+      "transliteration": "రామ",
+      "translation": "రాముడు"
+    },
+    {
+      "original": "संकट",
+      "transliteration": "లక్షన్",
+      "translation": "లక్ష్మణుడు"
+    },
+    {
+      "original": "हरन",
+      "transliteration": "సీత",
+      "translation": "సీత"
+    },
+    {
+      "original": "मंगल",
+      "transliteration": "సహిత",
+      "translation": "తో"
+    },
+    {
+      "original": "मूर्ति",
+      "transliteration": "హృదయ",
+      "translation": "మనసు"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "బసహు",
+      "translation": "నివసించు"
+    },
+    {
+      "original": "राम",
+      "transliteration": "సుర",
+      "translation": "దేవత"
+    },
+    {
+      "original": "लक्ष्मण",
+      "transliteration": "భూప",
+      "translation": "భూమి"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सहित",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हृदय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बसहु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुर",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भूप",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\hanuman_chalisa\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\hanuman_chalisa\\telugu\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\hanuman_chalisa\\telugu\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.736Z"
+  }
+}

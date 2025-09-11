@@ -1,0 +1,979 @@
+{
+  "mantra": "astha_laxmi_stotram",
+  "language": "kannada",
+  "type": "word_to_word",
+  "totalWords": 193,
+  "alignedWords": [
+    {
+      "original": "आदिलक्ष्मी",
+      "transliteration": "ಆದಿಲಕ್ಷ್ಮಿ",
+      "translation": "आदिलक्ष्मी (Name of Goddess)"
+    },
+    {
+      "original": "सुमनस",
+      "transliteration": "ಸುಮನಸದ್ವಂದಿತ",
+      "translation": "शुभವಾದಿ, ಪ್ರಶಂಸಿತ"
+    },
+    {
+      "original": "मुनिगणमण्डित",
+      "transliteration": "ಸುಂದರಿ",
+      "translation": "ಸುಂದರ ಮತ್ತು ಮೋಹಕ"
+    },
+    {
+      "original": "पंकजवासिनी",
+      "transliteration": "ಮಾಧವಿ",
+      "translation": "ಮಧುರ ಮತ್ತು ಸೌಂದರ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ಚಂದ್ರ",
+      "translation": "ಚಂದ್ರ ಮಾಘು"
+    },
+    {
+      "original": "धान्यलक्ष्मी",
+      "transliteration": "ಸಹೋದರಿ",
+      "translation": "ಸಹೋದರಿ, ಸಹೋದರಿಯು"
+    },
+    {
+      "original": "अहिकलि",
+      "transliteration": "ಹೆಮಮಯೆ",
+      "translation": "ಚಿನ್ನದಿಂದ ಕೂಡಿದ"
+    },
+    {
+      "original": "क्षीरसमुद्भव",
+      "transliteration": "ಮುನಿಗಣಮಂಡಿತ",
+      "translation": "ಋಷಿ ಮತ್ತು ಮಹಾತ್ಮರಿಂದ ಪೂಜಿತ"
+    },
+    {
+      "original": "मंगलदायिनी",
+      "transliteration": "ಮೋಕ್ಷಪ್ರದಾಯಿನಿ",
+      "translation": "ಮೋಕ್ಷವನ್ನು ದಾನಿಸುವ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ಮಂಜುಳಭಾಷಿಣಿ",
+      "translation": "ಸಿಹಿಯಾದ ಭಾಷೆ ಮಾತನಾಡುವ"
+    },
+    {
+      "original": "धैर्यलक्ष्मी",
+      "transliteration": "वेदनुते",
+      "translation": "ವೇದದಿಂದ ಆರಾಧನೆ"
+    },
+    {
+      "original": "जयवरवर्णिनि",
+      "transliteration": "ಪ೦ಕಜವಾಸಿನಿ",
+      "translation": "ಪಂಕಜ (ಕಮಲ) ವಾಸಿಸುವ"
+    },
+    {
+      "original": "सुरगणपूजित",
+      "transliteration": "ದೇವಸುಪೂಜಿತ",
+      "translation": "ದೇವರ ಪೂಜಿತ"
+    },
+    {
+      "original": "भवभयहारिणि",
+      "transliteration": "ಸದ್ಗುಣವರ್ಷಿಣಿ",
+      "translation": "ಸದ್ಗುಣಗಳನ್ನು ಸುರಿಯಿಸುವ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ಶಾಂತಿಯುತೆ",
+      "translation": "ಶಾಂತಿಯುಳ್ಳ"
+    },
+    {
+      "original": "गजलक्ष्मी",
+      "transliteration": "ಜಯಜಯ",
+      "translation": "ಜಯ, ಮಹತ್ತ್ವ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ಹೇ",
+      "translation": "ಓ"
+    },
+    {
+      "original": "रथगज",
+      "transliteration": "ಮಧುಸೂದನ",
+      "translation": "ಸೂರ್ಯನ ಸ್ವರೂಪ"
+    },
+    {
+      "original": "हरिहर",
+      "transliteration": "ಕಾಮಿನಿ",
+      "translation": "ಆಕರ್ಷಕ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ಆದಿಲಕ್ಷ್ಮಿ",
+      "translation": "आदिलक्ष्मी (Name of Goddess)"
+    },
+    {
+      "original": "सन्तानलक्ष्मी",
+      "transliteration": "ಸದಾ",
+      "translation": "ಸದಾ"
+    },
+    {
+      "original": "अहिखग",
+      "transliteration": "ಪಾಲಯ",
+      "translation": "ರಕ್ಷಿಸು"
+    },
+    {
+      "original": "गुणगणवारिधि",
+      "transliteration": "माम",
+      "translation": "ನನಗೆ"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "ಧಾನ್ಯಲಕ್ಷ್ಮಿ",
+      "translation": "ಧಾನ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ಅಹಿಕಲಿ",
+      "translation": "ಹತ್ತಿಯುವನು"
+    },
+    {
+      "original": "विजयलक्ष्मी",
+      "transliteration": "ಕಲ್ಮಷನಾಶಿನಿ",
+      "translation": "ಪಾಪಗಳನ್ನು ನಿವಾರಿಸುವ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ಕಾಮಿನಿ",
+      "translation": "ಆಕರ್ಷಕ"
+    },
+    {
+      "original": "अनुदिनमर्चित",
+      "transliteration": "ವೈದಿಕರೂಪಿಣಿ",
+      "translation": "ವೈದಿಕ ರೂಪವನ್ನು ಹಾರೈಸುವ"
+    },
+    {
+      "original": "कनकधरास्तुति",
+      "transliteration": "ವೇದಮಯೆ",
+      "translation": "ವೇದಗಳಿಂದ ಸ್ಫೂರ್ತಿಯನ್ನು ಪಡೆದ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ಕ್ಷೀರಸಮುದ್ಭವ",
+      "translation": "ಹಾಲಿನಿಂದ ಉದ್ಭವಿಸುವ"
+    },
+    {
+      "original": "विद्यालक्ष्मी",
+      "transliteration": "ಮಂಗಲರೂಪಿಣಿ",
+      "translation": "ಮಂಗಳ ರೂಪವನ್ನು ಹಾರೈಸುವ"
+    },
+    {
+      "original": "प्रणत",
+      "transliteration": "ಮಂತ್ರನಿವಾಸಿನಿ",
+      "translation": "ಮಂತ್ರದಿಂದ ಆರಾಧನೆ"
+    },
+    {
+      "original": "मणिमयभूषित",
+      "transliteration": "ಮಂತ್ರನುತೆ",
+      "translation": "ಮಂತ್ರದಿಂದ ಪ್ರೋತ್ಸಾಹಿತ"
+    },
+    {
+      "original": "नवनिधिदायिनि",
+      "transliteration": "ಮಂಗಲದಾಯಿನಿ",
+      "translation": "ಮಂಗಳವನ್ನು ದಾನಿಸುವ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ಅಂಬುಜವಾಸಿನಿ",
+      "translation": "ಕಮಲದಲ್ಲಿ ವಾಸಿಸುವ"
+    },
+    {
+      "original": "धनलक्ष्मी",
+      "transliteration": "ದೇವಗಣಾಶ್ರಿತ",
+      "translation": "ದೇವರ ಆವರಣದಲ್ಲಿ"
+    },
+    {
+      "original": "धिमिधिमि",
+      "transliteration": "ಪಾದಯುತೆ",
+      "translation": "ಪಾದದ ಮೂಲಕ"
+    },
+    {
+      "original": "घुमघुम",
+      "transliteration": "ಜಯಜಯ",
+      "translation": "ಜಯ, ಮಹತ್ತ್ವ"
+    },
+    {
+      "original": "वेदपुराणेतिहास",
+      "transliteration": "ಹೇ",
+      "translation": "ಓ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ಮಧುಸೂದನ",
+      "translation": "ಸೂರ್ಯನ ಸ್ವರೂಪ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕಾಮಿನಿ",
+      "translation": "ಆಕರ್ಷಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಧಾನ್ಯಲಕ್ಷ್ಮಿ",
+      "translation": "ಧಾನ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸದಾ",
+      "translation": "ಸದಾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪಾಲಯ",
+      "translation": "ರಕ್ಷಿಸು"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम",
+      "translation": "ನನಗೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಧೈರ್ಯಲಕ್ಷ್ಮಿ",
+      "translation": "ಧೈರ್ಯವನ್ನು ವರ್ಧಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜಯವರವರ್ಣಿನಿ",
+      "translation": "ಜಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ವೈಷ್ಣವಿ",
+      "translation": "ಲಕ್ಷ್ಮಿಯ ಅವತಾರ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಭಾರ್ಗವಿ",
+      "translation": "ಪವಿತ್ರ ಶಕ್ತಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮಂತ್ರಸ್ವರೂಪಿಣಿ",
+      "translation": "ಮಂತ್ರದ ರೂಪವನ್ನು ಹಾರೈಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "मन्त्रमಯೆ",
+      "translation": "ಮಂತ್ರಗಳಿಂದ ಭರಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸುರಗಣಪೂಜಿತ",
+      "translation": "ದೇವತೆಗಳಿಂದ ಪೂಜಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಶೀಘ್ರಫಲಪ್ರದ",
+      "translation": "ವೇಗವಾಗಿ ಫಲ ಕೊಡುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜ್ಞಾನವಿಕಾಸಿನಿ",
+      "translation": "ಜ್ಞಾನವನ್ನು ಅಭಿವೃದ್ಧಿ ಪಡಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಶಾಸ್ತ್ರನುತೆ",
+      "translation": "ಶಾಸ್ತ್ರದಿಂದ ಪ್ರೇರಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಭವಭಯಹಾರಿಣಿ",
+      "translation": "ಭವಭಯವನ್ನು ನಿವಾರಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪಾಪವಿಮೋಚನಿ",
+      "translation": "ಪಾಪಗಳನ್ನು ನಿವಾರಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸಾಧುಜನಾಶ್ರಿತ",
+      "translation": "ಸಾಧುಜನರ ಆಶ್ರಯದಲ್ಲಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪಾದಯುತೆ",
+      "translation": "ಪಾದದ ಮೂಲಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜಯಜಯ",
+      "translation": "ಜಯ, ಮಹತ್ತ್ವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಹೇ",
+      "translation": "ಓ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮಧುಸೂದನ",
+      "translation": "ಸೂರ್ಯನ ಸ್ವರೂಪ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕಾಮಿನಿ",
+      "translation": "ಆಕರ್ಷಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಧೈರ್ಯಲಕ್ಷ್ಮಿ",
+      "translation": "ಧೈರ್ಯವನ್ನು ವರ್ಧಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸದಾ",
+      "translation": "ಸದಾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪಾಲಯ",
+      "translation": "ರಕ್ಷಿಸು"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम",
+      "translation": "ನನಗೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಗಜಲಕ್ಷ್ಮಿ",
+      "translation": "ಗಜಗಳೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ಲಕ್ಷ್ಮಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜಯಜಯ",
+      "translation": "ಜಯ, ಮಹತ್ತ್ವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ದುર્ગತಿನಾಶಿನಿ",
+      "translation": "ದುಃಖವನ್ನು ನಿವಾರಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕಾಮಿನಿ",
+      "translation": "ಆಕರ್ಷಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸರ್ವಫಲಪ್ರದ",
+      "translation": "ಎಲ್ಲಾ ಫಲಗಳನ್ನು ಕೊಡುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಶಾಸ್ತ್ರಮಯೆ",
+      "translation": "ಶಾಸ್ತ್ರದಿಂದ ಸಂಪೂರ್ಣ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ರಥಗಜ",
+      "translation": "ಹೋನಾದ ಹೆಜ್ಜೆಗಳ ಮೂಲಕ ಸಾಗುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ತುರಗಪದಾದಿ",
+      "translation": "ಗಜಗಳ ಮೂಲಕ ಸಮಾರೋಹಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸಮಾವೃತ",
+      "translation": "ಸುತ್ತುವರಿದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪರिजनಮಂಡಿತ",
+      "translation": "ಸಮುದಾಯದಿಂದ ಪೂಜಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಲೋಕನುते",
+      "translation": "ಜಗತ್ತಿನಲ್ಲಿ ಗೌರವಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಹರಿಹರ",
+      "translation": "ಹರಿಶ್ಚಂದ್ರ, ಶಿವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಬ್ರಹ್ಮ",
+      "translation": "ಸೃಷ್ಟಿಯ ಮೂಲ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸುಪೂಜಿತ",
+      "translation": "ಉತ್ತಮವಾಗಿ ಪೂಜಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸೇವಿತ",
+      "translation": "ಸೇವಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ತಾಪನಿವಾರಿಣಿ",
+      "translation": "ಬಿಸಿಲಿನಿಂದ ತಾಪವನ್ನು ನಿವಾರಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪಾದಯುತೆ",
+      "translation": "ಪಾದದ ಮೂಲಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜಯಜಯ",
+      "translation": "ಜಯ, ಮಹತ್ತ್ವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಹೇ",
+      "translation": "ಓ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮಧುಸೂದನ",
+      "translation": "ಸೂರ್ಯನ ಸ್ವರೂಪ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕಾಮಿನಿ",
+      "translation": "ಆಕರ್ಷಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಗಜಲಕ್ಷ್ಮಿ",
+      "translation": "ಗಜಗಳೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ಲಕ್ಷ್ಮಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ರೂಪೇಣ",
+      "translation": "ರೂಪದಲ್ಲಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪಾಲಯ",
+      "translation": "ರಕ್ಷಿಸು"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम",
+      "translation": "ನನಗೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸಂತಾನಲಕ್ಷ್ಮಿ",
+      "translation": "ಸಂತಾನವನ್ನು ಪ್ರकटಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಅಹಿಖಗ",
+      "translation": "ಹಕ್ಕಿಯನ್ನು ಹೊತ್ತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "वाहಿನಿ",
+      "translation": "ಹೊತ್ತಿ ತರುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮೋಹಿನಿ",
+      "translation": "ಮೋಹವನ್ನು ಪ್ರವರ್ತಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಚಕ್ರಿಣಿ",
+      "translation": "ಚಕ್ರವೃತ್ತಿಯನ್ನು ನಡೆಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ರಾಗವಿವರ್ಧಿನಿ",
+      "translation": "ರಾಗವನ್ನು ಹೆಚ್ಚಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜ್ಞಾನಮಯೆ",
+      "translation": "ಜ್ಞಾನದಿಂದ ತುಂಬಿದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಗುಣಗಣವಾರಿಧಿ",
+      "translation": "ಗುಣಗಳನ್ನು ಸಂಗ್ರಹಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಲೋಕಹಿತೈಷಿಣಿ",
+      "translation": "ಪ್ರಪಂಚದ ಪರಿಪೂರ್ಣತೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸ್ವರಸಪ್ತ",
+      "translation": "ವಿವಿಧ ಸಂಗತಿಗಳು"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಭೂಷಿತ",
+      "translation": "ಆಭೂಷಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಗಾನನುತೆ",
+      "translation": "ಹಾಡಿನಲ್ಲಿ ವರ್ಣನೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸಕಲ",
+      "translation": "ಸಂಪೂರ್ಣ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸುರಾಸುರ",
+      "translation": "ದೇವತೆ ಮತ್ತು ದಾನವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ದೇವಮುನೀಶ್ವರ",
+      "translation": "ದೇವರು ಮತ್ತು ಮಹಾತ್ಮ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮಾನವವಂದಿತ",
+      "translation": "ಮಾನವರಿಂದ ಪೂಜಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪಾದಯುते",
+      "translation": "ಪಾದದ ಮೂಲಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜಯಜಯ",
+      "translation": "ಜಯ, ಮಹತ್ತ್ವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಹೇ",
+      "translation": "ಓ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮಧುಸೂದನ",
+      "translation": "ಸೂರ್ಯನ ಸ್ವರೂಪ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕಾಮಿನಿ",
+      "translation": "ಆಕರ್ಷಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸಂತಾನಲಕ್ಷ್ಮಿ",
+      "translation": "ಸಂತಾನವನ್ನು ಪ್ರकटಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ತ್ವಂ",
+      "translation": "ನೀನು"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪಾಲಯ",
+      "translation": "ರಕ್ಷಿಸು"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम",
+      "translation": "ನನಗೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ವಿಜಯಲಕ್ಷ್ಮಿ",
+      "translation": "ವಿಜಯವನ್ನು ನೀಡುವ ಲಕ್ಷ್ಮಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜಯ",
+      "translation": "ಜಯ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕಮಲಾಸನಿ",
+      "translation": "ಕಮಲದ ಸ್ವರೂಪ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸದ್ಗತಿದಾಯಿನಿ",
+      "translation": "ಸದ್ಗತಿಯನ್ನು ನೀಡುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜ್ಞಾನವಿಕಾಸಿನಿ",
+      "translation": "ಜ್ಞಾನವನ್ನು ಬೆಳಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಗಾನಮಯೆ",
+      "translation": "ಗಾನದ ಮೂಲಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಅನುದಿನಮರ್ಚಿತ",
+      "translation": "ಪ್ರತಿದಿನವೂ ಪೂಜಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕುಂಕುಮಧೂಸರ",
+      "translation": "ಕುಂಕುಮ ಧೂಸರ್"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಭೂಷಿತ",
+      "translation": "ಆಭೂಷಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ವಾಸಿತ",
+      "translation": "ವಾಸಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ವಾದ್ಯನುತೆ",
+      "translation": "ವಾದ್ಯದಿಂದ ಪೂಜಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕನಕಧಾರಾಸ್ತುತಿ",
+      "translation": "ಸುವರ್ಣ ಪದಕದ ಭಾವನೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ವೈಭವ",
+      "translation": "ವೈಭವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ವಂದಿತ",
+      "translation": "ಪೂಜಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಶಂಕರ",
+      "translation": "ಶಂಕರ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ದೇಶಿಕ",
+      "translation": "ದೇಶಿಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮಾನ್ಯ",
+      "translation": "ಗೌರವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪದೆ",
+      "translation": "ಪದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜಯಜಯ",
+      "translation": "ಜಯ, ಮಹತ್ತ್ವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಹೇ",
+      "translation": "ಓ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮಧುಸೂದನ",
+      "translation": "ಸೂರ್ಯನ ಸ್ವರೂಪ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕಾಮಿನಿ",
+      "translation": "ಆಕರ್ಷಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ವಿಜಯಲಕ್ಷ್ಮಿ",
+      "translation": "ವಿಜಯವನ್ನು ನೀಡುವ ಲಕ್ಷ್ಮಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸದಾ",
+      "translation": "ಸದಾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪಾಲಯ",
+      "translation": "ರಕ್ಷಿಸು"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम",
+      "translation": "ನನಗೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ವಿದ್ಯಾಲಕ್ಷ್ಮಿ",
+      "translation": "ವಿದ್ಯೆ ಮತ್ತು ಜ್ಞಾನವನ್ನು ನೀಡುವ ಲಕ್ಷ್ಮಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪ್ರಣತ",
+      "translation": "ನಮನ ಮಾಡಿದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸುರೇಶ್ವರಿ",
+      "translation": "ದೇವತೆ ಮತ್ತು ದೇವತೆಯಾದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಭಾರತಿ",
+      "translation": "ವಿದ್ಯೆ ಮತ್ತು ಸಂಗೀತ ದೇವತೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಭಾರ್ಗವಿ",
+      "translation": "ಮಹರ್ಷಿ ಭಾರ್ಗವ ಪಥದ ಪ್ರಭಾವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಶೋಕವಿನಾಶಿನಿ",
+      "translation": "ದುಃಖ ಮತ್ತು ದುರದೃಷ್ಟ ನಿವಾರಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ರತ್ನಮಯೆ",
+      "translation": "ರತ್ನಗಳಿಂದ ತುಂಬಿದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮಣಿಮಯಭೂಷಿತ",
+      "translation": "ಮಣಿಗಳಿಂದ ಆಭೂಷಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕರ್ಣವಿಭೂಷಣ",
+      "translation": "ಕಿವಿಯ ಆಭೂಷಣ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಶಾಂತಿಸಮಾವೃತ",
+      "translation": "ಶಾಂತಿಯೊಂದಿಗೆ ಬಂದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಹಾಸ್ಯಮುಖೆ",
+      "translation": "ಹಾಸ್ಯಪೂರ್ಣ ಮುಖ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ನವನಿಧಿದಾಯಿನಿ",
+      "translation": "ಹೊಸ ಸಂಪತ್ತನ್ನು ನೀಡುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕಲಿಮಲಹಾರಿಣಿ",
+      "translation": "ಕಾಲಿಯ ಕಂದುಕಾಲನ್ನು ನಿವಾರಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕಾಮಿತ",
+      "translation": "ಹೂಡಿದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಫಲಪ್ರದ",
+      "translation": "ಫಲವನ್ನು ನೀಡುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಹಸ್ತಯುತೆ",
+      "translation": "ಕೈಗಳಿಂದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜಯಜಯ",
+      "translation": "ಜಯ, ಮಹತ್ತ್ವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಹೇ",
+      "translation": "ಓ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮಧುಸೂದನ",
+      "translation": "ಸೂರ್ಯನ ಸ್ವರೂಪ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕಾಮಿನಿ",
+      "translation": "ಆಕರ್ಷಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ವಿದ್ಯಾಲಕ್ಷ್ಮಿ",
+      "translation": "ವಿದ್ಯೆ ಮತ್ತು ಜ್ಞಾನವನ್ನು ನೀಡುವ ಲಕ್ಷ್ಮಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸದಾ",
+      "translation": "ಸದಾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪಾಲಯ",
+      "translation": "ರಕ್ಷಿಸು"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम",
+      "translation": "ನನಗೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಧನಲಕ್ಷ್ಮಿ",
+      "translation": "ಸಂಪತ್ತನ್ನು ನೀಡುವ ಲಕ್ಷ್ಮಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಧಿಮಿಧಿಮಿ",
+      "translation": "ಧ್ವನಿಸುವ ಶಬ್ದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಧಿಂಧಿಮಿ",
+      "translation": "ಧ್ವನಿಸುವ ಶಬ್ದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಧಿಂಧಿಮಿ",
+      "translation": "ಧ್ವನಿಸುವ ಶಬ್ದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಧಿಂಧಿಮಿ",
+      "translation": "ಧ್ವನಿಸುವ ಶಬ್ದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ದುੰਦುಭಿ",
+      "translation": "ಬೀಗದ ನಾದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ನಾದ",
+      "translation": "ಶಬ್ದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸುಪೂರ್ಣಮಯೆ",
+      "translation": "ಪೂರಣಗೊಳಿಸಲಾದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಘುಮ್ ಘುಮ್",
+      "translation": "ಅವಲಂಬಿದ ಶಬ್ದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಘುಂಘುಂ",
+      "translation": "ಅವಲಂಬಿದ ಶಬ್ದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಘುಂಘುಂ",
+      "translation": "ಅವಲಂಬಿದ ಶಬ್ದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಘುಂಘುಂ",
+      "translation": "ಅವಲಂಬಿದ ಶಬ್ದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಶಂಖನಿನಾದ",
+      "translation": "ಶಂಖನ ಧ್ವನಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸುವಾದ್ಯನುತೆ",
+      "translation": "ಸಂಗೀತದ ಶ್ರಾವಣ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ವೇದಪುರಾಣೇತಿಹಾಸ",
+      "translation": "ವೇದ ಪುರಾಣಗಳ ಪಠನ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸುಪೂಜಿತ",
+      "translation": "ಪೂಜಿತ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ವೈದಿಕಮಾರ್ಗ",
+      "translation": "ವೇದಪಠನ ಮಾರ್ಗ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪ್ರದರ್ಶಯುತೆ",
+      "translation": "ಪ್ರದರ್ಶಿಸುವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಜಯಜಯ",
+      "translation": "ಜಯ, ಮಹತ್ತ್ವ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಹೇ",
+      "translation": "ಓ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮಧುಸೂದನ",
+      "translation": "ಸೂರ್ಯನ ಸ್ವರೂಪ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಕಾಮಿನಿ",
+      "translation": "ಆಕರ್ಷಕ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಧನಲಕ್ಷ್ಮಿ",
+      "translation": "ಸಂಪತ್ತನ್ನು ನೀಡುವ ಲಕ್ಷ್ಮಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ರೂಪೇಣ",
+      "translation": "ರೂಪದಲ್ಲಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಪಾಲಯ",
+      "translation": "ರಕ್ಷಿಸು"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम",
+      "translation": "ನನಗೆ"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\kannada\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\kannada\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.314Z"
+  }
+}

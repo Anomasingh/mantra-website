@@ -1,0 +1,1204 @@
+{
+  "mantra": "shri_haygriv_stotra",
+  "language": "telugu",
+  "type": "word_to_word",
+  "totalWords": 238,
+  "alignedWords": [
+    {
+      "original": "श्रीमान्",
+      "transliteration": "శ్రీమాన్",
+      "translation": "శ్రేష్ఠుడు"
+    },
+    {
+      "original": "वेङ्कटनाथार्यः",
+      "transliteration": "వేఙ్కటనాథార్యః",
+      "translation": "వేఙ్కటనాథార్యులు"
+    },
+    {
+      "original": "कवितार्किककेसरी",
+      "transliteration": "కవితార్కికకేశరీ",
+      "translation": "కవితా శాస్త్రంలో పెద్ద వ్యక్తి"
+    },
+    {
+      "original": "वेदान्ताचार्यवर्यो",
+      "transliteration": "वेदान్తాచార్యవర్యో",
+      "translation": "వేదాంత గురువు"
+    },
+    {
+      "original": "मे",
+      "transliteration": "మే",
+      "translation": "నా"
+    },
+    {
+      "original": "सन्निधत्तां",
+      "transliteration": "సన్నిధత్తాం",
+      "translation": "నన్ను ఆశీర్వదించు"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "సదా",
+      "translation": "ఎల్లప్పుడూ"
+    },
+    {
+      "original": "हृदि",
+      "transliteration": "హృదయి",
+      "translation": "హృదయంలో"
+    },
+    {
+      "original": "ज्ञानानन्द",
+      "transliteration": "జ్ఞానానంద",
+      "translation": "జ్ఞానం మరియు ఆనందం"
+    },
+    {
+      "original": "मयं",
+      "transliteration": "మయం",
+      "translation": "నేను"
+    },
+    {
+      "original": "देवं",
+      "transliteration": "దేవం",
+      "translation": "దేవత"
+    },
+    {
+      "original": "निर्मलस्फटिकाकृतिम्",
+      "transliteration": "నిర్మలస్ఫటికాకృతిమ్",
+      "translation": "శుద్ధమైన స్ఫటికం రూపం"
+    },
+    {
+      "original": "आधारं",
+      "transliteration": "ఆధారం",
+      "translation": "ఆధారం"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "సర్వ",
+      "translation": "అన్ని"
+    },
+    {
+      "original": "विद्यानां",
+      "transliteration": "విద్యానాం",
+      "translation": "శాస్త్రాలు, జ్ఞానం"
+    },
+    {
+      "original": "हयग्रीवम्",
+      "transliteration": "హయగ్రీవమ్",
+      "translation": "హయగ్రీవుడు"
+    },
+    {
+      "original": "उपास्महे",
+      "transliteration": "ఉపాస్మహే",
+      "translation": "ఆరాధిస్తున్నాము"
+    },
+    {
+      "original": "स्वतस्सिद्धं",
+      "transliteration": "స్వతస్సిద్ధం",
+      "translation": "స్వతహా సిద్దమైన"
+    },
+    {
+      "original": "शुद्धस्फटिकमणि",
+      "transliteration": "శుద్ధస్ఫటికమణి",
+      "translation": "స్వచ్ఛమైన క్వార్ట్‌జ్ రత్నం"
+    },
+    {
+      "original": "भूभृत्प्रतिभटं",
+      "transliteration": "భూభృత్ ప్రతిభట్",
+      "translation": "భూమి పట్టుకున్న"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "सुधా",
+      "translation": "అమృతం"
+    },
+    {
+      "original": "सध्रीचीभिर्",
+      "transliteration": "సధ్రీచీభిర్",
+      "translation": "శుద్ధమైనది"
+    },
+    {
+      "original": "धुतिभिर्",
+      "transliteration": "ధుతిభిర్",
+      "translation": "శుద్ధమైన స్వచ్ఛత"
+    },
+    {
+      "original": "अवदातत्रिभुवनम्",
+      "transliteration": "అవదాతత్రిభువనం",
+      "translation": "ముగింపు సృష్టించిన"
+    },
+    {
+      "original": "समाहारस्साम्नां",
+      "transliteration": "అనంతైస్త్రయ్యంతైర్",
+      "translation": "అనంతమైన వర్ణాలను"
+    },
+    {
+      "original": "प्रतिपदमृचां",
+      "transliteration": "అనువిహిత",
+      "translation": "అనుగ్రహించిన"
+    },
+    {
+      "original": "धाम यजुषां",
+      "transliteration": "హేషా",
+      "translation": "ఆత్మ"
+    },
+    {
+      "original": "लयः",
+      "transliteration": "హలహలం",
+      "translation": "హలహలం"
+    },
+    {
+      "original": "प्रत्यूहानां",
+      "transliteration": "సమాహారస్సామ్నాం",
+      "translation": "సంఘటన"
+    },
+    {
+      "original": "लहरि",
+      "transliteration": "ప్రతిపదమృచాం",
+      "translation": "ప్రతి క్రమం"
+    },
+    {
+      "original": "विततिर्बोधजलधेः",
+      "transliteration": "ధామ",
+      "translation": "గమ్యం"
+    },
+    {
+      "original": "कथा",
+      "transliteration": "యజుషాం",
+      "translation": "యజ్ఞ"
+    },
+    {
+      "original": "दर्पक्षुभ्यत्",
+      "transliteration": "లయః",
+      "translation": "ప్రకృతి యొక్క సమన్వయం"
+    },
+    {
+      "original": "कथककुल",
+      "transliteration": "ప్రత్యూహానాం",
+      "translation": "ప్రశ్న"
+    },
+    {
+      "original": "कोलाहलभवं",
+      "transliteration": "లహరి",
+      "translation": "అలలు"
+    },
+    {
+      "original": "प्राची",
+      "transliteration": "విరతిర్బోధజలధేః",
+      "translation": "జ్ఞాన సాగరం"
+    },
+    {
+      "original": "सन्ध्या",
+      "transliteration": "కతా",
+      "translation": "కథ"
+    },
+    {
+      "original": "काचिदन्तर्",
+      "transliteration": "దర్పక్షుభ్యత్",
+      "translation": "అహంకారం"
+    },
+    {
+      "original": "निशायाः",
+      "transliteration": "కథకకుల",
+      "translation": "పండితుల సమూహం"
+    },
+    {
+      "original": "प्रज्ञादृष्टेरञ्जन",
+      "transliteration": "కోలాహలభవం",
+      "translation": "హంగామా"
+    },
+    {
+      "original": "श्रीरपूर्वा",
+      "transliteration": "హరత్వంతర్ధ్వాంతం",
+      "translation": "నిష్కలాంఛం"
+    },
+    {
+      "original": "वक्त्री",
+      "transliteration": "హయవదన",
+      "translation": "గురువు"
+    },
+    {
+      "original": "वेदान्",
+      "transliteration": "హేషా",
+      "translation": "ఆత్మ"
+    },
+    {
+      "original": "भातु",
+      "transliteration": "హలహలం",
+      "translation": "హలహలం"
+    },
+    {
+      "original": "मे",
+      "transliteration": "ప్రాచీ",
+      "translation": "ఉదయ"
+    },
+    {
+      "original": "वाजि",
+      "transliteration": "సంద్యా",
+      "translation": "సాయంత్రం"
+    },
+    {
+      "original": "वक्त्रा",
+      "transliteration": "కాచిదంతర్",
+      "translation": "కొంత"
+    },
+    {
+      "original": "वागीशाख्या",
+      "transliteration": "నిషాయాహ్",
+      "translation": "రాత్రి"
+    },
+    {
+      "original": "वासुदेवस्य",
+      "transliteration": "ప్రజ్ఞాదృష్టెరంజన",
+      "translation": "జ్ఞాన మార్గం"
+    },
+    {
+      "original": "मूर्तिः",
+      "transliteration": "శ్రీరపూర్వ",
+      "translation": "శోభ"
+    },
+    {
+      "original": "विशुद्ध",
+      "transliteration": "వక్త్రి",
+      "translation": "ప్రసంగి"
+    },
+    {
+      "original": "विज्ञान",
+      "transliteration": "వీదాన్",
+      "translation": "వేదాలు"
+    },
+    {
+      "original": "घन",
+      "transliteration": "భాతం",
+      "translation": "ప్రభావితం"
+    },
+    {
+      "original": "स्वरूपं",
+      "transliteration": "మే",
+      "translation": "నా"
+    },
+    {
+      "original": "विज्ञान",
+      "transliteration": "వాజీ",
+      "translation": "రాజ్యం"
+    },
+    {
+      "original": "विश्राणन",
+      "transliteration": "వక్త్రా",
+      "translation": "ప్రసంగి"
+    },
+    {
+      "original": "बद्ध",
+      "transliteration": "వాగీశాఖ్య",
+      "translation": "వాక్కు దేవత"
+    },
+    {
+      "original": "दीक्षम्",
+      "transliteration": "వాసుదేవస్య",
+      "translation": "విశ్వేశ్వరుడు"
+    },
+    {
+      "original": "दयानिधिं",
+      "transliteration": "మూతిః",
+      "translation": "రూపం"
+    },
+    {
+      "original": "देहभृतां",
+      "transliteration": "విశుద్ధ",
+      "translation": "పవిత్రమైన"
+    },
+    {
+      "original": "शरण्यं",
+      "transliteration": "విజ్ఞానం",
+      "translation": "జ్ఞానం"
+    },
+    {
+      "original": "देवम्",
+      "transliteration": "ఘన",
+      "translation": "ఘనమైన"
+    },
+    {
+      "original": "हयग्रीवम्",
+      "transliteration": "స్వరూపం",
+      "translation": "రూపం"
+    },
+    {
+      "original": "अहं",
+      "transliteration": "విజ్ఞానం",
+      "translation": "జ్ఞానం"
+    },
+    {
+      "original": "प्रपद्ये",
+      "transliteration": "విశ్రాణన",
+      "translation": "వ్యాప్తి"
+    },
+    {
+      "original": "अपौरुषेयैर्",
+      "transliteration": "బద్ధ",
+      "translation": "బంధించబడిన"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "దీక్షం",
+      "translation": "initiation (దిక్ష)"
+    },
+    {
+      "original": "वाक्प्रपञ्चैः",
+      "transliteration": "దయానిధిం",
+      "translation": "దయా యొక్క తలం"
+    },
+    {
+      "original": "अद्यापि",
+      "transliteration": "దిేహభృతాం",
+      "translation": "శరీరాన్ని ధరించే"
+    },
+    {
+      "original": "ते",
+      "transliteration": "శరణ్యం",
+      "translation": "రక్షకుడు"
+    },
+    {
+      "original": "भूति",
+      "transliteration": "దేవం",
+      "translation": "దేవత"
+    },
+    {
+      "original": "मदृष्ट",
+      "transliteration": "హయగ్రీవమ్",
+      "translation": "హయగ్రీవుడు"
+    },
+    {
+      "original": "पाराम्",
+      "transliteration": "నేను",
+      "translation": "నేను"
+    },
+    {
+      "original": "स्तुवन्नहं",
+      "transliteration": "ప్రపద్యే",
+      "translation": "ఆశ్రయిస్తున్నాను"
+    },
+    {
+      "original": "मुग्ध",
+      "transliteration": "అపౌరుషేయైర్",
+      "translation": "మానవ రచన లేకుండా"
+    },
+    {
+      "original": "इति",
+      "transliteration": "అప్పీ",
+      "translation": "మరి"
+    },
+    {
+      "original": "त्वयैव",
+      "transliteration": "వాక్ప్రపఞ్చైః",
+      "translation": "శబ్దాల ఉద్భవం"
+    },
+    {
+      "original": "कारुण्यतो",
+      "transliteration": "అప్పీ",
+      "translation": "ఈ రోజు"
+    },
+    {
+      "original": "नाथ",
+      "transliteration": "వారు",
+      "translation": "వారు"
+    },
+    {
+      "original": "कटाक्षणीयः",
+      "transliteration": "భూతి",
+      "translation": "భవనం"
+    },
+    {
+      "original": "दाक्षिण्य",
+      "transliteration": "మదృష్ట పరిణామ్",
+      "translation": "నేను చూసిన పరిమాణం"
+    },
+    {
+      "original": "रम्या",
+      "transliteration": "స్తువన్నహం",
+      "translation": "నేను ప్రార్థన చేస్తున్నాను"
+    },
+    {
+      "original": "गिरिशस्य",
+      "transliteration": "ముంగ్ధ",
+      "translation": "మోహితమైన"
+    },
+    {
+      "original": "मूर्तिः",
+      "transliteration": "ఇటీ",
+      "translation": "అలా"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "త్వయైవ",
+      "translation": "నీ అజ్ఞానంతో"
+    },
+    {
+      "original": "सरोजासन",
+      "transliteration": "కార్థుణ్యతో",
+      "translation": "దయతో"
+    },
+    {
+      "original": "धर्मपत्नी",
+      "transliteration": "నాథ",
+      "translation": "స్వామి"
+    },
+    {
+      "original": "व्यासादयोऽपि",
+      "transliteration": "కటాక్షణీయః",
+      "translation": "కటాక్షానికి దయ"
+    },
+    {
+      "original": "व्यपदेश्य",
+      "transliteration": "దక్షిణ్య",
+      "translation": "దయామయమైన శక్తి"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "రమ్యా",
+      "translation": "అందమైన"
+    },
+    {
+      "original": "स्फुरन्ति",
+      "transliteration": "గిరిశస్య",
+      "translation": "గిరి దేవుడి"
+    },
+    {
+      "original": "सर्वे",
+      "transliteration": "మూతిః",
+      "translation": "రూపం"
+    },
+    {
+      "original": "तव",
+      "transliteration": "దేవీ",
+      "translation": "దేవి"
+    },
+    {
+      "original": "शक्ति",
+      "transliteration": "సరోజాసన",
+      "translation": "కమల పీఠం"
+    },
+    {
+      "original": "लेशैः",
+      "transliteration": "ధర్మపత్నీ",
+      "translation": "ధర్మ యొక్క భార్య"
+    },
+    {
+      "original": "मन्दोऽभविष्यन्",
+      "transliteration": "వ్యాసాదయఃపి",
+      "translation": "వ్యాసుల ఆదేశం"
+    },
+    {
+      "original": "नियतं",
+      "transliteration": "వ్యపదేశ్య",
+      "translation": "ఉపదేశం చేయడం"
+    },
+    {
+      "original": "विरिञ्चो",
+      "transliteration": "వాచః",
+      "translation": "మాటలు"
+    },
+    {
+      "original": "वाचां",
+      "transliteration": "స్పురంతి",
+      "translation": "ప్రసారం అవుతున్న"
+    },
+    {
+      "original": "निधे",
+      "transliteration": "సర్వే",
+      "translation": "అన్ని"
+    },
+    {
+      "original": "वञ्चित",
+      "transliteration": "తవ",
+      "translation": "నీ"
+    },
+    {
+      "original": "भाग",
+      "transliteration": "శక్తి",
+      "translation": "శక్తి"
+    },
+    {
+      "original": "धेयः",
+      "transliteration": "లేషైః",
+      "translation": "కొంచెం"
+    },
+    {
+      "original": "दैत्यापनीतान्",
+      "transliteration": "విటర్క్",
+      "translation": "వివాదం"
+    },
+    {
+      "original": "दययैव",
+      "transliteration": "డోళాం",
+      "translation": "తాళం"
+    },
+    {
+      "original": "भूयोऽपि",
+      "transliteration": "వ్యవధూయ",
+      "translation": "విరుగడ"
+    },
+    {
+      "original": "अध्यापयिष्यो",
+      "transliteration": "సత్వే",
+      "translation": "జ్ఞానం"
+    },
+    {
+      "original": "निगमान्",
+      "transliteration": "బృహస్పతిం",
+      "translation": "బృహస్పతి"
+    },
+    {
+      "original": "न",
+      "transliteration": "వర్తయసే",
+      "translation": "అవతరిస్తున్న"
+    },
+    {
+      "original": "चेत्",
+      "transliteration": "యతస్త్వమ్",
+      "translation": "మీరు"
+    },
+    {
+      "original": "त्वम्",
+      "transliteration": "తెనైవ",
+      "translation": "అదేవ"
+    },
+    {
+      "original": "वितर्क",
+      "transliteration": "దేవ",
+      "translation": "దేవ"
+    },
+    {
+      "original": "डोलां",
+      "transliteration": "త్రిదశేశ్వరాణాం",
+      "translation": "దేవతల రాజ్యాలలో"
+    },
+    {
+      "original": "व्यवधूय",
+      "transliteration": "అప్సృష్ట",
+      "translation": "పృథివిలో కలిసిన"
+    },
+    {
+      "original": "सत्वे",
+      "transliteration": "డోలాయిత్",
+      "translation": "ఊరకం"
+    },
+    {
+      "original": "बृहस्पतिं",
+      "transliteration": "మాధిరాజ్యం",
+      "translation": "రాజ్యంగా మూడుగా అంగీకరించడం"
+    },
+    {
+      "original": "वर्तयसे",
+      "transliteration": "అగ్నౌ",
+      "translation": "అగ్నీ"
+    },
+    {
+      "original": "यतस्त्वम्",
+      "transliteration": "సమిద్ధార్చిషి",
+      "translation": "మంట పెట్టే అగ్నిమీద"
+    },
+    {
+      "original": "तेनैव",
+      "transliteration": "సప్తతంతోః",
+      "translation": "70 మహత్తర అంగీకరణల"
+    },
+    {
+      "original": "देव",
+      "transliteration": "ఆతస్థివాన్",
+      "translation": "మినహాయించి ఆచరణలు"
+    },
+    {
+      "original": "त्रिदशेश्वराणाम्",
+      "transliteration": "మంత్రమయం",
+      "translation": "మంత్ర క్రియాత్మకం"
+    },
+    {
+      "original": "अस्पृष्ट",
+      "transliteration": "శరీరం",
+      "translation": "శరీర"
+    },
+    {
+      "original": "डोलायित",
+      "transliteration": "అఖండ",
+      "translation": "అనంతం"
+    },
+    {
+      "original": "माधिराज्यम्",
+      "transliteration": "సారైర్",
+      "translation": "సరళమైన"
+    },
+    {
+      "original": "अग्नोउ",
+      "transliteration": "హవిషాం",
+      "translation": "అర్ధం ఆహార శక్తి"
+    },
+    {
+      "original": "समिद्धार्चिषि",
+      "transliteration": "ప్రదానః",
+      "translation": "విక్రయాలు"
+    },
+    {
+      "original": "सप्ततन्तोः",
+      "transliteration": "ఆప్యాయనమ్",
+      "translation": "సరైన విధంగా నిర్వహించబడుతుంది"
+    },
+    {
+      "original": "आतस्थिवान्",
+      "transliteration": "వ్యోమ",
+      "translation": "ఆకాశం"
+    },
+    {
+      "original": "मन्त्रमयं",
+      "transliteration": "సదా",
+      "translation": "ఎప్పటికీ"
+    },
+    {
+      "original": "शरीरम्",
+      "transliteration": "విధత్స్",
+      "translation": "శ్రమ చేస్తున్న"
+    },
+    {
+      "original": "अखण्ड",
+      "transliteration": "యత్",
+      "translation": "ఎలాంటిది"
+    },
+    {
+      "original": "सारैर्",
+      "transliteration": "మూలం",
+      "translation": "మూలం"
+    },
+    {
+      "original": "हविषां",
+      "transliteration": "ఈదృక్",
+      "translation": "ఇలాంటి"
+    },
+    {
+      "original": "प्रदानैः",
+      "transliteration": "ప్రతిభాతి",
+      "translation": "దర్శనమిచ్చే"
+    },
+    {
+      "original": "आप्यायनं",
+      "transliteration": "తత్వం",
+      "translation": "తత్వం"
+    },
+    {
+      "original": "व्योम",
+      "transliteration": "యా",
+      "translation": "ఆ"
+    },
+    {
+      "original": "सदां",
+      "transliteration": "మూలం",
+      "translation": "మూలం"
+    },
+    {
+      "original": "विधत्से",
+      "transliteration": "ఆమ్నాయ",
+      "translation": "పూర్వ విద్యావంతమైన గ్రంథం"
+    },
+    {
+      "original": "यन्मूलमीदृक्",
+      "transliteration": "మహాద్రుమాణాం",
+      "translation": "పెద్ద చెట్టు అనే పౌరాణికుడు"
+    },
+    {
+      "original": "प्रतिभाति",
+      "transliteration": "తత్వేన",
+      "translation": "సమర్థమైన"
+    },
+    {
+      "original": "तत्वं",
+      "transliteration": "జానంతి",
+      "translation": "కనుగొంటారు"
+    },
+    {
+      "original": "या",
+      "transliteration": "విశుద్ధ",
+      "translation": "పశ్చాత్తాపులు"
+    },
+    {
+      "original": "मूलमाम्नाय",
+      "transliteration": "సత్వా",
+      "translation": "ఆత్మలు"
+    },
+    {
+      "original": "महाद्रुमाणाम्",
+      "transliteration": "త్వాం",
+      "translation": "మీరు"
+    },
+    {
+      "original": "तत्वेन",
+      "transliteration": "అక్షరామ్",
+      "translation": "అక్షరము"
+    },
+    {
+      "original": "जानन्ति",
+      "transliteration": "అక్షర",
+      "translation": "ఆహార దృష్టి"
+    },
+    {
+      "original": "विशुद्ध",
+      "transliteration": "ఆమృతికాంధ్రికంచు",
+      "translation": "ప్రసిధి"
+    },
+    {
+      "original": "सत्वाः",
+      "transliteration": "అవ్యాకృతాద్",
+      "translation": "ఆధారంగా ప్రాకృతిక భాషావాదం"
+    },
+    {
+      "original": "त्वाम्",
+      "transliteration": "వ్యాకృత",
+      "translation": "ఆట, వస్తం వుదాంతాలు"
+    },
+    {
+      "original": "अक्षराम्",
+      "transliteration": "అవ్యాకృతాద్",
+      "translation": "అస్పష్టమైన"
+    },
+    {
+      "original": "अक्षर",
+      "transliteration": "వ్యాకృత",
+      "translation": "స్పష్టమైన"
+    },
+    {
+      "original": "मातृकां",
+      "transliteration": "వానసి",
+      "translation": "అంగీకృత పదాలు"
+    },
+    {
+      "original": "ते",
+      "transliteration": "త్వం",
+      "translation": "మీరు"
+    },
+    {
+      "original": "अव्याकृताद्",
+      "transliteration": "నామాలు",
+      "translation": "పేరులు"
+    },
+    {
+      "original": "व्याकृत",
+      "transliteration": "రూపాలు",
+      "translation": "రూపాలు"
+    },
+    {
+      "original": "वानसि",
+      "transliteration": "మరియు",
+      "translation": "మరియు"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "యాని",
+      "translation": "అవి"
+    },
+    {
+      "original": "नामानि",
+      "transliteration": "పూర్వం",
+      "translation": "ముందు"
+    },
+    {
+      "original": "रूपाणि",
+      "transliteration": "శంసంతి",
+      "translation": "ప్రస్తావిస్తారు"
+    },
+    {
+      "original": "च",
+      "transliteration": "తేషాం",
+      "translation": "వారి"
+    },
+    {
+      "original": "यानि",
+      "transliteration": "చరమాం",
+      "translation": "నిగమించు స్థిరమైన"
+    },
+    {
+      "original": "पूर्वम्",
+      "transliteration": "ప్రతిష్టాం",
+      "translation": "నిలుపుతూ మరియు అనుకూలంగా ప్రారంభమవుతుంది"
+    },
+    {
+      "original": "शंसन्ति",
+      "transliteration": "వాగీశ్వర్",
+      "translation": "వాగ్నేత్రం"
+    },
+    {
+      "original": "तेषां",
+      "transliteration": "త్వాం",
+      "translation": "మీరు"
+    },
+    {
+      "original": "चरमां",
+      "transliteration": "త్వదుపజ్ఞా",
+      "translation": "నిబంధన"
+    },
+    {
+      "original": "प्रतिष्टां",
+      "transliteration": "వాచః",
+      "translation": "చెప్పిన మాటలు"
+    },
+    {
+      "original": "वागीश्वर",
+      "transliteration": "ముg్దెందు",
+      "translation": "మోసపోయిన చంద్రుడు"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "నిష్యంద్",
+      "translation": "ప్రకాశించే"
+    },
+    {
+      "original": "त्वदुपज्ञ",
+      "transliteration": "విళోభ",
+      "translation": "ఆకర్షణ"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "నీయాం",
+      "translation": "తీసుకునే"
+    },
+    {
+      "original": "मुग्धेन्दु",
+      "transliteration": "మూర్తిం",
+      "translation": "రూపం"
+    },
+    {
+      "original": "निष्यन्द",
+      "transliteration": "తవానంద్",
+      "translation": "మీ ఆనందం"
+    },
+    {
+      "original": "विलोभ",
+      "transliteration": "సూధా",
+      "translation": "అమృతం"
+    },
+    {
+      "original": "नीयां",
+      "transliteration": "ప్రసూతిం",
+      "translation": "ఉత్పత్తి"
+    },
+    {
+      "original": "मूर्तिं",
+      "transliteration": "విపశ్చితశ్చేతసి",
+      "translation": "వివేక శక్తితో"
+    },
+    {
+      "original": "तवानन्द",
+      "transliteration": "భావయంతే",
+      "translation": "భావిస్తుంటారు"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "వెలా",
+      "translation": "సమయం"
+    },
+    {
+      "original": "प्रसूतिम्",
+      "transliteration": "ముదారామివ",
+      "translation": "విశాలమైన"
+    },
+    {
+      "original": "विपश्चितश्चेतसि",
+      "transliteration": "దుg్ధ",
+      "translation": "పాలు"
+    },
+    {
+      "original": "भावयन्ते",
+      "transliteration": "సిన్ధోహ్",
+      "translation": "సముద్రం"
+    },
+    {
+      "original": "वेला",
+      "transliteration": "మనోగతం",
+      "translation": "హృదయంలో"
+    },
+    {
+      "original": "मुदारामिव",
+      "transliteration": "పశ్యతి",
+      "translation": "చూస్తుంది"
+    },
+    {
+      "original": "दुग्ध",
+      "transliteration": "యః",
+      "translation": "అతను"
+    },
+    {
+      "original": "सिन्धोः",
+      "transliteration": "సదా",
+      "translation": "ఎప్పుడూ"
+    },
+    {
+      "original": "मनोगतं",
+      "transliteration": "త్వాం",
+      "translation": "మీరు"
+    },
+    {
+      "original": "पश्यति",
+      "transliteration": "మణిషీణాం",
+      "translation": "జ్ఞానవంతుల"
+    },
+    {
+      "original": "यः",
+      "transliteration": "మానసరాజ్",
+      "translation": "మనస్సు రాజు"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "హంసం",
+      "translation": "హంస"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "స్వయం",
+      "translation": "స్వయంగా"
+    },
+    {
+      "original": "मनीषिणां",
+      "transliteration": "పురోభావ",
+      "translation": "ప్రాథమిక స్వభావం"
+    },
+    {
+      "original": "मानस",
+      "transliteration": "వివాదభాజః",
+      "translation": "వాద వివాదం"
+    },
+    {
+      "original": "राज",
+      "transliteration": "కింకుర్వతే",
+      "translation": "ఏమి చేస్తుంది"
+    },
+    {
+      "original": "हंसम्",
+      "transliteration": "తస్య",
+      "translation": "అతని"
+    },
+    {
+      "original": "स्वयं",
+      "transliteration": "గిరో",
+      "translation": "శబ్దం"
+    },
+    {
+      "original": "पुरोभाव",
+      "transliteration": "యథార్హమ్",
+      "translation": "వాస్తవానికి"
+    },
+    {
+      "original": "विवादभाजः",
+      "transliteration": "అఫి",
+      "translation": "కూడా"
+    },
+    {
+      "original": "किंकुर्वते",
+      "transliteration": "క్షణార్ధం",
+      "translation": "ఒక క్షణం"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "కలయంతి",
+      "translation": "కలిసిపోతున్నాయి"
+    },
+    {
+      "original": "गिरो",
+      "transliteration": "యే",
+      "translation": "వారు"
+    },
+    {
+      "original": "यथार्हम्",
+      "transliteration": "త్వాం",
+      "translation": "మీరు"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "ఆప్లావయంతం",
+      "translation": "నిండి పోతున్న"
+    },
+    {
+      "original": "क्षणार्धं",
+      "transliteration": "విశదైర్",
+      "translation": "ప్రత్యేకమైన"
+    },
+    {
+      "original": "कलयन्ति",
+      "transliteration": "మయూఖైహ్",
+      "translation": "కిరణాలు"
+    },
+    {
+      "original": "ये",
+      "transliteration": "వాచాం",
+      "translation": "మాటలు"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "ప్రవాహైర్",
+      "translation": "ప్రవాహాలు"
+    },
+    {
+      "original": "आप्लावयन्तं",
+      "transliteration": "అనివారితైస్తే",
+      "translation": "తప్పకుండా"
+    },
+    {
+      "original": "विशदैर्",
+      "transliteration": "మందాకినీం",
+      "translation": "గंगा (వేగవంతమైన) నది"
+    },
+    {
+      "original": "मयूखैः",
+      "transliteration": "మండయితం",
+      "translation": "నిగ్రహం"
+    },
+    {
+      "original": "वाचां",
+      "transliteration": "క్షమంతే",
+      "translation": "అనుమతిస్తాయి"
+    },
+    {
+      "original": "प्रवाहैर्",
+      "transliteration": "స్వామిన్",
+      "translation": "ప్రభువూ"
+    },
+    {
+      "original": "अनिवारितैस्ते",
+      "transliteration": "భవద్ధ్యాన",
+      "translation": "మీ ఆత్మనివాసంపై ధ్యానం"
+    },
+    {
+      "original": "मन्दाकिनीं",
+      "transliteration": "సూధాభిషేకాత్",
+      "translation": "అమృతం పఠిస్తూ అనుగ్రహం"
+    },
+    {
+      "original": "मन्दयितुं",
+      "transliteration": "వహంతి",
+      "translation": "మోకాలు"
+    },
+    {
+      "original": "क्षमन्ते",
+      "transliteration": "ధన్యాః",
+      "translation": "దీవించిన"
+    },
+    {
+      "original": "स्वामिन्",
+      "transliteration": "పలకానుబంధమ్",
+      "translation": "ఆత్మవిశ్వాసం"
+    },
+    {
+      "original": "भवद्ध्यान",
+      "transliteration": "అలక్షితే",
+      "translation": "లభించిన"
+    },
+    {
+      "original": "सुधाभिषेकात्",
+      "transliteration": "క్వాపి",
+      "translation": "ఎక్కడయినా"
+    },
+    {
+      "original": "वहन्ति",
+      "transliteration": "నిరూఢమూలం",
+      "translation": "అణుస్థానం"
+    },
+    {
+      "original": "धन्याः",
+      "transliteration": "అంగేష్శివా అనందధమ",
+      "translation": "కలిగించే"
+    },
+    {
+      "original": "पुलकानुबन्धम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अलक्षिते",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "क्वापि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "निरूढ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मूलं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अङ्गेष्विवानन्दथुम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अङ्कुरन्तम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वामिन्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रतीचा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हृदयेन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "धन्याः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "त्वद्ध्यान",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चन्द्रोदय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वर्धमानम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अमान्त",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मानन्द",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पयोधिमन्तः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पयोभिरक्ष्णां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परिवाहयन्ति",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\telugu\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\telugu\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.945Z"
+  }
+}

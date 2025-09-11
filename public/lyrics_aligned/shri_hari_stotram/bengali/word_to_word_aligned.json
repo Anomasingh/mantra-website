@@ -1,0 +1,374 @@
+{
+  "mantra": "shri_hari_stotram",
+  "language": "bengali",
+  "type": "word_to_word",
+  "totalWords": 72,
+  "alignedWords": [
+    {
+      "original": "जगत का रक्षक है",
+      "transliteration": "পৃথিবীর রক্ষক",
+      "translation": "বিশ্বরক্ষক"
+    },
+    {
+      "original": "गले में माला धारण करने वाला",
+      "transliteration": "গলায় মালা ধারণকারী",
+      "translation": "গলার মালা ধারণকারী"
+    },
+    {
+      "original": "शरद पूर्णिमा के चंद्रमा के समान",
+      "transliteration": "শরৎ পূর্ণিমার চন্দ্রের সমান",
+      "translation": "শরৎ পূর্ণিমার চন্দ্রের সমান"
+    },
+    {
+      "original": "महादैत्यों का काल",
+      "transliteration": "মহা দানবের কাল",
+      "translation": "মহা দানবের কাল"
+    },
+    {
+      "original": "आकाशवत नीले शरीर वाला",
+      "transliteration": "আকাশের মতো নীল শরীর",
+      "translation": "আকাশের মতো নীল শরীর"
+    },
+    {
+      "original": "दुर्निवार माया वाला",
+      "transliteration": "দুর্দমনীয় মায়া",
+      "translation": "দুর্দমনীয় মায়া"
+    },
+    {
+      "original": "लक्ष्मी के सहायक",
+      "transliteration": "লক্ষ্মীর সাহায্যকারী",
+      "translation": "লক্ষ্মীর সাহায্যকারী"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "আমি উপাসনা করি, আমি উপাসনা করি",
+      "translation": "আমি উপাসনা করি, আমি উপাসনা করি"
+    },
+    {
+      "original": "समुद्र में निवास करने वाला",
+      "transliteration": "সমুদ্রের মধ্যে বাসকারী",
+      "translation": "সমুদ্রের মধ্যে বাসকারী"
+    },
+    {
+      "original": "पुष्पों की हंसी बिखेरने वाला",
+      "transliteration": "ফুলের হাসি ছড়ানোর ব্যক্তি",
+      "translation": "ফুলের হাসি ছড়ানোর ব্যক্তি"
+    },
+    {
+      "original": "जगत का निवास स्थान",
+      "transliteration": "পৃথিবীর বাসস্থান",
+      "translation": "পৃথিবীর বাসস্থান"
+    },
+    {
+      "original": "सौ सूर्यों के समान प्रकाशमान",
+      "transliteration": "শত সূর্যের মতো দীপ্তিময়",
+      "translation": "শত সূর্যের মতো দীপ্তিময়"
+    },
+    {
+      "original": "गदा और चक्र धारण करने वाला",
+      "transliteration": "গদা ও চক্র ধারণকারী",
+      "translation": "গদা ও চক্র ধারণকারী"
+    },
+    {
+      "original": "पीताम्बर धारण करने वाला",
+      "transliteration": "পীতবর্ণের পরিধানকারী",
+      "translation": "পীতবর্ণের পরিধানকারী"
+    },
+    {
+      "original": "सुंदर मुस्कुराते मुख वाला",
+      "transliteration": "সুন্দর হাস্যযুক্ত মুখ",
+      "translation": "সুন্দর হাস্যযুক্ত মুখ"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "আমি উপাসনা করি, আমি উপাসনা করি",
+      "translation": "আমি উপাসনা করি, আমি উপাসনা করি"
+    },
+    {
+      "original": "लक्ष्मी के गले का हार",
+      "transliteration": "লক্ষ্মীর গলার হার",
+      "translation": "লক্ষ্মীর গলার হার"
+    },
+    {
+      "original": "वेदों का सार",
+      "transliteration": "বেদের সারাংশ",
+      "translation": "বেদের সারাংশ"
+    },
+    {
+      "original": "जल में विहार करने वाला",
+      "transliteration": "জলে বাসকারী",
+      "translation": "জলে বাসকারী"
+    },
+    {
+      "original": "धरती का भार हरने वाला",
+      "transliteration": "পৃথিবীর ভার বহনকারী",
+      "translation": "পৃথিবীর ভার বহনকারী"
+    },
+    {
+      "original": "चिदानंद स्वरूप",
+      "transliteration": "চিদানন্দরূপ",
+      "translation": "চিদানন্দরূপ"
+    },
+    {
+      "original": "मनोहर स्वरूप",
+      "transliteration": "মনোহর রূপ",
+      "translation": "মনোহর রূপ"
+    },
+    {
+      "original": "अनेक रूप धारण करने वाला",
+      "transliteration": "বহু রূপ ধারণকারী",
+      "translation": "বহু রূপ ধারণকারী"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "আমি উপাসনা করি, আমি উপাসনা করি",
+      "translation": "আমি উপাসনা করি, আমি উপাসনা করি"
+    },
+    {
+      "original": "जन्म और मृत्यु से रहित",
+      "transliteration": "জন্ম ও মৃত্যু থেকে মুক্ত",
+      "translation": "জন্ম ও মৃত্যু থেকে মুক্ত"
+    },
+    {
+      "original": "परमानंद से परिपूर्ण",
+      "transliteration": "পরম আনন্দে পূর্ণ",
+      "translation": "পরম আনন্দে পূর্ণ"
+    },
+    {
+      "original": "समाधि में लीन",
+      "transliteration": "সমাধি অবস্থায় নিমগ্ন",
+      "translation": "সমাধি অবস্থায় নিমগ্ন"
+    },
+    {
+      "original": "सदैव नवीन",
+      "transliteration": "সদা নবীন থাকা",
+      "translation": "সদা নবীন থাকা"
+    },
+    {
+      "original": "जगत की उत्पत्ति का कारण",
+      "transliteration": "বিশ্বের উৎপত্তির কারণ",
+      "translation": "বিশ্বের উৎপত্তির কারণ"
+    },
+    {
+      "original": "देवताओं की सेना का ध्वज",
+      "transliteration": "দেবতাদের সেনার পতাকা",
+      "translation": "দেবতাদের সেনার পতাকা"
+    },
+    {
+      "original": "तीनों लोकों का एकमात्र सेतु",
+      "transliteration": "তিনটি পৃথিবীর একমাত্র সেতু",
+      "translation": "তিনটি পৃথিবীর একমাত্র সেতু"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "আমি উপাসনা করি, আমি উপাসনা করি",
+      "translation": "আমি উপাসনা করি, আমি উপাসনা করি"
+    },
+    {
+      "original": "वेदों का गान करने वाला",
+      "transliteration": "বেদ গানের অধিকারী",
+      "translation": "বেদ গানের অধিকারী"
+    },
+    {
+      "original": "गरुड़ पर शयन करने वाला",
+      "transliteration": "ঈগলের উপরে শয়নকারী",
+      "translation": "ঈগলের উপরে শয়নকারী"
+    },
+    {
+      "original": "मुक्ति का कारण",
+      "transliteration": "মুক্তির কারণ",
+      "translation": "মুক্তির কারণ"
+    },
+    {
+      "original": "शत्रुओं का मान मर्दन करने वाला",
+      "transliteration": "শত্রুর অহংকার ভঙ্গকারী",
+      "translation": "শত্রুর অহংকার ভঙ্গকারী"
+    },
+    {
+      "original": "भक्तों के अनुकूल",
+      "transliteration": "নিজের ভক্তদের অনুকূল",
+      "translation": "নিজের ভক্তদের অনুকূল"
+    },
+    {
+      "original": "संसार रूपी वृक्ष का मूल",
+      "transliteration": "বিশ্বের বৃক্ষের মূল",
+      "translation": "বিশ্বের বৃক্ষের মূল"
+    },
+    {
+      "original": "दुःखों को नष्ट करने वाला",
+      "transliteration": "দুঃখ দূরকারী",
+      "translation": "দুঃখ দূরকারী"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "আমি উপাসনা করি, আমি উপাসনা করি",
+      "translation": "আমি উপাসনা করি, আমি উপাসনা করি"
+    },
+    {
+      "original": "समस्त देवों के स्वामी",
+      "transliteration": "সকল দেবতার অধিপতি",
+      "translation": "সকল দেবতার অধিপতি"
+    },
+    {
+      "original": "सुंदर केशों वाला",
+      "transliteration": "সুন্দর কেশধারী",
+      "translation": "সুন্দর কেশধারী"
+    },
+    {
+      "original": "जगत की छाया के स्वामी",
+      "transliteration": "পৃথিবীর ছায়ার অধিপতি",
+      "translation": "পৃথিবীর ছায়ার অধিপতি"
+    },
+    {
+      "original": "हृदयाकाश में निवास करने वाला",
+      "transliteration": "হৃদয়ের আকাশে বাসকারী",
+      "translation": "হৃদয়ের আকাশে বাসকারী"
+    },
+    {
+      "original": "सदा दिव्य शरीर वाला",
+      "transliteration": "সর্বদা দিভ্য শরীরধারী",
+      "translation": "সর্বদা দিভ্য শরীরধারী"
+    },
+    {
+      "original": "समस्त इच्छाओं से मुक्त",
+      "transliteration": "সকল ইচ্ছা থেকে মুক্ত",
+      "translation": "সকল ইচ্ছা থেকে মুক্ত"
+    },
+    {
+      "original": "वैकुंठ के निवासी",
+      "transliteration": "বৈকুন্ঠে বাসকারী",
+      "translation": "বৈকুন্ঠে বাসকারী"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "আমি উপাসনা করি, আমি উপাসনা করি",
+      "translation": "আমি উপাসনা করি, আমি উপাসনা করি"
+    },
+    {
+      "original": "देवताओं में सबसे बलवान",
+      "transliteration": "দেবতাদের মধ্যে শ্রেষ্ঠ",
+      "translation": "দেবতাদের মধ্যে শ্রেষ্ঠ"
+    },
+    {
+      "original": "तीनों लोकों में श्रेष्ठ",
+      "transliteration": "তিনটি পৃথিবীতে শ্রেষ্ঠ",
+      "translation": "তিনটি পৃথিবীতে শ্রেষ্ঠ"
+    },
+    {
+      "original": "गुरुओं में श्रेष्ठ",
+      "transliteration": "গুরুর মধ্যে শ্রেষ্ঠ",
+      "translation": "গুরুর মধ্যে শ্রেষ্ঠ"
+    },
+    {
+      "original": "अपने स्वरूप में स्थित",
+      "transliteration": "নিজের রূপে অটুট থাকা",
+      "translation": "নিজের রূপে অটুট থাকা"
+    },
+    {
+      "original": "युद्ध में सदा धीर",
+      "transliteration": "সর্বদা যুদ্ধের সাহসী",
+      "translation": "সর্বদা যুদ্ধের সাহসী"
+    },
+    {
+      "original": "महावीरों में वीर",
+      "transliteration": "মহা বীরের মধ্যে বীর",
+      "translation": "মহা বীরের মধ্যে বীর"
+    },
+    {
+      "original": "महासागर के तट के समान",
+      "transliteration": "মহাসাগরের মতো গুরুতর",
+      "translation": "মহাসাগরের মতো গুরুতর"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "আমি উপাসনা করি, আমি উপাসনা করি",
+      "translation": "আমি উপাসনা করি, আমি উপাসনা করি"
+    },
+    {
+      "original": "लक्ष्मी को बाईं ओर रखने वाला",
+      "transliteration": "লক্ষ্মী বাম পাশে থাকা",
+      "translation": "লক্ষ্মী বাম পাশে থাকা"
+    },
+    {
+      "original": "शेषनाग पर शयन करने वाला",
+      "transliteration": "শেশ্নাগের উপর শয়নকারী",
+      "translation": "শেশ্নাগের উপর শয়নকারী"
+    },
+    {
+      "original": "यज्ञों को अधीन करने वाला",
+      "transliteration": "যজ্ঞের অধিকারী",
+      "translation": "যজ্ঞের অধিকারী"
+    },
+    {
+      "original": "राग-द्वेष से रहित",
+      "transliteration": "রাগ ও द्वেষ থেকে মুক্ত",
+      "translation": "রাগ ও द्वেষ থেকে মুক্ত"
+    },
+    {
+      "original": "मुनियों द्वारा गाया जाने वाला",
+      "transliteration": "মুনি দ্বারা গীত",
+      "translation": "মুনি দ্বারা গীত"
+    },
+    {
+      "original": "देवों से घिरा हुआ",
+      "transliteration": "দেবতাদের দ্বারা পরিবেষ্টিত",
+      "translation": "দেবতাদের দ্বারা পরিবেষ্টিত"
+    },
+    {
+      "original": "गुणों से परे",
+      "transliteration": "গুণের সীমা পার",
+      "translation": "গুণের সীমা পার"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "আমি উপাসনা করি, আমি উপাসনা করি",
+      "translation": "আমি উপাসনা করি, আমি উপাসনা করি"
+    },
+    {
+      "original": "जो इस स्तोत्र को नित्य",
+      "transliteration": "যে এই স্তোত্রটি নিয়মিত পাঠ করে",
+      "translation": "যে এই স্তোত্রটি নিয়মিত পাঠ করে"
+    },
+    {
+      "original": "चित्त को एकाग्र करके",
+      "transliteration": "মনকে একাগ্র করে",
+      "translation": "মনকে একাগ্র করে"
+    },
+    {
+      "original": "इस अष्टक का पाठ करता है",
+      "transliteration": "এই অষ্টক পাঠ করে",
+      "translation": "এই অষ্টক পাঠ করে"
+    },
+    {
+      "original": "मुरारि के कंठहार को",
+      "transliteration": "মুরারির গলার হার",
+      "translation": "মুরারির গলার হার"
+    },
+    {
+      "original": "वह विष्णु के शोकरहित",
+      "transliteration": "বিষ্ণুর শোকমুক্ত",
+      "translation": "বিষ্ণুর শোকমুক্ত"
+    },
+    {
+      "original": "ध्रुव लोक को प्राप्त करता है",
+      "transliteration": "ধ্রুবলোক পৌঁছায়",
+      "translation": "ধ্রুবলোক পৌঁছায়"
+    },
+    {
+      "original": "जन्म-मृत्यु के शोक को",
+      "transliteration": "জন্ম ও মৃত্যুর শোক থেকে মুক্ত",
+      "translation": "জন্ম ও মৃত্যুর শোক থেকে মুক্ত"
+    },
+    {
+      "original": "फिर कभी नहीं पाता है",
+      "transliteration": "আর কখনও পাবে না",
+      "translation": "আর কখনও পাবে না"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\bengali\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\bengali\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.782Z"
+  }
+}

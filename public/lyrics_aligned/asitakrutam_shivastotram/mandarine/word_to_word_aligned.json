@@ -1,0 +1,569 @@
+{
+  "mantra": "asitakrutam_shivastotram",
+  "language": "mandarine",
+  "type": "word_to_word",
+  "totalWords": 111,
+  "alignedWords": [
+    {
+      "original": "असित",
+      "transliteration": "阿西塔 ",
+      "translation": "阿西塔"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "创造 ",
+      "translation": "创造的，做出的"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "湿婆 ",
+      "translation": "湿婆"
+    },
+    {
+      "original": "स्तोत्रम्",
+      "transliteration": "颂歌 ",
+      "translation": "颂歌，祷告"
+    },
+    {
+      "original": "असित",
+      "transliteration": "阿斯提特 ",
+      "translation": "阿西塔"
+    },
+    {
+      "original": "उवाच",
+      "transliteration": "乌瓦查",
+      "translation": "说"
+    },
+    {
+      "original": "जगद्गुरो",
+      "transliteration": "贾嘎德古罗 ",
+      "translation": "世界导师"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "纳姆斯图比扬 ",
+      "translation": "致敬你"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "希瓦亚",
+      "translation": "向湿婆致敬"
+    },
+    {
+      "original": "शिवदाय",
+      "transliteration": "希瓦达亚 ",
+      "translation": "给予湿婆"
+    },
+    {
+      "original": "च",
+      "transliteration": "查 ",
+      "translation": "和"
+    },
+    {
+      "original": "योगीन्द्राणां",
+      "transliteration": "约吉因德拉纳姆",
+      "translation": "瑜伽导师"
+    },
+    {
+      "original": "च",
+      "transliteration": "查",
+      "translation": "和"
+    },
+    {
+      "original": "योगीन्द्र",
+      "transliteration": "约吉因德拉 ",
+      "translation": "瑜伽导师"
+    },
+    {
+      "original": "गुरूणां",
+      "transliteration": "古鲁南姆 ",
+      "translation": "导师们"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "古尔维 ",
+      "translation": "向导师致敬"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "纳玛",
+      "translation": "致敬"
+    },
+    {
+      "original": "मृत्योर",
+      "transliteration": "慕尔提优尔",
+      "translation": "死亡的"
+    },
+    {
+      "original": "मृत्युस्वरूपेण",
+      "transliteration": "慕尔提优-斯瓦鲁佩纳 ",
+      "translation": "死亡的形象"
+    },
+    {
+      "original": "मृत्युसंसारखण्डन",
+      "transliteration": "慕尔提优-桑萨尔-汗丹",
+      "translation": "死亡的破碎"
+    },
+    {
+      "original": "मृत्योरीश",
+      "transliteration": "慕尔提优瑞什",
+      "translation": "死神之主"
+    },
+    {
+      "original": "मृत्युबीज",
+      "transliteration": "慕尔提优-比贾 ",
+      "translation": "死亡的种子"
+    },
+    {
+      "original": "मृत्युञ्जय",
+      "transliteration": "慕尔提优-晋雅 ",
+      "translation": "死亡征服者"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "纳摩-斯图特 ",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "ते",
+      "transliteration": "卡拉鲁帕姆 ",
+      "translation": "时间的形态"
+    },
+    {
+      "original": "कालरूपं",
+      "transliteration": "卡拉亚坦",
+      "translation": "变化的"
+    },
+    {
+      "original": "कलयतां",
+      "transliteration": "卡拉卡列什 ",
+      "translation": "时间的主"
+    },
+    {
+      "original": "कालकालेश",
+      "transliteration": "卡兰 ",
+      "translation": "原因"
+    },
+    {
+      "original": "कारण",
+      "transliteration": "卡拉阿提塔 ",
+      "translation": "超越时间的"
+    },
+    {
+      "original": "कालादतीत",
+      "transliteration": "卡拉斯塔 ",
+      "translation": "时间之内"
+    },
+    {
+      "original": "कालस्थ",
+      "transliteration": "卡拉卡拉 ",
+      "translation": "时间的时间"
+    },
+    {
+      "original": "कालकाल",
+      "transliteration": "纳摩-斯图特 ",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "古纳提塔 ",
+      "translation": "超越属性的"
+    },
+    {
+      "original": "ते",
+      "transliteration": "古纳达哈尔 ",
+      "translation": "质量的源泉"
+    },
+    {
+      "original": "गुणातीत",
+      "transliteration": "古纳比贾 ",
+      "translation": "属性的种子"
+    },
+    {
+      "original": "गुणाधार",
+      "transliteration": "古纳阿特马克 ",
+      "translation": "属性的本质"
+    },
+    {
+      "original": "गुणबीज",
+      "transliteration": "古尼什 ",
+      "translation": "属性的主宰"
+    },
+    {
+      "original": "गुणात्मक",
+      "transliteration": "古尼南姆 ",
+      "translation": "属性的拥有者"
+    },
+    {
+      "original": "गुणीश",
+      "transliteration": "比贾",
+      "translation": "种子"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "古尼南姆 ",
+      "translation": "属性的拥有者"
+    },
+    {
+      "original": "बीज",
+      "transliteration": "古尔维 ",
+      "translation": "向导师致敬"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "纳玛 ",
+      "translation": "致敬"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "布拉赫玛-斯瓦鲁帕",
+      "translation": "宇宙的形态"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "布拉赫玛-金亚 ",
+      "translation": "知道宇宙"
+    },
+    {
+      "original": "ब्रह्मस्वरूप",
+      "transliteration": "布拉赫玛-巴韦 ",
+      "translation": "宇宙的存在"
+    },
+    {
+      "original": "ब्रह्मज्ञ",
+      "transliteration": "查 ",
+      "translation": "和"
+    },
+    {
+      "original": "ब्रह्मभावे",
+      "transliteration": "塔特帕尔 ",
+      "translation": "完全投入"
+    },
+    {
+      "original": "च",
+      "transliteration": "布拉赫玛比贾 ",
+      "translation": "宇宙的种子"
+    },
+    {
+      "original": "तत्पर",
+      "transliteration": "斯瓦鲁佩纳 ",
+      "translation": "以形态的方式"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "布拉赫玛比贾 ",
+      "translation": "宇宙的种子"
+    },
+    {
+      "original": "स्वरूपेण",
+      "transliteration": "纳摩-斯图特 ",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "伊提",
+      "translation": "如是"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "斯图特瓦 ",
+      "translation": "赞美之后"
+    },
+    {
+      "original": "ते",
+      "transliteration": "席瓦 ",
+      "translation": "死亡的神"
+    },
+    {
+      "original": "इति",
+      "transliteration": "纳特瓦 ",
+      "translation": "跪拜后"
+    },
+    {
+      "original": "स्तुत्वा",
+      "transliteration": "普拉斯塔斯陶",
+      "translation": "出现了"
+    },
+    {
+      "original": "शिवं",
+      "transliteration": "穆尼什瓦拉",
+      "translation": "圣人之王"
+    },
+    {
+      "original": "नत्वा",
+      "transliteration": "帝那瓦塔萨 ",
+      "translation": "贫困之人"
+    },
+    {
+      "original": "पुरस्तस्थौ",
+      "transliteration": "阿斯鲁内特拉 ",
+      "translation": "泪眼"
+    },
+    {
+      "original": "मुनीश्वरः",
+      "transliteration": "查 ",
+      "translation": "和"
+    },
+    {
+      "original": "दीनवत्साश्रुनेत्रश्च",
+      "transliteration": "普拉卡安奇塔维格拉哈",
+      "translation": "颤抖的身体"
+    },
+    {
+      "original": "पुळकाञ्चितविग्रहः",
+      "transliteration": "阿斯提特 ",
+      "translation": "由阿斯特"
+    },
+    {
+      "original": "असितेन",
+      "transliteration": "克鲁塔姆 ",
+      "translation": "创作的"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "斯托特拉姆 ",
+      "translation": "颂歌"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "巴克提优卡特什 ",
+      "translation": "与虔诚一起"
+    },
+    {
+      "original": "भक्तियुक्तश्च",
+      "transliteration": "雅哈 ",
+      "translation": "那个"
+    },
+    {
+      "original": "यः",
+      "transliteration": "帕特 ",
+      "translation": "读"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "瓦尔沙梅卡姆 ",
+      "translation": "一年"
+    },
+    {
+      "original": "वर्षमेकं",
+      "transliteration": "哈维什亚西 ",
+      "translation": "向神献祭者"
+    },
+    {
+      "original": "हविष्याशी",
+      "transliteration": "香卡拉西亚 ",
+      "translation": "神明的"
+    },
+    {
+      "original": "शङ्करस्य",
+      "transliteration": "马哈特玛纳赫 ",
+      "translation": "伟大的灵魂"
+    },
+    {
+      "original": "महात्मनः",
+      "transliteration": "萨 ",
+      "translation": "他"
+    },
+    {
+      "original": "स",
+      "transliteration": "拉贝德 ",
+      "translation": "获得"
+    },
+    {
+      "original": "लभेद्वैष्णवं",
+      "transliteration": "维什纳瓦姆 ",
+      "translation": "韦什纳神"
+    },
+    {
+      "original": "पुत्रं",
+      "transliteration": "普特拉姆 ",
+      "translation": "儿子"
+    },
+    {
+      "original": "ज्ञानिनं",
+      "transliteration": "金亚尼南 ",
+      "translation": "智者"
+    },
+    {
+      "original": "चिरजीविनम्",
+      "transliteration": "奇拉吉维纳姆 ",
+      "translation": "长寿的"
+    },
+    {
+      "original": "दरिद्रो",
+      "transliteration": "达里德拉 ",
+      "translation": "贫穷的"
+    },
+    {
+      "original": "भवेद्धनाढ्यो",
+      "transliteration": "巴维特 ",
+      "translation": "成为"
+    },
+    {
+      "original": "मूको",
+      "transliteration": "达纳阿迪亚 ",
+      "translation": "富有的"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "木克 ",
+      "translation": "哑巴"
+    },
+    {
+      "original": "पण्डितः",
+      "transliteration": "巴瓦提 ",
+      "translation": "成为"
+    },
+    {
+      "original": "अभार्यो",
+      "transliteration": "潘迪塔",
+      "translation": "学者"
+    },
+    {
+      "original": "लभते",
+      "transliteration": "伊哈 ",
+      "translation": "这里"
+    },
+    {
+      "original": "भार्यां",
+      "transliteration": "洛克 ",
+      "translation": "世界"
+    },
+    {
+      "original": "सुशीलां",
+      "transliteration": "苏卡姆 ",
+      "translation": "快乐"
+    },
+    {
+      "original": "च",
+      "transliteration": "布赫特瓦 ",
+      "translation": "享受过"
+    },
+    {
+      "original": "पतिव्रताम्",
+      "transliteration": "亚提安特 ",
+      "translation": "去往"
+    },
+    {
+      "original": "इह",
+      "transliteration": "席瓦森尼迪姆 ",
+      "translation": "神圣的接触"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "伊丹 ",
+      "translation": "这个"
+    },
+    {
+      "original": "सुखं",
+      "transliteration": "斯托特拉姆 ",
+      "translation": "颂歌"
+    },
+    {
+      "original": "भुक्त्वा",
+      "transliteration": "普拉 ",
+      "translation": "之前"
+    },
+    {
+      "original": "यात्यन्ते",
+      "transliteration": "达塔姆 ",
+      "translation": "给出的"
+    },
+    {
+      "original": "शिवसन्निधिम्",
+      "transliteration": "布拉赫玛纳 ",
+      "translation": "由梵天"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "查 ",
+      "translation": "和"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "普拉切特萨 ",
+      "translation": "向普拉切特萨"
+    },
+    {
+      "original": "पुरा",
+      "transliteration": "普拉切塔萨 ",
+      "translation": "普拉切特萨"
+    },
+    {
+      "original": "दत्तं",
+      "transliteration": "斯瓦普特拉亚西塔亚 ",
+      "translation": "向儿子祈祷"
+    },
+    {
+      "original": "ब्रह्मणा",
+      "transliteration": "达塔穆塔姆 ",
+      "translation": "极为崇高的"
+    },
+    {
+      "original": "च",
+      "transliteration": "伊提 ",
+      "translation": "如是"
+    },
+    {
+      "original": "प्रचेतसे",
+      "transliteration": "希里布拉马维尔特 ",
+      "translation": "在《梵天变迁》中"
+    },
+    {
+      "original": "प्रचेतसा",
+      "transliteration": "马哈布拉那 ",
+      "translation": "大古典"
+    },
+    {
+      "original": "स्वपुत्रायासिताय",
+      "transliteration": "希里克里希那诞生篇 ",
+      "translation": "在《克里希那的诞生篇》中"
+    },
+    {
+      "original": "दत्तमुत्तमम्",
+      "transliteration": "阿斯提特克鲁塔姆 ",
+      "translation": "阿斯特创作"
+    },
+    {
+      "original": "इति",
+      "transliteration": "席瓦斯托特拉姆 ",
+      "translation": "许多的祈祷诗"
+    },
+    {
+      "original": "श्रीब्रह्मवैवर्ते",
+      "transliteration": "桑普尔南姆 ",
+      "translation": "完成"
+    },
+    {
+      "original": "महापुराणे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीकृष्णजन्मखण्डे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "असितकृतं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शिवस्तोत्रं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संपूर्णम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\mandarine\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\mandarine\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.239Z"
+  }
+}

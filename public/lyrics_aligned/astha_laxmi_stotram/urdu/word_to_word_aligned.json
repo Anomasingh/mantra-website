@@ -1,0 +1,909 @@
+{
+  "mantra": "astha_laxmi_stotram",
+  "language": "urdu",
+  "type": "word_to_word",
+  "totalWords": 179,
+  "alignedWords": [
+    {
+      "original": "आदिलक्ष्मी",
+      "transliteration": "سمن سوندت",
+      "translation": "پھولوں سے سجا ہوا"
+    },
+    {
+      "original": "सुमनस",
+      "transliteration": "سندری",
+      "translation": "خوبصورت، دلکش"
+    },
+    {
+      "original": "मुनिगणमण्डित",
+      "transliteration": "مادوی",
+      "translation": "مالا یا خوشبو دینے والی"
+    },
+    {
+      "original": "पंकजवासिनी",
+      "transliteration": "چندر",
+      "translation": "چاند"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "سہودری",
+      "translation": "بھائی کی بہن"
+    },
+    {
+      "original": "धान्यलक्ष्मी",
+      "transliteration": "ہیما مئے",
+      "translation": "سونے جیسی رنگت والی"
+    },
+    {
+      "original": "अहिकलि",
+      "transliteration": "منگن مندت",
+      "translation": "بزرگانِ دین سے آراستہ"
+    },
+    {
+      "original": "क्षीरसमुद्भव",
+      "transliteration": "موکش پرادین",
+      "translation": "آزادی دینے والی"
+    },
+    {
+      "original": "मंगलदायिनी",
+      "transliteration": "منجول بھاشنی",
+      "translation": "میٹھی زبان بولنے والی"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ویڈنوتے",
+      "translation": "ویدوں کی پیروی کرنے والی"
+    },
+    {
+      "original": "धैर्यलक्ष्मी",
+      "transliteration": "پنکجواسی",
+      "translation": "کمل کے پھول میں بسی ہوئی"
+    },
+    {
+      "original": "जयवरवर्णिनि",
+      "transliteration": "دیو سو پوجت",
+      "translation": "دیوتاؤں کے پوجا کرنے والی"
+    },
+    {
+      "original": "सुरगणपूजित",
+      "transliteration": "سدگن ورشنی",
+      "translation": "اچھے اخلاق والی"
+    },
+    {
+      "original": "भवभयहारिणि",
+      "transliteration": "شانتی یوٹے",
+      "translation": "سکون دینے والی"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "جے جے",
+      "translation": "فتح کی دعائیں"
+    },
+    {
+      "original": "गजलक्ष्मी",
+      "transliteration": "ہے",
+      "translation": "او"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "مدھوسودن",
+      "translation": "شیر کرشن"
+    },
+    {
+      "original": "रथगज",
+      "transliteration": "کامینی",
+      "translation": "پیاری، خوبصورت"
+    },
+    {
+      "original": "हरिहर",
+      "transliteration": "آدی لکشمی",
+      "translation": "ابتدائی لکشمی"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "روپین",
+      "translation": "شکل میں"
+    },
+    {
+      "original": "सन्तानलक्ष्मी",
+      "transliteration": "پالی",
+      "translation": "حفاظت کرنا"
+    },
+    {
+      "original": "अहिखग",
+      "transliteration": "مام",
+      "translation": "مجھے"
+    },
+    {
+      "original": "गुणगणवारिधि",
+      "transliteration": "اہیکل",
+      "translation": "تمام گناہوں کو مٹانے والی"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "کلمش ناشنی",
+      "translation": "آلودگی دور کرنے والی"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "کامینی",
+      "translation": "پیاری، خوبصورت"
+    },
+    {
+      "original": "विजयलक्ष्मी",
+      "transliteration": "ویدیکرپینی",
+      "translation": "ویدوں کی صورت والی"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ویدمئے",
+      "translation": "ویدوں میں بسنے والی"
+    },
+    {
+      "original": "अनुदिनमर्चित",
+      "transliteration": "کھیرا سمبڈھوا",
+      "translation": "دودھ سے پیدا ہونے والی"
+    },
+    {
+      "original": "कनकधरास्तुति",
+      "transliteration": "منگلرپینی",
+      "translation": "خوشی کا روپ والی"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "منترنواسینی",
+      "translation": "منتر میں رہنے والی"
+    },
+    {
+      "original": "विद्यालक्ष्मी",
+      "transliteration": "منترنوتے",
+      "translation": "منتر کی دعا دینے والی"
+    },
+    {
+      "original": "प्रणत",
+      "transliteration": "منگلدائینی",
+      "translation": "خوشی دینے والی"
+    },
+    {
+      "original": "मणिमयभूषित",
+      "transliteration": "امبوجواسینی",
+      "translation": "کملا پھول میں بسنے والی"
+    },
+    {
+      "original": "नवनिधिदायिनि",
+      "transliteration": "دیوگنآشرِت",
+      "translation": "دیوتاؤں کے زیر اثر ہونے والی"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "پادایتے",
+      "translation": "قدموں میں بسنے والی"
+    },
+    {
+      "original": "धनलक्ष्मी",
+      "transliteration": "جے جے",
+      "translation": "فتح کی دعائیں"
+    },
+    {
+      "original": "धिमिधिमि",
+      "transliteration": "ہے",
+      "translation": "او"
+    },
+    {
+      "original": "घुमघुम",
+      "transliteration": "مدھوسودن",
+      "translation": "شیر کرشن"
+    },
+    {
+      "original": "वेदपुराणेतिहास",
+      "transliteration": "کامینی",
+      "translation": "پیاری، خوبصورت"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "دھانیا لکشمی",
+      "translation": "اناج کی لکشمی"
+    },
+    {
+      "original": "---",
+      "transliteration": "سدا",
+      "translation": "ہمیشہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "پالی",
+      "translation": "حفاظت کرنا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مام",
+      "translation": "مجھے"
+    },
+    {
+      "original": "---",
+      "transliteration": "جے ور ورنینی",
+      "translation": "جو رنگ کے لحاظ سے عظیم ہے"
+    },
+    {
+      "original": "---",
+      "transliteration": "ویشنوی",
+      "translation": "ویشنو کی ماں"
+    },
+    {
+      "original": "---",
+      "transliteration": "بھارگوی",
+      "translation": "بھارگواسی کی نسل سے تعلق رکھنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "منترسورپینی",
+      "translation": "منتر کی صورت والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "منترمئے",
+      "translation": "منتر کی موجودگی والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "سرگنپوجت",
+      "translation": "دیوتاؤں کی عبادت کی جانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "شیغرفلپرد",
+      "translation": "جلد پھل دینے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "گیانکاسینی",
+      "translation": "علم کے پھیلاؤ والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "شاسترنوتے",
+      "translation": "شاستروں کی عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "بھببھیہارینی",
+      "translation": "دنیا کی پریشانیوں کو دور کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "پاپوی موچنی",
+      "translation": "گناہوں کو ختم کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "ساڑھوجنا آشرِت",
+      "translation": "نیک لوگوں کے زیر اثر ہونے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "پادایتے",
+      "translation": "قدموں میں بسنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "جے جے",
+      "translation": "فتح کی دعائیں"
+    },
+    {
+      "original": "---",
+      "transliteration": "ہے",
+      "translation": "او"
+    },
+    {
+      "original": "---",
+      "transliteration": "مدھوسودن",
+      "translation": "شیر کرشن"
+    },
+    {
+      "original": "---",
+      "transliteration": "کامینی",
+      "translation": "پیاری، خوبصورت"
+    },
+    {
+      "original": "---",
+      "transliteration": "دھیرے لکشمی",
+      "translation": "حوصلے کی لکشمی"
+    },
+    {
+      "original": "---",
+      "transliteration": "سدا",
+      "translation": "ہمیشہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "پالی",
+      "translation": "حفاظت کرنا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مام",
+      "translation": "مجھے"
+    },
+    {
+      "original": "---",
+      "transliteration": "جے جے",
+      "translation": "فتح کی دعائیں"
+    },
+    {
+      "original": "---",
+      "transliteration": "درگتی ناشتنی",
+      "translation": "برے حالات کو دور کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "کامینی",
+      "translation": "خوبصورت، پیاری"
+    },
+    {
+      "original": "---",
+      "transliteration": "سرو فلپراڈا",
+      "translation": "سبھی پھل دینے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "شاسترمئے",
+      "translation": "شاستروں کی عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "رتھگج تورگپدادی سماوت",
+      "translation": "رتھ، ہاتھی، گھوڑے سے پرے"
+    },
+    {
+      "original": "---",
+      "transliteration": "پریجنمندیٹ",
+      "translation": "خاندان سے سجا ہوا"
+    },
+    {
+      "original": "---",
+      "transliteration": "لوک نُتے",
+      "translation": "دنیا کی عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "ہرہر",
+      "translation": "ہر کی عبادت کی جانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "برہم",
+      "translation": "برہم کی عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "سپوجیت",
+      "translation": "عبادت کی جانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "سیوت",
+      "translation": "خدمت کی جانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "تاپنیوارینی",
+      "translation": "تپش کو ختم کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "پادایتے",
+      "translation": "قدموں میں بسنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "جے جے",
+      "translation": "فتح کی دعائیں"
+    },
+    {
+      "original": "---",
+      "transliteration": "ہے",
+      "translation": "او"
+    },
+    {
+      "original": "---",
+      "transliteration": "مدھوسودن",
+      "translation": "شیر کرشن"
+    },
+    {
+      "original": "---",
+      "transliteration": "کامینی",
+      "translation": "پیاری، خوبصورت"
+    },
+    {
+      "original": "---",
+      "transliteration": "گجلکشمی",
+      "translation": "گجے کا پیاری، خوبصورت لکشمی"
+    },
+    {
+      "original": "---",
+      "transliteration": "روپین",
+      "translation": "شکل میں"
+    },
+    {
+      "original": "---",
+      "transliteration": "پالی",
+      "translation": "حفاظت کرنا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مام",
+      "translation": "مجھے"
+    },
+    {
+      "original": "---",
+      "transliteration": "اَہِکھگ",
+      "translation": "سانپ والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "واہِنی",
+      "translation": "لے جانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "موہِنی",
+      "translation": "فریب دینے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "چکڑِنی",
+      "translation": "چکر والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "راگ وَوَرْدھِنی",
+      "translation": "راگ بڑھانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "گیانمائے",
+      "translation": "علم سے بھری ہوئی"
+    },
+    {
+      "original": "---",
+      "transliteration": "گن گن وارِدھی",
+      "translation": "اچھے اخلاق کی حامل"
+    },
+    {
+      "original": "---",
+      "transliteration": "لوک ہِتَیشِنی",
+      "translation": "عوام کے فائدے کے لیے"
+    },
+    {
+      "original": "---",
+      "transliteration": "سورَسَپْت",
+      "translation": "سات آوازوں سے سجی ہوئی"
+    },
+    {
+      "original": "---",
+      "transliteration": "بھوشِت",
+      "translation": "سجا ہوا"
+    },
+    {
+      "original": "---",
+      "transliteration": "گانَنُتے",
+      "translation": "گانے کی عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "سکل",
+      "translation": "تمام"
+    },
+    {
+      "original": "---",
+      "transliteration": "سورا سور",
+      "translation": "دیوتا اور آسمانی قوتیں"
+    },
+    {
+      "original": "---",
+      "transliteration": "دیومُنیشور",
+      "translation": "دیوتا اور برہما کی عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "مانَوَ وَندِت",
+      "translation": "انسانوں کی عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "پادایتے",
+      "translation": "قدموں میں بسنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "جے جے",
+      "translation": "فتح کی دعائیں"
+    },
+    {
+      "original": "---",
+      "transliteration": "ہے",
+      "translation": "او"
+    },
+    {
+      "original": "---",
+      "transliteration": "مدھوسودن",
+      "translation": "شیر کرشن"
+    },
+    {
+      "original": "---",
+      "transliteration": "کامینی",
+      "translation": "پیاری، خوبصورت"
+    },
+    {
+      "original": "---",
+      "transliteration": "سنتانلکشمی",
+      "translation": "اولاد دینے والی لکشمی"
+    },
+    {
+      "original": "---",
+      "transliteration": "تُمْ",
+      "translation": "آپ"
+    },
+    {
+      "original": "---",
+      "transliteration": "پالی",
+      "translation": "حفاظت کرنا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مام",
+      "translation": "مجھے"
+    },
+    {
+      "original": "---",
+      "transliteration": "جے",
+      "translation": "جیت"
+    },
+    {
+      "original": "---",
+      "transliteration": "کمالاسنی",
+      "translation": "کملا کے ساتھ بیٹھنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "سدگتی دایِنی",
+      "translation": "اچھے راستے کی راہ دکھانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "گیان وِکاسنی",
+      "translation": "علم کے پھیلانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "گانمائے",
+      "translation": "گانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "انُدنَمرچِت",
+      "translation": "ہر دن عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "کُنکم دھُوسَر",
+      "translation": "کُھلنے والی خوشبو سے سجی ہوئی"
+    },
+    {
+      "original": "---",
+      "transliteration": "بھوشِت",
+      "translation": "سجا ہوا"
+    },
+    {
+      "original": "---",
+      "transliteration": "واسِت",
+      "translation": "پھیلنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "واڈیَنوَتے",
+      "translation": "موسیقی کے آلات میں عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "کنک دھَراستُتی",
+      "translation": "سونے کی عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "وائبھو",
+      "translation": "عظمت"
+    },
+    {
+      "original": "---",
+      "transliteration": "وندِت",
+      "translation": "عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "شَنگَر",
+      "translation": "شَنگر دیوتا"
+    },
+    {
+      "original": "---",
+      "transliteration": "دیشِک",
+      "translation": "استاد"
+    },
+    {
+      "original": "---",
+      "transliteration": "مانَی",
+      "translation": "قابل احترام"
+    },
+    {
+      "original": "---",
+      "transliteration": "پَڈے",
+      "translation": "قدم"
+    },
+    {
+      "original": "---",
+      "transliteration": "جے جے",
+      "translation": "فتح کی دعائیں"
+    },
+    {
+      "original": "---",
+      "transliteration": "ہے",
+      "translation": "او"
+    },
+    {
+      "original": "---",
+      "transliteration": "مدھوسودن",
+      "translation": "شیر کرشن"
+    },
+    {
+      "original": "---",
+      "transliteration": "کامینی",
+      "translation": "پیاری، خوبصورت"
+    },
+    {
+      "original": "---",
+      "transliteration": "وجے لکشمی",
+      "translation": "فتح دینے والی لکشمی"
+    },
+    {
+      "original": "---",
+      "transliteration": "سدا",
+      "translation": "ہمیشہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "پالی",
+      "translation": "حفاظت کرنا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مام",
+      "translation": "مجھے"
+    },
+    {
+      "original": "---",
+      "transliteration": "پَرَنَت",
+      "translation": "عبادت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "سورَیشورِی",
+      "translation": "دیوتاؤں کی سردار"
+    },
+    {
+      "original": "---",
+      "transliteration": "بھارَتی",
+      "translation": "علم کی دیوی، شری ودیا"
+    },
+    {
+      "original": "---",
+      "transliteration": "بھارگَوی",
+      "translation": "مہارشی بھارگَو کا نسب"
+    },
+    {
+      "original": "---",
+      "transliteration": "شوک وِناشِنی",
+      "translation": "غم کے مٹانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "رَتْنَمَے",
+      "translation": "جواہرات سے بھری ہوئی"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَنِیْمَی بھُوشِت",
+      "translation": "جواہرات سے سجا ہوا"
+    },
+    {
+      "original": "---",
+      "transliteration": "کرن وِبھوشَن",
+      "translation": "کانوں کی زیوروں سے سجا ہوا"
+    },
+    {
+      "original": "---",
+      "transliteration": "شانتی سَمَاوَرِتَ",
+      "translation": "سکون میں ڈوبا ہوا"
+    },
+    {
+      "original": "---",
+      "transliteration": "ہاسَیمُکھِے",
+      "translation": "ہنسی سے چمکتے ہوئے منہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "نَوَنِدھی دَائِنی",
+      "translation": "نو دنوں کے خزانے دینے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "کَلِمَل ہارِنی",
+      "translation": "کلِی کے اثرات مٹانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "کامِتْ پھَلَپْرَدَ",
+      "translation": "چاہے ہوئے پھل دینے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "ہَسْتَیُتے",
+      "translation": "ہاتھوں میں جادوگرانہ طاقت"
+    },
+    {
+      "original": "---",
+      "transliteration": "جے جے",
+      "translation": "کامیابی کی دعائیں"
+    },
+    {
+      "original": "---",
+      "transliteration": "ہے",
+      "translation": "او"
+    },
+    {
+      "original": "---",
+      "transliteration": "مدھوسودن",
+      "translation": "کرشن کا نام"
+    },
+    {
+      "original": "---",
+      "transliteration": "کامِنی",
+      "translation": "پیاری، خوبصورت"
+    },
+    {
+      "original": "---",
+      "transliteration": "وِدْیالَکشْمِی",
+      "translation": "علم کی دیوی"
+    },
+    {
+      "original": "---",
+      "transliteration": "سدا",
+      "translation": "ہمیشہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "پالی",
+      "translation": "حفاظت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "مام",
+      "translation": "مجھے"
+    },
+    {
+      "original": "---",
+      "transliteration": "دھِمِ دھِمِ",
+      "translation": "گھنٹوں کی آواز"
+    },
+    {
+      "original": "---",
+      "transliteration": "دھِن دھِمِ",
+      "translation": "گھنٹیوں کی آواز"
+    },
+    {
+      "original": "---",
+      "transliteration": "دھِن دھِمِ",
+      "translation": "گھنٹیوں کی آواز"
+    },
+    {
+      "original": "---",
+      "transliteration": "دھِن دھِمِ",
+      "translation": "گھنٹیوں کی آواز"
+    },
+    {
+      "original": "---",
+      "transliteration": "دُندُبھِ نَاد",
+      "translation": "ڈھول کی آواز"
+    },
+    {
+      "original": "---",
+      "transliteration": "سُپُورْنَمَے",
+      "translation": "مکمل طور پر بھرا ہوا"
+    },
+    {
+      "original": "---",
+      "transliteration": "گھوم گھوم",
+      "translation": "گھومنے کی آواز"
+    },
+    {
+      "original": "---",
+      "transliteration": "گھُنگھُم",
+      "translation": "پھونکنے کی آواز"
+    },
+    {
+      "original": "---",
+      "transliteration": "گھُنگھُم",
+      "translation": "پھونکنے کی آواز"
+    },
+    {
+      "original": "---",
+      "transliteration": "شَںکھنِناد",
+      "translation": "شَنگھ کا آواز"
+    },
+    {
+      "original": "---",
+      "transliteration": "سُوادَیَنُتِے",
+      "translation": "ساز کا آواز"
+    },
+    {
+      "original": "---",
+      "transliteration": "وِدَپوراṇِتیہَاسَ سُپُوجِت",
+      "translation": "وید، پوران اور تاریخ کی پوجا کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "ویدِک مارگ",
+      "translation": "ویدک راستہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "پَرَدَرْشَیُتِے",
+      "translation": "دکھانے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "جے جے",
+      "translation": "جیت کی دعائیں"
+    },
+    {
+      "original": "---",
+      "transliteration": "ہے",
+      "translation": "او"
+    },
+    {
+      "original": "---",
+      "transliteration": "مدھوسودَن",
+      "translation": "کرشن کا نام"
+    },
+    {
+      "original": "---",
+      "transliteration": "کامِنی",
+      "translation": "پیاری، خوبصورت"
+    },
+    {
+      "original": "---",
+      "transliteration": "دھن لکشْمِی",
+      "translation": "دولت کی دیوی"
+    },
+    {
+      "original": "---",
+      "transliteration": "روپَےن",
+      "translation": "روپ میں"
+    },
+    {
+      "original": "---",
+      "transliteration": "پالی",
+      "translation": "حفاظت کرنے والی"
+    },
+    {
+      "original": "---",
+      "transliteration": "مام",
+      "translation": "مجھے"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\urdu\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\urdu\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.360Z"
+  }
+}

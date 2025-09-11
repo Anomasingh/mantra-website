@@ -1,0 +1,374 @@
+{
+  "mantra": "shri_hari_stotram",
+  "language": "german",
+  "type": "word_to_word",
+  "totalWords": 72,
+  "alignedWords": [
+    {
+      "original": "जगत का रक्षक है",
+      "transliteration": "Jagat ka rakshak hai",
+      "translation": "Der Beschützer der Welt"
+    },
+    {
+      "original": "गले में माला धारण करने वाला",
+      "transliteration": "Galle mein mala dhaaran karne wala",
+      "translation": "Der Träger der Halskette"
+    },
+    {
+      "original": "शरद पूर्णिमा के चंद्रमा के समान",
+      "transliteration": "Sharad poornima ke chandramah ke samaan hai",
+      "translation": "Wie der Vollmond von Sharad Purnima"
+    },
+    {
+      "original": "महादैत्यों का काल",
+      "transliteration": "Mahadityon ka kaal",
+      "translation": "Der Zerstörer der Dämonen"
+    },
+    {
+      "original": "आकाशवत नीले शरीर वाला",
+      "transliteration": "Akashvat neele shareer wala",
+      "translation": "Der, der einen blauen Körper hat"
+    },
+    {
+      "original": "दुर्निवार माया वाला",
+      "transliteration": "Durniwar maya wala",
+      "translation": "Der, der schwer zu besiegende Maya hat"
+    },
+    {
+      "original": "लक्ष्मी के सहायक",
+      "transliteration": "Lakshmi ke sahayak",
+      "translation": "Der Helfer von Lakshmi"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Main bhajta hoon, main bhajta hoon",
+      "translation": "Ich verehre, ich verehre"
+    },
+    {
+      "original": "समुद्र में निवास करने वाला",
+      "transliteration": "Samudra mein nivas karne wala",
+      "translation": "Der, der im Ozean lebt"
+    },
+    {
+      "original": "पुष्पों की हंसी बिखेरने वाला",
+      "transliteration": "Phulon ki hansi bikherne wala",
+      "translation": "Der, der das Lächeln der Blumen verbreitet"
+    },
+    {
+      "original": "जगत का निवास स्थान",
+      "transliteration": "Jagat ka nivas sthan",
+      "translation": "Der Wohnsitz der Welt"
+    },
+    {
+      "original": "सौ सूर्यों के समान प्रकाशमान",
+      "transliteration": "Sau suryon ke samaan prakaashmaan hai",
+      "translation": "Wie tausend Sonnen leuchtend"
+    },
+    {
+      "original": "गदा और चक्र धारण करने वाला",
+      "transliteration": "Gada aur chakra dhaaran karne wala",
+      "translation": "Der Träger von Keule und Rad"
+    },
+    {
+      "original": "पीताम्बर धारण करने वाला",
+      "transliteration": "Peetambar dhaaran karne wala",
+      "translation": "Der Träger von gelben Kleidern"
+    },
+    {
+      "original": "सुंदर मुस्कुराते मुख वाला",
+      "transliteration": "Sundar muskurate mukh wala",
+      "translation": "Der, mit einem schönen Lächeln"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Main bhajta hoon, main bhajta hoon",
+      "translation": "Ich verehre, ich verehre"
+    },
+    {
+      "original": "लक्ष्मी के गले का हार",
+      "transliteration": "Lakshmi ke galle ka haar",
+      "translation": "Die Halskette von Lakshmi"
+    },
+    {
+      "original": "वेदों का सार",
+      "transliteration": "Vedo ka saar",
+      "translation": "Der Kern der Veden"
+    },
+    {
+      "original": "जल में विहार करने वाला",
+      "transliteration": "Jal mein vihaar karne wala",
+      "translation": "Der, der im Wasser lebt"
+    },
+    {
+      "original": "धरती का भार हरने वाला",
+      "transliteration": "Dharti ka bhar harne wala",
+      "translation": "Der, der die Last der Erde trägt"
+    },
+    {
+      "original": "चिदानंद स्वरूप",
+      "transliteration": "Chidanand swarup",
+      "translation": "Das Wesen von Chidananda"
+    },
+    {
+      "original": "मनोहर स्वरूप",
+      "transliteration": "Manohar swarup",
+      "translation": "Das anmutige Aussehen"
+    },
+    {
+      "original": "अनेक रूप धारण करने वाला",
+      "transliteration": "Anek roop dhaaran karne wala",
+      "translation": "Der, der viele Formen annimmt"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Main bhajta hoon, main bhajta hoon",
+      "translation": "Ich verehre, ich verehre"
+    },
+    {
+      "original": "जन्म और मृत्यु से रहित",
+      "transliteration": "Janm aur mrityu se rahit",
+      "translation": "Frei von Geburt und Tod"
+    },
+    {
+      "original": "परमानंद से परिपूर्ण",
+      "transliteration": "Paramaanand se paripoorn",
+      "translation": "Erfüllt mit höchstem Glück"
+    },
+    {
+      "original": "समाधि में लीन",
+      "transliteration": "Samadhi mein leen",
+      "translation": "In Samadhi vertieft"
+    },
+    {
+      "original": "सदैव नवीन",
+      "transliteration": "Sada navin rahne wala",
+      "translation": "Immer neu, immer frisch"
+    },
+    {
+      "original": "जगत की उत्पत्ति का कारण",
+      "transliteration": "Jagat ki utpatti ka kaaran",
+      "translation": "Der Ursprung der Schöpfung der Welt"
+    },
+    {
+      "original": "देवताओं की सेना का ध्वज",
+      "transliteration": "Devton ki sena ka dhwaj",
+      "translation": "Die Fahne der Götterarmee"
+    },
+    {
+      "original": "तीनों लोकों का एकमात्र सेतु",
+      "transliteration": "Teenon lokon ka ekmatra setu",
+      "translation": "Die einzige Brücke der drei Welten"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Main bhajta hoon, main bhajta hoon",
+      "translation": "Ich verehre, ich verehre"
+    },
+    {
+      "original": "वेदों का गान करने वाला",
+      "transliteration": "Vedon ka gaan karne wala",
+      "translation": "Der Sänger der Veden"
+    },
+    {
+      "original": "गरुड़ पर शयन करने वाला",
+      "transliteration": "Garud par shayan karne wala",
+      "translation": "Der, der auf Garuda schläft"
+    },
+    {
+      "original": "मुक्ति का कारण",
+      "transliteration": "Mukti ka kaaran",
+      "translation": "Der Grund der Erlösung"
+    },
+    {
+      "original": "शत्रुओं का मान मर्दन करने वाला",
+      "transliteration": "Shatrun ka maan mardan karne wala",
+      "translation": "Der, der den Stolz der Feinde bricht"
+    },
+    {
+      "original": "भक्तों के अनुकूल",
+      "transliteration": "Apne bhakton ke anukool",
+      "translation": "Er, der seinen Anhängern zuträglich ist"
+    },
+    {
+      "original": "संसार रूपी वृक्ष का मूल",
+      "transliteration": "Sansar roopi vriksha ka mool",
+      "translation": "Die Wurzeln des Weltbaums"
+    },
+    {
+      "original": "दुःखों को नष्ट करने वाला",
+      "transliteration": "Dukhon ko nasht karne wala",
+      "translation": "Der Zerstörer des Schmerzes"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Main bhajta hoon, main bhajta hoon",
+      "translation": "Ich verehre, ich verehre"
+    },
+    {
+      "original": "समस्त देवों के स्वामी",
+      "transliteration": "Sabhi devon ka swami",
+      "translation": "Der Herr aller Götter"
+    },
+    {
+      "original": "सुंदर केशों वाला",
+      "transliteration": "Sundar kesho wala",
+      "translation": "Der mit schönen Haaren"
+    },
+    {
+      "original": "जगत की छाया के स्वामी",
+      "transliteration": "Jagat ki chhaya ka swami",
+      "translation": "Der Herr des Schattens der Welt"
+    },
+    {
+      "original": "हृदयाकाश में निवास करने वाला",
+      "transliteration": "Hridayaakaash mein nivaas karne wala",
+      "translation": "Der, der im Himmelsraum des Herzens lebt"
+    },
+    {
+      "original": "सदा दिव्य शरीर वाला",
+      "transliteration": "Sada divya shareer wala",
+      "translation": "Der, der immer einen göttlichen Körper hat"
+    },
+    {
+      "original": "समस्त इच्छाओं से मुक्त",
+      "transliteration": "Samast ichhaon se mukt",
+      "translation": "Der von allen Wünschen befreite"
+    },
+    {
+      "original": "वैकुंठ के निवासी",
+      "transliteration": "Vaikunth mein nivaas karne wala",
+      "translation": "Der, der in Vaikuntha wohnt"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Main bhajta hoon, main bhajta hoon",
+      "translation": "Ich verehre, ich verehre"
+    },
+    {
+      "original": "देवताओं में सबसे बलवान",
+      "transliteration": "Devtaon mein sabse balwan",
+      "translation": "Der stärkste der Götter"
+    },
+    {
+      "original": "तीनों लोकों में श्रेष्ठ",
+      "transliteration": "Teenon lokon mein shreshth",
+      "translation": "Der Höchste der drei Welten"
+    },
+    {
+      "original": "गुरुओं में श्रेष्ठ",
+      "transliteration": "Gurun mein shreshth",
+      "translation": "Der Beste der Lehrer"
+    },
+    {
+      "original": "अपने स्वरूप में स्थित",
+      "transliteration": "Apne swaroop mein sthit",
+      "translation": "Der im eigenen Wesen verankert ist"
+    },
+    {
+      "original": "युद्ध में सदा धीर",
+      "transliteration": "Yudh mein sada dheer",
+      "translation": "Der immer tapfer im Krieg ist"
+    },
+    {
+      "original": "महावीरों में वीर",
+      "transliteration": "Mahaveero mein veer",
+      "translation": "Der Tapferste unter den Helden"
+    },
+    {
+      "original": "महासागर के तट के समान",
+      "transliteration": "Mahasagar ke tat ke samaan",
+      "translation": "So ernst wie der Ozean"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Main bhajta hoon, main bhajta hoon",
+      "translation": "Ich verehre, ich verehre"
+    },
+    {
+      "original": "लक्ष्मी को बाईं ओर रखने वाला",
+      "transliteration": "Lakshmi ko baai or rakhne wala",
+      "translation": "Der, bei dem Lakshmi auf der linken Seite ist"
+    },
+    {
+      "original": "शेषनाग पर शयन करने वाला",
+      "transliteration": "Sheshnaag par shayan karne wala",
+      "translation": "Der, der auf Shesha schläft"
+    },
+    {
+      "original": "यज्ञों को अधीन करने वाला",
+      "transliteration": "Yagnon ko adheen karne wala",
+      "translation": "Der, der die Yajnas beherrscht"
+    },
+    {
+      "original": "राग-द्वेष से रहित",
+      "transliteration": "Raag-dwesh se rahit",
+      "translation": "Frei von Liebe und Hass"
+    },
+    {
+      "original": "मुनियों द्वारा गाया जाने वाला",
+      "transliteration": "Muniindrah sugeetam",
+      "translation": "Vom großen Muni gesungen"
+    },
+    {
+      "original": "देवों से घिरा हुआ",
+      "transliteration": "Devo se ghirah hua",
+      "translation": "Umgeben von den Göttern"
+    },
+    {
+      "original": "गुणों से परे",
+      "transliteration": "Gunoudhairateetam",
+      "translation": "Jenseits der Eigenschaften"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Main bhajta hoon, main bhajta hoon",
+      "translation": "Ich verehre, ich verehre"
+    },
+    {
+      "original": "जो इस स्तोत्र को नित्य",
+      "transliteration": "Jo is stotra ko nitya",
+      "translation": "Der, der diesen Stotra täglich liest"
+    },
+    {
+      "original": "चित्त को एकाग्र करके",
+      "transliteration": "Chitta ko ekagra karke",
+      "translation": "Das Herz auf Meditation konzentrieren"
+    },
+    {
+      "original": "इस अष्टक का पाठ करता है",
+      "transliteration": "Is ashtak ka paath karta hai",
+      "translation": "Der, der diesen Ashtak liest"
+    },
+    {
+      "original": "मुरारि के कंठहार को",
+      "transliteration": "Murari ke kanth haar ko",
+      "translation": "Der Krieger von Murari"
+    },
+    {
+      "original": "वह विष्णु के शोकरहित",
+      "transliteration": "Vishnu ke shokarahit",
+      "translation": "Der von Vishnu befreite"
+    },
+    {
+      "original": "ध्रुव लोक को प्राप्त करता है",
+      "transliteration": "Dhruv lok ko praapt karta hai",
+      "translation": "Er erreicht den Polarstern"
+    },
+    {
+      "original": "जन्म-मृत्यु के शोक को",
+      "transliteration": "Janm-mrityu ke shok ko",
+      "translation": "Von der Trauer über Geburt und Tod befreit"
+    },
+    {
+      "original": "फिर कभी नहीं पाता है",
+      "transliteration": "Phir kabhi nahi paata hai",
+      "translation": "Er wird es nie wieder finden"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\german\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\german\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.796Z"
+  }
+}

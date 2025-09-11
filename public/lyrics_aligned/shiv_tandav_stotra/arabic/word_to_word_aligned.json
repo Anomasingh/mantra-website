@@ -1,0 +1,1494 @@
+{
+  "mantra": "shiv_tandav_stotra",
+  "language": "arabic",
+  "type": "word_to_word",
+  "totalWords": 296,
+  "alignedWords": [
+    {
+      "original": "जटा",
+      "transliteration": "جَتَا",
+      "translation": "شعر مضفور"
+    },
+    {
+      "original": "टवी",
+      "transliteration": "كَتَا",
+      "translation": "قطعة من الملابس"
+    },
+    {
+      "original": "गलज्जल",
+      "transliteration": "حَسَنْبْهَرَمْ",
+      "translation": "اهتزاز الصوت"
+    },
+    {
+      "original": "प्रवाह",
+      "transliteration": "بْهَرَمَنِّ لِمْبْ",
+      "translation": "الارتباك المتنقل"
+    },
+    {
+      "original": "पावितस्थले",
+      "transliteration": "نِرْجْهَرِي",
+      "translation": "شلال الماء"
+    },
+    {
+      "original": "गलेऽवलम्ब्य",
+      "transliteration": "وِيلُو",
+      "translation": "انعكاس الضوء"
+    },
+    {
+      "original": "लम्बितां",
+      "transliteration": "لَفِي",
+      "translation": "الزهور"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "جِوَلَّارِي",
+      "translation": "الفضاء الرائع"
+    },
+    {
+      "original": "तुङ्ग",
+      "transliteration": "وِرَاجْمَانْ",
+      "translation": "يتألق"
+    },
+    {
+      "original": "मालिकाम्",
+      "transliteration": "مُورْدْهَنِي",
+      "translation": "فوق الرأس"
+    },
+    {
+      "original": "डमड्डमड्ड",
+      "transliteration": "دَغَدْ",
+      "translation": "صوت اللهيب"
+    },
+    {
+      "original": "डमड्डमड्डमड्डमन्निनाद्",
+      "transliteration": "دَغَدْ",
+      "translation": "صوت اللهيب"
+    },
+    {
+      "original": "वड्डमर्वयं",
+      "transliteration": "دَغَجْجْوَلَلْ",
+      "translation": "اللمعان والنيران"
+    },
+    {
+      "original": "चकार",
+      "transliteration": "لَلاَتْ",
+      "translation": "الجبهة"
+    },
+    {
+      "original": "चण्डताण्डवं",
+      "transliteration": "بَتَّا",
+      "translation": "الشريط أو الحزام"
+    },
+    {
+      "original": "तनोतु",
+      "transliteration": "پَاوَكِ",
+      "translation": "النار أو الموقد"
+    },
+    {
+      "original": "नः",
+      "transliteration": "كِشُورْ",
+      "translation": "الشاب"
+    },
+    {
+      "original": "शिवः",
+      "transliteration": "شَنْدَرْ",
+      "translation": "القمر"
+    },
+    {
+      "original": "शिवम्",
+      "transliteration": "شَيْخَرِ",
+      "translation": "صاحب الجبين"
+    },
+    {
+      "original": "जटा",
+      "transliteration": "رَتِهْ",
+      "translation": "الرغبة أو الحب"
+    },
+    {
+      "original": "कटा",
+      "transliteration": "پَرَتِكْشَنَمْ",
+      "translation": "لحظة تلو الأخرى"
+    },
+    {
+      "original": "हसंभ्रम",
+      "transliteration": "مَمْ",
+      "translation": "لي أو لي"
+    },
+    {
+      "original": "भ्रमन्निलिम्प",
+      "transliteration": "دَهْرَا",
+      "translation": "الأرض أو الوعاء"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "دَرِندْرَ",
+      "translation": "الرب الذي يَحمل الأرض"
+    },
+    {
+      "original": "विलो",
+      "transliteration": "نَندِينِي",
+      "translation": "التي تَسعد"
+    },
+    {
+      "original": "लवी",
+      "transliteration": "وِيلَاسْ",
+      "translation": "الزخارف أو الجمال"
+    },
+    {
+      "original": "चिवल्लरी",
+      "transliteration": "بَنْدُو",
+      "translation": "الصديق أو القريب"
+    },
+    {
+      "original": "विराजमान",
+      "transliteration": "بَنْدُرَسْ",
+      "translation": "الثابت أو الموثوق"
+    },
+    {
+      "original": "मूर्धनि",
+      "transliteration": "فُرَدْ",
+      "translation": "يزدهر أو يشرق"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "دِيجَنْتَا",
+      "translation": "أفق أو طرف"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "سَنْتَتِي",
+      "translation": "النسل أو الذرية"
+    },
+    {
+      "original": "धगज्ज्वलल्",
+      "transliteration": "پَرَمُودْ",
+      "translation": "السرور أو الفرح"
+    },
+    {
+      "original": "ललाट",
+      "transliteration": "مَانَمَانْسِ",
+      "translation": "في قلب الشخص أو الفكرة"
+    },
+    {
+      "original": "पट्ट",
+      "transliteration": "كْرِبَ",
+      "translation": "الرحمة أو العطف"
+    },
+    {
+      "original": "पावके",
+      "transliteration": "كَتَاكْشَ",
+      "translation": "النظرة القاسية أو اللوم"
+    },
+    {
+      "original": "किशोर",
+      "transliteration": "دْهُورَنِي",
+      "translation": "غطاء أو ملبس"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "نِرُدْهَا",
+      "translation": "محجوز أو مُغلق"
+    },
+    {
+      "original": "शेखरे",
+      "transliteration": "دُرْدَهَرَابَدِ",
+      "translation": "في الظروف الصعبة أو المحنة"
+    },
+    {
+      "original": "रति:",
+      "transliteration": "قْوَچِدْ",
+      "translation": "في بعض الأحيان"
+    },
+    {
+      "original": "प्रतिक्षणं",
+      "transliteration": "دِيجَامْبَرِ",
+      "translation": "الذي يرتدي السماء أو الأفق (شيفا)"
+    },
+    {
+      "original": "मम",
+      "transliteration": "مَنُو",
+      "translation": "العقل أو الذهن"
+    },
+    {
+      "original": "धरा",
+      "transliteration": "فِينُودَمِتْوُ",
+      "translation": "قد يفرح في وجودك أو في حياتك"
+    },
+    {
+      "original": "धरेन्द्र",
+      "transliteration": "فَسْتُونِي",
+      "translation": "الكائنات أو الأشياء"
+    },
+    {
+      "original": "नंदिनी",
+      "transliteration": "لَتَا",
+      "translation": "النبات أو الزهر"
+    },
+    {
+      "original": "विलास",
+      "transliteration": "بْهُجَنْگَ",
+      "translation": "الأفعى"
+    },
+    {
+      "original": "बन्धु",
+      "transliteration": "پِنگَلَسْ",
+      "translation": "اللون البرتقالي"
+    },
+    {
+      "original": "बन्धुरस",
+      "transliteration": "فُرَتْفَنَا",
+      "translation": "ألسنة اللهب أو الحرارة"
+    },
+    {
+      "original": "फुरद्",
+      "transliteration": "مَنِبْرَابَ",
+      "translation": "ضوء الجوهرة أو اللامعة"
+    },
+    {
+      "original": "दिगन्त",
+      "transliteration": "كَدَمْبَ",
+      "translation": "الشجرة التي تنتج الزهور"
+    },
+    {
+      "original": "सन्तति",
+      "transliteration": "كُونْكُمْدَرَفَ",
+      "translation": "السائل الأحمر الذي يستخدم للصبغ"
+    },
+    {
+      "original": "प्रमोद",
+      "transliteration": "رَلِبْتَدِجْوَ",
+      "translation": "مغطى بالتراب أو مغلف"
+    },
+    {
+      "original": "मानमानसे",
+      "transliteration": "دْهُومُخِ",
+      "translation": "في وجه النار أو التهديد"
+    },
+    {
+      "original": "कृपा",
+      "transliteration": "مَدَانْدْ",
+      "translation": "مغرور أو مغمى عليه"
+    },
+    {
+      "original": "कटाक्ष",
+      "transliteration": "سِنْدُرَسْ",
+      "translation": "البحر الساكن أو المظلم"
+    },
+    {
+      "original": "धोरणी",
+      "transliteration": "فُرَتْ",
+      "translation": "يزدهر أو يشرق"
+    },
+    {
+      "original": "निरुद्ध",
+      "transliteration": "تْوَجُتْتَرِيْيَمْ",
+      "translation": "الجلد العميق أو الخارجي"
+    },
+    {
+      "original": "दुर्धरापदि",
+      "transliteration": "دُورِ",
+      "translation": "بعيد أو بعيد المدى"
+    },
+    {
+      "original": "क्वचिद्",
+      "transliteration": "فِينُودْ",
+      "translation": "التسلية أو الترفيه"
+    },
+    {
+      "original": "दिगम्बरे",
+      "transliteration": "مَدْبُهُتَمْ",
+      "translation": "عجيب أو رائع"
+    },
+    {
+      "original": "मनो",
+      "transliteration": "بِبْهَرْتُ",
+      "translation": "يحمل أو يلبس"
+    },
+    {
+      "original": "विनोदमेतु",
+      "transliteration": "بُهُوتْبَهرَتَرِي",
+      "translation": "الذي يعتني بالكائنات"
+    },
+    {
+      "original": "वस्तुनी",
+      "transliteration": "سَحَسْرَ",
+      "translation": "الألف أو الآلاف"
+    },
+    {
+      "original": "लता",
+      "transliteration": "لُوشَنَابْرَحْرَتْيَ",
+      "translation": "بصيرة أو الأعين"
+    },
+    {
+      "original": "भुजंग",
+      "transliteration": "شَيْشْ",
+      "translation": "البقية أو المتبقي"
+    },
+    {
+      "original": "पिंगलस",
+      "transliteration": "لِيخَشَيْخَرَ",
+      "translation": "توجيه القمة أو رأس الجبل"
+    },
+    {
+      "original": "फुरत्फणा",
+      "transliteration": "بْرَسُونْ",
+      "translation": "الزهور أو النبات"
+    },
+    {
+      "original": "मणिप्रभा",
+      "transliteration": "دُهُولِدْهُورَنِي",
+      "translation": "غطاء من الغبار أو التراب"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "فِذُوسْ",
+      "translation": "النقاء أو النقاء المقدس"
+    },
+    {
+      "original": "कुङ्कुमद्रवप्",
+      "transliteration": "رَانْغْرِي",
+      "translation": "قدم أو نقطة قريبة من القدم"
+    },
+    {
+      "original": "रलिप्तदिग्व",
+      "transliteration": "بِيتْبُهُ",
+      "translation": "قاعدة أو أساس"
+    },
+    {
+      "original": "धूमुखे",
+      "transliteration": "بْهُجَنْجَ",
+      "translation": "الأفعى"
+    },
+    {
+      "original": "मदांध",
+      "transliteration": "رَاجَمَالَيَا",
+      "translation": "تيجان ملوك"
+    },
+    {
+      "original": "सिन्धुरस",
+      "transliteration": "نِبَذَ",
+      "translation": "مقيد أو مربوط"
+    },
+    {
+      "original": "फुरत",
+      "transliteration": "جَاتْجُوتَكْ",
+      "translation": "الشعر المستعار أو الجدائل"
+    },
+    {
+      "original": "त्वगुत्तरीयमे",
+      "transliteration": "شْرِيَيَ",
+      "translation": "للأناقة أو الرفاهية"
+    },
+    {
+      "original": "दूरे",
+      "transliteration": "شِيرَا",
+      "translation": "دائم أو طويل الأمد"
+    },
+    {
+      "original": "मनो",
+      "transliteration": "جَايَتَانْ",
+      "translation": "سيأتي أو سيحدث"
+    },
+    {
+      "original": "विनोद",
+      "transliteration": "جَكُورْ",
+      "translation": "طائر صغير يستخدم في الرموز الثقافية الهندية"
+    },
+    {
+      "original": "मद्भुतं",
+      "transliteration": "بَنْدُوشَيْخَرَ",
+      "translation": "القمة التي تدير العالم"
+    },
+    {
+      "original": "बिभर्तु",
+      "transliteration": "لَلاَتْ",
+      "translation": "الجبهة"
+    },
+    {
+      "original": "भूतभर्तरि",
+      "transliteration": "شَتْوَرَجْوَلَدْ",
+      "translation": "اللهب الذي يضيء"
+    },
+    {
+      "original": "सहस्र",
+      "transliteration": "دَهَنَنْجَيْسْفُلِنْغَبَا",
+      "translation": "شرارة شديدة من النار"
+    },
+    {
+      "original": "लोचनप्रभृत्य",
+      "transliteration": "نِبِيتْ",
+      "translation": "امتصاص أو شرب"
+    },
+    {
+      "original": "शेष",
+      "transliteration": "بَنْجَسَايَكَنْ",
+      "translation": "أسلحة الخمسة"
+    },
+    {
+      "original": "लेखशेखर",
+      "transliteration": "نَمَنِّلِمْبْ",
+      "translation": "إظهار الاحترام أو التواضع"
+    },
+    {
+      "original": "प्रसून",
+      "transliteration": "نَايَكَمْ",
+      "translation": "القائد أو الرفيق"
+    },
+    {
+      "original": "धूलिधोरणी",
+      "transliteration": "سُودَ",
+      "translation": "الرحيق أو السائل المحلى"
+    },
+    {
+      "original": "विधूस",
+      "transliteration": "مَيُوخَلِ",
+      "translation": "الشعاع الذي يتناثر"
+    },
+    {
+      "original": "राङ्घ्रि",
+      "transliteration": "خَيَا",
+      "translation": "فضاء أو مكان واسع"
+    },
+    {
+      "original": "पीठभूः",
+      "transliteration": "وَرَاجَمَانَشَيْخَرَ",
+      "translation": "تسليط الضوء على الراحة أو التألق"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "مَحَاكَفَالِسَمْبَادِ",
+      "translation": "ثروة عظيمة في مجال المعرفة والحكمة"
+    },
+    {
+      "original": "राजमालया",
+      "transliteration": "شِيرُوجَ",
+      "translation": "رأس أو القمة"
+    },
+    {
+      "original": "निबद्ध",
+      "transliteration": "تَالَمَسْتُ نَحْ",
+      "translation": "باركنا أو طلبنا التوفيق أو النعمة"
+    },
+    {
+      "original": "जाटजूटक",
+      "transliteration": "كَرَالْ",
+      "translation": "مروع أو مرعب"
+    },
+    {
+      "original": "श्रियै",
+      "transliteration": "بَالْ",
+      "translation": "الجبهة أو الصدغ"
+    },
+    {
+      "original": "चिराय",
+      "transliteration": "بَتِيكَ",
+      "translation": "الحزام أو الشريط"
+    },
+    {
+      "original": "जायतां",
+      "transliteration": "دَغَدْ",
+      "translation": "صوت اللهب"
+    },
+    {
+      "original": "चकोर",
+      "transliteration": "دَغَدْ",
+      "translation": "صوت اللهب"
+    },
+    {
+      "original": "बन्धुशेखरः",
+      "transliteration": "دَغَجْجْوَلْ",
+      "translation": "اللمعان أو اللهب الشديد"
+    },
+    {
+      "original": "ललाट",
+      "transliteration": "دَهَنَنْجَيَاهُتِ",
+      "translation": "تقديم النار أو طقوس العبادة"
+    },
+    {
+      "original": "चत्वर",
+      "transliteration": "كْرَتْبَرَچَنْدْ",
+      "translation": "قوي أو عنيف"
+    },
+    {
+      "original": "ज्वलद्",
+      "transliteration": "بَنْجَسَايَكِ",
+      "translation": "معركة أو سلاح"
+    },
+    {
+      "original": "धनञ्जय",
+      "transliteration": "دَهْرَا",
+      "translation": "الأرض أو الوعاء"
+    },
+    {
+      "original": "स्फुलिङ्गभा",
+      "transliteration": "دَرِندْرَ",
+      "translation": "الذي يحمل الأرض أو الرب"
+    },
+    {
+      "original": "निपीत",
+      "transliteration": "نَندِينِي",
+      "translation": "السرور أو القوة العاطفية"
+    },
+    {
+      "original": "पञ्चसायकं",
+      "transliteration": "كُوشَاجْرَ",
+      "translation": "طرف الثدي"
+    },
+    {
+      "original": "नमन्",
+      "transliteration": "شِتْرَابَتْرَكَ",
+      "translation": "صورة مصورة"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "بْرَاكَلْبَ",
+      "translation": "فكرة أو مفهوم"
+    },
+    {
+      "original": "नायकम्",
+      "transliteration": "نَيْكْ",
+      "translation": "العديد أو غيره"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "شِيلْفِنِي",
+      "translation": "صانع أو فنان"
+    },
+    {
+      "original": "मयूखले",
+      "transliteration": "تْرِيلُوتْشَانِ",
+      "translation": "الذي يملك ثلاثة أعين"
+    },
+    {
+      "original": "खया",
+      "transliteration": "رَتِرْمَمَ",
+      "translation": "الحب أو الشوق"
+    },
+    {
+      "original": "विराजमानशेखरं",
+      "transliteration": "نَافِينْ",
+      "translation": "جديد أو معاصر"
+    },
+    {
+      "original": "महाकपालि",
+      "transliteration": "مَيْغْ",
+      "translation": "الغيوم أو السحاب"
+    },
+    {
+      "original": "सम्पदे",
+      "transliteration": "مَنْدَلِي",
+      "translation": "دائرة أو حلقة"
+    },
+    {
+      "original": "शिरोज",
+      "transliteration": "نِرُدْ",
+      "translation": "العدم أو عدم الوجود"
+    },
+    {
+      "original": "टालमस्तु",
+      "transliteration": "دَهْدُرْ",
+      "translation": "صوت قوي أو متسارع"
+    },
+    {
+      "original": "नः",
+      "transliteration": "دَهْرَسْفُرَتْ",
+      "translation": "اضطراب أو اهتزاز"
+    },
+    {
+      "original": "कराल",
+      "transliteration": "كُهُوْ",
+      "translation": "صوت الهمسات أو الخفقان"
+    },
+    {
+      "original": "भाल",
+      "transliteration": "نِشِيثِي",
+      "translation": "الليل أو الليل الهادئ"
+    },
+    {
+      "original": "पट्टिका",
+      "transliteration": "نِيتَمَحْ",
+      "translation": "مبدع أو رائع"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "بْرَابَنْدْ",
+      "translation": "الترتيب أو النظام"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "بَذْدْ",
+      "translation": "مقيد أو مقفل"
+    },
+    {
+      "original": "धगज्ज्वल",
+      "transliteration": "كَنْدَرَ",
+      "translation": "الكتف أو الحمالة"
+    },
+    {
+      "original": "धनञ्जयाहुती",
+      "transliteration": "نِلِمْبْ",
+      "translation": "فوضوي أو غير مرتب"
+    },
+    {
+      "original": "कृतप्रचण्ड",
+      "transliteration": "نِرْجَهَرِي",
+      "translation": "ماء الشلال أو الينابيع"
+    },
+    {
+      "original": "पञ्चसायके",
+      "transliteration": "دَهْرَسْ",
+      "translation": "الأرض أو الجذور"
+    },
+    {
+      "original": "धरा",
+      "transliteration": "تَنُوتُ",
+      "translation": "ينمو أو يتسع"
+    },
+    {
+      "original": "धरेन्द्र",
+      "transliteration": "كْرِتْتِي",
+      "translation": "الأعمال أو الأفعال"
+    },
+    {
+      "original": "नन्दिनी",
+      "transliteration": "سِنْدُرَحْ",
+      "translation": "البحر الهادئ أو المظلم"
+    },
+    {
+      "original": "कुचाग्र",
+      "transliteration": "كَلَا",
+      "translation": "الفن أو الإبداع"
+    },
+    {
+      "original": "चित्रपत्रक",
+      "transliteration": "نِهْدَانِ",
+      "translation": "كنز أو مجموعة من الأشياء القيمة"
+    },
+    {
+      "original": "प्रकल्प",
+      "transliteration": "بَنْدُورَحْ",
+      "translation": "الذي يساعد أو يقود"
+    },
+    {
+      "original": "नैक",
+      "transliteration": "شْرِيَيَمْ",
+      "translation": "الرفاهية أو البركة"
+    },
+    {
+      "original": "शिल्पिनि",
+      "transliteration": "جَجَدْ",
+      "translation": "العالم أو الكون"
+    },
+    {
+      "original": "त्रिलोचने",
+      "transliteration": "دُهُرَنْدَرَحْ",
+      "translation": "الذي يحرك العالم أو الذي يحمل المسؤولية الكبرى"
+    },
+    {
+      "original": "रतिर्मम",
+      "transliteration": "بْرَفُلْلَ",
+      "translation": "اللامع أو المضيء"
+    },
+    {
+      "original": "नवीन",
+      "transliteration": "نِيلَفَنكَجَ",
+      "translation": "زهرة اللوتس الزرقاء"
+    },
+    {
+      "original": "मेघ",
+      "transliteration": "بْرَفَنْشْ",
+      "translation": "الكون أو العالم الكبير"
+    },
+    {
+      "original": "मण्डली",
+      "transliteration": "كَالِمْ",
+      "translation": "الظلام أو اللون الداكن"
+    },
+    {
+      "original": "निरुद्",
+      "transliteration": "فْرَابَ",
+      "translation": "الضوء أو اللمعان"
+    },
+    {
+      "original": "धदुर्",
+      "transliteration": "وَلَمْبِ",
+      "translation": "معلق أو معلق فوق"
+    },
+    {
+      "original": "धरस्फुरत्",
+      "transliteration": "كَنْتَكَنْدَلِي",
+      "translation": "الزهور على العنق أو الزينة في الحبال"
+    },
+    {
+      "original": "कुहू",
+      "transliteration": "رُشِبَرَبَذْ",
+      "translation": "يرتبط بالذوق أو الجمال"
+    },
+    {
+      "original": "निशीथि",
+      "transliteration": "كَنْدَرَمْ",
+      "translation": "العنق أو طرف الجسم"
+    },
+    {
+      "original": "नीतमः",
+      "transliteration": "سْمَرَشِدَمْ",
+      "translation": "قاتل الذكريات أو القضاء على الذكريات"
+    },
+    {
+      "original": "प्रबन्ध",
+      "transliteration": "بُورَشِدَمْ",
+      "translation": "قتل الماضي أو القضاء على الماضي"
+    },
+    {
+      "original": "बद्ध",
+      "transliteration": "بَهَوَشِدَمْ",
+      "translation": "الفناء أو إنهاء العوائق القديمة"
+    },
+    {
+      "original": "कन्धरः",
+      "transliteration": "مَخَشِدَمْ",
+      "translation": "القتال في المعركة أو غزو الأمور"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "جَجَشِ",
+      "translation": "قطع الأعداء أو المنازعة"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "دَانْدْ",
+      "translation": "بعيد أو مثير"
+    },
+    {
+      "original": "धरस्",
+      "transliteration": "كَشِدَمْ",
+      "translation": "النجاح أو الفوز الكبير"
+    },
+    {
+      "original": "तनोतु",
+      "transliteration": "تَمَنْتَ",
+      "translation": "النهاية أو الاستكمال"
+    },
+    {
+      "original": "कृत्ति",
+      "transliteration": "كَشِدَمْ",
+      "translation": "النجاح أو الفوز الكبير"
+    },
+    {
+      "original": "सिन्धुरः",
+      "transliteration": "بَجْهَ",
+      "translation": "العبادة أو التوجه نحو الروح"
+    },
+    {
+      "original": "कला",
+      "transliteration": "أَخَرْفْ",
+      "translation": "التمويه أو التنظيم"
+    },
+    {
+      "original": "निधान",
+      "transliteration": "سَرْفْ",
+      "translation": "الكل أو جميع الأشياء"
+    },
+    {
+      "original": "बन्धुरः",
+      "transliteration": "مَنْغَلَ",
+      "translation": "الخير أو النماء"
+    },
+    {
+      "original": "श्रियं",
+      "transliteration": "كَلَا",
+      "translation": "الفن أو الإبداع"
+    },
+    {
+      "original": "जगद्",
+      "transliteration": "كَدَمْبْ",
+      "translation": "الزهور في الأشجار أو جمال الشجرة"
+    },
+    {
+      "original": "धुरंधरः",
+      "transliteration": "مَنْجَرِي",
+      "translation": "الزهرة أو الورد"
+    },
+    {
+      "original": "प्रफुल्ल",
+      "transliteration": "رَسْا",
+      "translation": "السائل أو الجوهر"
+    },
+    {
+      "original": "नीलपङ्कज",
+      "transliteration": "بْرَوَاحْ",
+      "translation": "تدفق أو تيار"
+    },
+    {
+      "original": "प्रपञ्च",
+      "transliteration": "مَادْهُورِي",
+      "translation": "الحلاوة أو جمال الصوت أو الطعم"
+    },
+    {
+      "original": "कालिम",
+      "transliteration": "فِيجْرَمْبَهْنَا",
+      "translation": "الانتشار أو التوسع في الاتجاهات المختلفة"
+    },
+    {
+      "original": "प्रभा",
+      "transliteration": "مَادْهُفْرَتَمْ",
+      "translation": "العهد أو الوعد المرتبط بالعسل أو اللذة"
+    },
+    {
+      "original": "वलम्बि",
+      "transliteration": "سْمَرَانْتَكَمْ",
+      "translation": "قَاتِل الشهوات أو من يوقف تذكر الأشياء المحسوسة"
+    },
+    {
+      "original": "कण्ठकन्दली",
+      "transliteration": "بُورَانْتَكَمْ",
+      "translation": "قاتل الماضي أو الذي يضع حداً للماضي"
+    },
+    {
+      "original": "रुचिप्रबद्ध",
+      "transliteration": "بَهْوَانْتَكَمْ",
+      "translation": "الذي ينهي المعاناة أو التحديات المرتبطة بالوجود"
+    },
+    {
+      "original": "कन्धरम्",
+      "transliteration": "مَخَانْتَكَمْ",
+      "translation": "الذي يقضي على العوائق المتعلقة بالطقوس أو التضحيات"
+    },
+    {
+      "original": "स्मरच्छिदं",
+      "transliteration": "جَجَانْتَ",
+      "translation": "نهاية الفيل أو نهاية القوة العظيمة"
+    },
+    {
+      "original": "पुरच्छिदं",
+      "transliteration": "كَانْدْهَ",
+      "translation": "العنق أو المكان الذي يقع فيه العنق"
+    },
+    {
+      "original": "भवच्छिदं",
+      "transliteration": "كَانْتَ",
+      "translation": "الحبيب أو المحبوب"
+    },
+    {
+      "original": "मखच्छिदं",
+      "transliteration": "كَمْ",
+      "translation": "صوت للتأكيد أو للموافقة"
+    },
+    {
+      "original": "गजच्छि",
+      "transliteration": "تَمَنْتَ",
+      "translation": "النهاية أو آخر شيء"
+    },
+    {
+      "original": "दांध",
+      "transliteration": "كَانْتَ",
+      "translation": "المحبوب أو الحبيب"
+    },
+    {
+      "original": "कच्छिदं",
+      "transliteration": "كَمْ",
+      "translation": "للتأكيد أو الاستفهام"
+    },
+    {
+      "original": "तमंत",
+      "transliteration": "بَجْهَ",
+      "translation": "العبادة أو الصلاة"
+    },
+    {
+      "original": "कच्छिदं",
+      "transliteration": "جَيَتْ",
+      "translation": "الذي ينتصر أو يحقق النجاح"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "وَدَبْهْرَ",
+      "translation": "خطأ أو تلعثم في الكلام"
+    },
+    {
+      "original": "अखर्व",
+      "transliteration": "فِبْهْرَمْ",
+      "translation": "الارتباك أو التردد"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "بْهْرَمَدْ",
+      "translation": "الالتواء أو الخطأ في الاتجاهات"
+    },
+    {
+      "original": "मङ्गला",
+      "transliteration": "بُهْجَنْجَ",
+      "translation": "الأفعى أو الثعبان"
+    },
+    {
+      "original": "कला",
+      "transliteration": "مَشْوَسْ",
+      "translation": "التنفس أو الزفير الحاد"
+    },
+    {
+      "original": "कदंब",
+      "transliteration": "دْوِينِيرْغْ",
+      "translation": "الصدع أو الصوت الذي يصدر عند بداية الحركة"
+    },
+    {
+      "original": "मञ्जरी",
+      "transliteration": "كَرَمَسْفُورَتْ",
+      "translation": "الحركة المستمرة أو الشعور بالتقدم"
+    },
+    {
+      "original": "रस",
+      "transliteration": "كَرَالْ",
+      "translation": "المريع أو الشرير"
+    },
+    {
+      "original": "प्रवाह",
+      "transliteration": "بَاهَلْ",
+      "translation": "الجبهة أو الجبين"
+    },
+    {
+      "original": "माधुरी",
+      "transliteration": "هَفْيَوَاتْ",
+      "translation": "الطريق الذي يسير فيه الإشعال أو النار"
+    },
+    {
+      "original": "विजृंभणा",
+      "transliteration": "ذِمِذِهِمِذِهِمِذْوَنَنْمِرْدَنگَتُنگَمَنْگَل",
+      "translation": "تكرار الصوت العالي في آلة موسيقية"
+    },
+    {
+      "original": "मधुव्रतम्",
+      "transliteration": "ذْوَنِكْرَمْبَرْفَرْتِتْ",
+      "translation": "بداية النغمة الصوتية أو الحركة السريعة"
+    },
+    {
+      "original": "स्मरान्तकं",
+      "transliteration": "پْرَچَندَتَانْدَوَة",
+      "translation": "الرقص الشديد العنيف أو الحركة العنيفة"
+    },
+    {
+      "original": "पुरान्तकं",
+      "transliteration": "شِيفَحْ",
+      "translation": "إله الخير والسلام أو رمز للطهارة"
+    },
+    {
+      "original": "भवान्तकं",
+      "transliteration": "سْبْرَشَذْوِچِتْرَتَلْبَيوهُ",
+      "translation": "سطح الأرض المتنوع والذي يمكن ملامسته"
+    },
+    {
+      "original": "मखान्तकं",
+      "transliteration": "بُهْجَنْجَمَوقْتِكَسْرَجُورْ",
+      "translation": "عقد من اللؤلؤ حول الأفعى أو الزينة المصنوعة من اللؤلؤ"
+    },
+    {
+      "original": "गजान्त",
+      "transliteration": "جَرِشْتَرَتْنَلُوَشْثَيوهُ",
+      "translation": "الحجارة الثمينة أو اللؤلؤ المقدر القيمة"
+    },
+    {
+      "original": "कान्ध",
+      "transliteration": "سُهْرَدْوِبَكْشَفَكْشَيُ",
+      "translation": "الأصدقاء والأعداء"
+    },
+    {
+      "original": "कान्त",
+      "transliteration": "تْرِشْنَارَافِنْدَكَّكْشُوشُو",
+      "translation": "العين التي ترى الجمال أو الحزن"
+    },
+    {
+      "original": "कं",
+      "transliteration": "بْرَجَامَهِيمَهِنْدَرَيُ",
+      "translation": "الشمس التي تشرق عن بحر أو الوجود الأمومي"
+    },
+    {
+      "original": "तमन्त",
+      "transliteration": "سَمَفْرَفْرُتِّكَ",
+      "translation": "الاستمرارية أو الوضع المستمر في الاتجاه الصحيح"
+    },
+    {
+      "original": "कान्त",
+      "transliteration": "كَدَا",
+      "translation": "متى أو في أي وقت"
+    },
+    {
+      "original": "कं",
+      "transliteration": "سَدَاشِيفَمْ",
+      "translation": "الله الذي هو الخير الأزلي أو الأبدى"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "بَجْهَ",
+      "translation": "العبادة أو الصلاة"
+    },
+    {
+      "original": "जयत्",
+      "transliteration": "نِلِمْبَنْرِجَرِينِكُونْجَكُوتَرِ",
+      "translation": "في غار الشلال النقي أو في مكان مظلمٍ حيث الماء ينساب"
+    },
+    {
+      "original": "वदभ्र",
+      "transliteration": "وَسَنْ",
+      "translation": "وهو المقيم أو الساكن في مكان معين"
+    },
+    {
+      "original": "विभ्रम",
+      "transliteration": "فِيمُكْتَدُورْمَتِهْ",
+      "translation": "التحرر من الأفكار السيئة أو التخلي عن المعتقدات المظلمة"
+    },
+    {
+      "original": "भ्रमद्",
+      "transliteration": "شِيرَهْ",
+      "translation": "الرأس أو الجزء العلوي من الجسد"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "سْتَمَنْجَلِمْ",
+      "translation": "وضع اليدين في وضع الصلاة أو الانحناء"
+    },
+    {
+      "original": "मश्वस",
+      "transliteration": "فِيمُكْتَلُولَلُوتْشُونُو",
+      "translation": "الذي يحرر عينيه من كل التعلق أو المشتتات"
+    },
+    {
+      "original": "द्विनिर्ग",
+      "transliteration": "لَلَامَفْهَالاَلَغْنَكَهُ",
+      "translation": "الذي يتأثر بمقدمة رأسه أو له علاقة قوية بمظهره الخارجي"
+    },
+    {
+      "original": "मत्",
+      "transliteration": "شِيفَتِي",
+      "translation": "هذا هو الإله الذي يرمز إلى الخير والنظام في الكون"
+    },
+    {
+      "original": "क्रमस्फुरत्",
+      "transliteration": "مَنْتْرَمُتْشَرَن",
+      "translation": "ترديد أو نطق تعويذة أو ذكرية مقدسة"
+    },
+    {
+      "original": "कराल",
+      "transliteration": "كَدَا",
+      "translation": "متى أو في أي وقت معين"
+    },
+    {
+      "original": "भाल",
+      "transliteration": "سُخِي",
+      "translation": "الشخص الذي في حالة من الراحة أو السعادة"
+    },
+    {
+      "original": "हव्यवाट्",
+      "transliteration": "بْهَوَامْيَحَمْ",
+      "translation": "أنا سأكون أو أكون في المستقبل"
+    },
+    {
+      "original": "धिमिद्धिमिद्धिमि",
+      "transliteration": "إِدَمْ",
+      "translation": "هذا أو هذه"
+    },
+    {
+      "original": "ध्वनन्मृदङ्ग",
+      "transliteration": "هِ",
+      "translation": "بالتأكيد أو حقاً"
+    },
+    {
+      "original": "तुङ्गमङ्गल",
+      "transliteration": "نِتْيَمِيفَا",
+      "translation": "دائماً أو على نحو مستمر"
+    },
+    {
+      "original": "ध्वनिक्रमप्रवर्तित",
+      "transliteration": "أُتَمُوتْتَمْ",
+      "translation": "الأفضل أو الأسمى"
+    },
+    {
+      "original": "प्रचण्डताण्डवः",
+      "transliteration": "سْتَفَمْ",
+      "translation": "صلاة أو قصيدة مقدسة تمجد القوة الإلهية"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "بَتْهَنْسْمَرَنْبْرُفَنَرُ",
+      "translation": "عندما يقرأ ويكرر الصلاة أو الذكر"
+    },
+    {
+      "original": "स्पृषद्विचित्रतल्पयोः",
+      "transliteration": "فِيشُذِهِمِتِسَنْتَتَمْ",
+      "translation": "نقاء أو طهارة تامة تحققت باستمرار"
+    },
+    {
+      "original": "भुजङ्गमौक्तिकस्रजोर्",
+      "transliteration": "هَارِي",
+      "translation": "التضرع أو الدعاء لله باسم هارِي"
+    },
+    {
+      "original": "गरिष्ठरत्नलोष्ठयोः",
+      "transliteration": "جُرَو",
+      "translation": "في المعلم أو الوجود الروحي الذي يوجه الناس نحو الخير"
+    },
+    {
+      "original": "सुहृद्विपक्षपक्षयोः",
+      "transliteration": "سُبْهَكْتِمَاشُو",
+      "translation": "التفاني أو الإخلاص لله الذي يؤدي إلى تحرر الشخص من القيود"
+    },
+    {
+      "original": "तृष्णारविन्दचक्षुषोः",
+      "transliteration": "يَاتِي",
+      "translation": "يذهب أو يتقدم إلى مكان معين"
+    },
+    {
+      "original": "प्रजामहीमहेन्द्रयोः",
+      "transliteration": "نَانْيَثَا",
+      "translation": "بخلاف ذلك أو غير ذلك"
+    },
+    {
+      "original": "समप्रवृत्तिकः",
+      "transliteration": "غَتِيمْ",
+      "translation": "المسار أو الطريقة التي يسلكها الشخص في الحياة"
+    },
+    {
+      "original": "कदा सदाशिवं भजे",
+      "transliteration": "فِيمُهُّنْ",
+      "translation": "التحول أو القدرة على تحرير الأذهان من الظلمات"
+    },
+    {
+      "original": "कदा",
+      "transliteration": "دِيهِنَانْ",
+      "translation": "الأشخاص أو الكائنات التي تحمل أجسامها على الأرض"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "سُشَانْكَرَسِي",
+      "translation": "الذكر أو الدعاء للإله \"سوشانكار\""
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "شِينْتَنَمْ",
+      "translation": "التأمل أو التفكير العميق في الذات أو الكون"
+    },
+    {
+      "original": "निकुञ्ज",
+      "transliteration": "بُوجَا",
+      "translation": "العبادة أو الصلاة المكرسة لله"
+    },
+    {
+      "original": "कोटरे",
+      "transliteration": "وَسَنْ",
+      "translation": "السكون أو التواجد في مكان معين"
+    },
+    {
+      "original": "वसन",
+      "transliteration": "سَمَيَ",
+      "translation": "في الوقت أو في الزمان"
+    },
+    {
+      "original": "विमुक्त",
+      "transliteration": "دَشْوَكْتَرْ",
+      "translation": "الذي له عشرة وجوه أو ذو العشرة وجوه"
+    },
+    {
+      "original": "दुर्मति",
+      "transliteration": "جِيتَمْ",
+      "translation": "الغناء أو الترانيم أو النصوص المقدسة"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "يَهْ",
+      "translation": "الذي أو الذي يرمز إليه"
+    },
+    {
+      "original": "सिरः",
+      "transliteration": "شَمْبُو",
+      "translation": "إله الهدوء والتدمير في المعتقدات الهندية"
+    },
+    {
+      "original": "स्थमञ्जलिं",
+      "transliteration": "بُوجَنَ",
+      "translation": "العبادة أو التقديس الموجه نحو الإله"
+    },
+    {
+      "original": "वहन",
+      "transliteration": "بَرَمْ",
+      "translation": "الأعلى أو الأسمى"
+    },
+    {
+      "original": "विमुक्त",
+      "transliteration": "بَتْهَتِ",
+      "translation": "يقرأ أو يردد أو يذكر"
+    },
+    {
+      "original": "लोललोचनो",
+      "transliteration": "بَرْدُوشِ",
+      "translation": "في وقت المساء أو في فترة غروب الشمس"
+    },
+    {
+      "original": "ललाम",
+      "transliteration": "تَسْيَ",
+      "translation": "له أو ملكه"
+    },
+    {
+      "original": "भाललग्नकः",
+      "transliteration": "سْتِهْرَامْ",
+      "translation": "ثابت أو مستقر في مكانه"
+    },
+    {
+      "original": "शिवेति",
+      "transliteration": "رَثَجَجِينْدَرْ",
+      "translation": "ملك أو قائد الرهط المهيمن في العربة"
+    },
+    {
+      "original": "मंत्रमुच्चरन्",
+      "transliteration": "تُرَنْجَ",
+      "translation": "الحصان أو الفرس السريع"
+    },
+    {
+      "original": "कदा",
+      "transliteration": "يُوكْتَامْ",
+      "translation": "متصل أو مرتبط أو مؤتلف"
+    },
+    {
+      "original": "सुखी",
+      "transliteration": "لَكْشْمِي",
+      "translation": "الإلهة الحامية للثروة والخصب في المعتقدات الهندية"
+    },
+    {
+      "original": "भवाम्यहम्",
+      "transliteration": "سَدَيْفَ",
+      "translation": "دائماً أو في كل وقت"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "سُمُوخِنْ",
+      "translation": "الشخص ذو الوجه الطيب أو ذو الوجه الجميل"
+    },
+    {
+      "original": "ही",
+      "transliteration": "بَرَدَادَتِ",
+      "translation": "يعطي أو يقدم أو يمنح"
+    },
+    {
+      "original": "नित्यंेव",
+      "transliteration": "شَمْبُهُ",
+      "translation": "إله الهدوء والتدمير في المعتقدات الهندية"
+    },
+    {
+      "original": "मुक्तम्",
+      "transliteration": "إِتِ",
+      "translation": "هكذا أو هذا يعني"
+    },
+    {
+      "original": "उत्तमं",
+      "transliteration": "شِيرَافَنَا",
+      "translation": "ملك الشياطين في الأساطير الهندية"
+    },
+    {
+      "original": "स्तवं",
+      "transliteration": "كْرِتَمْ",
+      "translation": "الذي تم إنجازه أو عمله"
+    },
+    {
+      "original": "पठन्",
+      "transliteration": "شِيفَ",
+      "translation": "الإله الذي يرمز إلى الدمار والتجديد في المعتقدات الهندية"
+    },
+    {
+      "original": "स्मरण",
+      "transliteration": "تَانْدَوَ",
+      "translation": "رقصة عنيفة تعبّر عن الغضب الإلهي"
+    },
+    {
+      "original": "ब्रुवन्",
+      "transliteration": "سْتُوتْرَمْ",
+      "translation": "النص أو الترانيم الدينية المقدسة"
+    },
+    {
+      "original": "नर",
+      "transliteration": "سَمْبُورْنَمْ",
+      "translation": "الكامل أو الكامل تمامًا"
+    },
+    {
+      "original": "विशुद्धिम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "एतित",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संतमं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हरे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "गुरौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुभक्तिं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आशु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "याति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नान्यथा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "गतिं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विमोहनं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ही",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देहिनां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुशङ्करस्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चिंतनं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वसान",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "समये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दशवक्त्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "गीतं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शंभु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रदोषे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्थिरां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रथगजेन्द्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तुरङ्ग",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "युक्तां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लक्ष्मीं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सदैव",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुमुखिं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रददाति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शंभुः",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\arabic\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\arabic\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.655Z"
+  }
+}

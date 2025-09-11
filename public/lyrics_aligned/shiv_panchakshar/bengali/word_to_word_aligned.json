@@ -1,0 +1,344 @@
+{
+  "mantra": "shiv_panchakshar",
+  "language": "bengali",
+  "type": "word_to_word",
+  "totalWords": 66,
+  "alignedWords": [
+    {
+      "original": "नागेन्द्रहाराय",
+      "transliteration": "নাগেন্দ্রহারায়",
+      "translation": "যিনি নাগরাজের হাররূপ এবং তিনটি চোখ বিশিষ্ট, তিনিই শিব।"
+    },
+    {
+      "original": "त्रिलोचनाय",
+      "transliteration": "ত্রিলোচনায়",
+      "translation": "যিনি তিনটি চোখ বিশিষ্ট, তিনিই শিব।"
+    },
+    {
+      "original": "भस्माङ्गरागाय",
+      "transliteration": "ভস্মাঙ্গরাগায়",
+      "translation": "যিনি ভস্ম দ্বারা আচ্ছাদিত, তিনি মহেশ্বর শিব।"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "মহেশ্বরায়",
+      "translation": "তিনি মহেশ্বর, শিব।"
+    },
+    {
+      "original": "नित्याय",
+      "transliteration": "নিত্যের",
+      "translation": "যিনি চিরস্থায়ী, শুদ্ধ এবং দিগম্বর রূপে আছেন, তিনি শিব।"
+    },
+    {
+      "original": "शुद्धाय",
+      "transliteration": "শুদ্ধায়",
+      "translation": "যিনি শুদ্ধ, তিনি শিব।"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "দিগম্বরায়",
+      "translation": "যিনি দিগম্বর রূপে আছেন, তিনি শিব।"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "তস্মই",
+      "translation": "'তস্মই' বা 'তাকে' - শিবের প্রতি প্রণাম।"
+    },
+    {
+      "original": "न काराय",
+      "transliteration": "ন কারায়",
+      "translation": "'ন' (Na) রূপী শিবকে প্রণাম।"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "নমঃ শিবায়",
+      "translation": "শিবের প্রতি প্রণাম।"
+    },
+    {
+      "original": "मन्दाकिनी",
+      "transliteration": "মন্দাকিনী",
+      "translation": "মন্দাকিনী নদী।"
+    },
+    {
+      "original": "सलीलचन्दन",
+      "transliteration": "সলীলচন্দন",
+      "translation": "চন্দন দ্বারা পবিত্রিত।"
+    },
+    {
+      "original": "चर्चिताय",
+      "transliteration": "চরচিতায়",
+      "translation": "যিনি পূজিত, তিনিই শিব।"
+    },
+    {
+      "original": "नन्दीश्वर",
+      "transliteration": "নন্দীশ্বর",
+      "translation": "যিনি নন্দীর প্রভু, তিনিই শিব।"
+    },
+    {
+      "original": "प्रमथनाथ",
+      "transliteration": "প্রমথনাথ",
+      "translation": "যিনি প্রমথগণের প্রভু, তিনিই শিব।"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "মহেশ্বরায়",
+      "translation": "তিনি মহেশ্বর, শিব।"
+    },
+    {
+      "original": "मन्दारपुष्प",
+      "transliteration": "মন্দারপুষ্প",
+      "translation": "মন্দার ফুল।"
+    },
+    {
+      "original": "बहुपुष्प",
+      "transliteration": "বহুপুষ্প",
+      "translation": "বহু ফুল।"
+    },
+    {
+      "original": "सुपूजिताय",
+      "transliteration": "সুপূজিতায়",
+      "translation": "যিনি ফুল দ্বারা পূজিত, তিনি শিব।"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "তস্মই",
+      "translation": "'তস্মই' বা 'তাকে' - শিবের প্রতি প্রণাম।"
+    },
+    {
+      "original": "म काराय",
+      "transliteration": "ম কারায়",
+      "translation": "'ম' (Ma) রূপী শিবকে প্রণাম।"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "নমঃ শিবায়",
+      "translation": "শিবের প্রতি প্রণাম।"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "শিবায়",
+      "translation": "শিবের প্রতি প্রণাম।"
+    },
+    {
+      "original": "गोरिवदनाब्जवृंद",
+      "transliteration": "গৌরী-বদনাব্জবৃন্দ",
+      "translation": "যিনি গৌরীর মুখের মতো কমল, তিনিই শিব।"
+    },
+    {
+      "original": "सूर्याय",
+      "transliteration": "সূর্যায়",
+      "translation": "সূর্য দেবতার রূপে আছেন, তিনিই শিব।"
+    },
+    {
+      "original": "दक्षाध्वरनाशकाय",
+      "transliteration": "দাক্ষাধ্বরণাশকায়",
+      "translation": "যিনি দক্ষের যজ্ঞ ধ্বংস করেছেন, তিনিই শিব।"
+    },
+    {
+      "original": "श्रीनीलकंठाय",
+      "transliteration": "শ্রীনীলকণ্ঠায়",
+      "translation": "যিনি নীলকণ্ঠ, তিনিই শিব।"
+    },
+    {
+      "original": "वृषध्वजाय",
+      "transliteration": "বৃষধ্বজায়",
+      "translation": "যিনি ষাঁড়ের পতাকা ধারণ করেন, তিনিই শিব।"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "তস্মই",
+      "translation": "'তস্মই' বা 'তাকে' - শিবের প্রতি প্রণাম।"
+    },
+    {
+      "original": "शि काराय",
+      "transliteration": "শি কারায়",
+      "translation": "'শি' (Shi) রূপী শিবকে প্রণাম।"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "নমঃ শিবায়",
+      "translation": "শিবের প্রতি প্রণাম।"
+    },
+    {
+      "original": "वसिष्ठ",
+      "transliteration": "বশিষ্ঠ",
+      "translation": "যিনি ঋষি বশিষ্ঠ, তিনিই শিব।"
+    },
+    {
+      "original": "कुम्भोद्भव",
+      "transliteration": "কুম্ভোদ্ভব",
+      "translation": "যিনি কুম্ভের অঙ্গ থেকে জন্মগ্রহণ করেছেন, তিনিই শিব।"
+    },
+    {
+      "original": "गौतमार्य",
+      "transliteration": "গৌতমার্য",
+      "translation": "যিনি ঋষি গৌতমের মাধ্যমে পূজিত, তিনিই শিব।"
+    },
+    {
+      "original": "मुनीन्द्र",
+      "transliteration": "মুনীন্দ্র",
+      "translation": "যিনি ঋষি ও দেবতাদের প্রভু, তিনিই শিব।"
+    },
+    {
+      "original": "देव",
+      "transliteration": "দেব",
+      "translation": "যিনি দেবতাদের প্রভু, তিনিই শিব।"
+    },
+    {
+      "original": "अर्चित",
+      "transliteration": "অর্চিত",
+      "translation": "যিনি পূজিত, তিনিই শিব।"
+    },
+    {
+      "original": "शेखराय",
+      "transliteration": "শেখরায়",
+      "translation": "যিনি শিরস্ত্রাণ পরিধান করেন, তিনিই শিব।"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "চন্দ্র",
+      "translation": "যিনি চন্দ্রের রূপে আছেন, তিনিই শিব।"
+    },
+    {
+      "original": "अर्क",
+      "transliteration": "আর্ক",
+      "translation": "যিনি সূর্যের রূপে আছেন, তিনিই শিব।"
+    },
+    {
+      "original": "वैश्वानर",
+      "transliteration": "বৈশ্বানর",
+      "translation": "যিনি বিশ্বজ্বালা বা আগ্নির রূপে আছেন, তিনিই শিব।"
+    },
+    {
+      "original": "लोचनाय",
+      "transliteration": "লোচনায়",
+      "translation": "যিনি চোখের মধ্যে আছেন, তিনিই শিব।"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "তস্মই",
+      "translation": "'তস্মই' বা 'তাকে' - শিবের প্রতি প্রণাম।"
+    },
+    {
+      "original": "व काराय",
+      "transliteration": "ভ কারায়",
+      "translation": "'ভ' (Va) রূপী শিবকে প্রণাম।"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "নমঃ শিবায়",
+      "translation": "শিবের প্রতি প্রণাম।"
+    },
+    {
+      "original": "यक्ष",
+      "transliteration": "যক্ষস্বরূপায়",
+      "translation": "যিনি যক্ষ রূপে আছেন, তিনিই শিব।"
+    },
+    {
+      "original": "स्वरूपाय",
+      "transliteration": "জটাধরায়",
+      "translation": "যিনি জটা ধারণ করেন, তিনিই শিব।"
+    },
+    {
+      "original": "जटाधराय",
+      "transliteration": "পিনাকহস্তায়",
+      "translation": "যিনি পিনাক ধনু ধারণ করেন, তিনিই শিব।"
+    },
+    {
+      "original": "पिनाकहस्ताय",
+      "transliteration": "সনাতনায়",
+      "translation": "যিনি শাশ্বত বা চিরস্থায়ী, তিনিই শিব।"
+    },
+    {
+      "original": "सनातनाय",
+      "transliteration": "দিব্যায়",
+      "translation": "যিনি দেবীয় রূপে আছেন, তিনিই শিব।"
+    },
+    {
+      "original": "दिव्याय",
+      "transliteration": "দেবায়",
+      "translation": "যিনি দেবতাদের রূপে আছেন, তিনিই শিব।"
+    },
+    {
+      "original": "देवाय",
+      "transliteration": "দিগম্বরায়",
+      "translation": "যিনি দিগম্বর রূপে আছেন, তিনিই শিব।"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "তস্মই",
+      "translation": "'তস্মই' বা 'তাকে' - শিবের প্রতি প্রণাম।"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "য কারায়",
+      "translation": "'য' (Ya) রূপী শিবকে প্রণাম।"
+    },
+    {
+      "original": "य काराय",
+      "transliteration": "নমঃ শিবায়",
+      "translation": "শিবের প্রতি প্রণাম।"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "পঞ্চাক্ষরমিদং",
+      "translation": "এই পবিত্র পঞ্চাক্ষর মন্ত্র,"
+    },
+    {
+      "original": "पञ्चाक्षरमिदं",
+      "transliteration": "পুণ্যং",
+      "translation": "যে মন্ত্রটি পাঠ করলে শিবের সান্নিধ্যে চলে আসে।"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "যঃ",
+      "translation": "যে ব্যক্তি"
+    },
+    {
+      "original": "यः",
+      "transliteration": "পাঠেত্",
+      "translation": "এই মন্ত্রটি পাঠ করে"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "শিবসন্নিধৌ",
+      "translation": "শিবের সান্নিধ্যে আসেন।"
+    },
+    {
+      "original": "शिवसन्निधौ",
+      "transliteration": "শিবলোকং",
+      "translation": "শিবলোক অর্জন করেন।"
+    },
+    {
+      "original": "शिवलोकं",
+      "transliteration": "অভাপ্নোতি",
+      "translation": "শিবের সঙ্গে আনন্দে বসবাস করেন।"
+    },
+    {
+      "original": "अवाप्नोति",
+      "transliteration": "শিবেন",
+      "translation": "শিবের মাধ্যমে"
+    },
+    {
+      "original": "शिवेन",
+      "transliteration": "সহ",
+      "translation": "সঙ্গে"
+    },
+    {
+      "original": "सह",
+      "transliteration": "মোদতে",
+      "translation": "আনন্দিত হন।"
+    },
+    {
+      "original": "मोदीते",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\bengali\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\bengali\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.576Z"
+  }
+}

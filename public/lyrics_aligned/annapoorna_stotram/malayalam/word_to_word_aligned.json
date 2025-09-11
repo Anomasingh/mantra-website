@@ -1,0 +1,734 @@
+{
+  "mantra": "annapoorna_stotram",
+  "language": "malayalam",
+  "type": "word_to_word",
+  "totalWords": 144,
+  "alignedWords": [
+    {
+      "original": "नित्यानन्दकरी",
+      "transliteration": "നിത്യാനന്ദകരി",
+      "translation": "നിത്യാനന്ദം പ്രദാനം ചെയ്യുന്നവളായ"
+    },
+    {
+      "original": "वराभयकरी",
+      "transliteration": "വരാഭയകരി",
+      "translation": "ഭയത്തെ നശിപ്പിക്കുകയും അനുഗ്രഹം നൽകുന്നവളായ"
+    },
+    {
+      "original": "सौन्दर्यरत्नाकरी",
+      "transliteration": "സൗന്ദര്യരത്നാകരി",
+      "translation": "സൗന്ദര്യ രത്നങ്ങൾ നൽകുന്നവളായ"
+    },
+    {
+      "original": "निर्धूताखिलघोरपावनकरी",
+      "transliteration": "നിർധൂതാഖിലഘോരപാവനകരി",
+      "translation": "എല്ലാ ദുരിതങ്ങളും നശിപ്പിക്കുകയും പാപശുദ്ധികരിക്കുകയും ചെയ്യുന്നവളായ"
+    },
+    {
+      "original": "प्रत्यक्षमाहेश्वरी",
+      "transliteration": "പ്രത്യക്ഷമാഹേശ്വരി",
+      "translation": "പ്രത്യക്ഷമായ ആദിശ്വരിയായ"
+    },
+    {
+      "original": "प्रालेयाचलवंशपावनकरी",
+      "transliteration": "പ്രാലേയാചലवंശപാവനकरी",
+      "translation": "പ്രാലയത്തിനുശേഷം വിശുദ്ധി നൽകുന്നവളായ"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "കാശിപുരാധീശ്വരി",
+      "translation": "കാശി പൂരിന്റെ താത്കാലിക ദൈവിയ്‌ക്കയുമായ"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "ഭിക്ഷാം ദേഹി കൃപാവലംബനകരി",
+      "translation": "ഭിക്ഷ നൽകുകയും കൃപാപാലനത്തിനു പന്തലാകുന്നവളായ"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "നാനാരത്നവിചിത്രഭൂഷണകരി",
+      "translation": "വിപുലമായ രത്നാഭരണങ്ങൾ ധരിച്ചിരിക്കുന്നവളായ"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "ഹെമാംബരാഡംബരി",
+      "translation": "സുവർണവസ്ത്രം ധരിക്കുന്നവളായ"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "മുക്താഹാരവിളംബമാണവിലസദ്വക്ഷോജകുംബാന്തരി",
+      "translation": "നീണ്ടു കിടക്കുന്ന മുക്താഹാരങ്ങൾ, അത്ഭുതമായ വക്ഷോജകുമ്പങ്ങൾ"
+    },
+    {
+      "original": "नानारत्नविचित्रभूषणकरी",
+      "transliteration": "കാശ്മീരാഗരുവാസിതാംഗരുചിരെ",
+      "translation": "കാശ്മീരിൽ നിന്നുള്ള ഔഷധവായുവിന്റെ അനുബന്ധമായ ശുഭനിരീക്ഷണവളായ"
+    },
+    {
+      "original": "हेमाम्बराडम्बरी",
+      "transliteration": "കാശിപുരാധീശ്വരി",
+      "translation": "കാശിപുരയുടെ ദേവി"
+    },
+    {
+      "original": "मुक्ताहारविलम्बमान",
+      "transliteration": "ഭിക്ഷാം",
+      "translation": "ഭക്ഷ്യവസ്തു"
+    },
+    {
+      "original": "विलसद्वक्षोजकुम्भान्तरी",
+      "transliteration": "ദേഹി",
+      "translation": "നൽകുക"
+    },
+    {
+      "original": "काश्मीरागरुवासिताङ्गरुचिरे",
+      "transliteration": "കൃപാവലമ്പനകരി",
+      "translation": "ദയയുടെ അനുഗ്രഹം നൽകുന്നവളായ"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "മാതാന്നपूर्णേശ്വരി",
+      "translation": "അന്നപൂര്ണേശ്വരി"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "യോഗാനന്ദകരി",
+      "translation": "യോഗാനന്ദം നൽകുന്നവളായ"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "രിപുക്ഷയകരി",
+      "translation": "ശത്രുക്കളെ പരാജയപ്പെടുത്തുന്നവളായ"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "ധർമ്മാർഥനിഷ്‌ഠാകരി",
+      "translation": "ധർമ്മവും ആർത്തിക ജീവിതവും സുസ്ഥിരമാക്കുന്നവളായ"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "ചന്ദ്രാർകാനലഭാസമാണലഹരി",
+      "translation": "ചന്ദ്രനും സൂര്യനും ആഗ്നി അഗ്നിയുടെ തിളക്കത്തോടു കൂടിയവളായ"
+    },
+    {
+      "original": "योगानन्दकरी",
+      "transliteration": "ത്രൈലോക്യരക്ഷാകരി",
+      "translation": "ലോകങ്ങൾ സംരക്ഷിക്കുന്നവളായ"
+    },
+    {
+      "original": "रिपुक्षयकरी",
+      "transliteration": "സർവൈശ്വര്യസമസ്തവാഞ്ഛിതകരി",
+      "translation": "സാര്വത്രികമായ ധനവും ആഗ്രഹങ്ങളും പൂർണ്ണമായും നിറവേറ്റുന്നവളായ"
+    },
+    {
+      "original": "धर्मार्थनिष्ठाकरी",
+      "transliteration": "കാശിപുരാധീശ്വരി",
+      "translation": "കാശിപുരയിലെ ദേവി"
+    },
+    {
+      "original": "चन्द्रार्कानलभासमानलहरी",
+      "transliteration": "ഭിക്ഷാം",
+      "translation": "ഭക്ഷ്യവസ്തു"
+    },
+    {
+      "original": "त्रैलोक्यरक्षाकरी",
+      "transliteration": "ദേഹി",
+      "translation": "നൽകുക"
+    },
+    {
+      "original": "सर्वैश्वर्यसमस्तवाञ्छितकरी",
+      "transliteration": "കൃപാവലമ്പനകരി",
+      "translation": "ദയയുടെ അനുഗ്രഹം നൽകുന്നവളായ"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "മാതാന്നപൂർണ്ണേശ്വരി",
+      "translation": "അന്നപൂർണ്ണം നൽകുന്ന ദേവി"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "കൈലാസാചലകന്ദരാലയകരി",
+      "translation": "കൈലാസ पर्वതത്തിലെ പുണ്യസ്ഥലത്തിൽ സ്ഥിതിചെയ്യുന്നവളായ"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "ಗೌരി",
+      "translation": "ಗೌരി ദേവി"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "ഉമ",
+      "translation": "ഉമ ദേവി"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "ശംകരി",
+      "translation": "ശങ്കരന്റെ അനുബന്ധി"
+    },
+    {
+      "original": "कैलासाचलकन्दरालयकरी",
+      "transliteration": "കൗമാരി",
+      "translation": "കൌമാര ദേവി"
+    },
+    {
+      "original": "गौरी",
+      "transliteration": "നിഗമാർഥഗോചരകരി",
+      "translation": "ശാസ്ത്രത്തിലെ ദർശനങ്ങൾക്ക് അനുയോജ്യമായ"
+    },
+    {
+      "original": "उमा",
+      "transliteration": "ഓംകാരബീജാക്ഷരി",
+      "translation": "ഓംകാരത്തിന്റെ താളത്തിൽ"
+    },
+    {
+      "original": "शङ्करी",
+      "transliteration": "മോക്ഷദ്വാരകപാടപാടനകരി",
+      "translation": "മോക്ഷദ്വಾರದ വാതിൽ തുറക്കുന്നവളായ"
+    },
+    {
+      "original": "कौमारी",
+      "transliteration": "കാശിപുരാധīശ്വരി",
+      "translation": "കാശിപുരയിലെ ദേവി"
+    },
+    {
+      "original": "निगमार्थगोचरकरी",
+      "transliteration": "ഭിക്ഷാം",
+      "translation": "ഭക്ഷ്യവസ്തു"
+    },
+    {
+      "original": "ओङ्कारबीजाक्षरी",
+      "transliteration": "ദೇಹി",
+      "translation": "നൽകുക"
+    },
+    {
+      "original": "मोक्षद्वारकपाटपाटनकरी",
+      "transliteration": "കൃപാവലമ്പനಕರി",
+      "translation": "ദയയുടെ അനുഗ്രഹം നൽകുന്നവളായ"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "മാതാന്നപൂർണ്ണേശ്വരി",
+      "translation": "അന്നപൂർണ്ണം നൽകുന്ന ദേവി"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "ദൃശ്യാദൃശ്യവിഭൂതിവാഹനകരി",
+      "translation": "ദൃശ്യവും ദൃശ്യവുമായ അനുബന്ധങ്ങളായ"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "ബ്രഹ്മാണ്ഡഭാണ്ഡോദരി",
+      "translation": "ബ്രഹ്മാണ്ഡത്തിലെ ദ്രവ്യസംയോജനം"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "ലീലാനാടകസൂത്രഭേദനകരി",
+      "translation": "ദൈവിക നಾಟಕത്തിന്റെ सूत्रങ്ങളെ തുറക്കുന്നവളായ"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "വിജ്ഞാനദീപാംകുരി",
+      "translation": "വിജ്ഞാനത്തിന്റെ പ്രകാശം നല്‍കുന്നവളായ"
+    },
+    {
+      "original": "दृश्यादृश्यविभूतिवाहनकरी",
+      "transliteration": "ശ്രീവിശ്വേശമന:പ്രസാദനകരി",
+      "translation": "ദൈവത്തിന്റെ പ്രാധാന്യം നല്‍കുന്നവളായ"
+    },
+    {
+      "original": "ब्रह्माण्डभाण्डोदरी",
+      "transliteration": "കാശിപുരാധീശ്വരി",
+      "translation": "കാശിപുരയിലെ ദേവി"
+    },
+    {
+      "original": "लीलानाटकसूत्रभेदनकरी",
+      "transliteration": "ഭിക്ഷാം",
+      "translation": "ഭക്ഷ്യവസ്തു"
+    },
+    {
+      "original": "विज्ञानदीपाङ्कुरी",
+      "transliteration": "ദേഹി",
+      "translation": "നൽകുക"
+    },
+    {
+      "original": "श्रीविश्वेशमनःप्रसादनकरी",
+      "transliteration": "കൃപാവലമ്പനകരി",
+      "translation": "ദയയുടെ അനുഗ്രഹം നൽകുന്നവളായ"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "മാതാന്നപൂർണ്ണേശ്വരി",
+      "translation": "അന്നപൂർണ്ണം നൽകുന്ന ദേവി"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "ഉർവീസർവജനേശ്വരി",
+      "translation": "എല്ലാ ജീവികളുടെ ദൈവമായ, സർവ്വശക്തിമത്തയായ"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "ഭഗവതി",
+      "translation": "ഭഗവതി (ദൈവികശക്തിയുള്ള)"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "മാതാന്നപൂർണ്ണേശ്വരി",
+      "translation": "അന്നപൂരണമുള്ള ദേവി"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "വേണീനീലസമാനകുണ്തലഹരി",
+      "translation": "നീലകലാപം പോലുള്ള ചേനകളെ ഉണ്ടാക്കുന്നവളായ"
+    },
+    {
+      "original": "उर्वीसर्वजनेश्वरी",
+      "transliteration": "നിത്യന്നദാനേശ്വരി",
+      "translation": "സദാ അനുഗ്രഹം നൽകുന്ന ദേവി"
+    },
+    {
+      "original": "भगवती",
+      "transliteration": "സർവാനന്ദകരി",
+      "translation": "സർവോപരി സന്തോഷം നൽകുന്ന ദേവി"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "സദാ ശുഭകാരി",
+      "translation": "എപ്പോഴും നല്ലവഴി പാളി നടക്കുന്ന ദേവി"
+    },
+    {
+      "original": "वेणीनीलसमानकुन्तलहरी",
+      "transliteration": "കാശിപുരാധീശ്വരി",
+      "translation": "കാശിപുരയുടെ ദേവി"
+    },
+    {
+      "original": "नित्यान्नदानेश्वरी",
+      "transliteration": "ഭിക്ഷാം",
+      "translation": "ഭക്ഷ്യവസ്തു"
+    },
+    {
+      "original": "सर्वानन्दकरी",
+      "transliteration": "ദേഹി",
+      "translation": "നൽകുക"
+    },
+    {
+      "original": "सदा शुभकरी",
+      "transliteration": "കൃപാവലമ്പനകരി",
+      "translation": "ദയയുടെ സഹായം നൽകുന്നവളായ"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "മാതാന്നപൂർണ്ണേശ്വരി",
+      "translation": "അന്നപൂർണ്ണം നൽകുന്ന ദേവി"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "ആദിക്ഷാന്തസമസ്തവര്ണനകരി",
+      "translation": "ആദിത്യനും ശശിനും എല്ലാം ഉൾപ്പെടുന്ന ദേവി"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "ശംഭോസ്ത്രിഭാവാകരി",
+      "translation": "ശംഭുവിന്റെ മൂലികായുള്ള ദേവി"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "കാശ്മീരാത്രിജലേശ്വരി",
+      "translation": "കാശ്മീരിന്റെ ജലങ്ങളിലെ ദേവി"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "ത്രിലഹരി",
+      "translation": "മൂന്ന് സിദ്ധികൾക്കും അധീനമായ"
+    },
+    {
+      "original": "आदिक्षान्तसमस्तवर्णनकरी",
+      "transliteration": "നിത്യാങ്കുരാ ശർവരി",
+      "translation": "പ്രതിദിനം നവീകരിച്ചിരിക്കുന്നു"
+    },
+    {
+      "original": "शम्भोस्त्रिभावाकरी",
+      "transliteration": "കാമാകാങ്ഷകരി",
+      "translation": "ഇഷ്ടങ്ങളുടെയും ആഗ്രഹങ്ങളുടെയും ദേവി"
+    },
+    {
+      "original": "काश्मीरात्रिजलेश्वरी",
+      "transliteration": "ജനോദയകറി",
+      "translation": "ജനങ്ങളെ ഉണർത്തുന്ന ദേവി"
+    },
+    {
+      "original": "त्रिलहरी",
+      "transliteration": "കാശിപുരാധീശ്വരി",
+      "translation": "കാശിപുരയിലെ ദേവി"
+    },
+    {
+      "original": "नित्याङ्कुरा शर्वरी",
+      "transliteration": "ഭिक्षാം",
+      "translation": "ഭക്ഷ്യവസ്തു"
+    },
+    {
+      "original": "कामाकाङ्क्षकरी",
+      "transliteration": "ദേഹി",
+      "translation": "നൽകുക"
+    },
+    {
+      "original": "जनोदयकरी",
+      "transliteration": "കൃപാവലമ്പനകരി",
+      "translation": "ദയയുടെ സഹായം നൽകുന്നവളായ"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "മാതാന്നപൂർണ്ണേശ്വരി",
+      "translation": "അന്നപൂർണ്ണം നൽകുന്ന ദേവി"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "ദേവി",
+      "translation": "ദേവി (ശക്തി പരಿಪൂർണമായ)"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "സർവവിചിത്രരത്നരചിത",
+      "translation": "എല്ലാ പ്രശസ്ത രത്നങ്ങളുടെ സംയോജനം"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "ദാക്ഷായണി",
+      "translation": "ദക്ഷായണിയുടെ ദേവി"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "സുന്ദരി",
+      "translation": "സൗന്ദര്യത്തിന്റെ ദേവി"
+    },
+    {
+      "original": "सर्वविचित्ररत्नरचिता",
+      "transliteration": "വാമം സ്വാദുപയോധരപ്രിയകരി",
+      "translation": "ബലമായ കുഴൽജാതിക്കൊപ്പം പ്രിയമുള്ള ദേവി"
+    },
+    {
+      "original": "दाक्षायणी",
+      "transliteration": "സൗഭാഗ്യമാഹേഷ്വരി",
+      "translation": "ഭാഗ്യത്തിനും മാഹേശ്വരത്തിനും നിയന്ത്രണമായ ദേവി"
+    },
+    {
+      "original": "सुन्दरी",
+      "transliteration": "ഭക്താഭീഷ്ടകരി",
+      "translation": "ഭക്തരുടെ ആഗ്രഹങ്ങൾ സഫലമാക്കുന്ന ദേവി"
+    },
+    {
+      "original": "वामं",
+      "transliteration": "സദാ ശുഭകാരി",
+      "translation": "എപ്പോഴും നല്ലവഴി പാളി നടക്കുന്ന ദേവി"
+    },
+    {
+      "original": "स्वादुपयोधरप्रियकरी",
+      "transliteration": "കാശിപുരാധீശ്വരി",
+      "translation": "കാശിപുരയുടെ ദേവി"
+    },
+    {
+      "original": "सौभाग्यमाहेश्वरी",
+      "transliteration": "ഭിക്ഷാം",
+      "translation": "ഭക്ഷ്യവസ്തു"
+    },
+    {
+      "original": "भक्ताभीष्टकरी",
+      "transliteration": "ദേഹി",
+      "translation": "നൽകുക"
+    },
+    {
+      "original": "सदा शुभकरी",
+      "transliteration": "കൃപാവലമ്പനകരി",
+      "translation": "ദയയുടെ അനുഗ്രഹം നൽകുന്നവളായ"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "മാതാന്നപൂർണ്ണേശ്വരി",
+      "translation": "അന്നപൂർണ്ണം നൽകുന്ന ദേവി"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "ചന്ദ്രാര്കാനലകോട്ടിക്കോടിസദൃശാ",
+      "translation": "ചന്ദ്രനും സൂര്യനും തമ്മിലുള്ള പ്രകാശമുള്ള, അഗ്നിതാപ്രഭയുള്ള"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "ചന്ദ്രാംശുബിംബാധാരി",
+      "translation": "ചന്ദ്രനിന്റെ കിരണങ്ങളാൽ പ്രകാശിക്കുന്ന, ശുദ്ധമായ ദേവി"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चन्द्रार्कानलकोटिकोटिसदृशा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चन्द्रांशुबिम्बाधरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चन्द्रार्काग्निसमानकुन्तलधरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चन्द्रार्कवर्णेश्वरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मालापुस्तकपाशासाङ्कुशधरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चन्द्रार्कानलकोटिकोटिसदृशा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चन्द्रांशुबिम्बाधरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चन्द्रार्काग्निसमानकुन्तलधरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चन्द्रार्कवर्णेश्वरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मालापुस्तकपाशासाङ्कुशधरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "क्षत्रत्राणकरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "महाऽभयकरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "माता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कृपासागरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "साक्षान्मोक्षकरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सदा शिवकरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विश्वेश्वरश्रीधरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दक्षाक्रन्दकरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "निरामयकरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अन्नपूर्णे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सदापूर्णे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शङ्करप्राणवल्लभे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ज्ञानवैराग्यसिद्ध्यर्थं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पार्वति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "माता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पार्वती",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पिता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देवो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "महेश्वरः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बान्धवाः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शिवभक्ताश्च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वदेशो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भुवनत्रयम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\malayalam\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\malayalam\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.154Z"
+  }
+}

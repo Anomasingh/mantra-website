@@ -1,0 +1,1089 @@
+{
+  "mantra": "daxinmurti_stotram",
+  "language": "marathi",
+  "type": "word_to_word",
+  "totalWords": 215,
+  "alignedWords": [
+    {
+      "original": "ध्यानम्",
+      "transliteration": "ध्यानम्",
+      "translation": "ध्यान म्हणजे मनाच्या एकाग्रतेला म्हणतात"
+    },
+    {
+      "original": "मौनव्याख्या",
+      "transliteration": "मौनव्याख्या",
+      "translation": "जेव्हा परमब्रह्माचे तत्व व्यक्त होतो तेव्हा मौनाचा अर्थ स्पष्ट होतो"
+    },
+    {
+      "original": "प्रकटित",
+      "transliteration": "प्रकटित",
+      "translation": "प्रकटित म्हणजे उघड किंवा स्पष्ट होणे"
+    },
+    {
+      "original": "परब्रह्मतत्त्वं",
+      "transliteration": "परब्रह्मतत्त्वं",
+      "translation": "परब्रह्माचा तत्व म्हणजे सर्व विश्वाचा आदिशक्ति असलेले अंतिम तत्व"
+    },
+    {
+      "original": "युवानं",
+      "transliteration": "युवानं",
+      "translation": "यु़वानं म्हणजे युवा किंवा तरुण"
+    },
+    {
+      "original": "वर्षिष्ठांते",
+      "transliteration": "वर्षिष्ठांते",
+      "translation": "वृद्ध व्यक्तींना संदर्भ देणारा शब्द"
+    },
+    {
+      "original": "वसद्",
+      "transliteration": "वसद्",
+      "translation": "वसद म्हणजे निवास करणारा"
+    },
+    {
+      "original": "ऋषिगणौः",
+      "transliteration": "ऋषिगणौः",
+      "translation": "ऋषिगण म्हणजे संत आणि साधकांचा समूह"
+    },
+    {
+      "original": "आवृतं",
+      "transliteration": "आवृतं",
+      "translation": "आच्छादित, लपलेला"
+    },
+    {
+      "original": "ब्रह्मनिष्ठैः",
+      "transliteration": "ब्रह्मनिष्ठैः",
+      "translation": "ब्रह्मनिष्ठ म्हणजे ब्रह्मात लीन असलेले"
+    },
+    {
+      "original": "आचार्येन्द्रं",
+      "transliteration": "आचार्येन्द्रं",
+      "translation": "आचार्य म्हणजे अध्यापक, गुरू"
+    },
+    {
+      "original": "करकलित",
+      "transliteration": "करकलित",
+      "translation": "करकलित म्हणजे हाताने केलेले"
+    },
+    {
+      "original": "चिन्मुद्रमानंदमूर्तिं",
+      "transliteration": "चिन्मुद्रमानंदमूर्तिं",
+      "translation": "चिन्मुद्रामंद म्हणजे सत्य आणि आनंदाची मूर्ती"
+    },
+    {
+      "original": "स्वात्मारामं",
+      "transliteration": "स्वात्मारामं",
+      "translation": "आत्मस्वरूपातील आनंद"
+    },
+    {
+      "original": "मुदितवदनं",
+      "transliteration": "मुदितवदनं",
+      "translation": "मुदितवदन म्हणजे हसत असलेले चेहरा"
+    },
+    {
+      "original": "दक्षिणामूर्तिमीडे",
+      "transliteration": "दक्षिणामूर्तिमीडे",
+      "translation": "श्री दक्षिणामूर्तीकडे वंदन"
+    },
+    {
+      "original": "विश्वं",
+      "transliteration": "विश्वं",
+      "translation": "विश्व म्हणजे सर्व काही"
+    },
+    {
+      "original": "दर्पणदृश्यमान",
+      "transliteration": "दर्पणदृश्यमाननगरीतुल्यं",
+      "translation": "हे जग एक दर्पणासारखं आहे"
+    },
+    {
+      "original": "नगरीतुल्यं",
+      "transliteration": "निजान्तर्गतं",
+      "translation": "आतापर्यंत दडलेले अस्तित्व"
+    },
+    {
+      "original": "निजान्तर्गतं",
+      "transliteration": "पश्यन्नात्मनि",
+      "translation": "आत्म्यातून बाह्य विश्वाला पाहणं"
+    },
+    {
+      "original": "पश्यन्नात्मनि",
+      "transliteration": "मायया",
+      "translation": "माया म्हणजे भ्रम, विकृत प्रतिमा"
+    },
+    {
+      "original": "मायया",
+      "transliteration": "बहिरिवोद्भूतं",
+      "translation": "बाह्य विश्वाची उत्पत्ती"
+    },
+    {
+      "original": "बहिरिवोद्भूतं",
+      "transliteration": "यथा",
+      "translation": "जसं"
+    },
+    {
+      "original": "यथा निद्रया",
+      "transliteration": "निद्रया",
+      "translation": "झोपेत असताना विश्वाच्या अस्तित्वाची कल्पना"
+    },
+    {
+      "original": "यः",
+      "transliteration": "यः",
+      "translation": "जो"
+    },
+    {
+      "original": "साक्षात्कुरुते",
+      "transliteration": "साक्षात्कुरुते",
+      "translation": "प्रत्यक्ष करणे"
+    },
+    {
+      "original": "प्रबोधसमये",
+      "transliteration": "प्रबोधसमये",
+      "translation": "जागृत अवस्थेत स्वतःला ओळखणे"
+    },
+    {
+      "original": "स्वात्मानमेवाद्वयं",
+      "transliteration": "स्वात्मानमेवाद्वयं",
+      "translation": "एकात्मतेचा अनुभव"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "तस्मै",
+      "translation": "त्याला"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "श्रीगुरुमूर्तये",
+      "translation": "श्री गुरूच्या रूपाला नमस्कार"
+    },
+    {
+      "original": "नम",
+      "transliteration": "नम",
+      "translation": "नमस्कार"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "इदं",
+      "translation": "हे"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "श्रीदक्षिणामूर्तये",
+      "translation": "श्री दक्षिणामूर्त्याला"
+    },
+    {
+      "original": "बीजस्य",
+      "transliteration": "बीजस्याऽन्तरिवाङ्कुरो",
+      "translation": "बीजाचा अंतरंगातून उत्पन्न होणारा अंकुर"
+    },
+    {
+      "original": "अन्तरिवाङ्कुरो",
+      "transliteration": "जगदिदं",
+      "translation": "या जगाचा अस्तित्व"
+    },
+    {
+      "original": "जगदिदं",
+      "transliteration": "प्राङ्गनिर्विकल्पं पुनः",
+      "translation": "कशाही कल्पना नसलेली स्थिती"
+    },
+    {
+      "original": "प्राङ्गनिर्विकल्पं",
+      "transliteration": "मायाकल्पित",
+      "translation": "माया प्रमाणे तयार केलेली"
+    },
+    {
+      "original": "पुनः",
+      "transliteration": "देशकालकलना",
+      "translation": "कालनिर्णय आणि भौगोलिक अवस्थेचे तत्त्वज्ञान"
+    },
+    {
+      "original": "मायाकल्पित",
+      "transliteration": "वैचित्र्यचित्रीकृतम्",
+      "translation": "वैचित्र्यामुळे रूप घेणारी"
+    },
+    {
+      "original": "देशकालकलना",
+      "transliteration": "मायावीव",
+      "translation": "माया प्रभावाने निर्माण होणारी"
+    },
+    {
+      "original": "वैचित्र्यचित्रीकृतम्",
+      "transliteration": "विजृम्भयत्यपि",
+      "translation": "विस्तार करणारा"
+    },
+    {
+      "original": "मायावीव",
+      "transliteration": "महायोगीव",
+      "translation": "महायोगीच्या शक्तीसारखा"
+    },
+    {
+      "original": "विजृम्भयत्यपि",
+      "transliteration": "यः",
+      "translation": "जो"
+    },
+    {
+      "original": "महायोगीव",
+      "transliteration": "स्वेच्छया",
+      "translation": "इच्छेप्रमाणे"
+    },
+    {
+      "original": "यः",
+      "transliteration": "तस्मै",
+      "translation": "त्याला"
+    },
+    {
+      "original": "स्वेच्छया",
+      "transliteration": "श्रीगुरुमूर्तये",
+      "translation": "श्री गुरूच्या रूपाला"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "नम",
+      "translation": "नमस्कार"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "इदं",
+      "translation": "हे"
+    },
+    {
+      "original": "नम",
+      "transliteration": "श्रीदक्षिणामूर्तये",
+      "translation": "श्री दक्षिणामूर्त्याला"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "यस्यैव",
+      "translation": "ज्याचे तत्व प्रकट होतो"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "स्फुरणं",
+      "translation": "अस्तित्वाच्या किंवा चेतनेच्या स्फुरणाचे प्रकट होणे"
+    },
+    {
+      "original": "यस्यैव",
+      "transliteration": "सदात्मकमसत्कल्पार्थकं",
+      "translation": "सत्य आणि असत्य यांच्या एकसारख्या कार्यांसाठी स्फुरण होणारा रूप"
+    },
+    {
+      "original": "स्फुरणं",
+      "transliteration": "भासते",
+      "translation": "दिसणे, प्रकट होणे"
+    },
+    {
+      "original": "सदात्मकम्",
+      "transliteration": "साक्षात्तत्त्वमसीति",
+      "translation": "सत्य रूपाने प्रत्यक्ष ज्ञान होणे"
+    },
+    {
+      "original": "असत्कल्पार्थकं",
+      "transliteration": "वेदवचसा",
+      "translation": "वेदाच्या वचनाने"
+    },
+    {
+      "original": "भासते",
+      "transliteration": "यो",
+      "translation": "जो"
+    },
+    {
+      "original": "साक्षात्तत्त्वमसीति",
+      "transliteration": "बोधयत्याश्रितान्",
+      "translation": "जो शरण आलेल्या व्यक्तींना ज्ञान देतो"
+    },
+    {
+      "original": "वेदवचसा",
+      "transliteration": "यत्साक्षात्करणाद्भवेन्न पुनरावृत्तिर्भवाम्भोनिधौ",
+      "translation": "जे साक्षात्काराच्या प्रक्रियेमुळे अस्तित्वात येते"
+    },
+    {
+      "original": "यो",
+      "transliteration": "तस्मै",
+      "translation": "त्याला"
+    },
+    {
+      "original": "बोधयत्याश्रितान्",
+      "transliteration": "श्रीगुरुमूर्तये",
+      "translation": "श्री गुरूच्या रूपाला"
+    },
+    {
+      "original": "यत्साक्षात्करणाद्भवेन्न",
+      "transliteration": "नम",
+      "translation": "नमस्कार"
+    },
+    {
+      "original": "पुनरावृत्तिर्भवाम्भोनिधौ",
+      "transliteration": "इदं",
+      "translation": "हे"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "श्रीदक्षिणामूर्तये",
+      "translation": "श्री दक्षिणामूर्त्याला"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "नाना",
+      "translation": "विविध"
+    },
+    {
+      "original": "नम",
+      "transliteration": "छिद्र",
+      "translation": "छिद्र"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "घट",
+      "translation": "घडा"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "उदर",
+      "translation": "उदर"
+    },
+    {
+      "original": "नानाच्छिद्रघटोदरस्थितमहादीपप्रभा",
+      "transliteration": "स्थित",
+      "translation": "स्थित"
+    },
+    {
+      "original": "भास्वरं",
+      "transliteration": "महा",
+      "translation": "महान"
+    },
+    {
+      "original": "ज्ञानं",
+      "transliteration": "दीप",
+      "translation": "दीप"
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "प्रभा",
+      "translation": "प्रभा"
+    },
+    {
+      "original": "तु",
+      "transliteration": "भास्वरं",
+      "translation": "तेजस्वी"
+    },
+    {
+      "original": "चक्षुरादिकरणद्वारा",
+      "transliteration": "ज्ञानं",
+      "translation": "ज्ञान"
+    },
+    {
+      "original": "वहिः",
+      "transliteration": "यस्य",
+      "translation": "ज्याचे"
+    },
+    {
+      "original": "स्पन्दते",
+      "transliteration": "तु",
+      "translation": "तू"
+    },
+    {
+      "original": "जानामीति",
+      "transliteration": "चक्षुरादिकरण",
+      "translation": "नेत्रे व इंद्रियांची"
+    },
+    {
+      "original": "तमेव",
+      "transliteration": "द्वारा",
+      "translation": "मार्गाने"
+    },
+    {
+      "original": "भान्तम्",
+      "transliteration": "वहिः",
+      "translation": "बाहेर"
+    },
+    {
+      "original": "अनुभवात्येतत्समस्तं",
+      "transliteration": "स्पन्दते",
+      "translation": "स्पंदित होते"
+    },
+    {
+      "original": "जगत्",
+      "transliteration": "जानामीति",
+      "translation": "\"मी जाणतो\""
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "तमेव",
+      "translation": "तोच"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "भान्तम",
+      "translation": "प्रकट होणारे"
+    },
+    {
+      "original": "नम",
+      "transliteration": "अनुभात्येतत्समस्तं",
+      "translation": "सर्व विश्व प्रकट होतं"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "जगत्",
+      "translation": "जग"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "तस्मै",
+      "translation": "त्याला"
+    },
+    {
+      "original": "देहं",
+      "transliteration": "श्रीगुरुमूर्तये",
+      "translation": "श्रीगुरूच्या रूपाला"
+    },
+    {
+      "original": "प्राणम्",
+      "transliteration": "नम",
+      "translation": "नमस्कार"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "इदं",
+      "translation": "हे"
+    },
+    {
+      "original": "इन्द्रियाणि",
+      "transliteration": "श्रीदक्षिणामूर्तये",
+      "translation": "श्रीदक्षिणामूर्तीला"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "देहं",
+      "translation": "शरीर"
+    },
+    {
+      "original": "चलां",
+      "transliteration": "प्राणं",
+      "translation": "प्राण"
+    },
+    {
+      "original": "बुद्धिं",
+      "transliteration": "अपि",
+      "translation": "आणि"
+    },
+    {
+      "original": "च",
+      "transliteration": "इन्द्रियाणि",
+      "translation": "इंद्रिया"
+    },
+    {
+      "original": "शून्यं",
+      "transliteration": "अपि",
+      "translation": "आणि"
+    },
+    {
+      "original": "विदुः",
+      "transliteration": "चलां",
+      "translation": "चालू"
+    },
+    {
+      "original": "स्त्री",
+      "transliteration": "बुद्धिं",
+      "translation": "बुद्धी"
+    },
+    {
+      "original": "बाल",
+      "transliteration": "च",
+      "translation": "आणि"
+    },
+    {
+      "original": "अन्ध",
+      "transliteration": "शून्यं",
+      "translation": "शून्य"
+    },
+    {
+      "original": "जड",
+      "transliteration": "विदुः",
+      "translation": "जाणतात"
+    },
+    {
+      "original": "उपमाः",
+      "transliteration": "स्त्री",
+      "translation": "स्त्री"
+    },
+    {
+      "original": "त्वम्",
+      "transliteration": "बाल",
+      "translation": "बाल"
+    },
+    {
+      "original": "अहम्",
+      "transliteration": "अंध",
+      "translation": "अंध"
+    },
+    {
+      "original": "इति",
+      "transliteration": "जड",
+      "translation": "जड"
+    },
+    {
+      "original": "भ्रान्ताः",
+      "transliteration": "उपमास्त्वहमिति",
+      "translation": "\"मी\" म्हणतात"
+    },
+    {
+      "original": "भृशम्",
+      "transliteration": "भ्रान्ता",
+      "translation": "भ्रमित"
+    },
+    {
+      "original": "वादिनः",
+      "transliteration": "भृशं",
+      "translation": "पूर्णपणे"
+    },
+    {
+      "original": "मायाशक्तिविलासकल्पितमहाव्यामोहसंहारिणो",
+      "transliteration": "वादिनः",
+      "translation": "वाद करणारे"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "मायाशक्तिविलासकल्पितमहाव्यामोहसंहारिणो",
+      "translation": "मायाशक्तीने निर्मित केलेल्या महान मोहाच्या नाश करणाऱ्याला"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "तस्मै",
+      "translation": "त्याला"
+    },
+    {
+      "original": "नम",
+      "transliteration": "श्रीगुरुमूर्तये",
+      "translation": "श्रीगुरूच्या रूपाला"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "नम",
+      "translation": "नमस्कार"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "इदं",
+      "translation": "हे"
+    },
+    {
+      "original": "राहुग्रस्त",
+      "transliteration": "श्रीदक्षिणामूर्तये",
+      "translation": "श्रीदक्षिणामूर्तीला"
+    },
+    {
+      "original": "दिवाकरेन्दुसदृशो",
+      "transliteration": "राहु",
+      "translation": "राहू"
+    },
+    {
+      "original": "मायासमाच्छादनात्",
+      "transliteration": "ग्रस्त",
+      "translation": "ग्रस्त"
+    },
+    {
+      "original": "सन्मात्रः",
+      "transliteration": "दिवाकरेन्दुसदृशो",
+      "translation": "सूर्याच्या आणि चंद्राच्या सारखा"
+    },
+    {
+      "original": "करणोपसंहरणतो",
+      "transliteration": "मायासमाच्छादनात्",
+      "translation": "मायेशिवाय"
+    },
+    {
+      "original": "यो",
+      "transliteration": "सन्मात्रः",
+      "translation": "केवळ सत्य"
+    },
+    {
+      "original": "अभूत्",
+      "transliteration": "करणोपसंहरणतो",
+      "translation": "कार्याची समाप्ती"
+    },
+    {
+      "original": "सुषुप्तः",
+      "transliteration": "योऽभूत्सुषुप्तः",
+      "translation": "जो शंकर होतो"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "पुमान्",
+      "translation": "पुरूष"
+    },
+    {
+      "original": "प्रागस्वाप्समिति",
+      "transliteration": "प्रागस्वाप्समिति",
+      "translation": "शरिराच्या झोपेचा"
+    },
+    {
+      "original": "प्रबोधसमये",
+      "transliteration": "प्रबोधसमये",
+      "translation": "जागेची वेल"
+    },
+    {
+      "original": "यः",
+      "transliteration": "यः",
+      "translation": "तो"
+    },
+    {
+      "original": "प्रत्यभिज्ञायते",
+      "transliteration": "प्रत्यभिज्ञायते",
+      "translation": "माहित होतो"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "तस्मै",
+      "translation": "त्याला"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "श्रीगुरुमूर्तये",
+      "translation": "श्रीगुरूच्या रूपाला"
+    },
+    {
+      "original": "नम",
+      "transliteration": "नम",
+      "translation": "नमस्कार"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "इदं",
+      "translation": "हे"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "श्रीदक्षिणामूर्तये",
+      "translation": "श्रीदक्षिणामूर्तीला"
+    },
+    {
+      "original": "बाल्यादिष्वपि",
+      "transliteration": "बाल्यादिष्वपि",
+      "translation": "बालपणासह"
+    },
+    {
+      "original": "जाग्रदादिषु",
+      "transliteration": "जाग्रदादिषु",
+      "translation": "जागरण आणि निद्रादि स्थिती"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "तथा",
+      "translation": "तसेच"
+    },
+    {
+      "original": "सर्वास्ववस्थास्वपि",
+      "transliteration": "सर्वास्ववस्थास्वपि",
+      "translation": "सर्व स्थितींमध्ये"
+    },
+    {
+      "original": "व्यावृत्तास्वनुवर्तमानमहमित्यन्तः",
+      "transliteration": "व्यावृत्तास्वनुवर्तमानमहमित्यन्तः",
+      "translation": "\"मीच चालवितो\" असं समजणे"
+    },
+    {
+      "original": "स्फुरन्तं",
+      "transliteration": "स्फुरन्तं",
+      "translation": "प्रकट होणारे"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "सदा",
+      "translation": "नेहमीच"
+    },
+    {
+      "original": "स्वात्मानं",
+      "transliteration": "स्वात्मानं",
+      "translation": "स्वतःचे स्वरूप"
+    },
+    {
+      "original": "प्रकटीकरोति",
+      "transliteration": "प्रकटीकरोति",
+      "translation": "प्रकट करतो"
+    },
+    {
+      "original": "भजतां",
+      "transliteration": "भजतां",
+      "translation": "भक्त्याने पूजणारे"
+    },
+    {
+      "original": "यो",
+      "transliteration": "यो",
+      "translation": "जो"
+    },
+    {
+      "original": "मुद्रया",
+      "transliteration": "मुद्रयाभद्रया",
+      "translation": "पवित्र आणि अभूतपूर्व मुद्रा"
+    },
+    {
+      "original": "अभद्रया",
+      "transliteration": "तस्मै",
+      "translation": "त्याला"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "श्रीगुरुमूर्तये",
+      "translation": "श्रीगुरूच्या रूपाला"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "नम",
+      "translation": "नमस्कार"
+    },
+    {
+      "original": "नम",
+      "transliteration": "इदं",
+      "translation": "हे"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "श्रीदक्षिणामूर्तये",
+      "translation": "श्रीदक्षिणामूर्तीला"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "विश्वं",
+      "translation": "विश्व"
+    },
+    {
+      "original": "विश्वं",
+      "transliteration": "पश्यति",
+      "translation": "पाहतो"
+    },
+    {
+      "original": "पश्यति",
+      "transliteration": "कार्यकारणतया",
+      "translation": "कारण व कार्य म्हणून"
+    },
+    {
+      "original": "कार्यकारणतया",
+      "transliteration": "स्वस्वामिसम्बन्धतः",
+      "translation": "स्वधर्माचे सम्बन्ध"
+    },
+    {
+      "original": "स्वस्वामिसम्बन्धतः",
+      "transliteration": "शिष्याचार्यतया",
+      "translation": "शिष्य व गुरु म्हणून"
+    },
+    {
+      "original": "शिष्याचार्यतया",
+      "transliteration": "तथैव",
+      "translation": "तसेच"
+    },
+    {
+      "original": "तथैव",
+      "transliteration": "पितृ",
+      "translation": "पिता"
+    },
+    {
+      "original": "पितृपुत्राद्यात्मना",
+      "transliteration": "पुत्र",
+      "translation": "पुत्र"
+    },
+    {
+      "original": "भेदतः",
+      "transliteration": "आदि",
+      "translation": "इत्यादी"
+    },
+    {
+      "original": "स्वप्ने",
+      "transliteration": "आत्मना",
+      "translation": "आत्म्याने"
+    },
+    {
+      "original": "जाग्रति",
+      "transliteration": "भेदतः",
+      "translation": "भेदामुळे"
+    },
+    {
+      "original": "वा",
+      "transliteration": "स्वप्ने",
+      "translation": "स्वप्नात"
+    },
+    {
+      "original": "यः",
+      "transliteration": "जाग्रति",
+      "translation": "जागरण"
+    },
+    {
+      "original": "एष",
+      "transliteration": "वा",
+      "translation": "किंवा"
+    },
+    {
+      "original": "पुरुषः",
+      "transliteration": "य",
+      "translation": "जो"
+    },
+    {
+      "original": "मायापरिभ्रामितः",
+      "transliteration": "एष",
+      "translation": "हा"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "पुरुषः",
+      "translation": "पुरुष"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "मायापरिभ्रामितः",
+      "translation": "माया द्वारा भ्रमित"
+    },
+    {
+      "original": "नम",
+      "transliteration": "तस्मै",
+      "translation": "त्याला"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "श्रीगुरुमूर्तये",
+      "translation": "श्रीगुरूच्या रूपाला"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "नम",
+      "translation": "नमस्कार"
+    },
+    {
+      "original": "भूरम्",
+      "transliteration": "इदं",
+      "translation": "हे"
+    },
+    {
+      "original": "भास्य",
+      "transliteration": "श्रीदक्षिणामूर्तये",
+      "translation": "श्रीदक्षिणामूर्तीला"
+    },
+    {
+      "original": "अनलः",
+      "transliteration": "भूरम्भांस्यनलोऽनिलोऽम्बरमहर्नाथो हिमांशु पुमान्",
+      "translation": "पृथ्वी, आकाश, वारा, जल, सूर्य व चंद्र यांचे आकार, परमात्म्याचे रूप"
+    },
+    {
+      "original": "अनिलः",
+      "transliteration": "इत्याभाति",
+      "translation": "असे प्रकट होतो"
+    },
+    {
+      "original": "आम्बर",
+      "transliteration": "चराचरात्मकमिदं",
+      "translation": "चराचरात्मक रूप"
+    },
+    {
+      "original": "महर्",
+      "transliteration": "यस्यैव",
+      "translation": "ज्याचेच"
+    },
+    {
+      "original": "नाथः",
+      "transliteration": "मूर्त्यष्टकम्",
+      "translation": "आठ रूपांची मूर्ती"
+    },
+    {
+      "original": "हिमांशु",
+      "transliteration": "नान्यत्",
+      "translation": "इतर काही"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "किञ्चन",
+      "translation": "काहीही"
+    },
+    {
+      "original": "इति",
+      "transliteration": "विद्यते",
+      "translation": "आहे"
+    },
+    {
+      "original": "अभाति",
+      "transliteration": "विमृशतां",
+      "translation": "विचार करणाऱ्यांसाठी"
+    },
+    {
+      "original": "चराचर",
+      "transliteration": "यस्मात्",
+      "translation": "ज्याच्यामुळे"
+    },
+    {
+      "original": "आत्मकम्",
+      "transliteration": "परस्माद्विभोः",
+      "translation": "परमेश्वराचा"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "तस्मै",
+      "translation": "त्याला"
+    },
+    {
+      "original": "यस्यैव",
+      "transliteration": "श्रीगुरुमूर्तये",
+      "translation": "श्रीगुरूच्या रूपाला"
+    },
+    {
+      "original": "मूर्त्यष्टकम्",
+      "transliteration": "नम",
+      "translation": "नमस्कार"
+    },
+    {
+      "original": "नान्यत्",
+      "transliteration": "इदं",
+      "translation": "हे"
+    },
+    {
+      "original": "किञ्चन",
+      "transliteration": "श्रीदक्षिणामूर्तये",
+      "translation": "श्रीदक्षिणामूर्तीला"
+    },
+    {
+      "original": "विद्यते",
+      "transliteration": "सर्वात्मत्वमिति",
+      "translation": "\"सर्वात्मत्व\" हे असे प्रकटित आहे"
+    },
+    {
+      "original": "विमृशतां",
+      "transliteration": "स्फुटीकृतमिदं",
+      "translation": "हे स्पष्ट केले गेले आहे"
+    },
+    {
+      "original": "यस्मात्",
+      "transliteration": "यस्मादमुष्मिन्",
+      "translation": "ज्याच्या प्रभावाने"
+    },
+    {
+      "original": "परस्मात्",
+      "transliteration": "स्तवे",
+      "translation": "स्तोत्रामध्ये"
+    },
+    {
+      "original": "विभोः",
+      "transliteration": "तेनास्य",
+      "translation": "त्याद्वारे"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "श्रवणात्तदर्थमननाद्ध्यानाच्च",
+      "translation": "श्रवण, ध्यान आणि समर्पण यावरून"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "संकीर्तनात्",
+      "translation": "कीर्तनाद्वारे"
+    },
+    {
+      "original": "नम",
+      "transliteration": "सर्वात्मत्वमहाविभूतिसहितं",
+      "translation": "सर्वात्मत्वाची महान विभूती"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "स्यादीश्वरत्वं",
+      "translation": "ईश्वरत्व प्राप्त होईल"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "स्वतः",
+      "translation": "स्वत:च्या शक्तीने"
+    },
+    {
+      "original": "सर्वात्मत्वमिति",
+      "transliteration": "सिद्ध्येत्तत्पुनरष्टधा",
+      "translation": "याचे पुर्नरुपांतरण होईल"
+    },
+    {
+      "original": "स्फुटीकृतम्",
+      "transliteration": "परिणतं",
+      "translation": "परिणत होईल"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "चैश्वर्यमव्याहतम्",
+      "translation": "ईश्वराचे अव्याहत सामर्थ्य"
+    },
+    {
+      "original": "यस्माद्",
+      "transliteration": "इति",
+      "translation": "असे"
+    },
+    {
+      "original": "अमुष्मिन्",
+      "transliteration": "श्रीमच्छङ्कराचार्यविरचितं",
+      "translation": "श्रीमच्छङ्कराचार्य यांनी रचित"
+    },
+    {
+      "original": "स्तवे",
+      "transliteration": "दक्षिणामुर्तिस्तोत्रं",
+      "translation": "दक्षिणामूर्तीचे स्तोत्र"
+    },
+    {
+      "original": "तेनास्य",
+      "transliteration": "सम्पूर्णम्",
+      "translation": "संपूर्ण"
+    },
+    {
+      "original": "श्रवणात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तदर्थम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अननाद्ध्यानाच्च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संकीर्तनात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वात्मत्वमहाविभूतिसहितं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्यादीश्वरत्वं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वतः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सिद्ध्येत्तत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुनरष्टधा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परिणतं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चैश्वर्यम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अव्याहतम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\marathi\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\marathi\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.428Z"
+  }
+}

@@ -1,0 +1,614 @@
+{
+  "mantra": "asitakrutam_shivastotram",
+  "language": "kannada",
+  "type": "word_to_word",
+  "totalWords": 120,
+  "alignedWords": [
+    {
+      "original": "असित",
+      "transliteration": "ಅಸಿತ",
+      "translation": "ಕಪ್ಪು"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "ಕೃತಂ",
+      "translation": "ಮಾಡಿದದ್ದು"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "ಶಿವ",
+      "translation": "ಶಿವನ"
+    },
+    {
+      "original": "स्तोत्रम्",
+      "transliteration": "ಸ್ತೋತ್ರಮ್",
+      "translation": "ಸ್ತೋತ್ರ"
+    },
+    {
+      "original": "असित",
+      "transliteration": "ಅಸಿತ",
+      "translation": "ಕಪ್ಪು"
+    },
+    {
+      "original": "उवाच",
+      "transliteration": "ಉವಾಚ",
+      "translation": "ಹೇಳಿದನು"
+    },
+    {
+      "original": "जगद्गुरो",
+      "transliteration": "ಜಗದ್ಗುರು",
+      "translation": "ಜಗತ್ತಿನ ಗುರು"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "ನಮಃ",
+      "translation": "ನಮಸ್ಕಾರ"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "ತುಭ್ಯಂ",
+      "translation": "ನಿಮಗೆ"
+    },
+    {
+      "original": "शिवदाय",
+      "transliteration": "ಶಿವಾಯ",
+      "translation": "ಶಿವನಿಗೆ"
+    },
+    {
+      "original": "च",
+      "transliteration": "ಶಿವದಾಯ",
+      "translation": "ಶಿವನ ನೀಡುವ"
+    },
+    {
+      "original": "योगीन्द्राणां",
+      "transliteration": "ಚ",
+      "translation": "ಮತ್ತು"
+    },
+    {
+      "original": "च",
+      "transliteration": "ಯೋಗೀಂದ್ರಾಣಾಂ",
+      "translation": "ಯೋಗಿಗಳಲ್ಲಿ"
+    },
+    {
+      "original": "योगीन्द्र",
+      "transliteration": "ಯೋಗೀಂದ್ರ",
+      "translation": "ಯೋಗಿಗಳ ರಾಜ"
+    },
+    {
+      "original": "गुरूणां",
+      "transliteration": "ಗುರುಣಾಂ",
+      "translation": "ಗುರುಗಳಲ್ಲಿ"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "ಗುರುವೇ",
+      "translation": "ಗುರುಗಿಗೆ"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "ನಮಃ",
+      "translation": "ನಮಸ್ಕಾರ"
+    },
+    {
+      "original": "मृत्योर",
+      "transliteration": "ಮೃತ್ಯೋಃ",
+      "translation": "ಮರಣದ"
+    },
+    {
+      "original": "मृत्युस्वरूपेण",
+      "transliteration": "ಮೃತ್ಯುಸ್ವರೂಪೇಣ",
+      "translation": "ಮರಣಸ್ವರೂಪದಲ್ಲಿ"
+    },
+    {
+      "original": "मृत्युसंसारखण्डन",
+      "transliteration": "ಮೃತ್ಯುಸಂಸಾರಖಂಡನ",
+      "translation": "ಮರಣಜೀವನದ ಕಡಿತ"
+    },
+    {
+      "original": "मृत्योरीश",
+      "transliteration": "ಮೃತ್ಯೋರೀಶ",
+      "translation": "ಮರಣದ ರಾಜ"
+    },
+    {
+      "original": "मृत्युबीज",
+      "transliteration": "ಮೃತ್ಯುಬೀಜ",
+      "translation": "ಮರಣ ಬೀಜ"
+    },
+    {
+      "original": "मृत्युञ्जय",
+      "transliteration": "ಮೃತ್ಯುಂಜಯ",
+      "translation": "ಮರಣವನ್ನು ಗೆಲ್ಲುವ"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "ನಮೋಸ್ತು",
+      "translation": "ನಮಸ್ಕಾರವಾಗಿರಲಿ"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ತೆ",
+      "translation": "ನಿನಗೆ"
+    },
+    {
+      "original": "कालरूपं",
+      "transliteration": "ಕಾಲರೂಪಂ",
+      "translation": "ಕಾಲದ ರೂಪ"
+    },
+    {
+      "original": "कलयतां",
+      "transliteration": "ಕಲಯತಾಂ",
+      "translation": "ಆಲೋಚಿಸುವವರ"
+    },
+    {
+      "original": "कालकालेश",
+      "transliteration": "ಕಾಲಕಾಲೇಶ",
+      "translation": "ಕಾಲದ ಆಧಿಪತ್ಯ"
+    },
+    {
+      "original": "कारण",
+      "transliteration": "ಕಾರಣ",
+      "translation": "ಕಾರಣ"
+    },
+    {
+      "original": "कालादतीत",
+      "transliteration": "ಕಾಲಾದತೀತ",
+      "translation": "ಕಾಲವನ್ನು ಮೀರಿ"
+    },
+    {
+      "original": "कालस्थ",
+      "transliteration": "ಕಾಲಸ್ಥ",
+      "translation": "ಕಾಲದಲ್ಲಿ ಇರುವ"
+    },
+    {
+      "original": "कालकाल",
+      "transliteration": "ಕಾಲಕಾಲ",
+      "translation": "ಕಾಲದ ಕಾಲ"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "ನಮೋಸ್ತು",
+      "translation": "ನಮಸ್ಕಾರವಾಗಿರಲಿ"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ಮೃತ್ಯೋಃ",
+      "translation": "ಮರಣದ"
+    },
+    {
+      "original": "गुणातीत",
+      "transliteration": "ಮೃತ್ಯುಸ್ವರೂಪೇಣ",
+      "translation": "ಮರಣದ ಸ್ವರೂಪದಲ್ಲಿ"
+    },
+    {
+      "original": "गुणाधार",
+      "transliteration": "ಮೃತ್ಯುಸಂಸಾರಖಂಡನ",
+      "translation": "ಮರಣದ ಸಂಕೋಚ ಮತ್ತು ವಿನಾಶ"
+    },
+    {
+      "original": "गुणबीज",
+      "transliteration": "ಮೃತ್ಯೋರೀಶ",
+      "translation": "ಮರಣದ ದೇವರು"
+    },
+    {
+      "original": "गुणात्मक",
+      "transliteration": "ಮೃತ್ಯುಬೀಜ",
+      "translation": "ಮರಣದ ಬೀಜ"
+    },
+    {
+      "original": "गुणीश",
+      "transliteration": "ಮೃತ್ಯುಂಜಯ",
+      "translation": "ಮರಣವನ್ನು ಗೆಲ್ಲುವ"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "ನಮೋಸ್ತು",
+      "translation": "ನಮಸ್ಕಾರವಾಗಿರಲಿ"
+    },
+    {
+      "original": "बीज",
+      "transliteration": "ಕಾಲರೂಪಂ",
+      "translation": "ಕಾಲದ ರೂಪ"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "ಕಲಯತಾಂ",
+      "translation": "ಗಣನೆ ಮಾಡುವವರ"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "ಕಾಲಕಾಲೇಶ",
+      "translation": "ಕಾಲದ ಒಡೆಯ"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "ಕಾರಣ",
+      "translation": "ಕಾರಣ"
+    },
+    {
+      "original": "ब्रह्मस्वरूप",
+      "transliteration": "ಕಾಲಾದತೀತ",
+      "translation": "ಕಾಲಾತೀತ"
+    },
+    {
+      "original": "ब्रह्मज्ञ",
+      "transliteration": "ಕಾಲಸ್ಥ",
+      "translation": "ಕಾಲದಲ್ಲಿರುವ"
+    },
+    {
+      "original": "ब्रह्मभावे",
+      "transliteration": "ಕಾಲಕಾಲ",
+      "translation": "ಕಾಲದ ಕಾಲ"
+    },
+    {
+      "original": "च",
+      "transliteration": "ನಮೋಽಸ್ತು",
+      "translation": "ನಮಸ್ಕಾರವಿರಲಿ"
+    },
+    {
+      "original": "तत्पर",
+      "transliteration": "ಗುಣಾತೀತ",
+      "translation": "ಗುಣಗಳನ್ನು ಮೀರಿದ"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "ಗುಣಾಧಾರ",
+      "translation": "ಗುಣಗಳ ಆಧಾರ"
+    },
+    {
+      "original": "स्वरूपेण",
+      "transliteration": "ಗುಣಬೀಜ",
+      "translation": "ಗುಣಗಳ ಬೀಜ"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "ಗುಣಾತ್ಮಕ",
+      "translation": "ಗುಣಗಳ ಸ್ವರೂಪ"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "ಗುಣೀಶ",
+      "translation": "ಗುಣಗಳ ಒಡೆಯ"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ಗುಣಿನಾಂ",
+      "translation": "ಗುಣವಂತರ"
+    },
+    {
+      "original": "इति",
+      "transliteration": "ಗುರವೇ",
+      "translation": "ಗುರುವಿಗೆ"
+    },
+    {
+      "original": "स्तुत्वा",
+      "transliteration": "ಬ್ರಹ್ಮಸ್ವರೂಪ",
+      "translation": "ಬ್ರಹ್ಮನ ರೂಪ"
+    },
+    {
+      "original": "शिवं",
+      "transliteration": "ಬ್ರಹ್ಮಜ್ಞ",
+      "translation": "ಬ್ರಹ್ಮಜ್ಞಾನಿ"
+    },
+    {
+      "original": "नत्वा",
+      "transliteration": "ಬ್ರಹ್ಮಭಾವೇ",
+      "translation": "ಬ್ರಹ್ಮ ಭಾವದಲ್ಲಿ"
+    },
+    {
+      "original": "पुरस्तस्थौ",
+      "transliteration": "ತತ್ಪರ",
+      "translation": "ನಿರತ"
+    },
+    {
+      "original": "मुनीश्वरः",
+      "transliteration": "ಬ್ರಹ್ಮಬೀಜ",
+      "translation": "ಬ್ರಹ್ಮದ ಬೀಜ"
+    },
+    {
+      "original": "दीनवत्साश्रुनेत्रश्च",
+      "transliteration": "ಸ್ವರೂಪೇಣ",
+      "translation": "ರೂಪದಿಂದ"
+    },
+    {
+      "original": "पुळकाञ्चितविग्रहः",
+      "transliteration": "ನಮೋಽಸ್ತು",
+      "translation": "ನಮಸ್ಕಾರವಿರಲಿ"
+    },
+    {
+      "original": "असितेन",
+      "transliteration": "ಇತಿ",
+      "translation": "ಹೀಗೆ"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "ಸ್ತುತ್ವಾ",
+      "translation": "ಸ್ತುತಿಸಿ"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "ಶಿವಂ",
+      "translation": "ಶಿವನನ್ನು"
+    },
+    {
+      "original": "भक्तियुक्तश्च",
+      "transliteration": "ನತ್ವಾ",
+      "translation": "ನಮಸ್ಕರಿಸಿ"
+    },
+    {
+      "original": "यः",
+      "transliteration": "ಪುರಸ್ತಸ್ಥೌ",
+      "translation": "ಮುಂದೆ ನಿಂತನು"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "ಮುನೀಶ್ವರಃ",
+      "translation": "ಮುನಿಗಳ ರಾಜ"
+    },
+    {
+      "original": "वर्षमेकं",
+      "transliteration": "ದೀನವತ್ಸಾಶ್ರುನೇತ್ರಶ್ಚ",
+      "translation": "ದೀನನಂತೆ ಕಣ್ಣೀರಿನಿಂದ"
+    },
+    {
+      "original": "हविष्याशी",
+      "transliteration": "ಪುಳಕಾಂಚಿತವಿಗ್ರಹಃ",
+      "translation": "ರೋಮಾಂಚಿತ ದೇಹದಿಂದ"
+    },
+    {
+      "original": "शङ्करस्य",
+      "transliteration": "ಅಸಿತೇನ",
+      "translation": "ಅಸಿತನಿಂದ"
+    },
+    {
+      "original": "महात्मनः",
+      "transliteration": "ಕೃತಂ",
+      "translation": "ಮಾಡಲ್ಪಟ್ಟ"
+    },
+    {
+      "original": "स",
+      "transliteration": "ಸ್ತೋತ್ರಂ",
+      "translation": "ಸ್ತೋತ್ರವನ್ನು"
+    },
+    {
+      "original": "लभेद्वैष्णवं",
+      "transliteration": "ಭಕ್ತಿಯುಕ್ತಶ್ಚ",
+      "translation": "ಭಕ್ತಿಯಿಂದ ಕೂಡಿ"
+    },
+    {
+      "original": "पुत्रं",
+      "transliteration": "ಯಃ",
+      "translation": "ಯಾರು"
+    },
+    {
+      "original": "ज्ञानिनं",
+      "transliteration": "ಪಠೇತ್",
+      "translation": "ಪಠಿಸುವನೋ"
+    },
+    {
+      "original": "चिरजीविनम्",
+      "transliteration": "ವರ್ಷಮೇಕಂ",
+      "translation": "ಒಂದು ವರ್ಷ"
+    },
+    {
+      "original": "दरिद्रो",
+      "transliteration": "ಹವಿಷ್ಯಾಶೀ",
+      "translation": "ಹವಿಷ್ಯ ಭೋಜನ ಮಾಡುವವನು"
+    },
+    {
+      "original": "भवेद्धनाढ्यो",
+      "transliteration": "ಶಂಕರಸ್ಯ",
+      "translation": "ಶಂಕರನ"
+    },
+    {
+      "original": "मूको",
+      "transliteration": "ಮಹಾತ್ಮನಃ",
+      "translation": "ಮಹಾತ್ಮನ"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "ಸ",
+      "translation": "ಅವನು"
+    },
+    {
+      "original": "पण्डितः",
+      "transliteration": "ಲಭೇದ್ವೈಷ್ಣವಂ",
+      "translation": "ವೈಷ್ಣವ ಫಲವನ್ನು ಪಡೆಯುವನು"
+    },
+    {
+      "original": "अभार्यो",
+      "transliteration": "ಪುತ್ರಂ",
+      "translation": "ಮಗನನ್ನು"
+    },
+    {
+      "original": "लभते",
+      "transliteration": "ಜ್ಞಾನಿನಂ",
+      "translation": "ಜ್ಞಾನಿಯಾದ"
+    },
+    {
+      "original": "भार्यां",
+      "transliteration": "ಚ",
+      "translation": "ಮತ್ತು"
+    },
+    {
+      "original": "सुशीलां",
+      "transliteration": "ಚಿರಜೀವಿನಮ್",
+      "translation": "ದೀರ್ಘಾಯುಷ್ಯವುಳ್ಳ"
+    },
+    {
+      "original": "च",
+      "transliteration": "ದರಿದ್ರೋ",
+      "translation": "ಬಡವನು"
+    },
+    {
+      "original": "पतिव्रताम्",
+      "transliteration": "ಭವೇದ್ಧನಾಢ್ಯೋ",
+      "translation": "ಧನವಂತನಾಗುವನು"
+    },
+    {
+      "original": "इह",
+      "transliteration": "ಮೂಕೋ",
+      "translation": "ಮೂಕನು"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "ಭವತಿ",
+      "translation": "ಆಗುತ್ತಾನೆ"
+    },
+    {
+      "original": "सुखं",
+      "transliteration": "ಪಂಡಿತಃ",
+      "translation": "ವಿದ್ವಾಂಸ"
+    },
+    {
+      "original": "भुक्त्वा",
+      "transliteration": "ಅಭಾರ್ಯೋ",
+      "translation": "ಪತ್ನಿಯಿಲ್ಲದವನು"
+    },
+    {
+      "original": "यात्यन्ते",
+      "transliteration": "ಲಭತೇ",
+      "translation": "ಪಡೆಯುತ್ತಾನೆ"
+    },
+    {
+      "original": "शिवसन्निधिम्",
+      "transliteration": "ಭಾರ್ಯಾಂ",
+      "translation": "ಪತ್ನಿಯನ್ನು"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "ಸುಶೀಲಾಂ",
+      "translation": "ಒಳ್ಳೆಯ ನಡತೆಯ"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "ಚ",
+      "translation": "ಮತ್ತು"
+    },
+    {
+      "original": "पुरा",
+      "transliteration": "ಪತಿವ್ರತಾಮ್",
+      "translation": "ಪತಿವ್ರತೆಯಾದ"
+    },
+    {
+      "original": "दत्तं",
+      "transliteration": "ಇಹ",
+      "translation": "ಈ"
+    },
+    {
+      "original": "ब्रह्मणा",
+      "transliteration": "ಲೋಕೇ",
+      "translation": "ಲೋಕದಲ್ಲಿ"
+    },
+    {
+      "original": "च",
+      "transliteration": "ಸುಖಂ",
+      "translation": "ಸುಖವನ್ನು"
+    },
+    {
+      "original": "प्रचेतसे",
+      "transliteration": "ಭುಕ್ತ್ವಾ",
+      "translation": "ಅನುಭವಿಸಿ"
+    },
+    {
+      "original": "प्रचेतसा",
+      "transliteration": "ಯಾತ್ಯಂತೇ",
+      "translation": "ಕೊನೆಯಲ್ಲಿ ಹೋಗುವನು"
+    },
+    {
+      "original": "स्वपुत्रायासिताय",
+      "transliteration": "ಶಿವಸನ್ನಿಧಿಮ್",
+      "translation": "ಶಿವನ ಸಾನ್ನಿಧ್ಯಕ್ಕೆ"
+    },
+    {
+      "original": "दत्तमुत्तमम्",
+      "transliteration": "ಇದಂ",
+      "translation": "ಈ"
+    },
+    {
+      "original": "इति",
+      "transliteration": "ಸ್ತೋತ್ರಂ",
+      "translation": "ಸ್ತೋತ್ರವನ್ನು"
+    },
+    {
+      "original": "श्रीब्रह्मवैवर्ते",
+      "transliteration": "ಪುರಾ",
+      "translation": "ಪುರಾತನ ಕಾಲದಲ್ಲಿ"
+    },
+    {
+      "original": "महापुराणे",
+      "transliteration": "ದತ್ತಂ",
+      "translation": "ಕೊಡಲ್ಪಟ್ಟಿತು"
+    },
+    {
+      "original": "श्रीकृष्णजन्मखण्डे",
+      "transliteration": "ಬ್ರಹ್ಮಣಾ",
+      "translation": "ಬ್ರಹ್ಮನಿಂದ"
+    },
+    {
+      "original": "असितकृतं",
+      "transliteration": "ಪ್ರಚೇತಸೇ",
+      "translation": "ಪ್ರಚೇತಸನಿಗೆ"
+    },
+    {
+      "original": "शिवस्तोत्रं",
+      "transliteration": "ಪ್ರಚೇತಸಾ",
+      "translation": "ಪ್ರಚೇತಸನಿಂದ"
+    },
+    {
+      "original": "संपूर्णम्",
+      "transliteration": "ಸ್ವಪುತ್ರಾಯ",
+      "translation": "ತನ್ನ ಮಗನಿಗೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಅಸಿತಾಯ",
+      "translation": "ಅಸಿತನಿಗೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ದತ್ತಮುತ್ತಮಮ್",
+      "translation": "ಕೊಡಲ್ಪಟ್ಟ ಉತ್ತಮವಾದುದು"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಇತಿ",
+      "translation": "ಹೀಗೆ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಶ್ರೀಬ್ರಹ್ಮವೈವರ್ತೇ",
+      "translation": "ಶ್ರೀಬ್ರಹ್ಮವೈವರ್ತದಲ್ಲಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಮಹಾಪುರಾಣೇ",
+      "translation": "ಮಹಾಪುರಾಣದಲ್ಲಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಶ್ರೀಕೃಷ್ಣಜನ್ಮಖಂಡೇ",
+      "translation": "ಶ್ರೀಕೃಷ್ಣ ಜನ್ಮ ಖಂಡದಲ್ಲಿ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಅಸಿತಕೃತಂ",
+      "translation": "ಅಸಿತನಿಂದ ರಚಿತವಾದ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಶಿವಸ್ತೋತ್ರಂ",
+      "translation": "ಶಿವಸ್ತೋತ್ರ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ಸಂಪೂರ್ಣಮ್",
+      "translation": "ಸಂಪೂರ್ಣ"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\kannada\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\kannada\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.229Z"
+  }
+}

@@ -1,0 +1,3509 @@
+{
+  "mantra": "shiv_mahima_stotra_pushp_dant",
+  "language": "malayalam",
+  "type": "word_to_word",
+  "totalWords": 699,
+  "alignedWords": [
+    {
+      "original": "महिम्नः",
+      "transliteration": "മഹിമ്നഃ",
+      "translation": "മഹിമ്ന്‌, ആരായാതെ പറയുന്ന സ്വഭാവം."
+    },
+    {
+      "original": "पारं",
+      "transliteration": "പാലം",
+      "translation": "അതിന്റെ പരിധി അല്ലെങ്കിൽ അതിന്റെ സമാപനം."
+    },
+    {
+      "original": "ते",
+      "transliteration": "നിന്റെ",
+      "translation": "നിന്റെ."
+    },
+    {
+      "original": "परमविदुषो",
+      "transliteration": "പരമവിദുഷോ",
+      "translation": "പരമഗ്യാനമുള്ളവൻ."
+    },
+    {
+      "original": "यद्यसदृशी",
+      "transliteration": "യദ്യസദൃശി",
+      "translation": "യഥാർത്ഥത്തിൽ അല്ലെങ്കിൽ അവയെ പോലെ അല്ല."
+    },
+    {
+      "original": "स्तुतिर्ब्रह्मादीनामपि",
+      "transliteration": "സ്തുതിർബ്രഹ്മാദീനാമപി",
+      "translation": "സ്തുതി ബ്രഹ്മാമടക്കിയവർക്കും."
+    },
+    {
+      "original": "तदवसन्नास्त्वयि",
+      "transliteration": "തദവസന്നാസ്ത്വയി ഗിരഃ",
+      "translation": "അതിനേക്കുറിച്ച് സംസാരിക്കുന്ന പാടവും."
+    },
+    {
+      "original": "गिरः",
+      "transliteration": "അതാഽവാച്യഃ",
+      "translation": "പിന്നീട് പറയേണ്ടതുണ്ട്."
+    },
+    {
+      "original": "अथाऽवाच्यः",
+      "transliteration": "സർവ്വഃ",
+      "translation": "എല്ലാ."
+    },
+    {
+      "original": "सर्वः",
+      "transliteration": "സ്വമതിപരിണാമാവധി",
+      "translation": "തന്റെ സ്വയം പരിണാമത്തിന്റെ പരിധിയിൽ."
+    },
+    {
+      "original": "स्वमतिपरिणामावधि",
+      "transliteration": "ഗൃണൻ",
+      "translation": "പ്രാർത്ഥിക്കുന്ന."
+    },
+    {
+      "original": "गृणन्",
+      "transliteration": "മമാപ്യേഷ",
+      "translation": "എന്റെ ഈ (വാക്കുകൾ)"
+    },
+    {
+      "original": "ममाप्येष",
+      "transliteration": "സ്തോത്രേ",
+      "translation": "പ്രാർത്ഥനയിൽ."
+    },
+    {
+      "original": "स्तोत्रे",
+      "transliteration": "ഹര",
+      "translation": "ഹരം, അല്ലെങ്കിൽ ശ്രീശങ്കരന്."
+    },
+    {
+      "original": "हर",
+      "transliteration": "നിരപവാദഃ",
+      "translation": "തെറ്റില്ലാത്തവൻ, എന്നാൽ ശുദ്ധമായ."
+    },
+    {
+      "original": "निरपवादः",
+      "transliteration": "പരികരഃ",
+      "translation": "സഹായം, പ്രത്യേകിച്ച് വിശുദ്ധമായ."
+    },
+    {
+      "original": "परिकरः",
+      "transliteration": "അതീതഃ",
+      "translation": "കഴിഞ്ഞ, അകത്തുള്ള."
+    },
+    {
+      "original": "अतीतः",
+      "transliteration": "പന്താനം",
+      "translation": "വഴികൾ."
+    },
+    {
+      "original": "पंथानं",
+      "transliteration": "തവ",
+      "translation": "നിന്നെ."
+    },
+    {
+      "original": "तव",
+      "transliteration": "ച",
+      "translation": "ആയും."
+    },
+    {
+      "original": "च",
+      "transliteration": "മഹിമാ",
+      "translation": "മഹിമ."
+    },
+    {
+      "original": "महिमा",
+      "transliteration": "വാങ്മനസയോഃ",
+      "translation": "വാക്യങ്ങളുടെയും മനസ്സിന്റെ (ശക്തി)."
+    },
+    {
+      "original": "वाङ्मनसयोः",
+      "transliteration": "അതദ്വ്യാവൃത്ത്യാ",
+      "translation": "അതിനാൽ പ്രസ്താവനം."
+    },
+    {
+      "original": "अतद्व्यावृत्त्या",
+      "transliteration": "യം ചകിതമഭിധത്തേ",
+      "translation": "എവിടെ പത്രേ എഴുതുന്നു."
+    },
+    {
+      "original": "यं",
+      "transliteration": "ശ്രുതിരപി",
+      "translation": "കേൾവി (ശ്രുതി) മാത്രമായിരിക്കും."
+    },
+    {
+      "original": "चकितमभिधत्ते",
+      "transliteration": "സ",
+      "translation": "ആരുടെ"
+    },
+    {
+      "original": "श्रुतिरपि",
+      "transliteration": "കസ്യ",
+      "translation": "ആരുടെ"
+    },
+    {
+      "original": "स",
+      "transliteration": "സ്തോതവ്യഃ",
+      "translation": "പാടേണ്ടതായിരിക്കും"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "കഥിവിധഗുണഃ",
+      "translation": "അനേകം ഗുണങ്ങളുള്ളവൻ"
+    },
+    {
+      "original": "स्तोतव्यः",
+      "transliteration": "കസ്യ",
+      "translation": "ആരുടെ"
+    },
+    {
+      "original": "कतिविधगुणः",
+      "transliteration": "വിഷയം",
+      "translation": "വിഷയം"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "പദേ",
+      "translation": "(ഇവിടേ) സ്ഥാനം"
+    },
+    {
+      "original": "विषयः",
+      "transliteration": "ത്വർവാചീനേ",
+      "translation": "(അവിടെ) മൂടിയ, പാടാതിരുന്ന"
+    },
+    {
+      "original": "पदे",
+      "transliteration": "പത്തതി",
+      "translation": "വരും"
+    },
+    {
+      "original": "त्वर्वाचीने",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "पतति",
+      "transliteration": "മനഃ",
+      "translation": "മനസ്സിൻ"
+    },
+    {
+      "original": "न",
+      "transliteration": "കസ്യ",
+      "translation": "ആരുടേ"
+    },
+    {
+      "original": "मनः",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "വചഃ",
+      "translation": "വാക്കുകൾ"
+    },
+    {
+      "original": "न",
+      "transliteration": "മധുസ്ഫീതാ",
+      "translation": "മധുരമായ വാക്കുകൾ"
+    },
+    {
+      "original": "वचः",
+      "transliteration": "വാചഃ",
+      "translation": "(പൂജ്യമായ) വാക്കുകൾ"
+    },
+    {
+      "original": "मधुस्फीता",
+      "transliteration": "പരമം",
+      "translation": "പരമമായ (ആത്മാ)"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "അമൃതം",
+      "translation": "അമൃതം"
+    },
+    {
+      "original": "परमममृतं",
+      "transliteration": "നിർമ്മിതവതഃ",
+      "translation": "നിർമ്മിച്ച (വാക്കുകൾ)"
+    },
+    {
+      "original": "निर्मितवतः",
+      "transliteration": "തവ",
+      "translation": "നിന്റെ (അവിടെ)"
+    },
+    {
+      "original": "तव",
+      "transliteration": "ബ്രഹ്മന്",
+      "translation": "ബ്രഹ്മ (അവിടെ)"
+    },
+    {
+      "original": "ब्रह्मन्",
+      "transliteration": "കിം",
+      "translation": "എന്ത് (അവിടെ)"
+    },
+    {
+      "original": "किं",
+      "transliteration": "വാഗപി",
+      "translation": "വാക്കും"
+    },
+    {
+      "original": "वागपि",
+      "transliteration": "സുരഗുരോഃ",
+      "translation": "ദേവഗുരുവിന്റെ"
+    },
+    {
+      "original": "सुरगुरोर्विस्मयपदम्",
+      "transliteration": "വിശ്മയപദം",
+      "translation": "അമ്പലപ്പാടുകൾ"
+    },
+    {
+      "original": "मम",
+      "transliteration": "മമ",
+      "translation": "എന്റെ"
+    },
+    {
+      "original": "त्वेतां",
+      "transliteration": "ത്വേതാം",
+      "translation": "ഈ (നിന്റെ)"
+    },
+    {
+      "original": "वाणीं",
+      "transliteration": "വാണീം",
+      "translation": "വാക്കുകൾ"
+    },
+    {
+      "original": "गुणकथनपुण्येन",
+      "transliteration": "ഗുണകഥനപുണ്യേന",
+      "translation": "ഗുണകഥനത്തിന്റെയും पुण്യത്താൽ"
+    },
+    {
+      "original": "भवतः",
+      "transliteration": "ഭവതഃ",
+      "translation": "നിന്നിൽ"
+    },
+    {
+      "original": "पुनामीत्यर्थेऽस्मिन्",
+      "transliteration": "പുനാമീത്യര്‍ത്ഥേऽസ്മിന്",
+      "translation": "അവിടെ (പുനരുദ്ധാരണം)"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "പുരമത്തന",
+      "translation": "(ഭഗവാൻ)"
+    },
+    {
+      "original": "बुद्धिर्व्यवसिता",
+      "transliteration": "ബുദ്ധിഃ",
+      "translation": "ബുദ്ധി"
+    },
+    {
+      "original": "तवैश्वर्यं",
+      "transliteration": "വ്യവസിതാ",
+      "translation": "(ചിന്തിച്ചിരിക്കുന്ന)"
+    },
+    {
+      "original": "यत्तज्जगदुदयरक्षाप्रलयकृत्",
+      "transliteration": "തവൈശ്വര്യം",
+      "translation": "ആകാംക്ഷയുള്ള മഹിമ"
+    },
+    {
+      "original": "त्रयीवस्तु",
+      "transliteration": "യത്തജ്‌ഗദുദയരക്ഷാപ്രലയകൃത്‌",
+      "translation": "ലോകം ഉത്ഘാടിക്കുകയും സംരക്ഷിക്കുകയും ചെയ്യുന്നു"
+    },
+    {
+      "original": "व्यस्तं",
+      "transliteration": "ത്രയീവസ്തു",
+      "translation": "ത്രിത്വമായ വസ്തു"
+    },
+    {
+      "original": "तिस्रुषु",
+      "transliteration": "വ്യസ്തം",
+      "translation": "വീചികൃതമായ"
+    },
+    {
+      "original": "गुणभिन्नासु",
+      "transliteration": "തിസ്രുഷു",
+      "translation": "മൂന്ന് ഘടകങ്ങളിൽ"
+    },
+    {
+      "original": "तनुषु",
+      "transliteration": "ഗുണഭിന്നാസു",
+      "translation": "ഗുണങ്ങളിൽ വ്യത്യാസമുള്ള"
+    },
+    {
+      "original": "अभव्यानामस्मिन्",
+      "transliteration": "തനുഷു",
+      "translation": "സ്വഭാവരീതികളായ"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "അഭവ്യാനാമസ്‌മിന്‌",
+      "translation": "അപ്രസിദ്ധമായ"
+    },
+    {
+      "original": "रमणीयामरमणीं",
+      "transliteration": "വരദ",
+      "translation": "ദയാലു"
+    },
+    {
+      "original": "विहन्तुं",
+      "transliteration": "രമണീയാമരമണീം",
+      "translation": "സുന്ദരമായ സങ്കലനം"
+    },
+    {
+      "original": "व्याक्रोशीं",
+      "transliteration": "വിഹന്തും",
+      "translation": "നശിപ്പിക്കുക"
+    },
+    {
+      "original": "विदधत",
+      "transliteration": "വ്യാക്രോഷീം",
+      "translation": "ഭയങ്കരമായ"
+    },
+    {
+      "original": "इहैके",
+      "transliteration": "വിദ്യദത്",
+      "translation": "പ്രവർത്തനം ചെയ്യുന്നു"
+    },
+    {
+      "original": "जडधियः",
+      "transliteration": "ഇഹേക്കെ",
+      "translation": "ഇവിടെയൊരു"
+    },
+    {
+      "original": "किमीहः",
+      "transliteration": "ജഡധിയഃ",
+      "translation": "ബുദ്ധിയില്ലാത്തവർ"
+    },
+    {
+      "original": "किंकायः",
+      "transliteration": "കിമീഹഃ",
+      "translation": "എന്താണ്"
+    },
+    {
+      "original": "स",
+      "transliteration": "കിങ്കായഃ",
+      "translation": "എന്ത് ശരീരമാണ്"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "സ ഖലു",
+      "translation": "അവൻ"
+    },
+    {
+      "original": "किमुपायस्त्रिभुवनं",
+      "transliteration": "കിമുപായസ്ത്രിഭുവനം",
+      "translation": "ലോകത്തിന് വഴി കാണിക്കാനായി"
+    },
+    {
+      "original": "किमाधारो",
+      "transliteration": "കിമാധാരോ",
+      "translation": "എന്താണ് മാർഗ്ഗം"
+    },
+    {
+      "original": "धाता",
+      "transliteration": "ധാതാ",
+      "translation": "സൃഷ്ടികർത്താവ്"
+    },
+    {
+      "original": "सृजति",
+      "transliteration": "സൃഷ്ടി",
+      "translation": "സൃഷ്ടി നടത്തുന്നു"
+    },
+    {
+      "original": "किमुपादान",
+      "transliteration": "കിമുപാദാന ഇതി ച",
+      "translation": "എന്ത് സ്വാധീനമാണ്"
+    },
+    {
+      "original": "इति",
+      "transliteration": "അതര്ക്യൈശ്വര്യേ",
+      "translation": "അപാരമായ മഹിമ"
+    },
+    {
+      "original": "च",
+      "transliteration": "ത്വയ്യനവസർ ദുഃസ്ഥോ ഹതധിയഃ",
+      "translation": "നിന്നിൽ തിരുത്തലുകൾ ഇല്ലാതെയുള്ള"
+    },
+    {
+      "original": "अजन्मानो",
+      "transliteration": "കുറ്റർകൊsयं",
+      "translation": "ഒറ്റായ പദവി"
+    },
+    {
+      "original": "लोकाः",
+      "transliteration": "കാംശ്ചിത്‌",
+      "translation": "ചില"
+    },
+    {
+      "original": "किमवयववन्तोऽपि",
+      "transliteration": "മുഖരയതി",
+      "translation": "വാക്കുകൾ പറയുന്നു"
+    },
+    {
+      "original": "जगतां",
+      "transliteration": "മോഹായ",
+      "translation": "അലമാരയിലേക്കുള്ള"
+    },
+    {
+      "original": "अधिष्ठातारं",
+      "transliteration": "ജഗത്‌",
+      "translation": "ലോകം"
+    },
+    {
+      "original": "किं",
+      "transliteration": "അജന്മാനോ",
+      "translation": "ജന്മമില്ലാത്ത"
+    },
+    {
+      "original": "भवविधिरनादृत्य",
+      "transliteration": "ലോകാഃ",
+      "translation": "ലോകങ്ങൾ"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "കിമവയവവന്തോऽപി ലോകത്താം",
+      "translation": "അജാതീയമായ ലോകങ്ങൾ"
+    },
+    {
+      "original": "अनीशो",
+      "transliteration": "അധിഷ്ഠാതാരം",
+      "translation": "പദവിയുടെ ഉയരമുള്ള"
+    },
+    {
+      "original": "वा",
+      "transliteration": "കിം",
+      "translation": "എന്ത്"
+    },
+    {
+      "original": "कुर्याद्",
+      "transliteration": "ഭവവിധി",
+      "translation": "ലോകത്തിന്റെ പ്രക്രിയ"
+    },
+    {
+      "original": "भुवनजनने",
+      "transliteration": "അനാദൃത്യ",
+      "translation": "അവഗണിക്കപ്പെട്ട"
+    },
+    {
+      "original": "कः",
+      "transliteration": "ഭവതി",
+      "translation": "ഉണ്ടാകുന്നു"
+    },
+    {
+      "original": "परिकरो",
+      "transliteration": "അനീശോ",
+      "translation": "ഇശ്വരമില്ലാത്ത"
+    },
+    {
+      "original": "यतो",
+      "transliteration": "വാ",
+      "translation": "അല്ലെങ്കിൽ"
+    },
+    {
+      "original": "मन्दास्त्वां",
+      "transliteration": "കുറ്യാദ്",
+      "translation": "ചെയ്യാം"
+    },
+    {
+      "original": "प्रत्यमरवर",
+      "transliteration": "ഭുവനജനനെ",
+      "translation": "ലോകസൃഷ്ടി"
+    },
+    {
+      "original": "संशेरत",
+      "transliteration": "കഃ",
+      "translation": "ആര്"
+    },
+    {
+      "original": "इमे",
+      "transliteration": "പരിചരോ",
+      "translation": "സഹായിക"
+    },
+    {
+      "original": "त्रयी",
+      "transliteration": "യതോ",
+      "translation": "ആകാതെ"
+    },
+    {
+      "original": "साङ्ख्यं",
+      "transliteration": "മന്ദാസ്വാം",
+      "translation": "മന്ദബുദ്ധിമുട്ടുകൾ"
+    },
+    {
+      "original": "योगः",
+      "transliteration": "പ്രത്യാമരവര",
+      "translation": "പ്രപഞ്ചത്തിലെ"
+    },
+    {
+      "original": "पशुपतिमतं",
+      "transliteration": "സംശേരത",
+      "translation": "സംശയങ്ങളെ"
+    },
+    {
+      "original": "वैष्णवमिति",
+      "transliteration": "ഇമേ",
+      "translation": "ഇവ"
+    },
+    {
+      "original": "प्रभिन्ने",
+      "transliteration": "ത്രയീ",
+      "translation": "ത്രിത്വത്തിന്റെ"
+    },
+    {
+      "original": "प्रस्थाने",
+      "transliteration": "സാംഖ്യം",
+      "translation": "സങ്കൽപ്പിക"
+    },
+    {
+      "original": "परमिदमदः",
+      "transliteration": "യോഗം",
+      "translation": "യോഗം"
+    },
+    {
+      "original": "पथ्यमिति",
+      "transliteration": "പശുപതിമതം",
+      "translation": "പശുപതി ദർശനം"
+    },
+    {
+      "original": "च",
+      "transliteration": "വൈഷ്ണവമിതി",
+      "translation": "വൈഷ്ണവ ദർശനം"
+    },
+    {
+      "original": "रुचीनां",
+      "transliteration": "പ്രഭിന്നെ",
+      "translation": "വിഭജനം"
+    },
+    {
+      "original": "वैचित्र्यादृजुकुटिल",
+      "transliteration": "പ്രസ്ഥാനേ",
+      "translation": "പ്രസ്ഥാനം"
+    },
+    {
+      "original": "नानापथजुषां",
+      "transliteration": "പരമിദമദഃ",
+      "translation": "ഇതിൽ പാത"
+    },
+    {
+      "original": "नृणामेको",
+      "transliteration": "പഥ്യമിതി ച",
+      "translation": "യാത്രയിൽ"
+    },
+    {
+      "original": "गम्यस्त्वमसि",
+      "transliteration": "രുചീനാം",
+      "translation": "രുചികളുടെ"
+    },
+    {
+      "original": "पयसामर्णव",
+      "transliteration": "വൈചിത്ര്യാദൃജുകുട്ടിൽ",
+      "translation": "വൈവിധ്യമാർന്ന"
+    },
+    {
+      "original": "इव",
+      "transliteration": "നാനാപഥജുഷാം",
+      "translation": "പല പാതകളിൽ"
+    },
+    {
+      "original": "महोक्षः",
+      "transliteration": "നൃണാമേകം",
+      "translation": "മനുഷ്യരുടെ"
+    },
+    {
+      "original": "खट्वाङ्गं",
+      "transliteration": "ഗമ്യസ്ത്വമസി",
+      "translation": "നീ വഴികാട്ടിയവനാണ്"
+    },
+    {
+      "original": "परशुरजिनं",
+      "transliteration": "പയസാമർണവ ഇവ",
+      "translation": "പാനത്തിന്റെ മഹിമ"
+    },
+    {
+      "original": "भस्म",
+      "transliteration": "മഹോക്ഷഃ",
+      "translation": "മഹാ ശക്തി"
+    },
+    {
+      "original": "फणिनः",
+      "transliteration": "ഖട്വാങ്കം",
+      "translation": "കട്ടിയുള്ള ആയുധം"
+    },
+    {
+      "original": "कपालं",
+      "transliteration": "പരശുരജിനം",
+      "translation": "പരശുരാമന്റെ വസ്ത്രം"
+    },
+    {
+      "original": "चेतीयत्तव",
+      "transliteration": "ഭസ്മ",
+      "translation": "അലങ്കാരമായ പവിഴി"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "ഫണിനഃ",
+      "translation": "പാമരന്മാരുടെ തലക്കെട്ട്"
+    },
+    {
+      "original": "तन्त्रोपकरणम्",
+      "transliteration": "കപാലം",
+      "translation": "ശിവയുടെ ഭംഗി"
+    },
+    {
+      "original": "सुरास्तां",
+      "transliteration": "ചേതിയത്",
+      "translation": "ഭവദീശന്മാർ"
+    },
+    {
+      "original": "तामृद्धिं",
+      "transliteration": "തവ",
+      "translation": "നിങ്ങളുടെ"
+    },
+    {
+      "original": "दधति",
+      "transliteration": "വരദ",
+      "translation": "ദയാലു"
+    },
+    {
+      "original": "तु",
+      "transliteration": "തന്ത്രോപകരണം",
+      "translation": "തന്ത്രവാദിയുടെ ഉപകരണങ്ങൾ"
+    },
+    {
+      "original": "भवद्भूप्रणिहितां",
+      "transliteration": "സുറാസ്താം",
+      "translation": "ദേവങ്ങളോടെയുള്ള"
+    },
+    {
+      "original": "न",
+      "transliteration": "താംമൃദ്ധി",
+      "translation": "സമൃദ്ധി"
+    },
+    {
+      "original": "हि",
+      "transliteration": "ദധതി",
+      "translation": "നൽകുന്നു"
+    },
+    {
+      "original": "स्वात्मारामं",
+      "transliteration": "തു",
+      "translation": "എന്നാൽ"
+    },
+    {
+      "original": "विषयमृगतृष्णा",
+      "transliteration": "ഭവദ്ഭൂപ്രണിഹിതാം",
+      "translation": "ഭവാനവിടെയുള്ള"
+    },
+    {
+      "original": "भ्रमयति",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "ഹി",
+      "translation": "യഥാർത്ഥത്തിൽ"
+    },
+    {
+      "original": "कश्चित्",
+      "transliteration": "സ്വാത്മാരാമം",
+      "translation": "സ്വാത്മം"
+    },
+    {
+      "original": "सर्वं",
+      "transliteration": "വിഷയംരിഗതൃഷ്ണാ",
+      "translation": "ഭ്രമിച്ച നിലയിൽ"
+    },
+    {
+      "original": "सकलमपरस्त्वध्रुवमिदं",
+      "transliteration": "ഭ്രമയതി",
+      "translation": "അലമാര പാതയിൽ"
+    },
+    {
+      "original": "परो",
+      "transliteration": "ധ്രുവം",
+      "translation": "സ്ഥിരം"
+    },
+    {
+      "original": "ध्रौव्याऽध्रौव्ये",
+      "transliteration": "കശ്ചിത്‌",
+      "translation": "ചില"
+    },
+    {
+      "original": "जगति",
+      "transliteration": "സർവം",
+      "translation": "എല്ലാം"
+    },
+    {
+      "original": "गदति",
+      "transliteration": "സകലം",
+      "translation": "സമഗ്രം"
+    },
+    {
+      "original": "व्यस्तविषये",
+      "transliteration": "അപരസ്ത്വധ്രുവമിദം",
+      "translation": "നിശ്ചിതമില്ലാത്ത"
+    },
+    {
+      "original": "समस्तेऽप्येतस्मिन्",
+      "transliteration": "പരോ",
+      "translation": "മറ്റുള്ളവ"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "ധ്രൗവ്യാ'ധ്രൗവ്യേ",
+      "translation": "പദപ്രവൃത്തി"
+    },
+    {
+      "original": "तैर्विस्मित",
+      "transliteration": "ജഗതി",
+      "translation": "ലോകത്തിൽ"
+    },
+    {
+      "original": "इव",
+      "transliteration": "ഗദതി",
+      "translation": "ഗതി"
+    },
+    {
+      "original": "स्तुवन्",
+      "transliteration": "വ്യസ്തവിഷയേ",
+      "translation": "വ്യത്യസ്തമായ വിഷയങ്ങളിൽ"
+    },
+    {
+      "original": "जिह्रेमि",
+      "transliteration": "സമസ്തേऽപ്യേതസ്മിന്‌",
+      "translation": "എല്ലാമായി"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "പുരമത്തൻ",
+      "translation": "പുരാണം"
+    },
+    {
+      "original": "न",
+      "transliteration": "തൈർവിസ്മിത ഇവ",
+      "translation": "അത്ഭുതങ്ങൾ"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "സ്തുവൻ",
+      "translation": "പ്രഗ്ഗലഭികൾ"
+    },
+    {
+      "original": "ननु",
+      "transliteration": "ജിഹ്രേമി",
+      "translation": "ദിവ്യമായ സംവേദന"
+    },
+    {
+      "original": "धृष्टा",
+      "transliteration": "ത്വാം",
+      "translation": "നിങ്ങൾ"
+    },
+    {
+      "original": "मुखरता",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "तवैश्वर्यं",
+      "transliteration": "ഖലു",
+      "translation": "യഥാർത്ഥത്തിൽ"
+    },
+    {
+      "original": "यत्नाद्",
+      "transliteration": "നനു",
+      "translation": "അല്ലെങ്കിൽ"
+    },
+    {
+      "original": "यदुपरि",
+      "transliteration": "ധൃഷ്ടാ",
+      "translation": "ധൈര്യനുള്ള"
+    },
+    {
+      "original": "विरिञ्चिर्हरिरधः",
+      "transliteration": "മുഖരതാ",
+      "translation": "ഉന്നതമായ ഭാഷാ"
+    },
+    {
+      "original": "परिच्छेतुं",
+      "transliteration": "തവൈശ്വര്യം",
+      "translation": "അവകാശത്തിന്റെ മഹിമ"
+    },
+    {
+      "original": "यातावनलमनलस्कन्धवपुषः",
+      "transliteration": "യത്നാദ്‌",
+      "translation": "പരിശ്രമം"
+    },
+    {
+      "original": "ततो",
+      "transliteration": "യദുപരി",
+      "translation": "യദു (ഇശ്വര)ക്കു"
+    },
+    {
+      "original": "भक्तिश्रद्धा-भरगुरु-गृणद्भ्यां",
+      "transliteration": "വിവിരിഞ്ചിർഹരിരദঃ",
+      "translation": "ബ്രഹ്മാവും ശിവവും"
+    },
+    {
+      "original": "गिरिश",
+      "transliteration": "പരിച്ഛേതു്‌",
+      "translation": "പാരിസരം"
+    },
+    {
+      "original": "यत्",
+      "transliteration": "യാതാവനലമനലസ്‌കന്ദവപുഷഃ",
+      "translation": "സന്യാസത്തിന്റെ ശ്രേഷ്ഠം"
+    },
+    {
+      "original": "स्वयं",
+      "transliteration": "തതഃ",
+      "translation": "അതിനുശേഷം"
+    },
+    {
+      "original": "तस्थे",
+      "transliteration": "ഭക്തിശ്രദ്ധാ-ഭരഗുരു-ഗൃണദ്ഭ്യാം",
+      "translation": "ഭക്തിയും വിശ്വാസവും"
+    },
+    {
+      "original": "ताभ्यां",
+      "transliteration": "ഗിരിശ",
+      "translation": "ശിവന്റെ"
+    },
+    {
+      "original": "तव",
+      "transliteration": "യത്",
+      "translation": "അത്"
+    },
+    {
+      "original": "किम्",
+      "transliteration": "സ്വയം",
+      "translation": "സ്വയം"
+    },
+    {
+      "original": "अनुवृत्तिर्न",
+      "transliteration": "തസ്തേ",
+      "translation": "അവകാശി"
+    },
+    {
+      "original": "फलति",
+      "transliteration": "താഭ്യാം",
+      "translation": "അവർക്കുള്ള"
+    },
+    {
+      "original": "अयत्नादासाद्य",
+      "transliteration": "തവ",
+      "translation": "നിങ്ങളുടെ"
+    },
+    {
+      "original": "त्रिभुवनमवैरव्यतिकरं",
+      "transliteration": "കിമനുവൃത്തിര്ന്",
+      "translation": "ചെയ്യുന്നില്ല"
+    },
+    {
+      "original": "दशास्यो",
+      "transliteration": "ഫലതി",
+      "translation": "പ്രഭാവം"
+    },
+    {
+      "original": "यद्बाहूनभृत",
+      "transliteration": "അത്യാത്നാദാസാദ്യ",
+      "translation": "പ്രയത്നം ചെയ്തിട്ടുള്ള"
+    },
+    {
+      "original": "रणकण्डू-परवशान्",
+      "transliteration": "ത്രിഭുവനമവൈരവ്യതികരം",
+      "translation": "ലോകങ്ങളുടെ തടസ്സവ്യവസ്ഥ"
+    },
+    {
+      "original": "शिरःपद्मश्रेणी-रचितचरणाम्भोरुह-बलेः",
+      "transliteration": "ദശാസ്യോ",
+      "translation": "ദശാസ്യ"
+    },
+    {
+      "original": "स्थिरायास्त्वद्भक्तेस्त्रिपुरहर",
+      "transliteration": "യദ്ബാഹൂനഭൃത്",
+      "translation": "കൈകോർത്ത ഉപാധികൾ"
+    },
+    {
+      "original": "विस्फूर्जितमिदम्",
+      "transliteration": "രണകണ്ഢൂ-പരവശാന",
+      "translation": "യുദ്ധത്തിനുള്ള കഠിനം"
+    },
+    {
+      "original": "अमुष्य",
+      "transliteration": "ശിരഃപദ്മശ്രേണി-രചിതചരണാംഭോരു-ബലേഃ",
+      "translation": "പാദപദ്മസൃഷ്ടി"
+    },
+    {
+      "original": "त्वत्सेवा-समधिगतसारं",
+      "transliteration": "സ്ഥിരായാസ്ത്വദ്ഭക്തേസ്ത്രിപുരഹരവിസ്ഫൂര്‍ജിതമിദം",
+      "translation": "ശിവഭക്തി സുഖഭോഗത്തിൽ ഉറച്ചിരിക്കുന്നു"
+    },
+    {
+      "original": "भुजवनं",
+      "transliteration": "അമുഷ്യ",
+      "translation": "മറ്റുള്ളവ"
+    },
+    {
+      "original": "बलात्",
+      "transliteration": "ത്വത്സേവാ-സമധിഗതസാരം",
+      "translation": "നിങ്ങളുടെ സേവനത്തിന്റെ മികച്ച അനുഭവം"
+    },
+    {
+      "original": "कैलासेऽपि",
+      "transliteration": "ഭുജവനം",
+      "translation": "ഭൂമിശാസനയുടെ ശക്തി"
+    },
+    {
+      "original": "त्वदधिवसतौ",
+      "transliteration": "ബലാത്‌",
+      "translation": "ശക്തിയോടെ"
+    },
+    {
+      "original": "विक्रमयतः",
+      "transliteration": "കൈലാസേപി",
+      "translation": "കൈലാസേപ്പി"
+    },
+    {
+      "original": "अलभ्या",
+      "transliteration": "ത്വദധിവസതൗ",
+      "translation": "വിശ്വസിക്കുന്ന"
+    },
+    {
+      "original": "पातालेऽपि",
+      "transliteration": "വിക്രമയതഃ",
+      "translation": "മറ്റേതുമുള്ള"
+    },
+    {
+      "original": "अलसचलितांगुष्ठशिरसि",
+      "transliteration": "അലഭ്യ",
+      "translation": "ലഭിക്കാൻ കഴിയുന്ന"
+    },
+    {
+      "original": "प्रतिष्ठा",
+      "transliteration": "പാതാലേऽപി",
+      "translation": "പാതാളം"
+    },
+    {
+      "original": "त्वय्यासीद्",
+      "transliteration": "അലസചലിതാംഗുഷ്ഠശിരസി",
+      "translation": "വിശാലമായ ആകർഷണ"
+    },
+    {
+      "original": "ध्रुवमुपचितो",
+      "transliteration": "പ്രതിഷ്ഠ",
+      "translation": "നിലവിളി"
+    },
+    {
+      "original": "मुह्यति",
+      "transliteration": "ത്വയ്യാസീദ്",
+      "translation": "നേരായിരിക്കും"
+    },
+    {
+      "original": "खलः",
+      "transliteration": "ധ്രുവം",
+      "translation": "സ്ഥിര"
+    },
+    {
+      "original": "यदृद्धिं",
+      "transliteration": "ഉപചിതോ",
+      "translation": "സമർപ്പണം"
+    },
+    {
+      "original": "सुत्राम्णो",
+      "transliteration": "മുഹ്യതി",
+      "translation": "ഗംഭീരമായ"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "ഖലഃ",
+      "translation": "ദോഷികൾ"
+    },
+    {
+      "original": "परमोच्चैरपि",
+      "transliteration": "യദൃശ്ഠിം",
+      "translation": "എപ്പോഴുള്ള ശക്തി"
+    },
+    {
+      "original": "सतीं",
+      "transliteration": "സുത്രാമ്ണോ",
+      "translation": "സുതാര്യമായ"
+    },
+    {
+      "original": "अधश्चक्रे",
+      "transliteration": "വരദ",
+      "translation": "ദയാലു"
+    },
+    {
+      "original": "बाणः",
+      "transliteration": "പരമോച്ചൈരപി സതീം",
+      "translation": "പാരമാർത്ഥികമായ"
+    },
+    {
+      "original": "परिजनविधेयत्रिभुवनः",
+      "transliteration": "അധശ്ചക്രേ",
+      "translation": "താഴെസ്ഥാനമുള്ള"
+    },
+    {
+      "original": "न",
+      "transliteration": "ബാണഃ",
+      "translation": "ബോൾറ്റ്"
+    },
+    {
+      "original": "तच्चित्रं",
+      "transliteration": "പരിജനവിധേയത്രിഭുവനഃ",
+      "translation": "സകല ലോകങ്ങൾക്കുള്ള"
+    },
+    {
+      "original": "तस्मिन्",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "वरिवसितरि",
+      "transliteration": "തച്ചിത്രം",
+      "translation": "അത്ഭുതമായ ചിത്രങ്ങൾ"
+    },
+    {
+      "original": "त्वच्चरणयोः",
+      "transliteration": "തസ്മിൻ",
+      "translation": "അവിടെ"
+    },
+    {
+      "original": "न",
+      "transliteration": "വരിവസിതരി",
+      "translation": "അതിന്റെ മേൽ"
+    },
+    {
+      "original": "कस्याप्युन्नत्यै",
+      "transliteration": "ത്വചചരണം",
+      "translation": "നിങ്ങളുടെ പാദങ്ങൾ"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "शिरसस्त्वय्यवनतिः",
+      "transliteration": "കസ്യാപ്യുന്നത്യൈ",
+      "translation": "ആരോടും"
+    },
+    {
+      "original": "अकाण्ड-ब्रह्माण्ड-क्षयचकित-देवासुरकृपा",
+      "transliteration": "ഭവതി",
+      "translation": "സംഭവിക്കുന്നത്"
+    },
+    {
+      "original": "विधेयस्याऽऽसीद्",
+      "transliteration": "ശിരസസ്ത്വയ്യവനതി:",
+      "translation": "തലകുറഞ്ഞിരിക്കുക"
+    },
+    {
+      "original": "यस्त्रिनयन",
+      "transliteration": "അകാണ്ഡ-ബ്രഹ്മാണ്ഡ-ക്ഷയചിത-ദേവാസുരകൃപാ",
+      "translation": "വിശാലമായ എല്ലാ ലോകങ്ങളിലും"
+    },
+    {
+      "original": "विषं",
+      "transliteration": "വിധേയസ്യാഽആസീദ്",
+      "translation": "നിർദേശപ്രകാരം"
+    },
+    {
+      "original": "संहृतवतः",
+      "transliteration": "യസ്ത്രിനയൻ വിഷം സംഹൃതവത്:",
+      "translation": "നിർഭയം"
+    },
+    {
+      "original": "स",
+      "transliteration": "സ",
+      "translation": "ആ"
+    },
+    {
+      "original": "कल्माषः",
+      "transliteration": "കല്മാഷഃ",
+      "translation": "അന്ധവിശ്വസ്തന്റെ"
+    },
+    {
+      "original": "कण्ठे",
+      "transliteration": "കണ്ഠേ",
+      "translation": "കഴുത്തിൽ"
+    },
+    {
+      "original": "तव",
+      "transliteration": "തവ",
+      "translation": "നിങ്ങളുടെ"
+    },
+    {
+      "original": "न",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "कुरुते",
+      "transliteration": "കുറുതേ",
+      "translation": "ചെയ്യുന്നത്"
+    },
+    {
+      "original": "न",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "श्रियमहो",
+      "transliteration": "ശ്രിയമഹോ",
+      "translation": "മഹത്തായ ധനം"
+    },
+    {
+      "original": "विकारोऽपि",
+      "transliteration": "വികാരോऽപി",
+      "translation": "അന്യമായ"
+    },
+    {
+      "original": "श्लाघ्यो",
+      "transliteration": "ശ്ലാഘ്യോ",
+      "translation": "പ്രശംസനീയമായ"
+    },
+    {
+      "original": "भुवन-भय-",
+      "transliteration": "ഭുവന-ഭയ-ഭംഗ-വ്യസനിനഃ",
+      "translation": "ഭൂമിയിലെ ഭയങ്ങൾ"
+    },
+    {
+      "original": "भङ्ग-",
+      "transliteration": "അസിദ്ധാർത്ഥാ",
+      "translation": "സാധാരണ ലക്ഷ്യങ്ങൾ ഒന്നും പൂർത്തിയാക്കില്ല"
+    },
+    {
+      "original": "व्यसनिनः",
+      "transliteration": "നൈവ",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "असिद्धार्था",
+      "transliteration": "ക്വചിദപി",
+      "translation": "എവിടെയെങ്കിലും"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "സദേവാസുരനരേ",
+      "translation": "ദൈവങ്ങളെ അല്ലെങ്കിൽ"
+    },
+    {
+      "original": "क्वचिदपि",
+      "transliteration": "നിലവരുന്നു",
+      "translation": "മാറുന്നില്ല"
+    },
+    {
+      "original": "सदेवासुरनरे",
+      "transliteration": "നിത്യം",
+      "translation": "യഥാർത്ഥത്തിൽ"
+    },
+    {
+      "original": "निवर्तन्ते",
+      "transliteration": "ജഗതി",
+      "translation": "ലോകത്ത്"
+    },
+    {
+      "original": "नित्यं",
+      "transliteration": "ജയിനോ",
+      "translation": "വിജയികളായ"
+    },
+    {
+      "original": "जगति",
+      "transliteration": "യസ്യ",
+      "translation": "അവന്റെ"
+    },
+    {
+      "original": "जयिनो",
+      "transliteration": "വിഷിഖാ:",
+      "translation": "പതിവുള്ള"
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "സ",
+      "translation": "ആ"
+    },
+    {
+      "original": "विशिखाः",
+      "transliteration": "പശ്യന്നീഷ്",
+      "translation": "കാണുന്ന"
+    },
+    {
+      "original": "स",
+      "transliteration": "ത്വാമിതരസുരസാധാരണമഭൂത്‌",
+      "translation": "സാധാരണമായ അവസ്ഥ"
+    },
+    {
+      "original": "पश्यन्नीश",
+      "transliteration": "സ്മരഃ",
+      "translation": "ഓർമ്മിക്കുക"
+    },
+    {
+      "original": "त्वामितरसुरसाधारणमभूत्",
+      "transliteration": "സ്മര്തവ്യാത്മാ",
+      "translation": "ഓർക്കേണ്ട ആത്മാവ്"
+    },
+    {
+      "original": "स्मरः",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "स्मर्तव्यात्मा",
+      "transliteration": "ഹി",
+      "translation": "മാത്രം"
+    },
+    {
+      "original": "न",
+      "transliteration": "വശിഷു",
+      "translation": "നിയന്ത്രിതമായ"
+    },
+    {
+      "original": "हि",
+      "transliteration": "പഥ്യഃ",
+      "translation": "റോഡിൽ"
+    },
+    {
+      "original": "वशिषु",
+      "transliteration": "പരിഭവഃ",
+      "translation": "തോൽപ്പൻ"
+    },
+    {
+      "original": "पथ्यः",
+      "transliteration": "മഹി",
+      "translation": "മഹാഭാരതത്തിലെ ഒരു ഭാഗം"
+    },
+    {
+      "original": "मही",
+      "transliteration": "പാദാഘാതാത്‌",
+      "translation": "പാദങ്ങളുടെ അടിവരക്ക് ആഘാതം"
+    },
+    {
+      "original": "पादाघाताद्",
+      "transliteration": "വ്രജതി",
+      "translation": "ഓടി പോകുന്നു"
+    },
+    {
+      "original": "व्रजति",
+      "transliteration": "സഹസാ",
+      "translation": "ആകസ്മികമായി"
+    },
+    {
+      "original": "सहसा",
+      "transliteration": "സംശയപദം",
+      "translation": "സംശയം ഉള്ളത്"
+    },
+    {
+      "original": "संशयपदं",
+      "transliteration": "പദം",
+      "translation": "സ്ഥാനം"
+    },
+    {
+      "original": "पदं",
+      "transliteration": "വിഷ്ണോർഭ്രാമ്യദ്‌",
+      "translation": "വിഷ്ണു ഭാഗങ്ങളിലൂടെ പ്രചാരം"
+    },
+    {
+      "original": "विष्णोर्भ्राम्यद्",
+      "transliteration": "ഭുജ-പരിഘ-രുഗ്ണ-ഗ്രഹ-ഗണം",
+      "translation": "ഭുജത്തിലെ പരിഘമുകൾ"
+    },
+    {
+      "original": "भुज-परिघ-रुग्ण-ग्रह-गणम्",
+      "transliteration": "മുഹൂർ",
+      "translation": "ഉറ്റു തിരിഞ്ഞ്"
+    },
+    {
+      "original": "मुहुर्द्यौर्दौस्थ्यं",
+      "transliteration": "ദ്യൗർദൗസ്ത്യം",
+      "translation": "ദ്യൗർലോകത്തിലേക്ക് പ്രസ്ഥാനം"
+    },
+    {
+      "original": "यात्यनिभृत-जटा-ताडित-तटा",
+      "transliteration": "യാത്യ",
+      "translation": "യാത്രയുടെ വിവിധമായിരിയവുകൾ"
+    },
+    {
+      "original": "जगद्रक्षायै",
+      "transliteration": "അനിഭൃത-ജടാ-താഡിത-തടാ",
+      "translation": "അമിതമായ ജടകൾ"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "ജഗദ്രക്ഷായൈ",
+      "translation": "വിശ്വരക്ഷാവാനായ"
+    },
+    {
+      "original": "नटसि",
+      "transliteration": "ത്വം",
+      "translation": "നീ"
+    },
+    {
+      "original": "ननु",
+      "transliteration": "നടസി",
+      "translation": "നൃത്തം ചെയ്യുന്നു"
+    },
+    {
+      "original": "वामैव",
+      "transliteration": "നനു",
+      "translation": "അല്ലെ"
+    },
+    {
+      "original": "विभुता",
+      "transliteration": "വാമൈവ",
+      "translation": "വാമനോ"
+    },
+    {
+      "original": "वियद्व्यापी",
+      "transliteration": "വിഭുതാ",
+      "translation": "വലിയ അധികാരമുള്ളവൻ"
+    },
+    {
+      "original": "तारा-गण-गुणित-फेनोद्गम-रुचिः",
+      "transliteration": "വിയദ്വ്യാപ്പി",
+      "translation": "ആകാശത്തിലെ വ്യാപനശേഷി"
+    },
+    {
+      "original": "प्रवाहो",
+      "transliteration": "താരാ-ഗണ-ഗുണിത-ഫേനോദ്ഗമ-രുചിഃ",
+      "translation": "നക്ഷത്രഗണങ്ങളുടെ തണുത്ത സാന്ദ്രത"
+    },
+    {
+      "original": "वारां",
+      "transliteration": "പ്രവാഹോ",
+      "translation": "പ്രഭാതമായ ഒഴുക്കുകൾ"
+    },
+    {
+      "original": "यः",
+      "transliteration": "വാർആം",
+      "translation": "തീരനിരത്തിൽ"
+    },
+    {
+      "original": "पृषतलघुदृष्टः",
+      "transliteration": "യ:",
+      "translation": "ഒരുപോലെ"
+    },
+    {
+      "original": "शिरसि",
+      "transliteration": "പൃഷതലഘുദൃഷ്ട:",
+      "translation": "ലഘു ദൃഷ്ടിയും"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ശിരസി",
+      "translation": "തലയിൽ"
+    },
+    {
+      "original": "जगद्-द्वीपाकारं",
+      "transliteration": "തേ",
+      "translation": "നീ"
+    },
+    {
+      "original": "जलधिवलयं",
+      "transliteration": "ജഗദ്വീപാകാരം",
+      "translation": "ഭൂമിയുടെ ആകൃതിയേറിയ"
+    },
+    {
+      "original": "तेन",
+      "transliteration": "ജലധിവലയം",
+      "translation": "സാഗരത്തെ ബന്ധിപ്പിക്കുന്ന"
+    },
+    {
+      "original": "कृतमिति",
+      "transliteration": "തേന",
+      "translation": "അതിനാൽ"
+    },
+    {
+      "original": "अनेनैव",
+      "transliteration": "കൃതമിതി",
+      "translation": "അത് ചെയ്യുന്ന ക്രിയ"
+    },
+    {
+      "original": "ऊन्नेयं",
+      "transliteration": "അനേനൈവോന്നെയം",
+      "translation": "ഇതിൽ നന്നായി ഉയർന്ന"
+    },
+    {
+      "original": "धृतमहिम",
+      "transliteration": "ധൃതമഹിമ",
+      "translation": "മഹാത്മാ"
+    },
+    {
+      "original": "दिव्यं",
+      "transliteration": "ദിവ്യം",
+      "translation": "ദിവ്യമായ"
+    },
+    {
+      "original": "तव",
+      "transliteration": "തവ",
+      "translation": "നിന്റെ"
+    },
+    {
+      "original": "वपुः",
+      "transliteration": "വപുഃ",
+      "translation": "രൂപം"
+    },
+    {
+      "original": "रथः",
+      "transliteration": "രഥ:",
+      "translation": "ശത്രുവിന്റെ വാഹനവും"
+    },
+    {
+      "original": "क्षोणी",
+      "transliteration": "ക്ഷോണി",
+      "translation": "ഭൂമിയുടെ ഭാഗം"
+    },
+    {
+      "original": "यन्ता",
+      "transliteration": "യന്താ",
+      "translation": "പോകുന്ന"
+    },
+    {
+      "original": "शतधृतिरगेन्द्रो",
+      "transliteration": "ശതധൃതിരഗേന്ദ്രോ",
+      "translation": "സവിയുത്തിരിച്ച, ഗന്ധാർവരാജാവ്"
+    },
+    {
+      "original": "धनुरथो",
+      "transliteration": "ധനുരഥോ",
+      "translation": "ഒരു ധനുര്‍ധാരകനായ"
+    },
+    {
+      "original": "रथाङ्गे",
+      "transliteration": "രഥാംഗേ",
+      "translation": "വാഹനത്തിന്റെ ഭാഗങ്ങൾ"
+    },
+    {
+      "original": "चन्द्रार्कौ",
+      "transliteration": "ചന്ദ്രാർക്കൌ",
+      "translation": "ചന്ദ്രനും സൂര്യനും"
+    },
+    {
+      "original": "रथ-चरण-पाणिः",
+      "transliteration": "രഥ-ചരണം-പാണി:",
+      "translation": "യന്ത്രത്തലേയും ചക്രമായ കൈ"
+    },
+    {
+      "original": "शर",
+      "transliteration": "ശര ഇതി",
+      "translation": "നിന്റെ വായിൽ"
+    },
+    {
+      "original": "इति",
+      "transliteration": "ദിധക്ഷോസ്തേ",
+      "translation": "തീരാനിരക്കുന്ന"
+    },
+    {
+      "original": "दिधक्षोस्ते",
+      "transliteration": "കോऽയം",
+      "translation": "ആരാണ് ഇതു"
+    },
+    {
+      "original": "कोऽयं",
+      "transliteration": "ത്രിപുരതൃണമാടംബർ-വിധി:",
+      "translation": "ജനനമെന്ന ബദ്ധം"
+    },
+    {
+      "original": "त्रिपुरतृणमाडम्बर-विधिः",
+      "transliteration": "വിധേയൈ:",
+      "translation": "നിയമപ്രകാരം"
+    },
+    {
+      "original": "विधेयैः",
+      "transliteration": "ക്രീഡന്ത്യോ",
+      "translation": "കളിക്കുന്ന"
+    },
+    {
+      "original": "क्रीडन्त्यो",
+      "transliteration": "ന",
+      "translation": "അല്ല"
+    },
+    {
+      "original": "न",
+      "transliteration": "ഖലു",
+      "translation": "ദോഷമുള്ള"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "പരതന്ത്രാഃ",
+      "translation": "അടിമയായ"
+    },
+    {
+      "original": "परतन्त्राः",
+      "transliteration": "പ്രഭുധിയ:",
+      "translation": "മാനസികമായ തന്ത്രം"
+    },
+    {
+      "original": "प्रभुधियः",
+      "transliteration": "ഹരിസ്തേ",
+      "translation": "ഹരിയുടെ മന്ത്രം"
+    },
+    {
+      "original": "हरिस्ते",
+      "transliteration": "സഹസ്രം",
+      "translation": "ആയുധങ്ങളുടെ പ്രചാരം"
+    },
+    {
+      "original": "साहस्रं",
+      "transliteration": "കമല",
+      "translation": "പദത്തിന്‍റെ ചേർച്ച"
+    },
+    {
+      "original": "कमल",
+      "transliteration": "ബാലിമാധായ",
+      "translation": "വിശേഷമായ പ്രോത്സാഹനം"
+    },
+    {
+      "original": "बलिमाधाय",
+      "transliteration": "പദയോ:",
+      "translation": "പാദം നിലനിർത്തുക"
+    },
+    {
+      "original": "पदयोः",
+      "transliteration": "യദേകോനേ",
+      "translation": "അവിടെ വീര്യം"
+    },
+    {
+      "original": "यदेक",
+      "transliteration": "തസ്മിൻ",
+      "translation": "അവിടെ"
+    },
+    {
+      "original": "ओने",
+      "transliteration": "നിജമുദഹരണ്നേത്രകമലം",
+      "translation": "തന്റെ ആശയങ്ങളുമായി"
+    },
+    {
+      "original": "तस्मिन्",
+      "transliteration": "ഗതോ",
+      "translation": "സർഗ്ഗവുമാത്രം"
+    },
+    {
+      "original": "निजमुदहरन्",
+      "transliteration": "ഭക്ത്യുദ്രേക:",
+      "translation": "വിശ്വഭക്തി"
+    },
+    {
+      "original": "नेत्रकमलम्",
+      "transliteration": "പരിനതിമസൌ",
+      "translation": "അതിന്റെ ശാസന"
+    },
+    {
+      "original": "गतो",
+      "transliteration": "ചക്രവപുഷ:",
+      "translation": "ചക്രവാളമുള്ള പ്രതിഭാസം"
+    },
+    {
+      "original": "भक्त्युद्रेकः",
+      "transliteration": "ത്രയാണാം",
+      "translation": "മിത്രസഹായം"
+    },
+    {
+      "original": "परिणतिमसौ",
+      "transliteration": "രക്ഷായൈ",
+      "translation": "സംരക്ഷണത്തിന്"
+    },
+    {
+      "original": "चक्रवपुषः",
+      "transliteration": "ത്രിപുരഹര",
+      "translation": "ശങ്കരരാമായ പ്രകൃതി"
+    },
+    {
+      "original": "त्रयाणां",
+      "transliteration": "ജാഗര്തി",
+      "translation": "ജാഗ്രതയിൽ"
+    },
+    {
+      "original": "रक्षायै",
+      "transliteration": "ലോകത്താം",
+      "translation": "ഭൂമിയിലെ രക്ഷ"
+    },
+    {
+      "original": "त्रिपुरहर",
+      "transliteration": "ക്രതൌ",
+      "translation": "യജ്ഞപൂര്‍വ്വം"
+    },
+    {
+      "original": "जागर्ति",
+      "transliteration": "സുപ്തേ",
+      "translation": "ഉറങ്ങുമ്പോൾ"
+    },
+    {
+      "original": "जगताम्",
+      "transliteration": "ജാഗ്രത്‌",
+      "translation": "ജാഗ്രതയിൽ"
+    },
+    {
+      "original": "क्रतौ",
+      "transliteration": "ത്വമസി",
+      "translation": "നീ ആയിരിക്കുക"
+    },
+    {
+      "original": "सुप्ते",
+      "transliteration": "ഫലയോഗേ",
+      "translation": "ഫലപ്രाप्तി"
+    },
+    {
+      "original": "जाग्रत्",
+      "transliteration": "ക്രതുമതാം",
+      "translation": "കൃതി ചെയ്യുന്നവരുടെ"
+    },
+    {
+      "original": "त्वमसि",
+      "transliteration": "ക്വ",
+      "translation": "എവിടെ?"
+    },
+    {
+      "original": "फलयोगे",
+      "transliteration": "കര്‍മ",
+      "translation": "പ്രവര്‍ത്തനം"
+    },
+    {
+      "original": "क्रतुमतां",
+      "transliteration": "പ്രധ്വസ്തം",
+      "translation": "അപ്രചാരിതം"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "ഫലതി",
+      "translation": "ഫലപ്രദാനം"
+    },
+    {
+      "original": "कर्म",
+      "transliteration": "പുരുഷാരാധനമൃതേ",
+      "translation": "പുരുഷാരാധനയോടെയുള്ള"
+    },
+    {
+      "original": "प्रध्वस्तं",
+      "transliteration": "അതസ്ത്വാം",
+      "translation": "അതിനാൽ"
+    },
+    {
+      "original": "फलति",
+      "transliteration": "സമ്പ്രേക്ഷ്യ",
+      "translation": "ശ്രദ്ധയോടെ പരിശോധിക്കുക"
+    },
+    {
+      "original": "पुरुषाराधनमृते",
+      "transliteration": "ക്രതുഷു",
+      "translation": "യജ്ഞങ്ങളിൽ"
+    },
+    {
+      "original": "अतस्त्वां",
+      "transliteration": "ഫലദാനം-പ്രതിഭൂവം",
+      "translation": "ഫലദാനങ്ങളുടെ പ്രതിഭാസം"
+    },
+    {
+      "original": "सम्प्रेक्ष्य",
+      "transliteration": "ശ്രുതൗ",
+      "translation": "ശ്രുതി"
+    },
+    {
+      "original": "क्रतुषु",
+      "transliteration": "श्रद्धാം",
+      "translation": "വിശ്വാസം"
+    },
+    {
+      "original": "फलदान-प्रतिभुवं",
+      "transliteration": "ബധ്വാ",
+      "translation": "ഉറപ്പിച്ച"
+    },
+    {
+      "original": "श्रुतौ",
+      "transliteration": "ദൃഢപരികര:",
+      "translation": "സ്ഥിരമായ ആയുധങ്ങളുമായി"
+    },
+    {
+      "original": "श्रद्धां",
+      "transliteration": "കര്‍മसु",
+      "translation": "പ്രവർത്തനങ്ങളിൽ"
+    },
+    {
+      "original": "बध्वा",
+      "transliteration": "ജന:",
+      "translation": "ജനങ്ങൾ"
+    },
+    {
+      "original": "दृढपरिकरः",
+      "transliteration": "ക്രിയാദക്ഷോ",
+      "translation": "പ്രവർത്തനശേഷിയുള്ള"
+    },
+    {
+      "original": "कर्मसु",
+      "transliteration": "ദക്ഷഃ",
+      "translation": "വിശേഷവശം"
+    },
+    {
+      "original": "जनः",
+      "transliteration": "ക്രതുപതിരധീശസ്തനുഭവ്രിതാം",
+      "translation": "തനുക്കുള്ള ശക്തി"
+    },
+    {
+      "original": "क्रियादक्षो",
+      "transliteration": "ഋഷീണാമാർത്യജ്യം",
+      "translation": "ഋഷികളുടെ ശുദ്ധിയുടെയും"
+    },
+    {
+      "original": "दक्षः",
+      "transliteration": "ശരണദ",
+      "translation": "ശരണാർത്ഥികളിൽ"
+    },
+    {
+      "original": "क्रतुपतिरधीश",
+      "transliteration": "അംഗങ്ങൾ",
+      "translation": "അംഗങ്ങളായ"
+    },
+    {
+      "original": "तनुभृतां",
+      "transliteration": "സൂര-ഗണാ:",
+      "translation": "ദൈവവ്യവസ്ഥകളുടെ"
+    },
+    {
+      "original": "ऋषीणाम्",
+      "transliteration": "ക്രതുബ്രംശസ്ത്വത്ത:",
+      "translation": "യജ്ഞവിനശനം"
+    },
+    {
+      "original": "आर्त्विज्यं",
+      "transliteration": "ക്രതു-ഫല-വിധാൻ-വ്യസനിന:",
+      "translation": "അന്യായമായ പ്രവർത്തനത്തിലെ"
+    },
+    {
+      "original": "शरणद",
+      "transliteration": "ധ്രുവം",
+      "translation": "ഉറച്ച"
+    },
+    {
+      "original": "सदस्याः",
+      "transliteration": "കര്‍ത്തു:",
+      "translation": "ചെയ്യുന്നവൻ"
+    },
+    {
+      "original": "सुर-गणाः",
+      "transliteration": "ശ്രദ്ധാ-വിദുരമഭിചാര",
+      "translation": "വിശ്വാസം നിഷേധിക്കുകയും"
+    },
+    {
+      "original": "क्रतुभ्रंशस्त्वत्तः",
+      "transliteration": "ഹി",
+      "translation": "അതിനാൽ"
+    },
+    {
+      "original": "क्रतुफल-विधान-व्यसनिनः",
+      "transliteration": "മഖാ:",
+      "translation": "യജ്ഞത്തിനു പ്രേരണ"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "പ്രജനാതം",
+      "translation": "ജനങ്ങളുടെ രക്ഷകൻ"
+    },
+    {
+      "original": "कर्तुः",
+      "transliteration": "നാഥ",
+      "translation": "കയറ്റം"
+    },
+    {
+      "original": "श्रद्धा-विधुरम्",
+      "transliteration": "പ്രസഭമഭികം",
+      "translation": "വിശേഷമായ"
+    },
+    {
+      "original": "अभिचाराय",
+      "transliteration": "സ്വാം",
+      "translation": "തനിക്കുള്ള"
+    },
+    {
+      "original": "हि",
+      "transliteration": "ദുഹിതരം",
+      "translation": "പുത്രിയുടെ"
+    },
+    {
+      "original": "मखाः",
+      "transliteration": "ഗതം",
+      "translation": "പോയ"
+    },
+    {
+      "original": "प्रजानाथं",
+      "transliteration": "റോഹിദ്‌",
+      "translation": "ചുവന്ന രക്തമായ"
+    },
+    {
+      "original": "नाथ",
+      "transliteration": "ഭൂതാം",
+      "translation": "ജീവഹീനമായ"
+    },
+    {
+      "original": "प्रसभमभिकं",
+      "transliteration": "രിരമയിഷുമृഷ്യയസ്യ",
+      "translation": "അന്യമായ"
+    },
+    {
+      "original": "स्वां",
+      "transliteration": "വപുഷാ",
+      "translation": "രൂപം"
+    },
+    {
+      "original": "दुहितरं",
+      "transliteration": "ധനുഷ്പാണേര്യാതം",
+      "translation": "ധനു കൈവശമുള്ള"
+    },
+    {
+      "original": "गतं",
+      "transliteration": "ദിവമപി",
+      "translation": "ആകാശം"
+    },
+    {
+      "original": "रोहिद्",
+      "transliteration": "സമ്പത്രാകൃതമും",
+      "translation": "പത്രമുള്ള രൂപം"
+    },
+    {
+      "original": "भूतां",
+      "transliteration": "ത്രസന്തം",
+      "translation": "ഭയഭീതമായ"
+    },
+    {
+      "original": "रिरमयिषुमृष्यस्य",
+      "transliteration": "തെ'ദ്യാപി",
+      "translation": "ഇപ്പോഴും"
+    },
+    {
+      "original": "वपुषा",
+      "transliteration": "ത്യജതി",
+      "translation": "വിട്ടു നൽകുക"
+    },
+    {
+      "original": "धनुष्पाणेर्यातं",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "दिवमपि",
+      "transliteration": "മൃഗവ്യാധരഭസ:",
+      "translation": "വൻപശുക്കളുടെ ദ്രവകമായി"
+    },
+    {
+      "original": "सपत्राकृतममुं",
+      "transliteration": "സ്വലാവണ്യാശംശാ",
+      "translation": "സ്വാഭാവിക സൗന്ദര്യത്തിന്റെ പ്രശംസ"
+    },
+    {
+      "original": "त्रसन्तं",
+      "transliteration": "ധൃതധനുഷമഹ്നായ",
+      "translation": "ധനുഷ്, പോരാട്ടത്തിന്റെ പ്രതീകം"
+    },
+    {
+      "original": "तेऽद्यापि",
+      "transliteration": "തൃണവത്‌",
+      "translation": "സമാനമായ"
+    },
+    {
+      "original": "त्यजति",
+      "transliteration": "പുര:",
+      "translation": "മുമ്പിൽ"
+    },
+    {
+      "original": "न",
+      "transliteration": "പ്ലുഷ്ടം",
+      "translation": "തകർത്ത"
+    },
+    {
+      "original": "मृगव्याधरभसः",
+      "transliteration": "ദൃഷ്ട്വാ",
+      "translation": "കണ്ടു"
+    },
+    {
+      "original": "स्वलावण्याशंसा",
+      "transliteration": "പുരമഥന",
+      "translation": "പുണ്യപ്രവൃത്തി"
+    },
+    {
+      "original": "धृतधनुषमह्नाय",
+      "transliteration": "पुष्पായുധമപി",
+      "translation": "പൂക്കളായ ആയുധവും"
+    },
+    {
+      "original": "तृणवत्",
+      "transliteration": "യുവദി",
+      "translation": "എങ്കിൽ"
+    },
+    {
+      "original": "पुरः",
+      "transliteration": "സ്ത്രൈണം",
+      "translation": "സ്ത്രീകളും"
+    },
+    {
+      "original": "प्लुष्टं",
+      "transliteration": "ദേവി",
+      "translation": "ദേവി"
+    },
+    {
+      "original": "दृष्ट्वा",
+      "transliteration": "യമനിരത്-ദേഹാര്‍ധ-ഘടനാത്‌",
+      "translation": "യമൻ, ദേഹങ്ങളുടെ അടിസ്ഥാന ഘടന"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "അവൈതി",
+      "translation": "പ്രയാണം"
+    },
+    {
+      "original": "पुष्पायुधमपि",
+      "transliteration": "സ്വാമദ്ധാ",
+      "translation": "നിന്റെ ക്ഷേമപ്രവൃത്തി"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "ബത്ത",
+      "translation": "ശരീരത്തിലുള്ള"
+    },
+    {
+      "original": "स्त्रैणं",
+      "transliteration": "വരദ",
+      "translation": "പ്രാർത്ഥന"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "മുഗ്ധാ",
+      "translation": "മോഹനമായ"
+    },
+    {
+      "original": "यमनिरत-देहार्ध-घटनात्",
+      "transliteration": "യുവതയ:",
+      "translation": "യുവതികൾ"
+    },
+    {
+      "original": "अवैति",
+      "transliteration": "ശ്മശാനേഷ്വാക്രീഡാ",
+      "translation": "ശ്മശാനങ്ങളിൽ കളി"
+    },
+    {
+      "original": "त्वामद्धा",
+      "transliteration": "smarahara",
+      "translation": "സ്മരനെ ഇല്ലാതാക്കുന്ന"
+    },
+    {
+      "original": "बत",
+      "transliteration": "പിശാചാ:",
+      "translation": "ഭൂതപ്രേതങ്ങൾ"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "സഹചരാ:",
+      "translation": "കൂട്ടുകാരായി"
+    },
+    {
+      "original": "मुग्धा",
+      "transliteration": "ചിതാ-ഭസ്മാലേപ:",
+      "translation": "ശവക്കുഴികളിൽ ബിസമ്മൊത്ത് പൊതിയൽ"
+    },
+    {
+      "original": "युवतयः",
+      "transliteration": "സ്രഗപി",
+      "translation": "നൊക്കിയ അനുഭവങ്ങൾ"
+    },
+    {
+      "original": "श्मशानेष्वाक्रीडा",
+      "transliteration": "നൃകരോട്ടീ-പരികര:",
+      "translation": "മനുഷ്യരെ പരിഹരിക്കുന്ന"
+    },
+    {
+      "original": "स्मरहर",
+      "transliteration": "അമംഗല്യം",
+      "translation": "ദുർഗതി"
+    },
+    {
+      "original": "पिशाचाः",
+      "transliteration": "ശീലം",
+      "translation": "ഗുണം"
+    },
+    {
+      "original": "सहचराः",
+      "transliteration": "തവ",
+      "translation": "നിന്റെ"
+    },
+    {
+      "original": "चिता-भस्मालेपः",
+      "transliteration": "ഭവतु",
+      "translation": "ഉണ്ടാകുക"
+    },
+    {
+      "original": "स्रगपि",
+      "transliteration": "നാമൈവം",
+      "translation": "നാമം മാത്രമാകുന്നു"
+    },
+    {
+      "original": "नृकरोटी-परिकरः",
+      "transliteration": "അഖിലം",
+      "translation": "ആകാശം"
+    },
+    {
+      "original": "अमङ्गल्यं",
+      "transliteration": "തലാപി",
+      "translation": "എന്നാൽ"
+    },
+    {
+      "original": "शीलं",
+      "transliteration": "സ്മർത്തൃണാം",
+      "translation": "ഓർമപ്പെടുത്തുന്നവർ"
+    },
+    {
+      "original": "तव",
+      "transliteration": "വരദ",
+      "translation": "പ്രാർത്ഥന"
+    },
+    {
+      "original": "भवतु",
+      "transliteration": "പരമം",
+      "translation": "ഉത്തമമായ"
+    },
+    {
+      "original": "नामैवम्",
+      "transliteration": "മംഗലമസി",
+      "translation": "മഹാനുഭവം"
+    },
+    {
+      "original": "अखिलं",
+      "transliteration": "മന:",
+      "translation": "മനസ്"
+    },
+    {
+      "original": "तथापि",
+      "transliteration": "प्रत्यक्चित्ते",
+      "translation": "ആഭ്യന്തര ചിന്തയിൽ"
+    },
+    {
+      "original": "स्मर्तॄणां",
+      "transliteration": "സവിധമവിധായാത്-മരുത:",
+      "translation": "ശരിയായ രീതിയിൽ പ്രവർത്തിക്കുക"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "പ്രഹൃശ്യദ്രോമാണ:",
+      "translation": "സന്തോഷത്തോടെ, പരിതബോധം"
+    },
+    {
+      "original": "परमं",
+      "transliteration": "प्रमद-സലിലോത്സङ്ഗതി-ദൃശ്യ:",
+      "translation": "പ്രമദം, ആശംസകൾ, അതിവേഗം"
+    },
+    {
+      "original": "मङ्गलमसि",
+      "transliteration": "യദാലോക്ക്യാഹ്ലാദം",
+      "translation": "ദർശനത്തിൽ മധുരം"
+    },
+    {
+      "original": "मनः",
+      "transliteration": "ഹ്രദ",
+      "translation": "ആഴമായ ജലാശയം"
+    },
+    {
+      "original": "प्रत्यक्चित्ते",
+      "transliteration": "ഇവ",
+      "translation": "പോലെ"
+    },
+    {
+      "original": "सविधमविधायात्त-मरुतः",
+      "transliteration": "നിമജ്യാമൃതമയെ",
+      "translation": "അമൃതം കൊണ്ടുള്ള ആലയം"
+    },
+    {
+      "original": "प्रहृष्यद्रोमाणः",
+      "transliteration": "ദധത്യന്തസ്തത്വം",
+      "translation": "ആകർഷണത്തെ ബോധ്യപ്പെടുത്തുക"
+    },
+    {
+      "original": "प्रमद-सलिलोत्सङ्गति-दृशः",
+      "transliteration": "കിമ്പി",
+      "translation": "എന്തെങ്കിലും"
+    },
+    {
+      "original": "यदालोक्याह्लादं",
+      "transliteration": "യമിനസ്തത്‌",
+      "translation": "യോഗികളുടെ"
+    },
+    {
+      "original": "ह्रद",
+      "transliteration": "കിൽ",
+      "translation": "നിശ്ചയം"
+    },
+    {
+      "original": "इव",
+      "transliteration": "ഭവാൻ",
+      "translation": "ഭവാനായ"
+    },
+    {
+      "original": "निमज्यामृतमये",
+      "transliteration": "ത്വം",
+      "translation": "നീ"
+    },
+    {
+      "original": "दधत्यन्तस्तत्त्वं",
+      "transliteration": "അർകസ്ത്വം",
+      "translation": "സൂര്യൻ"
+    },
+    {
+      "original": "किमपि",
+      "transliteration": "സോമസ്ത്വം",
+      "translation": "ചന്ദ്രൻ"
+    },
+    {
+      "original": "यमिनस्तत्",
+      "transliteration": "അസി",
+      "translation": "ആകുന്നു"
+    },
+    {
+      "original": "किल",
+      "transliteration": "പവനസ്ത്വം",
+      "translation": "വായു"
+    },
+    {
+      "original": "भवान्",
+      "transliteration": "ഹുതവഹ:",
+      "translation": "യജ്ഞവാഹകൻ"
+    },
+    {
+      "original": "त्वमर्कस्त्वं",
+      "transliteration": "ത്വം",
+      "translation": "നീ"
+    },
+    {
+      "original": "सोमस्त्वमसि",
+      "transliteration": "ആപസ്ത്വം",
+      "translation": "ജലം"
+    },
+    {
+      "original": "पवनस्त्वं",
+      "transliteration": "വ്യോമ",
+      "translation": "ആകാശം"
+    },
+    {
+      "original": "हुतवहः",
+      "transliteration": "ത്വം",
+      "translation": "നീ"
+    },
+    {
+      "original": "त्वमापस्त्वं",
+      "transliteration": "ധരണിരാത്മാ",
+      "translation": "ഭൂമിയുടെ ആത്മാവ്"
+    },
+    {
+      "original": "व्योम",
+      "transliteration": "ത്വമിതി",
+      "translation": "നീ ആയിരിക്കുന്നു"
+    },
+    {
+      "original": "त्वमु",
+      "transliteration": "ച",
+      "translation": "കൂടാതെ"
+    },
+    {
+      "original": "धरणिरात्मा",
+      "transliteration": "പരിച്ഛിന്നാമേവം",
+      "translation": "പരിമിതമായ"
+    },
+    {
+      "original": "त्वमिति",
+      "transliteration": "ത്വയി",
+      "translation": "നിനക്കുള്ള"
+    },
+    {
+      "original": "च",
+      "transliteration": "പരിണതാ",
+      "translation": "പരിണതമായ"
+    },
+    {
+      "original": "परिच्छिन्नामेवं",
+      "transliteration": "ബിഭ്രതി",
+      "translation": "പ്രദർശനങ്ങൾ"
+    },
+    {
+      "original": "त्वयि",
+      "transliteration": "ഗിരം",
+      "translation": "ശബ്ദം"
+    },
+    {
+      "original": "परिणता",
+      "transliteration": "ന",
+      "translation": "അല്ല"
+    },
+    {
+      "original": "बिभ्रति",
+      "transliteration": "വിദ്യമസ്തత్తത്വം",
+      "translation": "നമുക്ക് അറിയാത്തത്"
+    },
+    {
+      "original": "गिरं",
+      "transliteration": "വയം",
+      "translation": "നാം"
+    },
+    {
+      "original": "न",
+      "transliteration": "ഇവ",
+      "translation": "ഇവിടെ"
+    },
+    {
+      "original": "विद्मस्तत्तत्त्वं",
+      "transliteration": "തു",
+      "translation": "മാത്രം"
+    },
+    {
+      "original": "वयमिह",
+      "transliteration": "യത്",
+      "translation": "എന്ത്"
+    },
+    {
+      "original": "तु",
+      "transliteration": "ത്വം",
+      "translation": "നീ"
+    },
+    {
+      "original": "यत्",
+      "transliteration": "ന",
+      "translation": "അല്ല"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "ഭവസി",
+      "translation": "ആകുന്നില്ല"
+    },
+    {
+      "original": "न",
+      "transliteration": "ത്രയീം",
+      "translation": "ത്രൈവിദീയാഘോശ"
+    },
+    {
+      "original": "भवसि",
+      "transliteration": "തിസ്രോ",
+      "translation": "മൂന്നാമൻ"
+    },
+    {
+      "original": "त्रयीं",
+      "transliteration": "വൃത്തിൻ",
+      "translation": "പ്രവർത്തനങ്ങൾ"
+    },
+    {
+      "original": "तिस्रो",
+      "transliteration": "ത്രിഭുവനമഥോ",
+      "translation": "ലോകങ്ങൾ"
+    },
+    {
+      "original": "वृत्तीस्त्रिभुवनमथो",
+      "transliteration": "ത്രീനപി",
+      "translation": "മൂന്ന്"
+    },
+    {
+      "original": "त्रीनपि",
+      "transliteration": "സുരാന:",
+      "translation": "ദേവതകൾ"
+    },
+    {
+      "original": "सुरान्",
+      "transliteration": "അകാരാദ്യൈര്വർണ്ണൈസ്ട്രിഭിരഭിദധത്‌",
+      "translation": "സ്വരങ്ങളും നിറവും"
+    },
+    {
+      "original": "अकाराद्यैर्वर्णैस्त्रिभिरभिदधत्",
+      "transliteration": "तीർണവികൃതി",
+      "translation": "അഴിമുഖങ്ങളിൽ"
+    },
+    {
+      "original": "तीर्णविकृति",
+      "transliteration": "തീരീയം",
+      "translation": "ദീപം"
+    },
+    {
+      "original": "तुरीयं",
+      "transliteration": "ടെ",
+      "translation": "അവിടെയുള്ള"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ധാമ",
+      "translation": "സ്ഥലം"
+    },
+    {
+      "original": "धाम",
+      "transliteration": "ധ്വനിഭിരവർധുന്ദാനംणുഭി:",
+      "translation": "ശബ്ദങ്ങളായ രീതികൾ"
+    },
+    {
+      "original": "ध्वनिभिरवरुन्धानमणुभिः",
+      "transliteration": "സമസ്തം",
+      "translation": "മുഴുവനായി"
+    },
+    {
+      "original": "समस्तं",
+      "transliteration": "വ്യസ്തം",
+      "translation": "വ്യാപിതമായ"
+    },
+    {
+      "original": "व्यस्तं",
+      "transliteration": "ത്വാം",
+      "translation": "നിന്നെ"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "ശരണദ",
+      "translation": "അഭയം"
+    },
+    {
+      "original": "शरणद",
+      "transliteration": "ഗൃണാത്‌",
+      "translation": "രക്ഷിക്കാനും"
+    },
+    {
+      "original": "गृणात्योमिति",
+      "transliteration": "യോമിതി",
+      "translation": "യോഗം"
+    },
+    {
+      "original": "पदम्",
+      "transliteration": "പദം",
+      "translation": "പദം"
+    },
+    {
+      "original": "भवः",
+      "transliteration": "ഭവ:",
+      "translation": "ഭവൻ"
+    },
+    {
+      "original": "शर्वो",
+      "transliteration": "ശർവോ",
+      "translation": "ശർവ്വശക്തി ഉള്ളവൻ"
+    },
+    {
+      "original": "रुद्रः",
+      "transliteration": "രുദ്ര:",
+      "translation": "രുദ്രനായ"
+    },
+    {
+      "original": "पशुपतिरथो",
+      "transliteration": "പശുപതിഃ",
+      "translation": "പാശുപതിപതിവർഗം"
+    },
+    {
+      "original": "ग्रः",
+      "transliteration": "അഥോ",
+      "translation": "ആകെയുള്ള"
+    },
+    {
+      "original": "सहमहान्",
+      "transliteration": "ഓഗ്ര:",
+      "translation": "ഗുരുതരം"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "സഹമഹാൻ",
+      "translation": "വലിയവൻ"
+    },
+    {
+      "original": "भीमेशानाविति",
+      "transliteration": "തഥാ",
+      "translation": "എന്നാൽ"
+    },
+    {
+      "original": "यदभिधानाष्टकमिदम्",
+      "transliteration": "ഭീമേശാനാവിതി",
+      "translation": "ഭീമേശാനാ എന്നു വിളിക്കപ്പെടുന്നു"
+    },
+    {
+      "original": "अमुष्मिन्",
+      "transliteration": "യദഭിധാനാശ്ടകമിദം",
+      "translation": "ഇതാണ് എട്ടാം നാമാരാധനാസൂത്രം"
+    },
+    {
+      "original": "प्रत्येकं",
+      "transliteration": "അമുഷ്മിന്‌",
+      "translation": "ഇതിൽ"
+    },
+    {
+      "original": "प्रविचरति",
+      "transliteration": "പ്രതേകം",
+      "translation": "ഓരോന്നും"
+    },
+    {
+      "original": "देव",
+      "transliteration": "പ്രവിചരതി",
+      "translation": "സഞ്ചരിക്കുന്നു"
+    },
+    {
+      "original": "श्रुतिरपि",
+      "transliteration": "ദേവ",
+      "translation": "ദേവത"
+    },
+    {
+      "original": "प्रियायास्मैधाम्ने",
+      "transliteration": "ശ്രുതി:",
+      "translation": "ശ്രുതികൾ"
+    },
+    {
+      "original": "प्रणिहित-नमस्योऽस्मि",
+      "transliteration": "അപി",
+      "translation": "അപ്ഛ"
+    },
+    {
+      "original": "भवते",
+      "transliteration": "പ്രിയായാസ്മൈധാമ്നെ",
+      "translation": "പ്രിയവായിരുന്ന ദീപം"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "പ്രണിഹിത-നമസ്യോऽസ്മി",
+      "translation": "എത്ര പാടുപാടിവെക്കുന്നതിൽ"
+    },
+    {
+      "original": "नेदिष्ठाय",
+      "transliteration": "ഭവതേ",
+      "translation": "നിങ്ങൾ"
+    },
+    {
+      "original": "प्रियदव",
+      "transliteration": "നമോ",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "दविष्ठाय",
+      "transliteration": "നേദിഷ്ടായ",
+      "translation": "നിഷ്‌ഠിത-സർഗ്ഗ"
+    },
+    {
+      "original": "च",
+      "transliteration": "പ്രിയദവ",
+      "translation": "പ്രിയദേവ"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "ദവിഷ്ടായ",
+      "translation": "കൌമാരവ്രതം"
+    },
+    {
+      "original": "क्षोदिष्ठाय",
+      "transliteration": "ച",
+      "translation": "കൂടാതെ"
+    },
+    {
+      "original": "स्मरहर",
+      "transliteration": "നമ:",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "महिष्ठाय",
+      "transliteration": "ക്ഷോദിഷ്ടായ",
+      "translation": "സംശയവിധാനം"
+    },
+    {
+      "original": "च",
+      "transliteration": "സ്മരഹർ",
+      "translation": "സ്മരനെ ഇല്ലാതാക്കുന്ന"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "മഹിഷ്ടായ",
+      "translation": "മഹാനായ"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "ച",
+      "translation": "കൂടാതെ"
+    },
+    {
+      "original": "वर्षिष्ठाय",
+      "transliteration": "നമ:",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "त्रिनयन",
+      "transliteration": "നമ:",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "यविष्ठाय",
+      "transliteration": "വർഷിഷ്ടായ",
+      "translation": "ഏറ്റവും പ്രായമായ"
+    },
+    {
+      "original": "च",
+      "transliteration": "ത്രിനയന",
+      "translation": "മൂന്ന് കണ്ണുള്ള"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "യവിഷ്ടായ",
+      "translation": "നടുവിൽ"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "ച",
+      "translation": "കൂടാതെ"
+    },
+    {
+      "original": "सर्वस्मै",
+      "transliteration": "നമ:",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "ते",
+      "transliteration": "സർവസ്മൈ",
+      "translation": "സർവവിഷയം"
+    },
+    {
+      "original": "तदिदमतिसर्वाय",
+      "transliteration": "ടെ",
+      "translation": "അവർ"
+    },
+    {
+      "original": "च",
+      "transliteration": "തദിദമതിസർവായ",
+      "translation": "സർവരോഗനിവാരണം"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "ച",
+      "translation": "കൂടാതെ"
+    },
+    {
+      "original": "बहुल-रजसे",
+      "transliteration": "നമ:",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "विश्वोत्पत्तौ",
+      "transliteration": "ಬಹುಲ-ರಜಸೆ",
+      "translation": "വിശാലമായ കണികാരജവും"
+    },
+    {
+      "original": "भवाय",
+      "transliteration": "വിശ്വോത്പত্তൌ",
+      "translation": "ലോകത്തിന്റെ ഉത്പത്തിയിൽ"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "ഭവായ",
+      "translation": "ഭവനെ"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "നമോ",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "प्रबल-तमसे",
+      "transliteration": "നമ:",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "तत्",
+      "transliteration": "പ്രബല-തമസെ",
+      "translation": "ശക്തമായ ഇരുട്ടിൽ"
+    },
+    {
+      "original": "संहारे",
+      "transliteration": "തത്",
+      "translation": "അതിനാൽ"
+    },
+    {
+      "original": "हराय",
+      "transliteration": "സംഹാരേ",
+      "translation": "സംഹാരത്തിൽ"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "ഹരായ",
+      "translation": "ഹരനെ"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "നമോ",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "जन-सुखकृते",
+      "transliteration": "നമ:",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "सत्त्वोद्रिक्तौ",
+      "transliteration": "ജന-സുഖകൃത്",
+      "translation": "ജനങ്ങളുടെ സന്തോഷത്തിനായി"
+    },
+    {
+      "original": "मृडाय",
+      "transliteration": "സത്ത്വോദ്രിക്തൗ",
+      "translation": "സത്ത്വത്തിന്റെ ഉയർന്ന നില"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "മൃഡായ",
+      "translation": "പ്രീതിയുടെ വികാരങ്ങളിൽ"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "നമോ",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "प्रमहसि",
+      "transliteration": "നമ:",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "पदे",
+      "transliteration": "പ്രമഹസി",
+      "translation": "മഹാവികാരങ്ങളെ"
+    },
+    {
+      "original": "निस्त्रैगुण्ये",
+      "transliteration": "പദേ",
+      "translation": "പദം"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "നിസ്‌ത്രൈഗുണ്യേ",
+      "translation": "ത്രൈഗുണനിലവാരം"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "ശിവായ",
+      "translation": "ശിവന്"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "നമോ",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "कृश-परिणति-चेतः",
+      "transliteration": "നമ:",
+      "translation": "നമസ്കാരം"
+    },
+    {
+      "original": "क्लेशवश्यं",
+      "transliteration": "कृശ-പരിണത-ചേത:",
+      "translation": "ദു:ഖത്തിന്റെ നിലനിലപാടുകൾ"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "ക്ലേശവശ്യം",
+      "translation": "ദു:ഖത്തിനനുസൃതമായ"
+    },
+    {
+      "original": "चेदं",
+      "transliteration": "ക്വ",
+      "translation": "എവിടെ"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "ച",
+      "translation": "കൂടാതെ"
+    },
+    {
+      "original": "च",
+      "transliteration": "ഏഷാ",
+      "translation": "ഇഷ്ടമാണ്"
+    },
+    {
+      "original": "तव",
+      "transliteration": "തവ",
+      "translation": "നിന്റെ"
+    },
+    {
+      "original": "गुण-सीमोल्लङ्घिनी",
+      "transliteration": "ഗുണ-സീമോല്ലംഗ്ഹിനി",
+      "translation": "ഗുണത്തിന്റെ അതിരുകൾ മറികടക്കുന്നതിൽ"
+    },
+    {
+      "original": "शश्वदृद्धिः",
+      "transliteration": "ശശ്വദൃദ്ധി:",
+      "translation": "സദാ ഉന്നതമായ"
+    },
+    {
+      "original": "इति",
+      "transliteration": "ഇതി",
+      "translation": "ഇതിന്"
+    },
+    {
+      "original": "चकितममन्दीकृत्य",
+      "transliteration": "ച",
+      "translation": "കൂടാതെ"
+    },
+    {
+      "original": "मां",
+      "transliteration": "ചകിതം",
+      "translation": "അപ്രതീക്ഷിതമായ"
+    },
+    {
+      "original": "भक्तिराधाद्",
+      "transliteration": "അമന്ദികൃത്യ",
+      "translation": "അനുകൂലമായ"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "മാം",
+      "translation": "എന്നെ"
+    },
+    {
+      "original": "चरणयोस्ते",
+      "transliteration": "ഭക്തിരാധാദ്ങ്",
+      "translation": "ഭക്തിയുടെ രത്നത്തിൽ"
+    },
+    {
+      "original": "वाक्य-पुष्पोपहारम्",
+      "transliteration": "വരദ",
+      "translation": "ദാനശക്തി"
+    },
+    {
+      "original": "असित-गिरि-समं",
+      "transliteration": "ചരണമൊഹ്",
+      "translation": "പതിവുള്ള"
+    },
+    {
+      "original": "स्यात्",
+      "transliteration": "ടെ",
+      "translation": "അവൻ"
+    },
+    {
+      "original": "कज्जलं",
+      "transliteration": "വാക്യ-പുഷ്പോപഹാരം",
+      "translation": "വാക്യത്തിന്റെ പുഷ്പം"
+    },
+    {
+      "original": "सिन्धु-पात्रे",
+      "transliteration": "അസിത-ഗിരി-സമം",
+      "translation": "ഇരുട്ടിന്റെ തുല്യമായ"
+    },
+    {
+      "original": "सुर-तरुवर-शाखा",
+      "transliteration": "സ്യാത്",
+      "translation": "ഉണ്ടായിരിക്കുമെന്നാണ്"
+    },
+    {
+      "original": "लेखनी",
+      "transliteration": "കജ്ജലം",
+      "translation": "കാൽസിത"
+    },
+    {
+      "original": "पत्रमुर्वी",
+      "transliteration": "സിന്ദു-പാത്രേ",
+      "translation": "സമുദ്രത്തിലേക്കുള്ള"
+    },
+    {
+      "original": "लिखति",
+      "transliteration": "സുര-തരുവര-ശാഖാ",
+      "translation": "ദേവശേഖരത്തിന്റെ വൃക്ഷകാനനങ്ങളുടെ"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "ലേഖനി",
+      "translation": "എഴുത്തിനിരകൾ"
+    },
+    {
+      "original": "गृहीत्वा",
+      "transliteration": "പത്രം",
+      "translation": "കത്ത്"
+    },
+    {
+      "original": "शारदा",
+      "transliteration": "ഉർവി",
+      "translation": "ഭൂമി"
+    },
+    {
+      "original": "सर्वकालं",
+      "transliteration": "എഴുതുന്നു",
+      "translation": "എഴുതുന്നു"
+    },
+    {
+      "original": "तदपि",
+      "transliteration": "യദി",
+      "translation": "എങ്കിൽ"
+    },
+    {
+      "original": "तव",
+      "transliteration": "ഗ്രാഹിത്വാ",
+      "translation": "സ്വീകരിക്കുമ്പോൾ"
+    },
+    {
+      "original": "गुणानामीश",
+      "transliteration": "ശാരദാ",
+      "translation": "ശാരദയുടെ"
+    },
+    {
+      "original": "पारं",
+      "transliteration": "സർവകാലം",
+      "translation": "എല്ലാ കാലവും"
+    },
+    {
+      "original": "न",
+      "transliteration": "tadapi",
+      "translation": "അതു പോലെ"
+    },
+    {
+      "original": "याति",
+      "transliteration": "തവ",
+      "translation": "നിന്റെ"
+    },
+    {
+      "original": "असुर-सुर-मुनीन्द्रैरर्चितस्येन्दु-मौलेः",
+      "transliteration": "ഗുണാനാമീശ",
+      "translation": "ഗുണങ്ങളുടെ അടിയന്തിരമായ"
+    },
+    {
+      "original": "ग्रथित-गुणमहिम्नो",
+      "transliteration": "പാർം",
+      "translation": "അതിവിശാലമായ"
+    },
+    {
+      "original": "निर्गुणस्येश्वरस्य",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "सकल-गण-वरिष्ठः",
+      "transliteration": "യാതി",
+      "translation": "പോകുന്നു"
+    },
+    {
+      "original": "पुष्पदन्ताभिधानः",
+      "transliteration": "അസുര-സുര-മുനീന്ദ്രൈ:",
+      "translation": "അസുരന്മാരുടെയും ദേവന്മാരുടെയും ആദരിച്ച്"
+    },
+    {
+      "original": "रुचिरमलघुवृत्तैः",
+      "transliteration": "അർചിതസ്യേന്ദ്രു-മൗലേ:",
+      "translation": "പൂജിച്ച ശ്രീചന്ദ്രശേഖരന്"
+    },
+    {
+      "original": "स्तोत्रमेतच्चकार",
+      "transliteration": "ഗ്രഥിത-ഗുണമഹിമ്നോ",
+      "translation": "അങ്ങയുടെ ഗുണത്തിനുള്ള വീക്ഷണങ്ങൾ"
+    },
+    {
+      "original": "अहरहरनवद्यं",
+      "transliteration": "നിർമ്മണസ്യേശ്വരസ്യ",
+      "translation": "നിര്ഗുണമായ പാരമാർശ്വം"
+    },
+    {
+      "original": "धूर्जटेः",
+      "transliteration": "സ്വകലം-ഗണ-വരിഷ്ഠ:",
+      "translation": "എല്ലാ വിഭാഗത്തിലും ഏറ്റവും പ്രമുക്തനായ"
+    },
+    {
+      "original": "स्तोत्रमेतत्",
+      "transliteration": "പൂഷ്പദന്താഭിധാന:",
+      "translation": "പൂരം പൂക്കളാൽ ഉള്ള വ്യത്യാസം"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "രുചിരമലഘുവൃത്തൈ:",
+      "translation": "പുത്തൻ-പുതിയ മനോഹരമായ"
+    },
+    {
+      "original": "परमभक्त्या",
+      "transliteration": "സ്തോത്രമേതച്ചകാര",
+      "translation": "ശ്രുതി പ്രകാശിതമായ"
+    },
+    {
+      "original": "शुद्ध-चित्तः",
+      "transliteration": "അഹരഹരനവദ്യം",
+      "translation": "പാപമില്ലാത്ത ശിവപ്രണയപ്രകാശം"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "ധൂഴ്ജടേ:",
+      "translation": "ധൂഴിജടയോടുള്ള"
+    },
+    {
+      "original": "यः",
+      "transliteration": "സ്തോത്രമേതത്ത്",
+      "translation": "ഈ പ്രാർത്ഥന"
+    },
+    {
+      "original": "स",
+      "transliteration": "പഠതി",
+      "translation": "വായിക്കുന്നത്"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "പരമഭക്ത്യാ",
+      "translation": "പരമ ഭക്തിയോടെ"
+    },
+    {
+      "original": "शिवलोके",
+      "transliteration": "ശുദ്ധ-ചിത്ത:",
+      "translation": "വിശുദ്ധമായ ഹൃദയം"
+    },
+    {
+      "original": "रुद्रतुल्यस्तथाऽत्र",
+      "transliteration": "പുമാൻ",
+      "translation": "പുരുഷൻ"
+    },
+    {
+      "original": "प्रचुरतर-धनायुः",
+      "transliteration": "യ:",
+      "translation": "അദ്ദേഹം"
+    },
+    {
+      "original": "पुत्रवान्",
+      "transliteration": "സ",
+      "translation": "അവൻ"
+    },
+    {
+      "original": "कीर्तिमांश्च",
+      "transliteration": "ഭവതി",
+      "translation": "ആവാനാകും"
+    },
+    {
+      "original": "महेशान्नापरो",
+      "transliteration": "ശിവലോകെ",
+      "translation": "ശിവലോകത്തിൽ"
+    },
+    {
+      "original": "देवो",
+      "transliteration": "രുദ്രതുല്യസ്തഥാ:ത്ര",
+      "translation": "രുദ്രനെപ്പോലെയുള്ള സ്ഥിതി"
+    },
+    {
+      "original": "महिम्नो",
+      "transliteration": "പ്രചുരതർ-ധനായുഃ",
+      "translation": "കൂടുതൽ ധന-ധർമ്മശേഷിയുള്ള"
+    },
+    {
+      "original": "नापरा",
+      "transliteration": "പുത്രവാൻ",
+      "translation": "പുത്രൻ ഉള്ള"
+    },
+    {
+      "original": "स्तुतिः",
+      "transliteration": "കീർത്തിമാംശ്ച",
+      "translation": "പ്രശസ്തിയും"
+    },
+    {
+      "original": "अघोरान्नापरो",
+      "transliteration": "മഹേഷാന്നാപറോ ദേവോ",
+      "translation": "മഹാദേവനെപ്പോലെ മറ്റൊരു ദേവൻ ഇല്ലാത്തത്"
+    },
+    {
+      "original": "मन्त्रो",
+      "transliteration": "മഹിമ്നോ നാപരാ സ്തുതി:",
+      "translation": "ശ്രേഷ്ഠമായ ഗണനയോടുള്ള ആരാധന"
+    },
+    {
+      "original": "नास्ति",
+      "transliteration": "അഘോരാന്നാപരോ മന്ത്ര:",
+      "translation": "ഏറ്റവും വലിയ പ്രാർത്ഥനാ ചിന്തനത്തിന്റെ"
+    },
+    {
+      "original": "तत्त्वं",
+      "transliteration": "നാസ്തി തത്വം ഗുരോ: പരം",
+      "translation": "ദൈവത്തിന്റെ വിശുദ്ധമായ അന്തരീക്ഷം"
+    },
+    {
+      "original": "गुरोः",
+      "transliteration": "ദീക്ഷാ ദാനം തപസ്തീർഥം",
+      "translation": "ഉപദേശം, ദാനം, തടവാനാകുന്ന പരിശുദ്ധി"
+    },
+    {
+      "original": "परम्",
+      "transliteration": "ജ്ഞാനം യാഗാദികാ: ക്രിയാ:",
+      "translation": "വിദ്യയും, യാഗവും, ദർശനങ്ങളും"
+    },
+    {
+      "original": "दीक्षा",
+      "transliteration": "മഹിമ്നസ്തവ പാഠസ്യ",
+      "translation": "മഹിമ്നത്തിന്റെ പ്രചാരത്തിന്"
+    },
+    {
+      "original": "दानं",
+      "transliteration": "കലാം നാർഹന്തി ഷോഡശീം",
+      "translation": "അതിന്റെ പൂർത്തിയായ വൈശാല്യം"
+    },
+    {
+      "original": "तपस्तीर्थं",
+      "transliteration": "കുസുമദശൻ-നാമാ",
+      "translation": "കുസുമദശനിന്റെ നാമം"
+    },
+    {
+      "original": "ज्ञानं",
+      "transliteration": "സർവ-ഗന്ധർവ-രാജ:",
+      "translation": "എല്ലാ ഗന്ധർവന്മാരുടെ രാജാവ്"
+    },
+    {
+      "original": "यागादिकाः",
+      "transliteration": "ശശിധരവര-മൗലേ:",
+      "translation": "ചന്ദ്രഹാരിയനായ, മഹാദേവന്‍റെ മേൽമുടി"
+    },
+    {
+      "original": "क्रियाः",
+      "transliteration": "ദേവദേവസ്യ ദാസ:",
+      "translation": "ദേവദേവന്റെ ദാസൻ"
+    },
+    {
+      "original": "महिम्नस्तव",
+      "transliteration": "സ",
+      "translation": "അവൻ"
+    },
+    {
+      "original": "पाठस्य",
+      "transliteration": "ഖലു",
+      "translation": "സത്യമായും"
+    },
+    {
+      "original": "कलां",
+      "transliteration": "निज-മഹിമ്നോ",
+      "translation": "അവന്റെ സ്വന്തം മഹിമയിൽ"
+    },
+    {
+      "original": "नार्हन्ति",
+      "transliteration": "ഭ്രഷ്ട്",
+      "translation": "വ്യത്യസ്തമായ"
+    },
+    {
+      "original": "षोडशीम्",
+      "transliteration": "എവാസ്യ",
+      "translation": "അവന്റെ കോപത്തിൽ"
+    },
+    {
+      "original": "कुसुमदशन-नामा",
+      "transliteration": "രോഷാത്",
+      "translation": "കോപത്തിൽ"
+    },
+    {
+      "original": "सर्व-गन्धर्व-राजः",
+      "transliteration": "സ്തവനമിദമാകർഷീദ്",
+      "translation": "ഈ മഹിമാരാധനയും"
+    },
+    {
+      "original": "शशिधरवर-मौलेः",
+      "transliteration": "ദിവ്യ-ദിവ്യം",
+      "translation": "ദിവ്യമായ ദിവ്യമായ"
+    },
+    {
+      "original": "देवदेवस्य",
+      "transliteration": "മഹിമ്ന:",
+      "translation": "മഹിമായായ"
+    },
+    {
+      "original": "दासः",
+      "transliteration": "സുരഗുരുമഭിപൂജ്യ",
+      "translation": "ദൈവഗുരുവിനെ ആരാധിച്ച്"
+    },
+    {
+      "original": "स",
+      "transliteration": "സ്വർഗ-മോക്ഷൈക്-ഹേതുṁ",
+      "translation": "സ്വർഗത്തിലെ മോക്ഷം ലക്ഷ്യം"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "പഠതി",
+      "translation": "വായിക്കുന്നു"
+    },
+    {
+      "original": "निज-महिम्नो",
+      "transliteration": "യദി",
+      "translation": "എങ്കിൽ"
+    },
+    {
+      "original": "भ्रष्ट",
+      "transliteration": "മനുഷ്യൻ",
+      "translation": "മനുഷ്യൻ"
+    },
+    {
+      "original": "एवास्य",
+      "transliteration": "പ്രാഞ്ജലിർ",
+      "translation": "പ്രാഞ്ചലനായ"
+    },
+    {
+      "original": "रोषात्",
+      "transliteration": "നാന്യ-ചേത്താ:",
+      "translation": "മറ്റുള്ളവരുടെ മനസ്സുകൾ ഇല്ലാത്തവൻ"
+    },
+    {
+      "original": "स्तवनमिदम्",
+      "transliteration": "വ്രജതി",
+      "translation": "യാത്രചെയ്യുന്നു"
+    },
+    {
+      "original": "आकाशीद्",
+      "transliteration": "ശിവ-സമീപം",
+      "translation": "ശിവന്റെ അടുത്തിൽ"
+    },
+    {
+      "original": "दिव्य-दिव्यं",
+      "transliteration": "കിന്നരൈ: സ്തൂയമാന:",
+      "translation": "കിന്നരന്മാർ പാടുന്ന"
+    },
+    {
+      "original": "महिम्नः",
+      "transliteration": "സ്തവനമിദമമോഗം",
+      "translation": "ഈ പ്രാർത്ഥന ഉത്തമമായ"
+    },
+    {
+      "original": "सुरगुरुम्",
+      "transliteration": "പൂഷ്പദന്തപ്രണീതം",
+      "translation": "പൂക്കളായ പ്രകാശവുമുള്ള"
+    },
+    {
+      "original": "अभिपूज्य",
+      "transliteration": "ആശമാപ്തമിതം സ്തോത്രം",
+      "translation": "ഈ പ്രാർത്ഥന പൂർത്തിയായ ശുഭമായ"
+    },
+    {
+      "original": "स्वर्ग-मोक्षैक-हेतुं",
+      "transliteration": "പുണ്യം",
+      "translation": "പുണ്യമായ"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "ഗന്ധർവ-ഭാഷിതം",
+      "translation": "ഗന്ധർവന്മാരാൽ പറഞ്ഞ"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "അനൗപമ്യം",
+      "translation": "അനുപമമായ"
+    },
+    {
+      "original": "मनुष्यः",
+      "transliteration": "മനോഹാരി",
+      "translation": "മനോഹരമായ"
+    },
+    {
+      "original": "प्राञ्जलिर्",
+      "transliteration": "സർവമിഷ്വരവരണം",
+      "translation": "എല്ലാമതിയും യേശുവിന്റെ വിശദീകരണം"
+    },
+    {
+      "original": "नान्य-चेताः",
+      "transliteration": "ഇത്യേഷാ വാങ്മയി പൂജാ",
+      "translation": "ഇതാണ് വാങ്മയി പ്രാർഥന"
+    },
+    {
+      "original": "व्रजति",
+      "transliteration": "ശ്രീമച്ചങ്ങ്കര-പാദയോ:",
+      "translation": "ശ്രീമച്ചങ്ങ്കര പാദങ്ങളിൽ"
+    },
+    {
+      "original": "शिव-समीपं",
+      "transliteration": "അർപിതാ തെന ദേവേശ:",
+      "translation": "അർപ്പിക്കപ്പെട്ട ദേവന്റെ"
+    },
+    {
+      "original": "किन्नरैः",
+      "transliteration": "പ്രിയതാം മെ സദാശിവ:",
+      "translation": "എന്നെ സദാശിവൻ പ്രിയപ്പെടുന്ന"
+    },
+    {
+      "original": "स्तूयमानः",
+      "transliteration": "തവ തത്ത്വം ന ജാനാമി",
+      "translation": "എനിക്ക് നിങ്ങളെ എന്താണെന്ന് അറിയില്ല"
+    },
+    {
+      "original": "स्तवनमिदम्",
+      "transliteration": "കീദൃശോऽസി മഹേശ്വര",
+      "translation": "നിങ്ങൾ എങ്ങനെ മഹേശ്വരനായിരിക്കണം"
+    },
+    {
+      "original": "अमोघं",
+      "transliteration": "യാദൃശോസ്സി മഹാദേവ",
+      "translation": "നിങ്ങൾ എങ്ങനെ മഹാദേവനായിരിക്കണം"
+    },
+    {
+      "original": "पुष्पदन्तप्रणीतम्",
+      "transliteration": "താദൃശായ നമോ നമഃ",
+      "translation": "അവൻ ശിവമായിരിക്കും"
+    },
+    {
+      "original": "आसमाप्तमिदं",
+      "transliteration": "ഏകകാലം ദ്വികാലം വാ ത്രികാലം യ: പതെന്നര:",
+      "translation": "ഒരേ സമയത്ത് അല്ലെങ്കിൽ രണ്ട് സമയത്ത് പാടിയാൽ"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "സർവപാപ-വിനിർമുക്ത:",
+      "translation": "എല്ലാ പാപങ്ങളിൽ നിന്ന് മോചിതൻ"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "ശിവലോകെ മഹീയതേ",
+      "translation": "ശിവലോകത്തിൽ മഹാനായ മനുഷ്യനാകും"
+    },
+    {
+      "original": "गन्धर्व-भाषितम्",
+      "transliteration": "ശ്രീ",
+      "translation": "ശ്രീ "
+    },
+    {
+      "original": "अनौपम्यं",
+      "transliteration": "പുഷ്പദന്ത്",
+      "translation": "പുഷ്പദന്ത് "
+    },
+    {
+      "original": "मनोहारि",
+      "transliteration": "മുഖ",
+      "translation": "മുഖ "
+    },
+    {
+      "original": "सर्वमीश्वरवर्णनम्",
+      "transliteration": "പങ്കജ",
+      "translation": "പുഷ്പത്തിലിരിക്കുന്ന "
+    },
+    {
+      "original": "इति",
+      "transliteration": "നിര്ഗതേന",
+      "translation": "ഒഴിഞ്ഞു പോയ "
+    },
+    {
+      "original": "एषा",
+      "transliteration": "സ്തോത്രേണ",
+      "translation": "സ്തോത്രം "
+    },
+    {
+      "original": "वाङ्मयी",
+      "transliteration": "കിൽബിഷ്-ഹരേണ",
+      "translation": "പാപഹരം "
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "ഹര-പ്രിയേണ",
+      "translation": "ഹരനായി പ്രിയപ്പെട്ട "
+    },
+    {
+      "original": "श्रीमच्छङ्कर-पादयोः",
+      "transliteration": "കണ്ഠസ്ഥിതേന",
+      "translation": "കണ്ഠത്തിൽ നിന്നുള്ള "
+    },
+    {
+      "original": "अर्पिता",
+      "transliteration": "പതിതേന",
+      "translation": "വായന ചെയ്ത "
+    },
+    {
+      "original": "तेन",
+      "transliteration": "സമാഹിതേന",
+      "translation": "മനസ്സിന്മേൽ അടങ്ങിയ "
+    },
+    {
+      "original": "देवेशः",
+      "transliteration": "സുപ്രീണിതോ",
+      "translation": "സുഗൃഹിതനാക്കിയ "
+    },
+    {
+      "original": "प्रीयतां",
+      "transliteration": "ഭവതി",
+      "translation": "ആയിരിക്കും "
+    },
+    {
+      "original": "मे",
+      "transliteration": "ഭൂതപതിർ മഹേശ:",
+      "translation": "ഭൂതങ്ങളുടെ പരിചാരകനായ മഹേശ്വരൻ "
+    },
+    {
+      "original": "सदाशिवः",
+      "transliteration": "ഇതി",
+      "translation": "ഇങ്ങനെ"
+    },
+    {
+      "original": "तव",
+      "transliteration": "ശ്രീ",
+      "translation": "ശ്രീ "
+    },
+    {
+      "original": "तत्त्वं",
+      "transliteration": "പുഷ്പദന്ത്",
+      "translation": "പുഷ്പദന്ത് "
+    },
+    {
+      "original": "न",
+      "transliteration": "വിരചിതം",
+      "translation": "എഴുതിയ"
+    },
+    {
+      "original": "जानामि",
+      "transliteration": "ശിവമഹിമ്ന:",
+      "translation": "ശിവ മഹിമ്ന "
+    },
+    {
+      "original": "कीदृशोऽसि",
+      "transliteration": "സ്തോത്രം",
+      "translation": "സ്തോത്രം "
+    },
+    {
+      "original": "महेश्वर",
+      "transliteration": "സമാപ്തം",
+      "translation": "പൂർത്തിയാകുന്നു "
+    },
+    {
+      "original": "यादृशोऽसि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "महादेव",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तादृशाय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "एककालं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "द्विकालं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "त्रिकालं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पठेन्नरः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वपाप-विनिर्मुक्तः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "महीयते",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्री",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुष्पदन्त-मुख-पङ्कज-निर्गतेन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्तोत्रेण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "किल्बिष-हरेण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हर-प्रियेण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कण्ठस्थितेन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पठितेन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "समाहितेन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुप्रीणितो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भूतपतिर्महेशः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "इति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्री",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुष्पदन्त",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विरचितं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शिवमहिम्नः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "समाप्तम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\malayalam\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\malayalam\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.507Z"
+  }
+}

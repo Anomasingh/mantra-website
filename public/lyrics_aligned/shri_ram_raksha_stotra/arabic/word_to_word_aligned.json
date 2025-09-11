@@ -1,0 +1,2599 @@
+{
+  "mantra": "shri_ram_raksha_stotra",
+  "language": "arabic",
+  "type": "word_to_word",
+  "totalWords": 517,
+  "alignedWords": [
+    {
+      "original": "अस्य",
+      "transliteration": "أسْيَا",
+      "translation": "هذا"
+    },
+    {
+      "original": "श्रीरामरक्षास्तोत्रमन्त्रस्य",
+      "transliteration": "شري رام راكشا شاسترا منتراسيا",
+      "translation": "من هذا الترتيل لراما"
+    },
+    {
+      "original": "बुधकौशिक",
+      "transliteration": "بودها كوشيكا",
+      "translation": "من حكيم بودها كوشيكا"
+    },
+    {
+      "original": "ऋषिः",
+      "transliteration": "رشيه",
+      "translation": "الحكيم"
+    },
+    {
+      "original": "श्रीसीतारामचन्द्रो",
+      "transliteration": "شري سيتا رام شاندرا",
+      "translation": "الإله رام مع سيّتا"
+    },
+    {
+      "original": "देवता",
+      "transliteration": "ديفاتا",
+      "translation": "إله"
+    },
+    {
+      "original": "अनुष्टुप्",
+      "transliteration": "أنوشتوب",
+      "translation": "نوع من الأوزان الشعرية"
+    },
+    {
+      "original": "छन्दः",
+      "transliteration": "شانده",
+      "translation": "النوع الموسيقي"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "سيتا",
+      "translation": "زوجة رام"
+    },
+    {
+      "original": "शक्तिः",
+      "transliteration": "شاكتي",
+      "translation": "القوة"
+    },
+    {
+      "original": "श्रीमद्",
+      "transliteration": "شري ماد",
+      "translation": "المبارك"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "هانومان",
+      "translation": "هانومان"
+    },
+    {
+      "original": "कीलकम्",
+      "transliteration": "كيلكام",
+      "translation": "المربط (من الوصلات)"
+    },
+    {
+      "original": "श्रीरामचन्द्रप्रीत्यर्थे",
+      "transliteration": "شري رام شاندرا بريتيارثي",
+      "translation": "لأجل حبّ رام شاندرا"
+    },
+    {
+      "original": "रामरक्षास्तोत्रजपे",
+      "transliteration": "رام راكشا شاسترا جابي",
+      "translation": "لمن يتلو هذا الترتيل"
+    },
+    {
+      "original": "विनियोगः",
+      "transliteration": "فينييوغاه",
+      "translation": "طريقة الاستخدام"
+    },
+    {
+      "original": "ध्यायेत्",
+      "transliteration": "أثا",
+      "translation": "الآن"
+    },
+    {
+      "original": "आजानुबाहुं",
+      "transliteration": "ذيانام",
+      "translation": "التأمل"
+    },
+    {
+      "original": "धृतशरधनुषं",
+      "transliteration": "ذيايد آجانوباهو",
+      "translation": "فكر في رام الذي يحمل القوس والسهم"
+    },
+    {
+      "original": "बद्धपद्मासनस्थं",
+      "transliteration": "ذرت شردهنوشام",
+      "translation": "يحمل قوسًا وسهمًا"
+    },
+    {
+      "original": "पीतं",
+      "transliteration": "باده بادماساناسثام",
+      "translation": "جالس في وضع اللوتس"
+    },
+    {
+      "original": "वासो",
+      "transliteration": "بيتا",
+      "translation": "يرتدي ثوبًا أصفر"
+    },
+    {
+      "original": "वसानं",
+      "transliteration": "فاسو",
+      "translation": "الثياب"
+    },
+    {
+      "original": "नवकमलदलस्पर्धिनेत्रं",
+      "transliteration": "فاسانا",
+      "translation": "يرتدي"
+    },
+    {
+      "original": "प्रसन्नम्",
+      "transliteration": "نافاكامالادلاسفرادينيترا",
+      "translation": "عيون تومض مثل بتلات الزهور الجديدة"
+    },
+    {
+      "original": "वामाङ्कारूढ",
+      "transliteration": "برساننم",
+      "translation": "ملامح مشرقة"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "وامانكاروده",
+      "translation": "يركب على الجهة اليسرى"
+    },
+    {
+      "original": "मुखकमलमिलल्लोचनं",
+      "transliteration": "سيتاموخكامالميللوتشانام",
+      "translation": "وجه سيّتا الجميل"
+    },
+    {
+      "original": "नीरदाभं",
+      "transliteration": "نيرادابه",
+      "translation": "وجهه أبيض مثل السحاب"
+    },
+    {
+      "original": "नानालङ्कारदीप्तं",
+      "transliteration": "نانالنكاردبتام",
+      "translation": "مزخرف بعدة زخارف"
+    },
+    {
+      "original": "दधतमुरुजटामण्डनं",
+      "transliteration": "دهاتاموروجटामंडनام",
+      "translation": "يزين نفسه بتاج ذو شعر متشابك"
+    },
+    {
+      "original": "रामचन्द्रम्",
+      "transliteration": "رام चंद्रम्",
+      "translation": "رام شاندرا"
+    },
+    {
+      "original": "चरितं",
+      "transliteration": "شري رام رامتي",
+      "translation": "اسم راما هو راما"
+    },
+    {
+      "original": "रघुनाथस्य",
+      "transliteration": "رام بهدرم",
+      "translation": "رام هو الصالح"
+    },
+    {
+      "original": "शतकोटि",
+      "transliteration": "should meditate",
+      "translation": "dhi-yā-ye-ta"
+    },
+    {
+      "original": "प्रविस्तरम्",
+      "transliteration": "with long arms",
+      "translation": "ā-jā-nu-bā-huṃ"
+    },
+    {
+      "original": "एकैकमक्षरं",
+      "transliteration": "holding the bow and arrows",
+      "translation": "dhṛ-ta-śa-ra-dha-nu-ṣaṃ"
+    },
+    {
+      "original": "पुंसां",
+      "transliteration": "seated in the lotus position",
+      "translation": "bad-dha-pad-mā-sa-na-sthaṃ"
+    },
+    {
+      "original": "महापातक",
+      "transliteration": "wearing yellow clothes",
+      "translation": "pī-taṃ"
+    },
+    {
+      "original": "नाशनम्",
+      "transliteration": "robes",
+      "translation": "vā-so"
+    },
+    {
+      "original": "ध्यात्वा",
+      "transliteration": "the garment",
+      "translation": "va-sā-naṃ"
+    },
+    {
+      "original": "नीलोत्पल",
+      "transliteration": "having eyes like lotus petals",
+      "translation": "na-va-ka-ma-la-da-la-spar-dhi-net-raṃ"
+    },
+    {
+      "original": "श्यामं",
+      "transliteration": "bright, cheerful",
+      "translation": "pra-san-nam"
+    },
+    {
+      "original": "रामं",
+      "transliteration": "with left side mounted",
+      "translation": "vā-mā-āṅ-kā-rū-ḍha"
+    },
+    {
+      "original": "राजीवलोचनम्",
+      "transliteration": "with eyes like a lotus at the face of Sita",
+      "translation": "sī-tā-muk-ha-ka-mal-milal-loc-naṃ"
+    },
+    {
+      "original": "जानकी",
+      "transliteration": "with a color like a cloud",
+      "translation": "nī-ra-dā-bhaṃ"
+    },
+    {
+      "original": "लक्ष्मणोपेतं",
+      "transliteration": "radiant with different ornaments",
+      "translation": "nā-nā-laṅ-kā-ra-dīp-taṃ"
+    },
+    {
+      "original": "जटा",
+      "transliteration": "adorned with the crown of matted hair",
+      "translation": "da-dha-ta-mu-ru-ja-ṭā-maṇ-da-naṃ"
+    },
+    {
+      "original": "मुकुट",
+      "transliteration": "Lord Ram, the moon-like deity",
+      "translation": "rā-ma-candraṃ"
+    },
+    {
+      "original": "मण्डितम्",
+      "transliteration": "the story",
+      "translation": "cha-ri-taṃ"
+    },
+    {
+      "original": "सासि",
+      "transliteration": "of Lord Raghunath (Ram)",
+      "translation": "ra-ghu-nā-tha-sya"
+    },
+    {
+      "original": "तूण",
+      "transliteration": "a hundred million",
+      "translation": "sha-ta-ko-ṭi"
+    },
+    {
+      "original": "धनुः",
+      "transliteration": "described in detail",
+      "translation": "pra-vis-ta-ram"
+    },
+    {
+      "original": "बाण",
+      "transliteration": "each syllable",
+      "translation": "e-kai-kam-ak-ṣa-raṃ"
+    },
+    {
+      "original": "पाणिं",
+      "transliteration": "of men",
+      "translation": "pum-sāṃ"
+    },
+    {
+      "original": "नक्तञ्चर",
+      "transliteration": "destroyer of great sins",
+      "translation": "ma-hā-pā-ta-ka-nā-śa-nam"
+    },
+    {
+      "original": "अन्तकम्",
+      "transliteration": "meditating on",
+      "translation": "dhi-āt-vā"
+    },
+    {
+      "original": "स्वलीलया",
+      "transliteration": "the dark blue-colored Ram",
+      "translation": "nī-lo-tpa-la-śyā-maṃ"
+    },
+    {
+      "original": "जगत्",
+      "transliteration": "Ram (the Lord)",
+      "translation": "rā-maṃ"
+    },
+    {
+      "original": "त्रातुम्",
+      "transliteration": "having eyes like lotus petals",
+      "translation": "rā-jī-va-lō-ca-naṃ"
+    },
+    {
+      "original": "आविर्भूतम्",
+      "transliteration": "accompanied by Sita and Lakshman",
+      "translation": "jā-na-kī-lak-ṣmaṇ-ō-pe-taṃ"
+    },
+    {
+      "original": "अजं",
+      "transliteration": "adorned with matted hair crown",
+      "translation": "ja-ṭā-mu-ku-ṭa-maṇ-di-tam"
+    },
+    {
+      "original": "विभुम्",
+      "transliteration": "સાષિતૂણધનુર્વાણપાણિં",
+      "translation": "ધનુષ્ય અને બાણ ધરાવનાર"
+    },
+    {
+      "original": "रामरक्षां",
+      "transliteration": "નક્તંચરાંતકમ્",
+      "translation": "રાત્રિના દુશ્મનોનો નાશક"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "સ્વલીલયા",
+      "translation": "તેની પોતાની લીલાથી"
+    },
+    {
+      "original": "प्राज्ञः",
+      "transliteration": "જગત્ત્રાતુમાવિર્ભૂતમજં",
+      "translation": "જગતના રક્ષણ માટે પ્રસરીને આવનાર"
+    },
+    {
+      "original": "पापघ्नीं",
+      "transliteration": "વિભુમ્",
+      "translation": "સર્વવ્યાપી"
+    },
+    {
+      "original": "सर्वकामदाम्",
+      "transliteration": "રામરક્ષાં",
+      "translation": "જ્ઞાનુશીલ"
+    },
+    {
+      "original": "शिरः",
+      "transliteration": "પાઠેત",
+      "translation": "વ્યક્તિએ"
+    },
+    {
+      "original": "मे",
+      "transliteration": "પ્રાજ્ઞઃ",
+      "translation": "રામરક્ષાનું"
+    },
+    {
+      "original": "राघवः",
+      "transliteration": "પાપઘ્નીં",
+      "translation": "પાઠ કરવો"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "સર્વકામદામ્",
+      "translation": "પાપને"
+    },
+    {
+      "original": "भालं",
+      "transliteration": "શિરો",
+      "translation": "નાશ કરનારી"
+    },
+    {
+      "original": "दशरथात्मजः",
+      "transliteration": "મે",
+      "translation": "અને"
+    },
+    {
+      "original": "कौसल्येयो",
+      "transliteration": "રાઘવઃ",
+      "translation": "તમામ"
+    },
+    {
+      "original": "दृशौ",
+      "transliteration": "પાતુ",
+      "translation": "ઈચ્છાઓ"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "ભાલં",
+      "translation": "પૂરી કરનારી"
+    },
+    {
+      "original": "विश्वामित्रप्रियः",
+      "transliteration": "દશરથાત્મજઃ",
+      "translation": "મારા"
+    },
+    {
+      "original": "श्रुती",
+      "transliteration": "કૌસલ્યેયો",
+      "translation": "માથાનો"
+    },
+    {
+      "original": "घ्राणं",
+      "transliteration": "દૃશૌ",
+      "translation": "રક્ષક"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "પાતુ",
+      "translation": "રાઘવ"
+    },
+    {
+      "original": "मखत्राता",
+      "transliteration": "સાશિતૂણધનુર્વાણપાણીં",
+      "translation": "હોવું"
+    },
+    {
+      "original": "मुखं",
+      "transliteration": "નક્તાંછરાંતકં",
+      "translation": "દશરથના"
+    },
+    {
+      "original": "सौमित्रिवत्सलः",
+      "transliteration": "સ્વલીલયાઋ જગત્પ્રત્યાયનારા",
+      "translation": "પુત્ર"
+    },
+    {
+      "original": "जिह्वां",
+      "transliteration": "વિભૂમ",
+      "translation": "દ્વારા"
+    },
+    {
+      "original": "विद्यानिधिः",
+      "transliteration": "રામરક્ષાં",
+      "translation": "રક્ષિત"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "પાઠેત",
+      "translation": "હોવું"
+    },
+    {
+      "original": "कण्ठं",
+      "transliteration": "પ્રાજ્ઞઃ",
+      "translation": "કૌસલ્યાના"
+    },
+    {
+      "original": "भरतवन्दितः",
+      "transliteration": "પાપઘ્નીં",
+      "translation": "પુત્રએ"
+    },
+    {
+      "original": "स्कन्धौ",
+      "transliteration": "સર્વકામદામ્",
+      "translation": "મારી"
+    },
+    {
+      "original": "दिव्यायुधः",
+      "transliteration": "---",
+      "translation": "આંખોની"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "---",
+      "translation": "રક્ષા"
+    },
+    {
+      "original": "भुजौ",
+      "transliteration": "---",
+      "translation": "કરવી"
+    },
+    {
+      "original": "भग्न",
+      "transliteration": "---",
+      "translation": "ચંદ્ર"
+    },
+    {
+      "original": "ईश",
+      "transliteration": "---",
+      "translation": "રાત્રિ-પ્રહરણકર્તા"
+    },
+    {
+      "original": "कार्मुकः",
+      "transliteration": "---",
+      "translation": "મનુષ્યજન્મનું"
+    },
+    {
+      "original": "करौ",
+      "transliteration": "---",
+      "translation": "વિશ્વરક્ષા"
+    },
+    {
+      "original": "सीतापतिः",
+      "transliteration": "---",
+      "translation": "પ્રયોગ"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "---",
+      "translation": "નવું"
+    },
+    {
+      "original": "हृदयं",
+      "transliteration": "---",
+      "translation": "યોગ"
+    },
+    {
+      "original": "जामदग्न्य",
+      "transliteration": "---",
+      "translation": "પાપને"
+    },
+    {
+      "original": "जित्",
+      "transliteration": "---",
+      "translation": "નાશ"
+    },
+    {
+      "original": "मध्यं",
+      "transliteration": "---",
+      "translation": "કરનારી"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "---",
+      "translation": "સવિશ્વ"
+    },
+    {
+      "original": "खर",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ध्वंसी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नाभिं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जाम्बवत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आश्रयः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुग्रीवेशः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कटी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सक्थिनी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हनुमत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रभुः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ऊरू",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रघूत्तमः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रक्षः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कुल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विनाश",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कृत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जानुनी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सेतुकृत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जङ्घे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दशमुख",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अन्तकः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पादौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बिभीषण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीदः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अखिलं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वपुः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "एतां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामबल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "उपेतां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रक्षां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुकृती",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चिरायुः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुखी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुत्री",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विजयी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विनयी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भवेत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पाताल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भूतल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "व्योम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चारिणः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "छद्म",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चारिणः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "न",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "द्रष्टुम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शक्ताः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ते",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रक्षितम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामनामभिः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामेति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामभद्रेति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामचन्द्रेति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्मरन्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नरो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "न",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लिप्यते",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पापैः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भुक्तिं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मुक्तिं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विन्दति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जगज्जैत्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "एक",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मन्त्रेण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामनाम्ना",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अभिरक्षितम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कण्ठे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "धारयेत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "करस्थाः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सिद्धयः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वज्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पञ्जर",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नाम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कवचं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्मरेत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अव्याहत",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आज्ञः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वत्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लभते",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मङ्गलम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आदिष्टवान्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यथा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वप्ने",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामरक्षाम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "इमां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हरः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लिखितवान्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रातः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रबुद्धः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बुध",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कौशिकः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आरामः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कल्पवृक्षाणां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विरामः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आपदाम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अभिरामः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "त्रिलोकानाम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीमान्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रभुः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तरुणौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सम्पन्नौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुकुमारौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "महा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बलौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुण्डरीक",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विशाल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अक्षौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चीर",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कृष्ण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अजिन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अम्बरौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "फल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मूल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आशिनौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दान्तौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तापसौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ब्रह्म",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चारिणौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुत्रौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दशरथस्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "एतौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भ्रातरौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लक्ष्मणौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शरण्यौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सत्त्वानाम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रेष्ठौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "धनुष्मताम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रक्षः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कुल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "निहन्तारौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "त्रायेताम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रघूत्तमौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आत्त",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सज्ज",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "धनुषौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "इषु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्पृशौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अक्षय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आशुग",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "निषङ्ग",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सङ्गिनौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रक्षणाय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लक्ष्मणौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अग्रतः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पथि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सदैव",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "गच्छताम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सन्नद्धः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कवची",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "खड्गी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चाप",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बाण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "धरः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "युवा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "गच्छन्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मनोरथः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अस्माकं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सलक्ष्मणः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दाशरथिः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शूरः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लक्ष्मण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अनुचरः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बली",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "काकुत्स्थः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुरुषः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पूर्णः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कौसल्येयः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रघूत्तमः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वेदान्त",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वेद्यः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यज्ञेशः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुराण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुरुषोत्तमः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जानकी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वल्लभः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीमान्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अप्रमेयः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पराक्रमः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "इति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "एतानि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जपन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नित्यं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मद्भक्तः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रद्धया",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अन्वितः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अश्वमेध",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अधिकं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुण्यम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सम्प्राप्नोति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "न",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संशयः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दूर्वा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्यामं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पद्म",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अक्षं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पीत",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वाससम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्तुवन्ति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नामभिः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दिव्यैः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "न",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ते",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संसारिणः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नराः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लक्ष्मण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पूर्वजं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रघुवरं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पतिं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुन्दरम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "काकुत्स्थं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "करुणार्णवं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "गुणनिधिं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विप्रप्रियं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "धार्मिकम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राजेन्द्रं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सत्यसन्धं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दशरथ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तनयं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्यामलं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शान्तमूर्तिम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वन्दे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लोकाभिरामं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रघुकुल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तिलकं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राघवं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रावणारिम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामाय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामभद्राय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामचन्द्राय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वेधसे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रघुनाथाय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नाथाय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सीतायाः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पतये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीराम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रघुनन्दन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीराम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भरताग्रज",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीराम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रणकर्कश",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीराम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शरणं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भव",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीरामचन्द्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चरणौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मनसा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्मरामि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीरामचन्द्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चरणौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वचसा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "गृणामि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीरामचन्द्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चरणौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शिरसा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नमामि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीरामचन्द्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चरणौ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शरणं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रपद्ये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "माता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मत्पिता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामचन्द्रः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वामी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मत्सखा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामचन्द्रः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वस्वं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामचन्द्रः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दयालुः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "न",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अन्यं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जाने",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जाने",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "न",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जाने",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दक्षिणे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लक्ष्मणः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वामे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जनकात्मजा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुरतः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मारुतिः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वन्दे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रघुनन्दनम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लोकाभिरामं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रणरङ्गधीरं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राजीवनेत्रं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रघुवंशनाथम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कारुण्यरूपं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "करुणाकरं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीरामचन्द्रम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शरणं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रपद्ये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मनोजवं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मारुततुल्यवेगं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जितेन्द्रियं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बुद्धिमतां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वरिष्ठम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वातात्मजं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वानरयूथमुख्यं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीरामदूतं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शरणं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रपद्ये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कूजन्तं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामेति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मधुरं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मधुराक्षरम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आरुह्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कविताशाखां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वन्दे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वाल्मीकिकोकिलम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आपदामपहर्तारं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दातारं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वसम्पदाम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लोकाभिरामं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीरामं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भूयो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भूयो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नमाम्यहम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भर्जनं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भवबीजानाम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अर्जनं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुखसम्पदाम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तर्जनं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यमदूतानां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामेति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "गर्जनम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राजमणिः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विजयते",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रमेशं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामेण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अभिहता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "निशाचरचमू",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामाय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नास्ति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परायणं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परतरं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामस्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दासः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अस्म्यहम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चित्तलयः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भवतु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मामुद्धर",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_ram_raksha_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_ram_raksha_stotra\\arabic\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_ram_raksha_stotra\\arabic\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.959Z"
+  }
+}

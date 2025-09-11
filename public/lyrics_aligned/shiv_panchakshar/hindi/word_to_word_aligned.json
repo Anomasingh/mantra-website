@@ -1,0 +1,344 @@
+{
+  "mantra": "shiv_panchakshar",
+  "language": "hindi",
+  "type": "word_to_word",
+  "totalWords": 66,
+  "alignedWords": [
+    {
+      "original": "नागेन्द्रहाराय",
+      "transliteration": "नागेन्द्रहाराय",
+      "translation": "नागराजों के हार रूप वाले और तीन नेत्र वाले भगवान शिव को"
+    },
+    {
+      "original": "त्रिलोचनाय",
+      "transliteration": "त्रिलोचनाय",
+      "translation": "तीन आँखों वाले भगवान शिव को"
+    },
+    {
+      "original": "भस्माङ्गरागाय",
+      "transliteration": "भस्माङ्गरागाय",
+      "translation": "जो शरीर को भस्म से सजाते हैं, वे महेश्वर भगवान शिव हैं"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "महेश्वराय",
+      "translation": "महेश्वर भगवान शिव को"
+    },
+    {
+      "original": "नित्याय",
+      "transliteration": "नित्याय",
+      "translation": "जो शाश्वत हैं, वे भगवान शिव हैं"
+    },
+    {
+      "original": "शुद्धाय",
+      "transliteration": "शुद्धाय",
+      "translation": "जो शुद्ध हैं, वे भगवान शिव हैं"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "दिगम्बराय",
+      "translation": "जो दिगंबर रूप में हैं, वे भगवान शिव हैं"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "तस्मै",
+      "translation": "उन भगवान शिव को"
+    },
+    {
+      "original": "न काराय",
+      "transliteration": "न काराय",
+      "translation": "'न'कार रूप वाले भगवान शिव को नमस्कार"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "नमः शिवाय",
+      "translation": "भगवान शिव को नमस्कार"
+    },
+    {
+      "original": "मन्दाकिनी",
+      "transliteration": "मन्दाकिनी",
+      "translation": "मन्दाकिनी जल और चंदन से सजे हुए भगवान शिव को"
+    },
+    {
+      "original": "सलीलचन्दन",
+      "transliteration": "सलीलचन्दन",
+      "translation": "चंदन से सजे हुए भगवान शिव को"
+    },
+    {
+      "original": "चर्चिताय",
+      "transliteration": "चर्चिताय",
+      "translation": "जो प्रसिद्ध हैं, वे भगवान शिव हैं"
+    },
+    {
+      "original": "नन्दीश्वर",
+      "transliteration": "नन्दीश्वर",
+      "translation": "नंदी के स्वामी और प्रमथगणों के ईश्वर महेश्वर भगवान शिव को"
+    },
+    {
+      "original": "प्रमथनाथ",
+      "transliteration": "प्रमथनाथ",
+      "translation": "प्रमथगणों के ईश्वर भगवान शिव को"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "महेश्वराय",
+      "translation": "महेश्वर भगवान शिव को"
+    },
+    {
+      "original": "मन्दारपुष्प",
+      "transliteration": "मन्दारपुष्प",
+      "translation": "मन्दार और अन्य पुष्पों से पूजित भगवान शिव को"
+    },
+    {
+      "original": "बहुपुष्प",
+      "transliteration": "बहुपुष्प",
+      "translation": "अन्य पुष्पों से पूजित भगवान शिव को"
+    },
+    {
+      "original": "सुपूजिताय",
+      "transliteration": "सुपूजिताय",
+      "translation": "जिनकी पूजा की गई हो, भगवान शिव को"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "तस्मै",
+      "translation": "उन भगवान शिव को"
+    },
+    {
+      "original": "म काराय",
+      "transliteration": "म काराय",
+      "translation": "'म'कार रूप वाले भगवान शिव को नमस्कार"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "नमः शिवाय",
+      "translation": "भगवान शिव को नमस्कार"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "शिवाय",
+      "translation": "भगवान शिव को"
+    },
+    {
+      "original": "गोरिवदनाब्जवृंद",
+      "transliteration": "गोरिवदनाब्जवृंद",
+      "translation": "गौरी के कमल समान चेहरे वाले भगवान शिव को"
+    },
+    {
+      "original": "सूर्याय",
+      "transliteration": "सूर्याय",
+      "translation": "सूर्य रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "दक्षाध्वरनाशकाय",
+      "transliteration": "दक्षाध्वरनाशकाय",
+      "translation": "दक्ष यज्ञ का नाश करने वाले भगवान शिव को"
+    },
+    {
+      "original": "श्रीनीलकंठाय",
+      "transliteration": "श्रीनीलकंठाय",
+      "translation": "श्री नीलकंठ रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "वृषध्वजाय",
+      "transliteration": "वृषध्वजाय",
+      "translation": "वृषभ ध्वज वाले भगवान शिव को"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "तस्मै",
+      "translation": "उन भगवान शिव को"
+    },
+    {
+      "original": "शि काराय",
+      "transliteration": "शि काराय",
+      "translation": "'शि'कार रूप वाले भगवान शिव को नमस्कार"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "नमः शिवाय",
+      "translation": "भगवान शिव को नमस्कार"
+    },
+    {
+      "original": "वसिष्ठ",
+      "transliteration": "वसिष्ठ",
+      "translation": "वसिष्ठ ऋषि द्वारा पूजित भगवान शिव को"
+    },
+    {
+      "original": "कुम्भोद्भव",
+      "transliteration": "कुम्भोद्भव",
+      "translation": "कुम्भज ऋषि द्वारा पूजित भगवान शिव को"
+    },
+    {
+      "original": "गौतमार्य",
+      "transliteration": "गौतमार्य",
+      "translation": "गौतम ऋषि द्वारा पूजित भगवान शिव को"
+    },
+    {
+      "original": "मुनीन्द्र",
+      "transliteration": "मुनीन्द्र",
+      "translation": "मुनी और देवताओं द्वारा पूजित भगवान शिव को"
+    },
+    {
+      "original": "देव",
+      "transliteration": "देव",
+      "translation": "देवता रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "अर्चित",
+      "transliteration": "अर्चित",
+      "translation": "पूजित भगवान शिव को"
+    },
+    {
+      "original": "शेखराय",
+      "transliteration": "शेखराय",
+      "translation": "शिखर पर स्थित भगवान शिव को"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "चन्द्र",
+      "translation": "चंद्र रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "अर्क",
+      "transliteration": "अर्क",
+      "translation": "सूर्य रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "वैश्वानर",
+      "transliteration": "वैश्वानर",
+      "translation": "अग्नि रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "लोचनाय",
+      "transliteration": "लोचनाय",
+      "translation": "आंखों के रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "तस्मै",
+      "translation": "उन भगवान शिव को"
+    },
+    {
+      "original": "व काराय",
+      "transliteration": "व काराय",
+      "translation": "'व'कार रूप वाले भगवान शिव को नमस्कार"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "नमः शिवाय",
+      "translation": "भगवान शिव को नमस्कार"
+    },
+    {
+      "original": "यक्ष",
+      "transliteration": "यक्ष",
+      "translation": "यक्ष रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "स्वरूपाय",
+      "transliteration": "स्वरूपाय",
+      "translation": "स्वरूप रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "जटाधराय",
+      "transliteration": "जटाधराय",
+      "translation": "जटा धारण करने वाले भगवान शिव को"
+    },
+    {
+      "original": "पिनाकहस्ताय",
+      "transliteration": "पिनाकहस्ताय",
+      "translation": "पिनाक धनुष धारण करने वाले भगवान शिव को"
+    },
+    {
+      "original": "सनातनाय",
+      "transliteration": "सनातनाय",
+      "translation": "सनातन रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "दिव्याय",
+      "transliteration": "दिव्याय",
+      "translation": "दिव्य रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "देवाय",
+      "transliteration": "देवाय",
+      "translation": "देव रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "दिगम्बराय",
+      "translation": "दिगंबर रूप वाले भगवान शिव को"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "तस्मै",
+      "translation": "उन भगवान शिव को"
+    },
+    {
+      "original": "य काराय",
+      "transliteration": "य काराय",
+      "translation": "'य'कार रूप वाले भगवान शिव को नमस्कार"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "नमः शिवाय",
+      "translation": "भगवान शिव को नमस्कार"
+    },
+    {
+      "original": "पञ्चाक्षरमिदं",
+      "transliteration": "पञ्चाक्षरमिदं",
+      "translation": "यह पंचाक्षर मंत्र"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "पुण्यं",
+      "translation": "पवित्र मंत्र"
+    },
+    {
+      "original": "यः",
+      "transliteration": "यः",
+      "translation": "जो व्यक्ति"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "पठेत्",
+      "translation": "जो इसे पढ़ता है"
+    },
+    {
+      "original": "शिवसन्निधौ",
+      "transliteration": "शिवसन्निधौ",
+      "translation": "भगवान शिव की उपस्थिति में"
+    },
+    {
+      "original": "शिवलोकं",
+      "transliteration": "शिवलोकं",
+      "translation": "वह शिवलोक प्राप्त करता है"
+    },
+    {
+      "original": "अवाप्नोति",
+      "transliteration": "अवाप्नोति",
+      "translation": "वह प्राप्त करता है"
+    },
+    {
+      "original": "शिवेन",
+      "transliteration": "शिवेन",
+      "translation": "भगवान शिव के साथ"
+    },
+    {
+      "original": "सह",
+      "transliteration": "सह",
+      "translation": "साथ में"
+    },
+    {
+      "original": "मोदीते",
+      "transliteration": "मोदीते",
+      "translation": "वह आनंदित होता है"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\hindi\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\hindi\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.598Z"
+  }
+}

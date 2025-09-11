@@ -1,0 +1,1089 @@
+{
+  "mantra": "daxinmurti_stotram",
+  "language": "english",
+  "type": "word_to_word",
+  "totalWords": 215,
+  "alignedWords": [
+    {
+      "original": "ध्यानम्",
+      "transliteration": "Maunavyakhya",
+      "translation": "Explanation of silence"
+    },
+    {
+      "original": "मौनव्याख्या",
+      "transliteration": "Prakatita",
+      "translation": "Revealed"
+    },
+    {
+      "original": "प्रकटित",
+      "transliteration": "Parabrahmatattvam",
+      "translation": "The supreme truth of Brahman"
+    },
+    {
+      "original": "परब्रह्मतत्त्वं",
+      "transliteration": "Yuvanam",
+      "translation": "The young one"
+    },
+    {
+      "original": "युवानं",
+      "transliteration": "Varshishhante",
+      "translation": "At the end of time"
+    },
+    {
+      "original": "वर्षिष्ठांते",
+      "transliteration": "Vasad",
+      "translation": "Dwelling"
+    },
+    {
+      "original": "वसद्",
+      "transliteration": "Rishiganuḥ",
+      "translation": "Among the sages"
+    },
+    {
+      "original": "ऋषिगणौः",
+      "transliteration": "Aavritam",
+      "translation": "Enveloped"
+    },
+    {
+      "original": "आवृतं",
+      "transliteration": "Brahmanishthaiḥ",
+      "translation": "By those devoted to Brahman"
+    },
+    {
+      "original": "ब्रह्मनिष्ठैः",
+      "transliteration": "Acharyendraṁ",
+      "translation": "The supreme teacher"
+    },
+    {
+      "original": "आचार्येन्द्रं",
+      "transliteration": "Karakalita",
+      "translation": "Hand-formed"
+    },
+    {
+      "original": "करकलित",
+      "transliteration": "Chinmudranandamurtim",
+      "translation": "Form of bliss with the hand-shaped gesture"
+    },
+    {
+      "original": "चिन्मुद्रमानंदमूर्तिं",
+      "transliteration": "Svataramaṁ",
+      "translation": "The embodiment of the self"
+    },
+    {
+      "original": "स्वात्मारामं",
+      "transliteration": "Muditavadanam",
+      "translation": "With a joyful face"
+    },
+    {
+      "original": "मुदितवदनं",
+      "transliteration": "Dakshinamurtimide",
+      "translation": "I worship the South-facing form of wisdom"
+    },
+    {
+      "original": "दक्षिणामूर्तिमीडे",
+      "transliteration": "Vishvam",
+      "translation": "The world"
+    },
+    {
+      "original": "विश्वं",
+      "transliteration": "Darpanadrishyamananagritulyaṁ",
+      "translation": "Like a city seen in a mirror"
+    },
+    {
+      "original": "दर्पणदृश्यमान",
+      "transliteration": "Nijantargatam",
+      "translation": "Reflected within"
+    },
+    {
+      "original": "नगरीतुल्यं",
+      "transliteration": "Pashyan",
+      "translation": "Seeing"
+    },
+    {
+      "original": "निजान्तर्गतं",
+      "transliteration": "Atmani",
+      "translation": "In the self"
+    },
+    {
+      "original": "पश्यन्नात्मनि",
+      "transliteration": "Mayaya",
+      "translation": "By illusion"
+    },
+    {
+      "original": "मायया",
+      "transliteration": "Bahirivodbhutam",
+      "translation": "Arising externally"
+    },
+    {
+      "original": "बहिरिवोद्भूतं",
+      "transliteration": "Yatha",
+      "translation": "Like"
+    },
+    {
+      "original": "यथा निद्रया",
+      "transliteration": "Nidrayā",
+      "translation": "In sleep"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Yah",
+      "translation": "He"
+    },
+    {
+      "original": "साक्षात्कुरुते",
+      "transliteration": "Sakshatkuruṭe",
+      "translation": "Directly realizes"
+    },
+    {
+      "original": "प्रबोधसमये",
+      "transliteration": "Prabodhasamaye",
+      "translation": "During awakening"
+    },
+    {
+      "original": "स्वात्मानमेवाद्वयं",
+      "transliteration": "Svātmanam",
+      "translation": "The non-dual self"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Eva",
+      "translation": "Indeed"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Advayam",
+      "translation": "Non-dual"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Tasmai",
+      "translation": "To that"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Shrigurumurtye",
+      "translation": "To the form of the Guru"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Nama",
+      "translation": "Salutations"
+    },
+    {
+      "original": "बीजस्य",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "अन्तरिवाङ्कुरो",
+      "transliteration": "Shridakshinamurtye",
+      "translation": "To Lord Dakṣiṇāmūrti"
+    },
+    {
+      "original": "जगदिदं",
+      "transliteration": "Bijasya",
+      "translation": "Of the seed"
+    },
+    {
+      "original": "प्राङ्गनिर्विकल्पं",
+      "transliteration": "Antarikvankuro",
+      "translation": "Sprouting from within"
+    },
+    {
+      "original": "पुनः",
+      "transliteration": "Jagadidam",
+      "translation": "This world"
+    },
+    {
+      "original": "मायाकल्पित",
+      "transliteration": "Pranganirvikalpam punah",
+      "translation": "Devoid of distinctions, recreated again"
+    },
+    {
+      "original": "देशकालकलना",
+      "transliteration": "Mayakalpitadesakalakalna",
+      "translation": "Imagined in time and space"
+    },
+    {
+      "original": "वैचित्र्यचित्रीकृतम्",
+      "transliteration": "Vaicitryacitrikritam",
+      "translation": "Beautifully adorned with variety"
+    },
+    {
+      "original": "मायावीव",
+      "transliteration": "Mayaviva",
+      "translation": "Like the magician"
+    },
+    {
+      "original": "विजृम्भयत्यपि",
+      "transliteration": "Vijrmbhayatyapi",
+      "translation": "He manifests"
+    },
+    {
+      "original": "महायोगीव",
+      "transliteration": "Mahayogiiva",
+      "translation": "Like the great yogi"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Yah",
+      "translation": "Who"
+    },
+    {
+      "original": "स्वेच्छया",
+      "transliteration": "Svecchaya",
+      "translation": "By his will"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Tasmai",
+      "translation": "To that"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Shrigurumurtye",
+      "translation": "To the form of the Guru"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Nama",
+      "translation": "Salutations"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Shridakshinamurtye",
+      "translation": "To Lord Dakṣiṇāmūrti"
+    },
+    {
+      "original": "यस्यैव",
+      "transliteration": "Yasyaiva",
+      "translation": "Of which the manifestation is"
+    },
+    {
+      "original": "स्फुरणं",
+      "transliteration": "Sphuranam",
+      "translation": "The eternal truth shines"
+    },
+    {
+      "original": "सदात्मकम्",
+      "transliteration": "Sadatmakam asatkalparthakam",
+      "translation": "Appearing as false for the purpose of illusion"
+    },
+    {
+      "original": "असत्कल्पार्थकं",
+      "transliteration": "Bhāsate",
+      "translation": "Appears"
+    },
+    {
+      "original": "भासते",
+      "transliteration": "Sakshattattvamasiti",
+      "translation": "It is directly the supreme reality"
+    },
+    {
+      "original": "साक्षात्तत्त्वमसीति",
+      "transliteration": "Vedavacasa",
+      "translation": "As declared in the scriptures"
+    },
+    {
+      "original": "वेदवचसा",
+      "transliteration": "Yo",
+      "translation": "Who"
+    },
+    {
+      "original": "यो",
+      "transliteration": "Bodhayatyashritan",
+      "translation": "Enlightens the seekers"
+    },
+    {
+      "original": "बोधयत्याश्रितान्",
+      "transliteration": "Yatsakshatkarnadbhaven",
+      "translation": "Through direct perception, one is liberated"
+    },
+    {
+      "original": "यत्साक्षात्करणाद्भवेन्न",
+      "transliteration": "Na",
+      "translation": "No"
+    },
+    {
+      "original": "पुनरावृत्तिर्भवाम्भोनिधौ",
+      "transliteration": "Punaravrttirbhavambhonidhau",
+      "translation": "There is no return to the cycle of birth and death"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Tasmai",
+      "translation": "To that"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Shrigurumurtye",
+      "translation": "To the form of the Guru"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Nama",
+      "translation": "Salutations"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Shridakshinamurtye",
+      "translation": "To Lord Dakṣiṇāmūrti"
+    },
+    {
+      "original": "नानाच्छिद्रघटोदरस्थितमहादीपप्रभा",
+      "transliteration": "Nanacchidraghatoradasthitamahadipaprabha bhasvaram",
+      "translation": "Radiating like a brilliant light from a lamp in the pot"
+    },
+    {
+      "original": "भास्वरं",
+      "transliteration": "Jñanam",
+      "translation": "Knowledge"
+    },
+    {
+      "original": "ज्ञानं",
+      "transliteration": "Yasya",
+      "translation": "Of which"
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "Tu",
+      "translation": "That"
+    },
+    {
+      "original": "तु",
+      "transliteration": "Chakshuradikaranadvara",
+      "translation": "Through the sense organs like the eye"
+    },
+    {
+      "original": "चक्षुरादिकरणद्वारा",
+      "transliteration": "Vahih",
+      "translation": "Spreads outward"
+    },
+    {
+      "original": "वहिः",
+      "transliteration": "Spandate",
+      "translation": "Vibrates"
+    },
+    {
+      "original": "स्पन्दते",
+      "transliteration": "Janamiti",
+      "translation": "I know"
+    },
+    {
+      "original": "जानामीति",
+      "transliteration": "Tameva",
+      "translation": "That very one"
+    },
+    {
+      "original": "तमेव",
+      "transliteration": "Bhanti",
+      "translation": "Appears as it shines"
+    },
+    {
+      "original": "भान्तम्",
+      "transliteration": "Anupatyetatsamastam jagat",
+      "translation": "The whole universe reflects the same"
+    },
+    {
+      "original": "अनुभवात्येतत्समस्तं",
+      "transliteration": "Tasmai",
+      "translation": "To that"
+    },
+    {
+      "original": "जगत्",
+      "transliteration": "Shrigurumurtye",
+      "translation": "To the form of the Guru"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Nama",
+      "translation": "Salutations"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Shridakshinamurtye",
+      "translation": "To Lord Dakṣiṇāmūrti"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Deham",
+      "translation": "The body"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Pranam",
+      "translation": "The life force"
+    },
+    {
+      "original": "देहं",
+      "transliteration": "Api",
+      "translation": "Also"
+    },
+    {
+      "original": "प्राणम्",
+      "transliteration": "Indriyaani",
+      "translation": "The senses"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "Chalam",
+      "translation": "Moving"
+    },
+    {
+      "original": "इन्द्रियाणि",
+      "transliteration": "Buddhim",
+      "translation": "The intellect"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "Cha",
+      "translation": "And"
+    },
+    {
+      "original": "चलां",
+      "transliteration": "Shunyam",
+      "translation": "The void"
+    },
+    {
+      "original": "बुद्धिं",
+      "transliteration": "Viduh",
+      "translation": "They consider"
+    },
+    {
+      "original": "च",
+      "transliteration": "Stribalandhajadopamastvahamiti",
+      "translation": "Women, children, blind, and the ignorant, saying, \"I am\""
+    },
+    {
+      "original": "शून्यं",
+      "transliteration": "Bhranta",
+      "translation": "Confused"
+    },
+    {
+      "original": "विदुः",
+      "transliteration": "Bhrisham",
+      "translation": "Excessively"
+    },
+    {
+      "original": "स्त्री",
+      "transliteration": "Vādinaḥ",
+      "translation": "Argue"
+    },
+    {
+      "original": "बाल",
+      "transliteration": "Mayashaktivilasakalpitamahavyamohasamhariṇo",
+      "translation": "The destroyer of the great illusion created by the power of maya"
+    },
+    {
+      "original": "अन्ध",
+      "transliteration": "Tasmai",
+      "translation": "To that"
+    },
+    {
+      "original": "जड",
+      "transliteration": "Shrigurumurtye",
+      "translation": "To the form of the Guru"
+    },
+    {
+      "original": "उपमाः",
+      "transliteration": "Nama",
+      "translation": "Salutations"
+    },
+    {
+      "original": "त्वम्",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "अहम्",
+      "transliteration": "Shridakshinamurtye",
+      "translation": "To Lord Dakṣiṇāmūrti"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Rahugrastadivakaremdusadrisho",
+      "translation": "Like the moon covered by Rahu"
+    },
+    {
+      "original": "भ्रान्ताः",
+      "transliteration": "Mayasamachchadanat",
+      "translation": "Due to the covering of illusion"
+    },
+    {
+      "original": "भृशम्",
+      "transliteration": "Sanmatrah",
+      "translation": "Pure consciousness"
+    },
+    {
+      "original": "वादिनः",
+      "transliteration": "Karanopasamharaṇato",
+      "translation": "By the withdrawal of the faculties"
+    },
+    {
+      "original": "मायाशक्तिविलासकल्पितमहाव्यामोहसंहारिणो",
+      "transliteration": "Yo",
+      "translation": "Who"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Abhutsushuptah",
+      "translation": "Became deep sleep"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Puman",
+      "translation": "The man"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Pragswapsamiti",
+      "translation": "Before, he was in deep sleep"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Prabodhasamaye",
+      "translation": "At the time of awakening"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Yah",
+      "translation": "Who"
+    },
+    {
+      "original": "राहुग्रस्त",
+      "transliteration": "Pratyabhijnyayate",
+      "translation": "Recognizes again"
+    },
+    {
+      "original": "दिवाकरेन्दुसदृशो",
+      "transliteration": "Tasmai",
+      "translation": "To that"
+    },
+    {
+      "original": "मायासमाच्छादनात्",
+      "transliteration": "Shrigurumurtye",
+      "translation": "To the form of the Guru"
+    },
+    {
+      "original": "सन्मात्रः",
+      "transliteration": "Nama",
+      "translation": "Salutations"
+    },
+    {
+      "original": "करणोपसंहरणतो",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "यो",
+      "transliteration": "Shridakshinamurtye",
+      "translation": "To Lord Dakṣiṇāmūrti"
+    },
+    {
+      "original": "अभूत्",
+      "transliteration": "Balyadishvapi",
+      "translation": "Even in childhood"
+    },
+    {
+      "original": "सुषुप्तः",
+      "transliteration": "Jagradadishu",
+      "translation": "In the waking state"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "Tatha",
+      "translation": "So"
+    },
+    {
+      "original": "प्रागस्वाप्समिति",
+      "transliteration": "Sarvasvasvasthasvapi",
+      "translation": "In all states, in every form"
+    },
+    {
+      "original": "प्रबोधसमये",
+      "transliteration": "Vyavrittasva",
+      "translation": "Continuing in the same state"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Anuvartamahamiti",
+      "translation": "Saying, \"I am moving on\""
+    },
+    {
+      "original": "प्रत्यभिज्ञायते",
+      "transliteration": "Antah sphurantam",
+      "translation": "The inner spark that shines"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Sada",
+      "translation": "Always"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Svātmanam",
+      "translation": "The Self"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Prakatikaroti",
+      "translation": "Reveals"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Bhajatam",
+      "translation": "To those who serve"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Yo",
+      "translation": "Who"
+    },
+    {
+      "original": "बाल्यादिष्वपि",
+      "transliteration": "Mudrayabhadraya",
+      "translation": "By the auspicious sign"
+    },
+    {
+      "original": "जाग्रदादिषु",
+      "transliteration": "Tasmai",
+      "translation": "To that"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "Shrigurumurtye",
+      "translation": "To the form of the Guru"
+    },
+    {
+      "original": "सर्वास्ववस्थास्वपि",
+      "transliteration": "Nama",
+      "translation": "Salutations"
+    },
+    {
+      "original": "व्यावृत्तास्वनुवर्तमानमहमित्यन्तः",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "स्फुरन्तं",
+      "transliteration": "Shridakshinamurtye",
+      "translation": "To Lord Dakṣiṇāmūrti"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "Vishvam",
+      "translation": "The universe"
+    },
+    {
+      "original": "स्वात्मानं",
+      "transliteration": "Pashyati",
+      "translation": "Sees"
+    },
+    {
+      "original": "प्रकटीकरोति",
+      "transliteration": "Karyakaranataya",
+      "translation": "Through the relation of cause and effect"
+    },
+    {
+      "original": "भजतां",
+      "transliteration": "Svaswamisambandhatah",
+      "translation": "Through the relation of master and servant"
+    },
+    {
+      "original": "यो",
+      "transliteration": "Shishyaacharyataya",
+      "translation": "Through the relation of disciple and teacher"
+    },
+    {
+      "original": "मुद्रया",
+      "transliteration": "Tathaiva",
+      "translation": "Likewise"
+    },
+    {
+      "original": "अभद्रया",
+      "transliteration": "Pitruptadyatmana",
+      "translation": "Through the relation of father, son, and other familial ties"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Bhedatah",
+      "translation": "Differently in their essence"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Svapne",
+      "translation": "In dreams"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Jagrati",
+      "translation": "In the waking state"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Va",
+      "translation": "Or"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Ya",
+      "translation": "Who"
+    },
+    {
+      "original": "विश्वं",
+      "transliteration": "Esha",
+      "translation": "This man"
+    },
+    {
+      "original": "पश्यति",
+      "transliteration": "Purusho",
+      "translation": "The person"
+    },
+    {
+      "original": "कार्यकारणतया",
+      "transliteration": "Mayaparibhramitah",
+      "translation": "Bewildered by illusion"
+    },
+    {
+      "original": "स्वस्वामिसम्बन्धतः",
+      "transliteration": "Tasmai",
+      "translation": "To that"
+    },
+    {
+      "original": "शिष्याचार्यतया",
+      "transliteration": "Shrigurumurtye",
+      "translation": "To the form of the Guru"
+    },
+    {
+      "original": "तथैव",
+      "transliteration": "Nama",
+      "translation": "Salutations"
+    },
+    {
+      "original": "पितृपुत्राद्यात्मना",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "भेदतः",
+      "transliteration": "Shridakshinamurtye",
+      "translation": "To Lord Dakṣiṇāmūrti"
+    },
+    {
+      "original": "स्वप्ने",
+      "transliteration": "Bhuram bhamsy analo anilo ambaramaharanatho himanshu pumān",
+      "translation": "The Earth, Fire, Wind, Sky, Sun, Moon, and Lord of the night"
+    },
+    {
+      "original": "जाग्रति",
+      "transliteration": "Ityabhati",
+      "translation": "Appears"
+    },
+    {
+      "original": "वा",
+      "transliteration": "Characharātmakamidam",
+      "translation": "This entire world of animate and inanimate beings"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Yasyaiva",
+      "translation": "Whose"
+    },
+    {
+      "original": "एष",
+      "transliteration": "Murtyashtakam",
+      "translation": "The eight forms"
+    },
+    {
+      "original": "पुरुषः",
+      "transliteration": "Nanyat",
+      "translation": "There is no other"
+    },
+    {
+      "original": "मायापरिभ्रामितः",
+      "transliteration": "Kinchana",
+      "translation": "Anything"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Vidyate",
+      "translation": "Exists"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Vimrishtam",
+      "translation": "For those who reflect"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Yasmāt parasmad vibhoth",
+      "translation": "From the Supreme, beyond duality"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Tasmai",
+      "translation": "To that"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Shrigurumurtye",
+      "translation": "To the form of the Guru"
+    },
+    {
+      "original": "भूरम्",
+      "transliteration": "Nama",
+      "translation": "Salutations"
+    },
+    {
+      "original": "भास्य",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "अनलः",
+      "transliteration": "Shridakshinamurtye",
+      "translation": "To Lord Dakṣiṇāmūrti"
+    },
+    {
+      "original": "अनिलः",
+      "transliteration": "Sarvatmatvamiiti",
+      "translation": "The concept of all-pervading Self"
+    },
+    {
+      "original": "आम्बर",
+      "transliteration": "Sphutikritamidam",
+      "translation": "Made clear"
+    },
+    {
+      "original": "महर्",
+      "transliteration": "Yasmadamusmin stavi",
+      "translation": "Because of this hymn"
+    },
+    {
+      "original": "नाथः",
+      "transliteration": "Tenasya shravanat tadarthamanad dhyanachcha sankirtanat",
+      "translation": "By listening, contemplating, and singing it"
+    },
+    {
+      "original": "हिमांशु",
+      "transliteration": "Sarvatmatvamahavibhuti sahitam",
+      "translation": "With the supreme realization of all-pervading oneness"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "Syadisvaratvam svatah",
+      "translation": "One attains lordship over oneself"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Siddhyet tatpunar ashtadhā parinatam chaishwaryamavyahatam",
+      "translation": "Such power becomes perfected in various forms"
+    },
+    {
+      "original": "अभाति",
+      "transliteration": "Iti",
+      "translation": "Thus"
+    },
+    {
+      "original": "चराचर",
+      "transliteration": "Shreemachankaraacharyavirachitam",
+      "translation": "Composed by Shri Shankaracharya"
+    },
+    {
+      "original": "आत्मकम्",
+      "transliteration": "Dakshinamurtistotram sampurnam",
+      "translation": "The complete hymn of Lord Dakṣiṇāmūrti"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यस्यैव",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मूर्त्यष्टकम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नान्यत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "किञ्चन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विद्यते",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विमृशतां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यस्मात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परस्मात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विभोः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वात्मत्वमिति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्फुटीकृतम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यस्माद्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अमुष्मिन्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्तवे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तेनास्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रवणात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तदर्थम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अननाद्ध्यानाच्च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संकीर्तनात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वात्मत्वमहाविभूतिसहितं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्यादीश्वरत्वं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वतः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सिद्ध्येत्तत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुनरष्टधा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परिणतं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चैश्वर्यम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अव्याहतम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\english\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\english\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.385Z"
+  }
+}

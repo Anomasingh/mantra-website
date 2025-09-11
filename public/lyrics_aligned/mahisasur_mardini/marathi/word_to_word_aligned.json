@@ -1,0 +1,2044 @@
+{
+  "mantra": "mahisasur_mardini",
+  "language": "marathi",
+  "type": "word_to_word",
+  "totalWords": 406,
+  "alignedWords": [
+    {
+      "original": "अयि",
+      "transliteration": "अयि",
+      "translation": "हे देवी"
+    },
+    {
+      "original": "गिरिनन्दिनि",
+      "transliteration": "गिरिनन्दिनि",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "नन्दितमेदिनि",
+      "transliteration": "नन्दितमेदिनि",
+      "translation": "जगाला आनंद देणारी"
+    },
+    {
+      "original": "विश्वविनोदिनि",
+      "transliteration": "विश्वविनोदिनि",
+      "translation": "विश्वाला मोहित करणारी"
+    },
+    {
+      "original": "नन्दिनुते",
+      "transliteration": "नन्दिनुते",
+      "translation": "नंदीद्वारे वंदित"
+    },
+    {
+      "original": "गिरिवरविन्ध्यशिरोऽधिनिवासिनि",
+      "transliteration": "गिरिवरविन्ध्यशिरोऽधिनिवासिनि",
+      "translation": "विंध्य पर्वताच्या शिखरावर निवास करणारी"
+    },
+    {
+      "original": "विष्णुविलासिनि",
+      "transliteration": "विष्णुविलासिनि",
+      "translation": "विष्णूच्या क्रीडेत रमलेली"
+    },
+    {
+      "original": "जिष्णुनुते",
+      "transliteration": "जिष्णुनुते",
+      "translation": "जिंकणाऱ्या वीरांचे वंदन"
+    },
+    {
+      "original": "भगवति",
+      "transliteration": "भगवति",
+      "translation": "देवी, सर्वशक्तीमान देवी"
+    },
+    {
+      "original": "हे",
+      "transliteration": "शितिकण्ठकुटुम्बिनि",
+      "translation": "शंकराच्या परिवारातील"
+    },
+    {
+      "original": "शितिकण्ठकुटुम्बिनि",
+      "transliteration": "भूरिकुटुम्बिनि",
+      "translation": "मोठ्या परिवाराची मालकीण"
+    },
+    {
+      "original": "भूरिकुटुम्बिनि",
+      "transliteration": "भूरिकृते",
+      "translation": "मोठे कार्य करणारी"
+    },
+    {
+      "original": "भूरिकृते",
+      "transliteration": "जय",
+      "translation": "विजय हो"
+    },
+    {
+      "original": "जय",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा पराभव करणारी"
+    },
+    {
+      "original": "जय",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "हे",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "सुरवरवर्षिणि",
+      "translation": "देवांवर कृपा करणारी"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "दुर्धरधर्षिणि",
+      "translation": "दुर्जय शत्रूंचा नाश करणारी"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "दुर्मुखमर्षिणि",
+      "translation": "कुप्रवृत्तींचा नाश करणारी"
+    },
+    {
+      "original": "सुरवरवर्षिणि",
+      "transliteration": "हर्षरते",
+      "translation": "आनंदात मग्न राहणारी"
+    },
+    {
+      "original": "दुर्धरधर्षिणि",
+      "transliteration": "त्रिभुवनपोषिणि",
+      "translation": "त्रैलोक्याचे पालन करणारी"
+    },
+    {
+      "original": "दुर्मुखमर्षिणि",
+      "transliteration": "शङ्करतोषिणि",
+      "translation": "शंकराला संतुष्ट करणारी"
+    },
+    {
+      "original": "हर्षरते",
+      "transliteration": "किल्बिषमोषिणि",
+      "translation": "पापांचा नाश करणारी"
+    },
+    {
+      "original": "त्रिभुवनपोषिणि",
+      "transliteration": "घोषरते",
+      "translation": "नादात मग्न राहणारी"
+    },
+    {
+      "original": "शङ्करतोषिणि",
+      "transliteration": "दनुजनिरोषिणि",
+      "translation": "दानवांचा नाश करणारी"
+    },
+    {
+      "original": "किल्बिषमोषिणि",
+      "transliteration": "दितिसुतरोषिणि",
+      "translation": "दितीच्या मुलांचा नाश करणारी"
+    },
+    {
+      "original": "घोषरते",
+      "transliteration": "दुर्मदशोषिणि",
+      "translation": "अहंकाराचा नाश करणारी"
+    },
+    {
+      "original": "दनुजनिरोषिणि",
+      "transliteration": "सिन्धुसुते",
+      "translation": "सागराची कन्या"
+    },
+    {
+      "original": "दितिसुतरोषिणि",
+      "transliteration": "जय",
+      "translation": "विजय हो"
+    },
+    {
+      "original": "दुर्मदशोषिणि",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा वध करणारी"
+    },
+    {
+      "original": "सिन्धुसुते",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "जय",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "जय",
+      "transliteration": "अयि",
+      "translation": "हे देवी"
+    },
+    {
+      "original": "हे",
+      "transliteration": "जगदम्ब",
+      "translation": "जगाची आई"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "मदम्ब",
+      "translation": "माझी आई"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "कदम्ब",
+      "translation": "कदंबवृक्षाला प्रिय"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "वनप्रियवासिनि",
+      "translation": "वनात राहणारी"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "हासरते",
+      "translation": "हसण्यात मग्न"
+    },
+    {
+      "original": "जगदम्ब",
+      "transliteration": "शिखरि",
+      "translation": "पर्वतशिखरावर राहणारी"
+    },
+    {
+      "original": "मदम्ब",
+      "transliteration": "शिरोमणि",
+      "translation": "शिखराची शोभा"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "तुङ्गहिमलय",
+      "translation": "उंच हिमालयाच्या"
+    },
+    {
+      "original": "वनप्रियवासिनि",
+      "transliteration": "शृङ्गनिजालय",
+      "translation": "शिखरावर निवास करणारी"
+    },
+    {
+      "original": "हासरते",
+      "transliteration": "मध्यगते",
+      "translation": "मध्यभागी असलेली"
+    },
+    {
+      "original": "शिखरी",
+      "transliteration": "मधुमधुरे",
+      "translation": "गोड बोलणारी"
+    },
+    {
+      "original": "शिरोमणि",
+      "transliteration": "मधुकैटभगञ्जिनि",
+      "translation": "मधु आणि कैटभ यांचा वध करणारी"
+    },
+    {
+      "original": "तुङ्गहिमालय",
+      "transliteration": "कैटभभञ्जिनि",
+      "translation": "कैटभाचा नाश करणारी"
+    },
+    {
+      "original": "शृङ्गनिजालय",
+      "transliteration": "रासरते",
+      "translation": "आनंदात रमलेली"
+    },
+    {
+      "original": "मध्यगते",
+      "transliteration": "जय",
+      "translation": "विजय हो"
+    },
+    {
+      "original": "मधुमधुरे",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा वध करणारी"
+    },
+    {
+      "original": "मधुकैटभगञ्जिनी",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "कैटभभञ्जिनी",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "रासरते",
+      "transliteration": "अयि",
+      "translation": "हे देवी"
+    },
+    {
+      "original": "जय",
+      "transliteration": "शतखण्ड",
+      "translation": "शंभर तुकडे केलेले"
+    },
+    {
+      "original": "जय",
+      "transliteration": "विखण्डितरुण्ड",
+      "translation": "तोडलेला सोंड"
+    },
+    {
+      "original": "हे",
+      "transliteration": "वितुण्डितशुण्ड",
+      "translation": "गजराजाची सोंड तोडणारी"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "गजाधिपते",
+      "translation": "गजराजाचे मालक"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "रिपुगजगण्ड",
+      "translation": "शत्रू हत्तीचा गंडस्थल"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "विदारणचण्ड",
+      "translation": "चिरफाड करणाऱ्या क्रोधीत"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "पराक्रमशुण्ड",
+      "translation": "पराक्रमी सोंडेची"
+    },
+    {
+      "original": "शतखण्ड",
+      "transliteration": "मृगाधिपते",
+      "translation": "प्राण्यांचा स्वामी"
+    },
+    {
+      "original": "विखण्डितरुण्ड",
+      "transliteration": "निजभुजदण्ड",
+      "translation": "स्वतःच्या भुजादंडाने"
+    },
+    {
+      "original": "वितुण्डितशुण्द",
+      "transliteration": "निपातितखण्ड",
+      "translation": "खाली कोसळलेले तुकडे"
+    },
+    {
+      "original": "गजाधिपते",
+      "transliteration": "विपातितमुण्ड",
+      "translation": "शिरं खाली पाडलेले"
+    },
+    {
+      "original": "रिपुगजगण्ड",
+      "transliteration": "भटाधिपते",
+      "translation": "योद्ध्यांचा स्वामी"
+    },
+    {
+      "original": "विदारणचण्ड",
+      "transliteration": "जय",
+      "translation": "विजय हो"
+    },
+    {
+      "original": "पराक्रमशुण्ड",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा वध करणारी"
+    },
+    {
+      "original": "मृगाधिपते",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "निजभुजदण्ड",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "निपातितखण्ड",
+      "transliteration": "अयि",
+      "translation": "हे देवी"
+    },
+    {
+      "original": "विपातितमुण्ड",
+      "transliteration": "रणदुर्मद",
+      "translation": "युद्धातील गर्वाचा नाश करणारी"
+    },
+    {
+      "original": "भटाधिपते",
+      "transliteration": "शत्रुवधोदित",
+      "translation": "शत्रूचा वध करणारी"
+    },
+    {
+      "original": "जय",
+      "transliteration": "दुर्धरनिर्जर",
+      "translation": "दुर्धर देवतांना पराभूत करणारी"
+    },
+    {
+      "original": "जय",
+      "transliteration": "शक्तिभृते",
+      "translation": "शक्ती धारण करणारी"
+    },
+    {
+      "original": "हे",
+      "transliteration": "चतुरविचार",
+      "translation": "समजूतदार विचारांची"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "धुरीणमहाशिव",
+      "translation": "महाशिवाचे दूत"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "दूतकृत",
+      "translation": "दूताचे कार्य करणारी"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "प्रमथाधिपते",
+      "translation": "गणांचा अधिपती"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "दुरितदुरीह",
+      "translation": "दुर्जनांच्या वाईट इच्छांचा नाश करणारी"
+    },
+    {
+      "original": "रणदुर्मद",
+      "transliteration": "दुराशयदुर्मति",
+      "translation": "वाईट विचार व इच्छांचा नाश करणारी"
+    },
+    {
+      "original": "शत्रुवधोदित",
+      "transliteration": "दानवदुत",
+      "translation": "दानवांचे दूत"
+    },
+    {
+      "original": "दुर्धरनिर्जर",
+      "transliteration": "कृतान्तमते",
+      "translation": "यमधर्माचे विचार मानणारी"
+    },
+    {
+      "original": "शक्तिभृते",
+      "transliteration": "जय",
+      "translation": "विजय हो"
+    },
+    {
+      "original": "चतुरविचार",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा वध करणारी"
+    },
+    {
+      "original": "धुरीणमहाशिव",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "दूतकृत",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "प्रमथाधिपते",
+      "transliteration": "अयि",
+      "translation": "हे देवी"
+    },
+    {
+      "original": "दुरितदुरीह",
+      "transliteration": "शरणागत",
+      "translation": "शरण आलेल्यांचे रक्षण करणारी"
+    },
+    {
+      "original": "दुराशयदुर्मति",
+      "transliteration": "वैरिवधुवर",
+      "translation": "शत्रूच्या स्त्रियांनाही सन्मान देणारी"
+    },
+    {
+      "original": "दानवदुत",
+      "transliteration": "वीरवराभय",
+      "translation": "वीरांना अभय देणारी"
+    },
+    {
+      "original": "कृतान्तमते",
+      "transliteration": "दायकरे",
+      "translation": "अभय प्रदान करणारी"
+    },
+    {
+      "original": "जय",
+      "transliteration": "त्रिभुवनमस्तक",
+      "translation": "तीनही लोकांच्या अधिपतीच्या मस्तकावरील"
+    },
+    {
+      "original": "जय",
+      "transliteration": "शुलविरोधि",
+      "translation": "त्रिशूळाचा प्रतिकार करणारी"
+    },
+    {
+      "original": "हे",
+      "transliteration": "शिरोऽधिकृतामल",
+      "translation": "अमल (पवित्र) अशा प्रमुखांच्या शिरांवरील"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "शुलकरे",
+      "translation": "त्रिशूळ धारण करणारी"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "दुमिदुमितामर",
+      "translation": "दुंदुभीच्या आवाजाने"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "धुन्दुभिनादमहोमुखरीकृत",
+      "translation": "दुंदुभी नादाने दिशांना मुखर करणारी"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "दिङ्मकरे",
+      "translation": "दिशांना प्रकाशित करणारी"
+    },
+    {
+      "original": "शरणागत",
+      "transliteration": "जय",
+      "translation": "विजय हो"
+    },
+    {
+      "original": "वैरिवधुवर",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा वध करणारी"
+    },
+    {
+      "original": "वीरवराभय",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "दायकरे",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "त्रिभुवनमस्तक",
+      "transliteration": "अयि",
+      "translation": "हे देवी"
+    },
+    {
+      "original": "शुलविरोधि",
+      "transliteration": "निजहुङ्कृति",
+      "translation": "स्वतःची गर्जना"
+    },
+    {
+      "original": "शिरोऽधिकृतामल",
+      "transliteration": "मात्रनिराकृत",
+      "translation": "केवळ नष्ट करणारी"
+    },
+    {
+      "original": "शुलकरे",
+      "transliteration": "धूम्रविलोचन",
+      "translation": "धूम्र डोळे असलेली"
+    },
+    {
+      "original": "दुमिदुमितामर",
+      "transliteration": "धूम्रशते",
+      "translation": "धूम्राच्या शतकांप्रमाणे"
+    },
+    {
+      "original": "धुन्दुभिनादमहोमुखरीकृत",
+      "transliteration": "समरविशोषित",
+      "translation": "युद्धामुळे शोषित"
+    },
+    {
+      "original": "दिङ्मकरे",
+      "transliteration": "शोणितबीज",
+      "translation": "रक्ताच्या बीजांचे"
+    },
+    {
+      "original": "जय",
+      "transliteration": "समुद्भवशोणित",
+      "translation": "समुद्रापासून उत्पन्न रक्त"
+    },
+    {
+      "original": "जय",
+      "transliteration": "बीजलते",
+      "translation": "रक्ताचं प्रसारण"
+    },
+    {
+      "original": "हे",
+      "transliteration": "शिवशिवशुम्भ",
+      "translation": "शिवाची महिमा"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "निशुम्भमहाहव",
+      "translation": "निशुम्भ हवनाची"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "तर्पितभूत",
+      "translation": "भूतात्मा पूरित"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "पिशाचरते",
+      "translation": "पिशाचांचे कृत्य"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "जय",
+      "translation": "विजय हो"
+    },
+    {
+      "original": "निजहुङ्कृति",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा वध करणारी"
+    },
+    {
+      "original": "मात्रनिराकृत",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "धूम्रविलोचन",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "धूम्रशते",
+      "transliteration": "धनुरनुषङ्ग",
+      "translation": "धनुष्याच्या जोडणी"
+    },
+    {
+      "original": "समरविशोषित",
+      "transliteration": "रणक्षणसङ्ग",
+      "translation": "युद्धासाठी तयार असलेली"
+    },
+    {
+      "original": "शोणितबीज",
+      "transliteration": "परिस्फुरदङ्ग",
+      "translation": "चमकणारी अंगातील"
+    },
+    {
+      "original": "समुद्भवशोणित",
+      "transliteration": "नटत्कटके",
+      "translation": "नृत्य करणारी बोटे"
+    },
+    {
+      "original": "बीजलते",
+      "transliteration": "कनकपिशङ्ग",
+      "translation": "सोनेरी रंगाची कापड"
+    },
+    {
+      "original": "शिवशिवशुम्भ",
+      "transliteration": "पृषत्कनिषङ्ग",
+      "translation": "ध्वनिं दूर करणारी"
+    },
+    {
+      "original": "निशुम्भमहाहव",
+      "transliteration": "रसद्भटशृङ्ग",
+      "translation": "रणभूमीत लढणारे भट"
+    },
+    {
+      "original": "तर्पितभूत",
+      "transliteration": "हताबटुके",
+      "translation": "मारलेले सैनिक"
+    },
+    {
+      "original": "पिशाचरते",
+      "transliteration": "कृतचतुरङ्ग",
+      "translation": "चतुरंग युद्धाची कृति"
+    },
+    {
+      "original": "जय",
+      "transliteration": "बलक्षितिरङ्ग",
+      "translation": "शक्तिशाली वर्तन"
+    },
+    {
+      "original": "जय",
+      "transliteration": "घटद्बहुरङ्ग",
+      "translation": "संग्रहीत उर्जा"
+    },
+    {
+      "original": "हे",
+      "transliteration": "रटद्बटुके",
+      "translation": "प्रशंसा करणारे व्यक्ती"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "जय",
+      "translation": "विजय हो"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा वध करणारी"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "धनुरनुषङ्ग",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "रणक्षणसङ्ग",
+      "transliteration": "सुरललना",
+      "translation": "सुरेल्या आवाजाची"
+    },
+    {
+      "original": "परिस्फुरदङ्ग",
+      "transliteration": "ततथेयि",
+      "translation": "त्याची इच्छाशक्ती"
+    },
+    {
+      "original": "नटत्कटके",
+      "transliteration": "तथेयि",
+      "translation": "त्याची इच्छाशक्ती"
+    },
+    {
+      "original": "कनकपिशङ्ग",
+      "transliteration": "कृताभिनयोदर",
+      "translation": "नृत्याचे कार्य"
+    },
+    {
+      "original": "पृषत्कनिषङ्ग",
+      "transliteration": "नृत्यरते",
+      "translation": "नृत्यात रमता"
+    },
+    {
+      "original": "रसद्भटशृङ्ग",
+      "transliteration": "कृत",
+      "translation": "प्रकृत कार्य"
+    },
+    {
+      "original": "हताबटुके",
+      "transliteration": "कुकुथः",
+      "translation": "हास्याचे ध्वनी"
+    },
+    {
+      "original": "कृतचतुरङ्ग",
+      "transliteration": "कुकुथो",
+      "translation": "हास्याचे ध्वनी"
+    },
+    {
+      "original": "बलक्षितिरङ्ग",
+      "transliteration": "गडदादिकताल",
+      "translation": "तालांची गडगडाट"
+    },
+    {
+      "original": "घटद्बहुरङ्ग",
+      "transliteration": "कुतूहल",
+      "translation": "उत्सुकता"
+    },
+    {
+      "original": "रटद्बटुके",
+      "transliteration": "गानरते",
+      "translation": "संगीतात रमणारे"
+    },
+    {
+      "original": "जय",
+      "transliteration": "धुधुकुट",
+      "translation": "ध्वनीचा गडगडाट"
+    },
+    {
+      "original": "जय",
+      "transliteration": "धुक्कुट",
+      "translation": "ध्वनीचा गडगडाट"
+    },
+    {
+      "original": "हे",
+      "transliteration": "धिंधिमित",
+      "translation": "हलके ध्वनी"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ध्वनि",
+      "translation": "आवाज"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "धीर",
+      "translation": "धैर्य"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "मृदंग",
+      "translation": "वाद्ययंत्र"
+    },
+    {
+      "original": "सुरललना",
+      "transliteration": "निनादरते",
+      "translation": "ध्वनित होणारे"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "जय",
+      "translation": "विजय"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा वध करणारी"
+    },
+    {
+      "original": "कृताभिनयोदर",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "नृत्यरते",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "कृत",
+      "transliteration": "जय",
+      "translation": "विजय"
+    },
+    {
+      "original": "कुकुथः",
+      "transliteration": "जय",
+      "translation": "विजय"
+    },
+    {
+      "original": "कुकुथो",
+      "transliteration": "जप्य",
+      "translation": "जपायला योग्य"
+    },
+    {
+      "original": "गडदादिकताल",
+      "transliteration": "जयेजयशब्द",
+      "translation": "विजयाचा शब्द"
+    },
+    {
+      "original": "कुतूहल",
+      "transliteration": "परस्तुति",
+      "translation": "परवापण"
+    },
+    {
+      "original": "गानरते",
+      "transliteration": "तत्पर",
+      "translation": "तयार"
+    },
+    {
+      "original": "धुधुकुट",
+      "transliteration": "विश्वनुते",
+      "translation": "सर्वांच्या कडून स्तुती"
+    },
+    {
+      "original": "धुक्कुट",
+      "transliteration": "झणझणझिञ्झिमि",
+      "translation": "गडगडाट वाजणे"
+    },
+    {
+      "original": "धिंधिमित",
+      "transliteration": "झिङ्कृत",
+      "translation": "द्रुत वाजता"
+    },
+    {
+      "original": "ध्वनि",
+      "transliteration": "नूपुरशिञ्जित",
+      "translation": "घुंगरूचे आवाज"
+    },
+    {
+      "original": "धीर",
+      "transliteration": "मोहित",
+      "translation": "आकर्षित"
+    },
+    {
+      "original": "मृदंग",
+      "transliteration": "भूतपते",
+      "translation": "प्राण्यांचा स्वामी"
+    },
+    {
+      "original": "निनादरते",
+      "transliteration": "नटित",
+      "translation": "नृत्य करणारे"
+    },
+    {
+      "original": "जय",
+      "transliteration": "नटार्ध",
+      "translation": "नृत्याचे भाग"
+    },
+    {
+      "original": "जय",
+      "transliteration": "नटी",
+      "translation": "नृत्य करणारी स्त्री"
+    },
+    {
+      "original": "हे",
+      "transliteration": "नट",
+      "translation": "नृत्य करणारा पुरुष"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "नायक",
+      "translation": "नेते"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "नाटितनाट्य",
+      "translation": "नृत्य नाट्य"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "सुगानरते",
+      "translation": "संगीतात रमत असलेला"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "जय",
+      "translation": "विजय"
+    },
+    {
+      "original": "गिरिनन्दिनि",
+      "transliteration": "जय",
+      "translation": "विजय"
+    },
+    {
+      "original": "नन्दितमेदिनि",
+      "transliteration": "हे",
+      "translation": "कसले"
+    },
+    {
+      "original": "विश्वविनोदिनि",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा वध करणारी"
+    },
+    {
+      "original": "नन्दिनुते",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "गिरिवरविन्ध्यशिरोऽधिनिवासिनि",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "विष्णुविलासिनि",
+      "transliteration": "अयि",
+      "translation": "अरे"
+    },
+    {
+      "original": "जिष्णुनुते",
+      "transliteration": "सुमनःसुमनःसुमनः",
+      "translation": "पुष्प"
+    },
+    {
+      "original": "भगवति",
+      "transliteration": "सुमनःसुमनोहरकान्तियुते",
+      "translation": "पुष्पांच्या सुंदरतेने युक्त"
+    },
+    {
+      "original": "हे",
+      "transliteration": "श्रितरजनी",
+      "translation": "रात्रेची छाया"
+    },
+    {
+      "original": "शितिकण्ठकुटुम्बिनि",
+      "transliteration": "रजनीरजनी",
+      "translation": "रात्रेची रात्र"
+    },
+    {
+      "original": "भूरिकुटुम्बिनि",
+      "transliteration": "रजनीरजनी",
+      "translation": "रात्रेची रात्र"
+    },
+    {
+      "original": "भूरिकृते",
+      "transliteration": "करवक्त्रवृते",
+      "translation": "हाती गोलाकार होणारे"
+    },
+    {
+      "original": "जय",
+      "transliteration": "सुनयनविभ्रमर",
+      "translation": "आश्चर्यचकित करणारे"
+    },
+    {
+      "original": "जय",
+      "transliteration": "भ्रमरभ्रमर",
+      "translation": "पंख असलेला कीट"
+    },
+    {
+      "original": "हे",
+      "transliteration": "भ्रमरभ्रमर",
+      "translation": "पंख असलेला कीट"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "अधिपते",
+      "translation": "राजा"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "जय",
+      "translation": "विजय"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "जय",
+      "translation": "विजय"
+    },
+    {
+      "original": "सुरवरवर्षिणि",
+      "transliteration": "हे",
+      "translation": "कसले"
+    },
+    {
+      "original": "दुर्धरधर्षिणि",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा वध करणारी"
+    },
+    {
+      "original": "दुर्मुखमर्षिणि",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "हर्षरते",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "त्रिभुवनपोषिणि",
+      "transliteration": "सहितमहाहव",
+      "translation": "सर्व शक्तीची एकत्र क्रिया"
+    },
+    {
+      "original": "शङ्करतोषिणि",
+      "transliteration": "मल्लमतल्लिक",
+      "translation": "लढण्याची एकाग्रता"
+    },
+    {
+      "original": "किल्बिषमोषिणि",
+      "transliteration": "मल्लितरल्लक",
+      "translation": "लढणारे"
+    },
+    {
+      "original": "घोषरते",
+      "transliteration": "मल्लरते",
+      "translation": "लढत आहे"
+    },
+    {
+      "original": "दनुजनिरोषिणि",
+      "transliteration": "विरचितवल्लिक",
+      "translation": "निर्मित केलेली वेली"
+    },
+    {
+      "original": "दितिसुतरोषिणि",
+      "transliteration": "पल्लिकमल्लिक",
+      "translation": "हातात बांधलेली वेल"
+    },
+    {
+      "original": "दुर्मदशोषिणि",
+      "transliteration": "झिल्लिकभिल्लिक",
+      "translation": "ध्वनिमुख असलेला ध्वनी"
+    },
+    {
+      "original": "सिन्धुसुते",
+      "transliteration": "वर्गवृते",
+      "translation": "वर्गाकार वर्तुळ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "शितकृतफुल्ल",
+      "translation": "थंड स्थितीत फुललेले"
+    },
+    {
+      "original": "जय",
+      "transliteration": "समुल्लसितारुण",
+      "translation": "चमकदार युवावस्थेत असलेला"
+    },
+    {
+      "original": "हे",
+      "transliteration": "तल्लजपल्लव",
+      "translation": "नवीन पानाच्या उगमासारखा"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "सल्ललिते",
+      "translation": "अत्यंत आकर्षक आणि सुंदर"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "जय",
+      "translation": "विजय"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "जय",
+      "translation": "विजय"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "हे",
+      "translation": "कसले"
+    },
+    {
+      "original": "जगदम्ब",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा वध करणारी"
+    },
+    {
+      "original": "मदम्ब",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "सुंदर वेणीधारी"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताची कन्या"
+    },
+    {
+      "original": "वनप्रियवासिनि",
+      "transliteration": "अविरलगण्ड",
+      "translation": "वर्णनात कोणतेही दोष न करणारा"
+    },
+    {
+      "original": "हासरते",
+      "transliteration": "गलन्मदमेदुर",
+      "translation": "मद्य आणि मदिरा मंहताच असलेला"
+    },
+    {
+      "original": "शिखरी",
+      "transliteration": "मत्तमतङ्ग",
+      "translation": "हत्तीच्या सारखा प्रचंड शक्ती असलेला"
+    },
+    {
+      "original": "शिरोमणि",
+      "transliteration": "जराजपते",
+      "translation": "वयोवृद्ध राजा"
+    },
+    {
+      "original": "तुङ्गहिमालय",
+      "transliteration": "त्रिभुवनभुषण",
+      "translation": "तीन जगतांचे आभूषण"
+    },
+    {
+      "original": "शृङ्गनिजालय",
+      "transliteration": "भूतकलानिधि",
+      "translation": "भूतकाळातील ज्ञानाचा सागर"
+    },
+    {
+      "original": "मध्यगते",
+      "transliteration": "रूपपयोनिधि",
+      "translation": "रूप आणि तेजाचा अथाह सागर"
+    },
+    {
+      "original": "मधुमधुरे",
+      "transliteration": "राजसुते",
+      "translation": "राजाच्या कुटुंबातील सदस्य"
+    },
+    {
+      "original": "मधुकैटभगञ्जिनी",
+      "transliteration": "अयि",
+      "translation": "हे"
+    },
+    {
+      "original": "कैटभभञ्जिनी",
+      "transliteration": "सुदतीजन",
+      "translation": "सुप्रसिद्ध लोक"
+    },
+    {
+      "original": "रासरते",
+      "transliteration": "लालसमानस",
+      "translation": "लालसा आणि इच्छांच्या सागरासारखा"
+    },
+    {
+      "original": "जय",
+      "transliteration": "मोहन",
+      "translation": "आकर्षक"
+    },
+    {
+      "original": "जय",
+      "transliteration": "मन्मथराजसुते",
+      "translation": "मन्मथ देवाचा पुत्र"
+    },
+    {
+      "original": "हे",
+      "transliteration": "जय",
+      "translation": "jay"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "जय",
+      "translation": "jay"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "हे",
+      "translation": "hē"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा संहार करणारी"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "रम्य रूपाने सज्ज असलेली"
+    },
+    {
+      "original": "शतखण्ड",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताच्या मुली"
+    },
+    {
+      "original": "विखण्डितरुण्ड",
+      "transliteration": "कमलदलामल",
+      "translation": "कमलाच्या पंखाच्या सारखा"
+    },
+    {
+      "original": "वितुण्डितशुण्द",
+      "transliteration": "कोमलकान्ति",
+      "translation": "मुलायम आणि सुंदर तेज असलेली"
+    },
+    {
+      "original": "गजाधिपते",
+      "transliteration": "कलाकलितामल",
+      "translation": "सर्व कलांचा संगम असलेली"
+    },
+    {
+      "original": "रिपुगजगण्ड",
+      "transliteration": "भाललते",
+      "translation": "हसरा आणि सुंदर चेहरा असलेली"
+    },
+    {
+      "original": "विदारणचण्ड",
+      "transliteration": "सकलविलास",
+      "translation": "संपूर्ण ऐश्वर्य आणि सौंदर्य असलेली"
+    },
+    {
+      "original": "पराक्रमशुण्ड",
+      "transliteration": "कलानिलय",
+      "translation": "कलांचा निवास असलेली"
+    },
+    {
+      "original": "मृगाधिपते",
+      "transliteration": "क्रम",
+      "translation": "आज्ञेस्विकार करणे"
+    },
+    {
+      "original": "निजभुजदण्ड",
+      "transliteration": "केलिचलत्कल",
+      "translation": "सुरेखतेने नृत्य करणे"
+    },
+    {
+      "original": "निपातितखण्ड",
+      "transliteration": "हंसकुले",
+      "translation": "हंसाच्या जोडीचे पंख असलेली"
+    },
+    {
+      "original": "विपातितमुण्ड",
+      "transliteration": "अलिकुलसङ्कुल",
+      "translation": "कमळांच्या फुलांनी परिपूर्ण असलेली"
+    },
+    {
+      "original": "भटाधिपते",
+      "transliteration": "कुवलयमण्डल",
+      "translation": "कमळाच्या फुलांच्या बागेत असलेली"
+    },
+    {
+      "original": "जय",
+      "transliteration": "मौलिमिलद्बकुलालिकुले",
+      "translation": "मणी आणि मुकुट घालणारी सुवर्णसृष्टी"
+    },
+    {
+      "original": "जय",
+      "transliteration": "जय",
+      "translation": "jay"
+    },
+    {
+      "original": "हे",
+      "transliteration": "जय",
+      "translation": "jay"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "हे",
+      "translation": "hē"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा संहार करणारी"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "रम्य रूपाने सज्ज असलेली"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताच्या मुली"
+    },
+    {
+      "original": "रणदुर्मद",
+      "transliteration": "करमुरलीरव",
+      "translation": "शिवाच्या बासरीचा आवाज"
+    },
+    {
+      "original": "शत्रुवधोदित",
+      "transliteration": "वीजितकूजित",
+      "translation": "विजयाने हर्षित"
+    },
+    {
+      "original": "दुर्धरनिर्जर",
+      "transliteration": "लज्जितकोकिल",
+      "translation": "लाजलेला कोकिळा"
+    },
+    {
+      "original": "शक्तिभृते",
+      "transliteration": "मञ्जुमते",
+      "translation": "सुरेल्या गाण्यांमध्ये"
+    },
+    {
+      "original": "चतुरविचार",
+      "transliteration": "मिलितपुलिन्द",
+      "translation": "ज्यांनी एकत्र येऊन संगीतमध्ये सामील केले"
+    },
+    {
+      "original": "धुरीणमहाशिव",
+      "transliteration": "मनोहरगुञ्जित",
+      "translation": "सुंदर आवाजाने गूंजत"
+    },
+    {
+      "original": "दूतकृत",
+      "transliteration": "रञ्जितशैल",
+      "translation": "साजरा पर्वत"
+    },
+    {
+      "original": "प्रमथाधिपते",
+      "transliteration": "निकुञ्जगते",
+      "translation": "वृक्षांच्या पलीकडून आलेली ठिकाणं"
+    },
+    {
+      "original": "दुरितदुरीह",
+      "transliteration": "निजगणभूत",
+      "translation": "त्यांचा स्वतःचा लोक"
+    },
+    {
+      "original": "दुराशयदुर्मति",
+      "transliteration": "महाशबरीगण",
+      "translation": "महान शबरि लोक"
+    },
+    {
+      "original": "दानवदुत",
+      "transliteration": "सद्गुणसम्भृत",
+      "translation": "सद्गुणांनी भरलेली"
+    },
+    {
+      "original": "कृतान्तमते",
+      "transliteration": "केलितले",
+      "translation": "त्यांनी केलेले kēlēlē"
+    },
+    {
+      "original": "जय",
+      "transliteration": "जय",
+      "translation": "jay"
+    },
+    {
+      "original": "जय",
+      "transliteration": "जय",
+      "translation": "jay"
+    },
+    {
+      "original": "हे",
+      "transliteration": "हे",
+      "translation": "hē"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा संहार करणारी"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "रम्य रूपाने सज्ज असलेली"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताच्या मुली"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "कटितटपीत",
+      "translation": "पीत रंगात रंगवलेला"
+    },
+    {
+      "original": "शरणागत",
+      "transliteration": "दुकूलविचित्र",
+      "translation": "विशिष्ट प्रकारे विचित्र रंगांचे"
+    },
+    {
+      "original": "वैरिवधुवर",
+      "transliteration": "मयुखतिरस्कृत",
+      "translation": "किरणांनी नष्ट केलेली"
+    },
+    {
+      "original": "वीरवराभय",
+      "transliteration": "चन्द्ररुचे",
+      "translation": "चंद्राच्या प्रकाशाने उजळलेले"
+    },
+    {
+      "original": "दायकरे",
+      "transliteration": "प्रणतसुरासुर",
+      "translation": "सुरांचा आणि असुरांचा समारंभ"
+    },
+    {
+      "original": "त्रिभुवनमस्तक",
+      "transliteration": "मौलिमणिस्फुर",
+      "translation": "मणींचे तेजस्वी प्रकाश"
+    },
+    {
+      "original": "शुलविरोधि",
+      "transliteration": "दंशुलसन्नख",
+      "translation": "शब्दांची लहान व्रणावस्था"
+    },
+    {
+      "original": "शिरोऽधिकृतामल",
+      "transliteration": "चन्द्ररुचे",
+      "translation": "चंद्राच्या प्रकाशाने उजळलेले"
+    },
+    {
+      "original": "शुलकरे",
+      "transliteration": "जितकनकाचल",
+      "translation": "विजयाने चमकणारा सुवर्ण पर्वत"
+    },
+    {
+      "original": "दुमिदुमितामर",
+      "transliteration": "मौलिमदोर्जित",
+      "translation": "सुवर्णाचा संकलन केलेला"
+    },
+    {
+      "original": "धुन्दुभिनादमहोमुखरीकृत",
+      "transliteration": "निर्भरकुञ्जर",
+      "translation": "उद्योगाने झपाटलेला कुञ्जर"
+    },
+    {
+      "original": "दिङ्मकरे",
+      "transliteration": "कुम्भकुचे",
+      "translation": "कलकल करत असलेली वाट"
+    },
+    {
+      "original": "जय",
+      "transliteration": "जय",
+      "translation": "jay"
+    },
+    {
+      "original": "जय",
+      "transliteration": "जय",
+      "translation": "jay"
+    },
+    {
+      "original": "हे",
+      "transliteration": "हे",
+      "translation": "hē"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा संहार करणारी"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "रम्य रूपाने सज्ज असलेली"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताच्या मुली"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "विजितसहस्रकरैक",
+      "translation": "विजयाने हजारों पटींवर विजय मिळवणारा"
+    },
+    {
+      "original": "निजहुङ्कृति",
+      "transliteration": "सहस्रकरैक",
+      "translation": "हजारो कनेक्ट करणार्या सहस्र कनेक्शनसह"
+    },
+    {
+      "original": "मात्रनिराकृत",
+      "transliteration": "सहस्रकरैकनुते",
+      "translation": "हजार कनेक्शनसह ज्याला नमस्कार केला जातो"
+    },
+    {
+      "original": "धूम्रविलोचन",
+      "transliteration": "कृतसुरतारक",
+      "translation": "कृत कार्याने तारका सोडवणे"
+    },
+    {
+      "original": "धूम्रशते",
+      "transliteration": "सङ्गरतारक",
+      "translation": "संगत करणे आणि तारका सोडवणे"
+    },
+    {
+      "original": "समरविशोषित",
+      "transliteration": "सङ्गरतारक",
+      "translation": "संगत करणे आणि तारका सोडवणे"
+    },
+    {
+      "original": "शोणितबीज",
+      "transliteration": "सूनुसुते",
+      "translation": "सुनांत असलेली मुलगी"
+    },
+    {
+      "original": "समुद्भवशोणित",
+      "transliteration": "सुरथसमाधि",
+      "translation": "सुरतच्या समर्पणाची स्थिती"
+    },
+    {
+      "original": "बीजलते",
+      "transliteration": "समानसमाधि",
+      "translation": "समान स्थिती असलेली समाधी"
+    },
+    {
+      "original": "शिवशिवशुम्भ",
+      "transliteration": "समाधिसमाधि",
+      "translation": "समाधीची स्थिती जस आहे तशी समर्पित samādhi samādhi samādhi cī sthitī jas āhē tashī samarpit"
+    },
+    {
+      "original": "निशुम्भमहाहव",
+      "transliteration": "सुजातरते",
+      "translation": "सुप्रसिद्ध सुंदर गायकाने सुगंध लावणारा"
+    },
+    {
+      "original": "तर्पितभूत",
+      "transliteration": "जय",
+      "translation": "jay"
+    },
+    {
+      "original": "पिशाचरते",
+      "transliteration": "जय",
+      "translation": "jay"
+    },
+    {
+      "original": "जय",
+      "transliteration": "हे",
+      "translation": "hē"
+    },
+    {
+      "original": "जय",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा संहार करणारी"
+    },
+    {
+      "original": "हे",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "रम्य रूपाने सज्ज असलेली"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताच्या मुली"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "पदकमलं",
+      "translation": "पद म्हणजे कमल"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "करुणानिलये",
+      "translation": "करुणेचे निवासस्थान"
+    },
+    {
+      "original": "धनुरनुषङ्ग",
+      "transliteration": "वरिवस्यति",
+      "translation": "ज्याला पंक्तीने स्वीकार केलं जातं"
+    },
+    {
+      "original": "रणक्षणसङ्ग",
+      "transliteration": "योऽनुदिनं",
+      "translation": "जो प्रत्येक दिवस सुरू करतो"
+    },
+    {
+      "original": "परिस्फुरदङ्ग",
+      "transliteration": "सुशिवे",
+      "translation": "सुंदर आणि सौम्य शंकर"
+    },
+    {
+      "original": "नटत्कटके",
+      "transliteration": "अयि",
+      "translation": "अरे"
+    },
+    {
+      "original": "कनकपिशङ्ग",
+      "transliteration": "कमले",
+      "translation": "कमलाच्या पंखासारखी"
+    },
+    {
+      "original": "पृषत्कनिषङ्ग",
+      "transliteration": "कमलानिलये",
+      "translation": "कमलाच्या निवास स्थानावर"
+    },
+    {
+      "original": "रसद्भटशृङ्ग",
+      "transliteration": "कमलानिलयः",
+      "translation": "कमलांचा निवासस्थान"
+    },
+    {
+      "original": "हताबटुके",
+      "transliteration": "स",
+      "translation": "हा"
+    },
+    {
+      "original": "कृतचतुरङ्ग",
+      "transliteration": "कथं",
+      "translation": "कसा"
+    },
+    {
+      "original": "बलक्षितिरङ्ग",
+      "transliteration": "न",
+      "translation": "नाही"
+    },
+    {
+      "original": "घटद्बहुरङ्ग",
+      "transliteration": "भवेत्",
+      "translation": "होईल"
+    },
+    {
+      "original": "रटद्बटुके",
+      "transliteration": "तव",
+      "translation": "तुम्ही"
+    },
+    {
+      "original": "जय",
+      "transliteration": "पदमेव",
+      "translation": "पदचिन्हच"
+    },
+    {
+      "original": "जय",
+      "transliteration": "परम्पदमित्यनुशीलयतो",
+      "translation": "ज्याने परमपदाचा अनुसरण केला"
+    },
+    {
+      "original": "हे",
+      "transliteration": "मम",
+      "translation": "माझं"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "किं",
+      "translation": "कसं"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "न",
+      "translation": "नाही"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "शिवे",
+      "translation": "शिवाची स्थिती"
+    },
+    {
+      "original": "सुरललना",
+      "transliteration": "जय",
+      "translation": "जय"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "जय",
+      "translation": "जय"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "हे",
+      "translation": "हे"
+    },
+    {
+      "original": "कृताभिनयोदर",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा संहार करणारी"
+    },
+    {
+      "original": "नृत्यरते",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "रम्य रूपाने सज्ज असलेली"
+    },
+    {
+      "original": "कृत",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताच्या मुली"
+    },
+    {
+      "original": "कुकुथः",
+      "transliteration": "कनकलसत्कलसिन्धुजलैरनुषिञ्चति",
+      "translation": "सुनं, सुवर्णगंगांनी धबधबात स्नान केल्यामुळे जलते"
+    },
+    {
+      "original": "कुकुथो",
+      "transliteration": "तेगुणरङ्गभुवम्",
+      "translation": "ध्रुवाच्या आकाशातील भव्य रंग"
+    },
+    {
+      "original": "गडदादिकताल",
+      "transliteration": "भजति",
+      "translation": "उपासना करतो"
+    },
+    {
+      "original": "कुतूहल",
+      "transliteration": "स",
+      "translation": "हा"
+    },
+    {
+      "original": "गानरते",
+      "transliteration": "किं",
+      "translation": "कसं"
+    },
+    {
+      "original": "धुधुकुट",
+      "transliteration": "न",
+      "translation": "नाही"
+    },
+    {
+      "original": "धुक्कुट",
+      "transliteration": "शचीकुचकुम्भतटीपरिरम्भसुखानुभवम्",
+      "translation": "शचीच्या कुंडलांना आपल्या कंबरभोवती बांधून अनुभवल्या गेलेल्या सुखाचा अनुभव"
+    },
+    {
+      "original": "धिंधिमित",
+      "transliteration": "तव",
+      "translation": "तुम्ही"
+    },
+    {
+      "original": "ध्वनि",
+      "transliteration": "चरणं",
+      "translation": "पाय"
+    },
+    {
+      "original": "धीर",
+      "transliteration": "शरणं",
+      "translation": "आश्रय"
+    },
+    {
+      "original": "मृदंग",
+      "transliteration": "करवाणि",
+      "translation": "करवीन"
+    },
+    {
+      "original": "निनादरते",
+      "transliteration": "नतामरवाणि",
+      "translation": "नमस्कार"
+    },
+    {
+      "original": "जय",
+      "transliteration": "निवासि",
+      "translation": "निवास"
+    },
+    {
+      "original": "जय",
+      "transliteration": "शिवम्",
+      "translation": "शिव"
+    },
+    {
+      "original": "हे",
+      "transliteration": "जय",
+      "translation": "जय"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "जय",
+      "translation": "जय"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "हे",
+      "translation": "हे"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा संहार करणारी"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "रम्य रूपाने सज्ज असलेली"
+    },
+    {
+      "original": "मयि",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताच्या मुली"
+    },
+    {
+      "original": "दीन",
+      "transliteration": "तव",
+      "translation": "तुम्ही"
+    },
+    {
+      "original": "दयालुतया",
+      "transliteration": "विमलेन्दुकुलं",
+      "translation": "विकट चंद्रलोक"
+    },
+    {
+      "original": "कृपयैव",
+      "transliteration": "वदनेन्दुमलं",
+      "translation": "चंद्राच्या गंधाने भरणारा वदन"
+    },
+    {
+      "original": "त्वया",
+      "transliteration": "सकलं",
+      "translation": "संपूर्ण"
+    },
+    {
+      "original": "भवितव्यमुमे",
+      "transliteration": "ननु",
+      "translation": "कस"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "कूलयते",
+      "translation": "पानीचे प्रमाण"
+    },
+    {
+      "original": "जगतो",
+      "transliteration": "किमु",
+      "translation": "कस"
+    },
+    {
+      "original": "जननी",
+      "transliteration": "पुरुहूतपुरीन्दु",
+      "translation": "पुरोहितांचा धर्म"
+    },
+    {
+      "original": "कृपयासि",
+      "transliteration": "मुखी",
+      "translation": "मुखावर"
+    },
+    {
+      "original": "यथासि",
+      "transliteration": "सुमुखीभिरसौ",
+      "translation": "सुमुखीचे मुख"
+    },
+    {
+      "original": "तथानुमितासिरते",
+      "transliteration": "विमुखीक्रियते",
+      "translation": "विरोधी क्रिया"
+    },
+    {
+      "original": "यदुचितमत्र",
+      "transliteration": "मम",
+      "translation": "माझं"
+    },
+    {
+      "original": "भवत्युररीकुरुतादुरुतापमपाकुरुते",
+      "transliteration": "तु",
+      "translation": "तू"
+    },
+    {
+      "original": "जय",
+      "transliteration": "मतं",
+      "translation": "आकलन"
+    },
+    {
+      "original": "जय",
+      "transliteration": "शिवनामधने",
+      "translation": "शिवाच्या नामाचे धन"
+    },
+    {
+      "original": "हे",
+      "transliteration": "भवती",
+      "translation": "होईल"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "कृपया",
+      "translation": "कृपया"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "किमुत",
+      "translation": "कस"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "क्रियते",
+      "translation": "कार्य केले जाते"
+    },
+    {
+      "original": "---",
+      "transliteration": "जय",
+      "translation": "जय"
+    },
+    {
+      "original": "---",
+      "transliteration": "जय",
+      "translation": "जय"
+    },
+    {
+      "original": "---",
+      "transliteration": "हे",
+      "translation": "हे"
+    },
+    {
+      "original": "---",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा संहार करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "रम्य रूपाने सज्ज असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताच्या मुली"
+    },
+    {
+      "original": "---",
+      "transliteration": "अयि",
+      "translation": "हे"
+    },
+    {
+      "original": "---",
+      "transliteration": "मयि",
+      "translation": "माझ्यात"
+    },
+    {
+      "original": "---",
+      "transliteration": "दीन",
+      "translation": "दीन"
+    },
+    {
+      "original": "---",
+      "transliteration": "दयालुतया",
+      "translation": "दयाळूतेन"
+    },
+    {
+      "original": "---",
+      "transliteration": "कृपया",
+      "translation": "कृपेन"
+    },
+    {
+      "original": "---",
+      "transliteration": "एव",
+      "translation": "अशा"
+    },
+    {
+      "original": "---",
+      "transliteration": "त्वया",
+      "translation": "तुम्ही"
+    },
+    {
+      "original": "---",
+      "transliteration": "भवितव्यमुमे",
+      "translation": "होणार आहे"
+    },
+    {
+      "original": "---",
+      "transliteration": "अयि",
+      "translation": "हे"
+    },
+    {
+      "original": "---",
+      "transliteration": "जगतो",
+      "translation": "जगणारा"
+    },
+    {
+      "original": "---",
+      "transliteration": "जननी",
+      "translation": "माता"
+    },
+    {
+      "original": "---",
+      "transliteration": "कृपया",
+      "translation": "कृपेन"
+    },
+    {
+      "original": "---",
+      "transliteration": "असि",
+      "translation": "असावा"
+    },
+    {
+      "original": "---",
+      "transliteration": "यथा",
+      "translation": "जसे"
+    },
+    {
+      "original": "---",
+      "transliteration": "असि",
+      "translation": "असावा"
+    },
+    {
+      "original": "---",
+      "transliteration": "तथा",
+      "translation": "तसाच"
+    },
+    {
+      "original": "---",
+      "transliteration": "अनुमितासि",
+      "translation": "स्वीकृत केलेले"
+    },
+    {
+      "original": "---",
+      "transliteration": "रते",
+      "translation": "स्मरण"
+    },
+    {
+      "original": "---",
+      "transliteration": "यदुचितम्",
+      "translation": "ज्येष्ठ"
+    },
+    {
+      "original": "---",
+      "transliteration": "अत्र",
+      "translation": "इथे"
+    },
+    {
+      "original": "---",
+      "transliteration": "भवत्यु",
+      "translation": "घडते"
+    },
+    {
+      "original": "---",
+      "transliteration": "ररीकुरुतात",
+      "translation": "कारणाने"
+    },
+    {
+      "original": "---",
+      "transliteration": "दुरुतापमपाकुरुते",
+      "translation": "कठीण गोष्टी दूर करण्यासाठी"
+    },
+    {
+      "original": "---",
+      "transliteration": "जय",
+      "translation": "जय"
+    },
+    {
+      "original": "---",
+      "transliteration": "जय",
+      "translation": "जय"
+    },
+    {
+      "original": "---",
+      "transliteration": "हे",
+      "translation": "हे"
+    },
+    {
+      "original": "---",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "महिषासुराचा संहार करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "रम्य रूपाने सज्ज असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "शैलसुते",
+      "translation": "पर्वताच्या मुली"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\marathi\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\marathi\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.987Z"
+  }
+}

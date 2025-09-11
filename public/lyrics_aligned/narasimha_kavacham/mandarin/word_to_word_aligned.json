@@ -1,0 +1,1534 @@
+{
+  "mantra": "narasimha_kavacham",
+  "language": "mandarin",
+  "type": "word_to_word",
+  "totalWords": 304,
+  "alignedWords": [
+    {
+      "original": "नृसिंहकवचं",
+      "transliteration": "耶赫·神话",
+      "translation": "莫见神保护"
+    },
+    {
+      "original": "वक्ष्ये",
+      "transliteration": "将告诉",
+      "translation": "将讲述"
+    },
+    {
+      "original": "प्रह्लादेनोदितं",
+      "transliteration": "由普拉哈德所启发",
+      "translation": "由普拉哈德所启发"
+    },
+    {
+      "original": "पुरा",
+      "transliteration": "从前",
+      "translation": "从前"
+    },
+    {
+      "original": "सर्वरक्षाकरं",
+      "transliteration": "保卫一切",
+      "translation": "保卫一切"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "善德",
+      "translation": "善行"
+    },
+    {
+      "original": "सर्वोपद्रवनाशनम्",
+      "transliteration": "消除所有灾难",
+      "translation": "消除所有障碍"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "所有",
+      "translation": "所有"
+    },
+    {
+      "original": "सम्पत्करं",
+      "transliteration": "造福",
+      "translation": "给予财富"
+    },
+    {
+      "original": "चैव",
+      "transliteration": "以及",
+      "translation": "和"
+    },
+    {
+      "original": "स्वर्गमोक्षप्रदायकम्",
+      "transliteration": "导向天堂与解脱",
+      "translation": "导向天堂与解脱"
+    },
+    {
+      "original": "ध्यात्वा",
+      "transliteration": "专注",
+      "translation": "默念"
+    },
+    {
+      "original": "नृसिंहं",
+      "transliteration": "耶赫",
+      "translation": "保护神"
+    },
+    {
+      "original": "देवेशं",
+      "transliteration": "神王",
+      "translation": "神明"
+    },
+    {
+      "original": "हेमसिंहासनस्थितम्",
+      "transliteration": "金狮宝座上",
+      "translation": "坐在金狮宝座上"
+    },
+    {
+      "original": "विवृतास्यं",
+      "transliteration": "展开了口",
+      "translation": "展开了嘴巴"
+    },
+    {
+      "original": "त्रिनयनं",
+      "transliteration": "三眼",
+      "translation": "三只眼睛"
+    },
+    {
+      "original": "शरदिन्दुसमप्रभम्",
+      "transliteration": "秋月之光",
+      "translation": "秋天的月亮之光"
+    },
+    {
+      "original": "लक्ष्म्यालिङ्गितवामाङ्गं",
+      "transliteration": "被拉克什米女神庇护",
+      "translation": "被拉克什米女神触摸"
+    },
+    {
+      "original": "विभूतिभिरुपाश्रितम्",
+      "transliteration": "被神圣的物质包围",
+      "translation": "被神圣的力量保护"
+    },
+    {
+      "original": "चतुर्भुजं",
+      "transliteration": "四臂",
+      "translation": "四个手臂"
+    },
+    {
+      "original": "कोमलाङ्गं",
+      "transliteration": "柔软的身躯",
+      "translation": "柔软的身体"
+    },
+    {
+      "original": "स्वर्णकुण्डलशोभितम्",
+      "transliteration": "金耳环装饰",
+      "translation": "被金耳环装饰"
+    },
+    {
+      "original": "सरोजशोभितोरस्कं",
+      "transliteration": "莲花装饰胸部",
+      "translation": "莲花装饰胸部"
+    },
+    {
+      "original": "रत्नकेयूरमुद्रितम्",
+      "transliteration": "宝石臂环",
+      "translation": "宝石臂环"
+    },
+    {
+      "original": "ताप्तकाञ्चनसंकाशं",
+      "transliteration": "熔金色",
+      "translation": "熔化的金色"
+    },
+    {
+      "original": "पीतनिर्मलवाससम्",
+      "transliteration": "穿着金色衣服",
+      "translation": "穿着金色的纯净衣服"
+    },
+    {
+      "original": "इन्द्रादिसुरमौलिस्थस्फुरन्माणिक्यदीप्तिभिः",
+      "transliteration": "印度众神的王冠",
+      "translation": "印度神王的王冠"
+    },
+    {
+      "original": "विराजितपदद्वन्द्वं",
+      "transliteration": "闪亮的红宝石光芒",
+      "translation": "闪烁的宝石之光"
+    },
+    {
+      "original": "शङ्खचक्रादि हेतिभिः",
+      "transliteration": "荣耀的双足",
+      "translation": "荣耀的两只脚"
+    },
+    {
+      "original": "गरुत्मता च विनयात्",
+      "transliteration": "战斗工具",
+      "translation": "包括角、轮等的战斗工具"
+    },
+    {
+      "original": "स्तूयमानं",
+      "transliteration": "轻盈的鸟",
+      "translation": "带着谦虚的飞鸟"
+    },
+    {
+      "original": "मुदान्वितम्",
+      "transliteration": "赞美伴随快乐",
+      "translation": "伴随赞美的快乐"
+    },
+    {
+      "original": "स्वहृत्कमलसंवासं",
+      "transliteration": "自心莲花栖息",
+      "translation": "自心中的莲花栖息"
+    },
+    {
+      "original": "कृत्वा",
+      "transliteration": "做",
+      "translation": "做了"
+    },
+    {
+      "original": "तु",
+      "transliteration": "但",
+      "translation": "但是"
+    },
+    {
+      "original": "कवचं",
+      "transliteration": "甲胄",
+      "translation": "防护甲"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "朗诵",
+      "translation": "读诵"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "狮面神",
+      "translation": "狮面神"
+    },
+    {
+      "original": "मे",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "शिरः",
+      "transliteration": "头",
+      "translation": "头部"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "लोकरक्षार्थसम्भवः",
+      "transliteration": "世界护卫者",
+      "translation": "为了保护世界而生"
+    },
+    {
+      "original": "सर्वगोऽपि",
+      "transliteration": "也包含",
+      "translation": "也包含一切"
+    },
+    {
+      "original": "स्तम्भवासः",
+      "transliteration": "静止的居住",
+      "translation": "停留的地方"
+    },
+    {
+      "original": "भालं",
+      "transliteration": "额头",
+      "translation": "额头"
+    },
+    {
+      "original": "मे",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "रक्षतु",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "ध्वनिम्",
+      "transliteration": "声音",
+      "translation": "声音"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "狮面神",
+      "translation": "狮面神"
+    },
+    {
+      "original": "मे",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "दृशौ",
+      "transliteration": "眼睛",
+      "translation": "眼睛"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "सोमसूर्याग्निलोचनः",
+      "transliteration": "月太阳火眼",
+      "translation": "月亮太阳火焰的眼睛"
+    },
+    {
+      "original": "स्मृतिं",
+      "transliteration": "记忆",
+      "translation": "记忆"
+    },
+    {
+      "original": "मे",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "नृहरिर्मुनिवर्यस्तुतिप्रियः",
+      "transliteration": "献身于圣人的喜爱",
+      "translation": "喜欢圣人赞美的神"
+    },
+    {
+      "original": "नासं",
+      "transliteration": "鼻子",
+      "translation": "鼻子"
+    },
+    {
+      "original": "मे",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "सिंहनासस्तु",
+      "transliteration": "狮子的鼻子",
+      "translation": "狮子的鼻子"
+    },
+    {
+      "original": "मुखं",
+      "transliteration": "脸",
+      "translation": "脸部"
+    },
+    {
+      "original": "लक्ष्मीमुखप्रियः",
+      "transliteration": "亲爱的财富女神面庞",
+      "translation": "亲爱的财富女神面庞"
+    },
+    {
+      "original": "सर्वविद्याधिपः",
+      "transliteration": "一切知识的主人",
+      "translation": "一切知识的主宰"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "狮面神",
+      "translation": "狮面神"
+    },
+    {
+      "original": "रसनां",
+      "transliteration": "舌头",
+      "translation": "舌头"
+    },
+    {
+      "original": "मम",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "वक्त्रं",
+      "transliteration": "嘴巴",
+      "translation": "嘴巴"
+    },
+    {
+      "original": "पात्विन्दुवदनं",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "月亮的面庞",
+      "translation": "月亮的面庞"
+    },
+    {
+      "original": "प्रह्लादवन्दितः",
+      "transliteration": "总是",
+      "translation": "总是"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "受赞美的",
+      "translation": "受祝福的"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "狮面神",
+      "translation": "狮面神"
+    },
+    {
+      "original": "मे",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "कण्ठं",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "स्कन्धौ",
+      "transliteration": "喉咙",
+      "translation": "喉咙"
+    },
+    {
+      "original": "भूभरान्तकृत्",
+      "transliteration": "双肩",
+      "translation": "双肩"
+    },
+    {
+      "original": "दिव्यास्त्रशोभितभुजो",
+      "transliteration": "重担的承担者",
+      "translation": "承担重担的人"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "神圣武器装饰的手臂",
+      "translation": "装饰着神圣武器的手臂"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "狮面神",
+      "translation": "狮面神"
+    },
+    {
+      "original": "मे",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "भुजौ",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "करौ",
+      "transliteration": "手臂",
+      "translation": "手臂"
+    },
+    {
+      "original": "मे",
+      "transliteration": "手",
+      "translation": "手"
+    },
+    {
+      "original": "देववरदो",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "神圣的赐福者",
+      "translation": "赐福的神"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "狮面神",
+      "translation": "狮面神"
+    },
+    {
+      "original": "सर्वतः",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "हृदयं",
+      "transliteration": "从各方面",
+      "translation": "从各方面"
+    },
+    {
+      "original": "योगिसाध्यश्च",
+      "transliteration": "心脏",
+      "translation": "心脏"
+    },
+    {
+      "original": "निवासं",
+      "transliteration": "适合瑜伽修行者的",
+      "translation": "对瑜伽修行者有益的"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "住所",
+      "translation": "住所"
+    },
+    {
+      "original": "मे",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "हरिः",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "मध्यं",
+      "transliteration": "神",
+      "translation": "神"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "中部",
+      "translation": "中部"
+    },
+    {
+      "original": "हिरण्याक्षवक्षःकुक्षिविदारणः",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "नाभिं",
+      "transliteration": "金眼睛的胸部和腹部的分裂者",
+      "translation": "分裂金眼睛者的胸部和腹部"
+    },
+    {
+      "original": "मे",
+      "transliteration": "脐部",
+      "translation": "脐部"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "नृहरिः",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "स्वनाभि",
+      "transliteration": "人狮神",
+      "translation": "人狮神"
+    },
+    {
+      "original": "ब्रह्मसंस्तुतः",
+      "transliteration": "自身脐部",
+      "translation": "自身的脐部"
+    },
+    {
+      "original": "ब्रह्माण्डकोटयः",
+      "transliteration": "被梵天赞美的",
+      "translation": "受梵天赞美的"
+    },
+    {
+      "original": "कट्यां",
+      "transliteration": "宇宙四方",
+      "translation": "宇宙的四方"
+    },
+    {
+      "original": "यस्यासौ",
+      "transliteration": "腰部",
+      "translation": "腰部"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "她",
+      "translation": "她"
+    },
+    {
+      "original": "मे",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "कटिम्",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "गुह्यं",
+      "transliteration": "腰",
+      "translation": "腰"
+    },
+    {
+      "original": "मे",
+      "transliteration": "隐藏",
+      "translation": "隐藏"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "गुह्यानां",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "मन्त्राणां",
+      "transliteration": "隐秘的",
+      "translation": "隐秘的"
+    },
+    {
+      "original": "गुह्यरूपदृक्",
+      "transliteration": "咒语",
+      "translation": "咒语"
+    },
+    {
+      "original": "ऊरु",
+      "transliteration": "隐秘形式的视线",
+      "translation": "隐秘形式的视线"
+    },
+    {
+      "original": "मनोभवः",
+      "transliteration": "大腿",
+      "translation": "大腿"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "心灵的诞生者",
+      "translation": "心灵的诞生者"
+    },
+    {
+      "original": "जानुनी",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "नररूपधृक्",
+      "transliteration": "膝盖",
+      "translation": "膝盖"
+    },
+    {
+      "original": "जङ्घे",
+      "transliteration": "拥有人的形态者",
+      "translation": "拥有人的形态者"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "小腿",
+      "translation": "小腿"
+    },
+    {
+      "original": "धराभारहर्ता",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "योऽसौ",
+      "transliteration": "承担世界负担的摧毁者",
+      "translation": "承担世界负担的摧毁者"
+    },
+    {
+      "original": "नृकेसरी",
+      "transliteration": "他",
+      "translation": "他"
+    },
+    {
+      "original": "सुरराज्यप्रदः",
+      "transliteration": "人狮王",
+      "translation": "人狮王"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "神国的赐予者",
+      "translation": "神国的赐予者"
+    },
+    {
+      "original": "पादौ",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "मे",
+      "transliteration": "脚",
+      "translation": "脚"
+    },
+    {
+      "original": "नृहरीश्वरः",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "सहस्रशीर्षा",
+      "transliteration": "人狮神主",
+      "translation": "人狮神主"
+    },
+    {
+      "original": "पुरुषः",
+      "transliteration": "千头的",
+      "translation": "千头的"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "人类",
+      "translation": "人类"
+    },
+    {
+      "original": "मे",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "सर्वशस्तनुम्",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "महोग्रः",
+      "transliteration": "所有武器的身体",
+      "translation": "所有武器的身体"
+    },
+    {
+      "original": "पूर्वतः",
+      "transliteration": "大烈火",
+      "translation": "大烈火"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "东方",
+      "translation": "东方"
+    },
+    {
+      "original": "महावीराग्रजोऽग्नितः",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "महाविष्णुर्दक्षिणे",
+      "transliteration": "伟大的战士火焰",
+      "translation": "伟大的战士火焰"
+    },
+    {
+      "original": "तु",
+      "transliteration": "伟大的毗湿奴在右",
+      "translation": "伟大的毗湿奴在右"
+    },
+    {
+      "original": "महाज्वालस्तु",
+      "transliteration": "但是",
+      "translation": "但是"
+    },
+    {
+      "original": "नैरृतौ",
+      "transliteration": "伟大的火焰",
+      "translation": "伟大的火焰"
+    },
+    {
+      "original": "पश्चिमे",
+      "transliteration": "在黑暗中",
+      "translation": "在黑暗中"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "西方",
+      "translation": "西方"
+    },
+    {
+      "original": "सर्वेशो",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "一切神灵",
+      "translation": "一切神灵"
+    },
+    {
+      "original": "मे",
+      "transliteration": "方向",
+      "translation": "方向"
+    },
+    {
+      "original": "सर्वतोमुखः",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "面对所有",
+      "translation": "面对所有"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "人狮",
+      "translation": "人狮"
+    },
+    {
+      "original": "वायव्यां",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "सौम्यां",
+      "transliteration": "西北",
+      "translation": "西北"
+    },
+    {
+      "original": "भूषणविग्रहः",
+      "transliteration": "温柔的",
+      "translation": "温柔的"
+    },
+    {
+      "original": "ईशान्यां",
+      "transliteration": "装饰形态",
+      "translation": "装饰形态"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "东北",
+      "translation": "东北"
+    },
+    {
+      "original": "भद्रो",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "मे",
+      "transliteration": "幸运的",
+      "translation": "幸运的"
+    },
+    {
+      "original": "सर्वमङ्गलदायकः",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "संसारभयतः",
+      "transliteration": "带来好运的",
+      "translation": "带来好运的"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "生死恐惧",
+      "translation": "生死恐惧"
+    },
+    {
+      "original": "मृत्योर्मृत्युः",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "नृकेसरी",
+      "transliteration": "死亡的死亡者，狮子王",
+      "translation": "死亡的死亡者，狮子王"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "这个",
+      "translation": "这个"
+    },
+    {
+      "original": "नृसिंहकवचं",
+      "transliteration": "人狮护甲",
+      "translation": "人狮护甲"
+    },
+    {
+      "original": "प्रह्लादमुखमण्डितम्",
+      "transliteration": "带有普拉赫拉德的面孔",
+      "translation": "带有普拉赫拉德的面孔"
+    },
+    {
+      "original": "भक्तिमान्",
+      "transliteration": "信徒",
+      "translation": "信徒"
+    },
+    {
+      "original": "यः",
+      "transliteration": "谁",
+      "translation": "谁"
+    },
+    {
+      "original": "पठेन्नित्यं",
+      "transliteration": "读诵",
+      "translation": "读诵"
+    },
+    {
+      "original": "सर्वपापैः",
+      "transliteration": "永恒",
+      "translation": "永恒"
+    },
+    {
+      "original": "प्रमुच्यते",
+      "transliteration": "所有的罪恶",
+      "translation": "所有的罪恶"
+    },
+    {
+      "original": "भक्तिमान्",
+      "transliteration": "被解脱",
+      "translation": "被解脱"
+    },
+    {
+      "original": "यः",
+      "transliteration": "有儿子",
+      "translation": "有儿子"
+    },
+    {
+      "original": "पठेन्नित्यं",
+      "transliteration": "富有的",
+      "translation": "富有的"
+    },
+    {
+      "original": "सर्वपापैः",
+      "transliteration": "在世界",
+      "translation": "在世界"
+    },
+    {
+      "original": "प्रमुच्यते",
+      "transliteration": "得到长寿",
+      "translation": "得到长寿"
+    },
+    {
+      "original": "पुत्रवान्",
+      "transliteration": "任何",
+      "translation": "任何"
+    },
+    {
+      "original": "धनवान्",
+      "transliteration": "任何",
+      "translation": "任何"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "渴望",
+      "translation": "渴望"
+    },
+    {
+      "original": "दीर्घायुरुपजायते",
+      "transliteration": "欲望",
+      "translation": "欲望"
+    },
+    {
+      "original": "यं",
+      "transliteration": "那个",
+      "translation": "那个"
+    },
+    {
+      "original": "यं",
+      "transliteration": "那个",
+      "translation": "那个"
+    },
+    {
+      "original": "कामयते",
+      "transliteration": "获得",
+      "translation": "获得"
+    },
+    {
+      "original": "कामं",
+      "transliteration": "无疑地",
+      "translation": "无疑地"
+    },
+    {
+      "original": "तं",
+      "transliteration": "在任何地方",
+      "translation": "在任何地方"
+    },
+    {
+      "original": "तं",
+      "transliteration": "获得胜利",
+      "translation": "获得胜利"
+    },
+    {
+      "original": "प्राप्नोति",
+      "transliteration": "在任何地方",
+      "translation": "在任何地方"
+    },
+    {
+      "original": "असंशयम्",
+      "transliteration": "胜利者",
+      "translation": "胜利者"
+    },
+    {
+      "original": "सर्वत्र",
+      "transliteration": "会变成",
+      "translation": "会变成"
+    },
+    {
+      "original": "जयमाप्नोति",
+      "transliteration": "地面、天空和神圣的存在",
+      "translation": "地面、天空和神圣的存在"
+    },
+    {
+      "original": "सर्वत्र",
+      "transliteration": "星辰",
+      "translation": "星辰"
+    },
+    {
+      "original": "विजयी",
+      "transliteration": "驱除",
+      "translation": "驱除"
+    },
+    {
+      "original": "भवेत्",
+      "transliteration": "蜈蚣与蛇之毒",
+      "translation": "蜈蚣与蛇之毒"
+    },
+    {
+      "original": "भूम्यन्तरीक्षदिव्यानां",
+      "transliteration": "毒药的消除",
+      "translation": "毒药的消除"
+    },
+    {
+      "original": "ग्रहाणां",
+      "transliteration": "极致",
+      "translation": "极致"
+    },
+    {
+      "original": "विनिवारणम्",
+      "transliteration": "梵天、罗刹与夜叉",
+      "translation": "梵天、罗刹与夜叉"
+    },
+    {
+      "original": "वृश्चिकोरगसम्भूत",
+      "transliteration": "驱逐",
+      "translation": "驱逐"
+    },
+    {
+      "original": "विषापहरणं",
+      "transliteration": "桦树",
+      "translation": "桦树"
+    },
+    {
+      "original": "परम्",
+      "transliteration": "或",
+      "translation": "或"
+    },
+    {
+      "original": "ब्रह्मराक्षसयक्षाणां",
+      "transliteration": "棕榈叶",
+      "translation": "棕榈叶"
+    },
+    {
+      "original": "दूरोत्सारणकारणम्",
+      "transliteration": "或",
+      "translation": "或"
+    },
+    {
+      "original": "भूर्जे",
+      "transliteration": "甲胄",
+      "translation": "甲胄"
+    },
+    {
+      "original": "वा",
+      "transliteration": "写下的",
+      "translation": "写下的"
+    },
+    {
+      "original": "तालपत्रे",
+      "transliteration": "吉祥的",
+      "translation": "吉祥的"
+    },
+    {
+      "original": "वा",
+      "transliteration": "手部根部",
+      "translation": "手部根部"
+    },
+    {
+      "original": "कवचं",
+      "transliteration": "持有的",
+      "translation": "持有的"
+    },
+    {
+      "original": "लिखितं",
+      "transliteration": "通过",
+      "translation": "通过"
+    },
+    {
+      "original": "शुभम्",
+      "transliteration": "成就",
+      "translation": "成就"
+    },
+    {
+      "original": "करमूले",
+      "transliteration": "行动的成功",
+      "translation": "行动的成功"
+    },
+    {
+      "original": "धृतं",
+      "transliteration": "神、人、魔鬼",
+      "translation": "神、人、魔鬼"
+    },
+    {
+      "original": "येन",
+      "transliteration": "自己的",
+      "translation": "自己的"
+    },
+    {
+      "original": "सिध्येयुः",
+      "transliteration": "自己",
+      "translation": "自己"
+    },
+    {
+      "original": "कर्मसिद्धयः",
+      "transliteration": "胜利",
+      "translation": "胜利"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "获得",
+      "translation": "获得"
+    },
+    {
+      "original": "कार्याणि",
+      "transliteration": "一次冥想",
+      "translation": "一次冥想"
+    },
+    {
+      "original": "देवासुरमनुष्येषु",
+      "transliteration": "三次冥想",
+      "translation": "三次冥想"
+    },
+    {
+      "original": "स्वं",
+      "transliteration": "或",
+      "translation": "或"
+    },
+    {
+      "original": "स्वमेव",
+      "transliteration": "谁",
+      "translation": "谁"
+    },
+    {
+      "original": "जयं",
+      "transliteration": "忠实地诵读",
+      "translation": "忠实地诵读"
+    },
+    {
+      "original": "लभेत्",
+      "transliteration": "人",
+      "translation": "人"
+    },
+    {
+      "original": "एकसन्ध्यं",
+      "transliteration": "一切吉祥",
+      "translation": "一切吉祥"
+    },
+    {
+      "original": "त्रिसन्ध्यं",
+      "transliteration": "享受",
+      "translation": "享受"
+    },
+    {
+      "original": "वा",
+      "transliteration": "解脱",
+      "translation": "解脱"
+    },
+    {
+      "original": "यः",
+      "transliteration": "和",
+      "translation": "和"
+    },
+    {
+      "original": "पठेन्नियतो",
+      "transliteration": "得到",
+      "translation": "得到"
+    },
+    {
+      "original": "नरः",
+      "transliteration": "二十四千",
+      "translation": "二十四千"
+    },
+    {
+      "original": "सर्वमङ्गलमाङ्गल्यं",
+      "transliteration": "诵读",
+      "translation": "诵读"
+    },
+    {
+      "original": "भुक्तिं",
+      "transliteration": "清净的灵魂",
+      "translation": "清净的灵魂"
+    },
+    {
+      "original": "मुक्तिं",
+      "transliteration": "人们",
+      "translation": "人们"
+    },
+    {
+      "original": "च",
+      "transliteration": "此甲胄的",
+      "translation": "此甲胄的"
+    },
+    {
+      "original": "विन्दति",
+      "transliteration": "咒语的",
+      "translation": "咒语的"
+    },
+    {
+      "original": "द्वात्रिंशतिसहस्राणि",
+      "transliteration": "咒语的成功",
+      "translation": "咒语的成功"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "产生",
+      "translation": "产生"
+    },
+    {
+      "original": "शुद्धात्मनां",
+      "transliteration": "通过此",
+      "translation": "通过此"
+    },
+    {
+      "original": "नृणाम्",
+      "transliteration": "咒语之王",
+      "translation": "咒语之王"
+    },
+    {
+      "original": "कवचस्यास्य",
+      "transliteration": "做",
+      "translation": "做"
+    },
+    {
+      "original": "मन्त्रस्य",
+      "transliteration": "灰烬的咒语",
+      "translation": "灰烬的咒语"
+    },
+    {
+      "original": "मन्त्रसिद्धिः",
+      "transliteration": "印记",
+      "translation": "印记"
+    },
+    {
+      "original": "प्रजायते",
+      "transliteration": "应该佩戴",
+      "translation": "应该佩戴"
+    },
+    {
+      "original": "अनेन",
+      "transliteration": "谁",
+      "translation": "谁"
+    },
+    {
+      "original": "मन्त्रराजेन",
+      "transliteration": "他的",
+      "translation": "他的"
+    },
+    {
+      "original": "कृत्वा",
+      "transliteration": "星象的恐惧",
+      "translation": "星象的恐惧"
+    },
+    {
+      "original": "भस्माभिमन्त्रणम्",
+      "transliteration": "会被解除",
+      "translation": "会被解除"
+    },
+    {
+      "original": "तिलकं",
+      "transliteration": "三次",
+      "translation": "三次"
+    },
+    {
+      "original": "विन्यसेद्यस्तु",
+      "transliteration": "忠实的念诵",
+      "translation": "忠实的念诵"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "给予的",
+      "translation": "给予的"
+    },
+    {
+      "original": "ग्रहभयं",
+      "transliteration": "水的咒语",
+      "translation": "水的咒语"
+    },
+    {
+      "original": "हरेत्",
+      "transliteration": "和",
+      "translation": "和"
+    },
+    {
+      "original": "त्रिवारं",
+      "transliteration": "谁",
+      "translation": "谁"
+    },
+    {
+      "original": "जपमानस्तु",
+      "transliteration": "人",
+      "translation": "人"
+    },
+    {
+      "original": "दत्तं",
+      "transliteration": "咒语",
+      "translation": "咒语"
+    },
+    {
+      "original": "वार्यभिमन्त्र्य",
+      "transliteration": "应该冥想",
+      "translation": "应该冥想"
+    },
+    {
+      "original": "च",
+      "transliteration": "他的",
+      "translation": "他的"
+    },
+    {
+      "original": "प्राशयेद्यो",
+      "transliteration": "疾病",
+      "translation": "疾病"
+    },
+    {
+      "original": "नरो",
+      "transliteration": "将消失",
+      "translation": "将消失"
+    },
+    {
+      "original": "मन्त्रं",
+      "transliteration": "那些",
+      "translation": "那些"
+    },
+    {
+      "original": "नृसिंहध्यानमाचरेत्",
+      "transliteration": "和",
+      "translation": "和"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "是",
+      "translation": "是"
+    },
+    {
+      "original": "रोगाः",
+      "transliteration": "腹部起源的",
+      "translation": "腹部起源的"
+    },
+    {
+      "original": "प्रणश्यन्ति",
+      "transliteration": "这里",
+      "translation": "这里"
+    },
+    {
+      "original": "ये",
+      "transliteration": "许多话语",
+      "translation": "许多话语"
+    },
+    {
+      "original": "च",
+      "transliteration": "与纳鲁辛哈类似的",
+      "translation": "与纳鲁辛哈类似的"
+    },
+    {
+      "original": "स्युः",
+      "transliteration": "将会",
+      "translation": "将会"
+    },
+    {
+      "original": "कुक्षिसम्भवाः",
+      "transliteration": "心灵",
+      "translation": "心灵"
+    },
+    {
+      "original": "किमत्र",
+      "transliteration": "思考的",
+      "translation": "思考的"
+    },
+    {
+      "original": "बहुनोक्तेन",
+      "transliteration": "那些",
+      "translation": "那些"
+    },
+    {
+      "original": "नृसिंहसदृशो",
+      "transliteration": "它",
+      "translation": "它"
+    },
+    {
+      "original": "भवेत्",
+      "transliteration": "它将无疑地实现",
+      "translation": "它将无疑地实现"
+    },
+    {
+      "original": "मनसा",
+      "transliteration": "咆哮的",
+      "translation": "咆哮的"
+    },
+    {
+      "original": "चिन्तितं",
+      "transliteration": "发出咆哮的",
+      "translation": "发出咆哮的"
+    },
+    {
+      "original": "यत्तु",
+      "transliteration": "他的臂膀",
+      "translation": "他的臂膀"
+    },
+    {
+      "original": "स",
+      "transliteration": "撕裂的",
+      "translation": "撕裂的"
+    },
+    {
+      "original": "तच्चाप्नोत्यसंशयम्",
+      "transliteration": "坚持的",
+      "translation": "坚持的"
+    },
+    {
+      "original": "गर्जन्तं",
+      "transliteration": "变形的",
+      "translation": "变形的"
+    },
+    {
+      "original": "गर्जयन्तं",
+      "transliteration": "烧灼的",
+      "translation": "烧灼的"
+    },
+    {
+      "original": "निजभुजपटलं",
+      "transliteration": "天空",
+      "translation": "天空"
+    },
+    {
+      "original": "स्फोटयन्तं",
+      "transliteration": "地球",
+      "translation": "地球"
+    },
+    {
+      "original": "हठन्तं",
+      "transliteration": "妇女生的",
+      "translation": "妇女生的"
+    },
+    {
+      "original": "रूप्यन्तं",
+      "transliteration": "扔掉的",
+      "translation": "扔掉的"
+    },
+    {
+      "original": "तापयन्तं",
+      "transliteration": "丢弃的",
+      "translation": "丢弃的"
+    },
+    {
+      "original": "दिवि",
+      "transliteration": "哭泣的",
+      "translation": "哭泣的"
+    },
+    {
+      "original": "भुवि",
+      "transliteration": "激怒的",
+      "translation": "激怒的"
+    },
+    {
+      "original": "दितिजं",
+      "transliteration": "方向",
+      "translation": "方向"
+    },
+    {
+      "original": "क्षेपयन्तं",
+      "transliteration": "方向",
+      "translation": "方向"
+    },
+    {
+      "original": "क्षिपन्तम्",
+      "transliteration": "永远",
+      "translation": "永远"
+    },
+    {
+      "original": "क्रन्दन्तं",
+      "transliteration": "消除的",
+      "translation": "消除的"
+    },
+    {
+      "original": "रोषयन्तं",
+      "transliteration": "承载的",
+      "translation": "承载的"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "漂浮的",
+      "translation": "漂浮的"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "观看的",
+      "translation": "观看的"
+    },
+    {
+      "original": "सततं",
+      "transliteration": "旋转的",
+      "translation": "旋转的"
+    },
+    {
+      "original": "संहरन्तं",
+      "transliteration": "无数的箭矢",
+      "translation": "无数的箭矢"
+    },
+    {
+      "original": "भरन्तं",
+      "transliteration": "神圣的狮子",
+      "translation": "神圣的狮子"
+    },
+    {
+      "original": "भ्रमन्तं",
+      "transliteration": "我敬拜",
+      "translation": "我敬拜"
+    },
+    {
+      "original": "वीक्षन्तं",
+      "transliteration": "这",
+      "translation": "这是"
+    },
+    {
+      "original": "घूर्णयन्तं",
+      "transliteration": "神圣的宇宙经典中",
+      "translation": "神圣的宇宙经典中"
+    },
+    {
+      "original": "शरनिकरशतैः",
+      "transliteration": "普拉哈德说的",
+      "translation": "普拉哈德说的"
+    },
+    {
+      "original": "दिव्यसिंहं",
+      "transliteration": "神圣的纳鲁辛哈护符",
+      "translation": "神圣的纳鲁辛哈护符"
+    },
+    {
+      "original": "नमामि",
+      "transliteration": "完整的",
+      "translation": "完整的"
+    },
+    {
+      "original": "इति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीब्रह्माण्डपुराणे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रह्लादोक्तं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीनृसिंहकवचं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सम्पूर्णम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\mandarin\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\mandarin\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.158Z"
+  }
+}

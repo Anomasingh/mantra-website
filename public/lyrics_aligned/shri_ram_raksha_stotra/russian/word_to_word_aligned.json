@@ -1,0 +1,2599 @@
+{
+  "mantra": "shri_ram_raksha_stotra",
+  "language": "russian",
+  "type": "word_to_word",
+  "totalWords": 517,
+  "alignedWords": [
+    {
+      "original": "अस्य",
+      "transliteration": "асья",
+      "translation": "этого"
+    },
+    {
+      "original": "श्रीरामरक्षास्तोत्रमन्त्रस्य",
+      "transliteration": "шрирамаракшастотрамантрасья",
+      "translation": "мантры гимна защиты Шри Рамы"
+    },
+    {
+      "original": "बुधकौशिक",
+      "transliteration": "будхакаушика",
+      "translation": "Будхакаушика"
+    },
+    {
+      "original": "ऋषिः",
+      "transliteration": "ришиḥ",
+      "translation": "риши (мудрец)"
+    },
+    {
+      "original": "श्रीसीतारामचन्द्रो",
+      "transliteration": "шриси́тара́мачандро",
+      "translation": "Шри Сита Рамачандра"
+    },
+    {
+      "original": "देवता",
+      "transliteration": "дева́та",
+      "translation": "божество"
+    },
+    {
+      "original": "अनुष्टुप्",
+      "transliteration": "ануштуп",
+      "translation": "Ануштуп (метр)"
+    },
+    {
+      "original": "छन्दः",
+      "transliteration": "чандः",
+      "translation": "размер стиха"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "си́та",
+      "translation": "Сита"
+    },
+    {
+      "original": "शक्तिः",
+      "transliteration": "шактиḥ",
+      "translation": "энергия"
+    },
+    {
+      "original": "श्रीमद्",
+      "transliteration": "шрима́д",
+      "translation": "славный"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "ханума́н",
+      "translation": "Хануман"
+    },
+    {
+      "original": "कीलकम्",
+      "transliteration": "ки́лакам",
+      "translation": "опора"
+    },
+    {
+      "original": "श्रीरामचन्द्रप्रीत्यर्थे",
+      "transliteration": "шрирмачандрапри́тьяртхе",
+      "translation": "ради удовлетворения Шри Рамачандры"
+    },
+    {
+      "original": "रामरक्षास्तोत्रजपे",
+      "transliteration": "ра́маракша́стотраджапе",
+      "translation": "для повторения гимна защиты Рамы"
+    },
+    {
+      "original": "विनियोगः",
+      "transliteration": "винийо́гах",
+      "translation": "применение"
+    },
+    {
+      "original": "ध्यायेत्",
+      "transliteration": "дхья́йет",
+      "translation": "должен медитировать"
+    },
+    {
+      "original": "आजानुबाहुं",
+      "transliteration": "а́джануба́хум",
+      "translation": "с длинными руками"
+    },
+    {
+      "original": "धृतशरधनुषं",
+      "transliteration": "дхрита́шара́дханушам",
+      "translation": "держащего лук и стрелу"
+    },
+    {
+      "original": "बद्धपद्मासनस्थं",
+      "transliteration": "ба́ддхападма́санастхам",
+      "translation": "сидящего в позе лотоса"
+    },
+    {
+      "original": "पीतं",
+      "transliteration": "пи́там",
+      "translation": "желтого цвета"
+    },
+    {
+      "original": "वासो",
+      "transliteration": "ва́со",
+      "translation": "одежду"
+    },
+    {
+      "original": "वसानं",
+      "transliteration": "ва́санам",
+      "translation": "носящего"
+    },
+    {
+      "original": "नवकमलदलस्पर्धिनेत्रं",
+      "transliteration": "навака́мала́дала́спардхине́трам",
+      "translation": "с глазами, напоминающими лепестки лотоса"
+    },
+    {
+      "original": "प्रसन्नम्",
+      "transliteration": "праса́ннам",
+      "translation": "сияющего"
+    },
+    {
+      "original": "वामाङ्कारूढ",
+      "transliteration": "ва́маанка́ру́дха",
+      "translation": "сидящую слева"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "си́та́мукхака́мала́мила́ллочанам",
+      "translation": "с глазами, соединяющимися с лицом-лотосом Ситы"
+    },
+    {
+      "original": "मुखकमलमिलल्लोचनं",
+      "transliteration": "ни́рада́бхам",
+      "translation": "как темное облако"
+    },
+    {
+      "original": "नीरदाभं",
+      "transliteration": "на́на́ланка́ради́птам",
+      "translation": "сверкающего различными украшениями"
+    },
+    {
+      "original": "नानालङ्कारदीप्तं",
+      "transliteration": "дадхата́муру́джа́та́манданам",
+      "translation": "носящего великолепные спутанные волосы"
+    },
+    {
+      "original": "दधतमुरुजटामण्डनं",
+      "transliteration": "ра́мачандрам",
+      "translation": "Рамачандру"
+    },
+    {
+      "original": "रामचन्द्रम्",
+      "transliteration": "чаритам",
+      "translation": "деяния"
+    },
+    {
+      "original": "चरितं",
+      "transliteration": "рагуна́тхасья",
+      "translation": "Рагунатхи"
+    },
+    {
+      "original": "रघुनाथस्य",
+      "transliteration": "шатако́ти",
+      "translation": "сто миллионов"
+    },
+    {
+      "original": "शतकोटि",
+      "transliteration": "прависта́рам",
+      "translation": "обширное"
+    },
+    {
+      "original": "प्रविस्तरम्",
+      "transliteration": "эка́йкам-акшарам",
+      "translation": "каждая буква"
+    },
+    {
+      "original": "एकैकमक्षरं",
+      "transliteration": "пумса́м",
+      "translation": "для людей"
+    },
+    {
+      "original": "पुंसां",
+      "transliteration": "маха́па́така́на́шанам",
+      "translation": "уничтожающее великие грехи"
+    },
+    {
+      "original": "महापातक",
+      "transliteration": "дхья́тва",
+      "translation": "медитируя"
+    },
+    {
+      "original": "नाशनम्",
+      "transliteration": "ни́лотпала́шья́мам",
+      "translation": "темного, как голубой лотос"
+    },
+    {
+      "original": "ध्यात्वा",
+      "transliteration": "ра́мам",
+      "translation": "Раму"
+    },
+    {
+      "original": "नीलोत्पल",
+      "transliteration": "раджи́вало́чанам",
+      "translation": "с глазами, подобными лотосу"
+    },
+    {
+      "original": "श्यामं",
+      "transliteration": "джа́наки́лакшма́нопетам",
+      "translation": "вместе с Джанаки и Лакшманой"
+    },
+    {
+      "original": "रामं",
+      "transliteration": "джа́та́мукута́ма́ндитам",
+      "translation": "украшенного короной из спутанных волос"
+    },
+    {
+      "original": "राजीवलोचनम्",
+      "transliteration": "са́ситу́на́дханушба́напани́м",
+      "translation": "с мечом, колчаном, луком и стрелами в руках"
+    },
+    {
+      "original": "जानकी",
+      "transliteration": "накта́нчара́нтакам",
+      "translation": "уничтожающего ночных демонов"
+    },
+    {
+      "original": "लक्ष्मणोपेतं",
+      "transliteration": "сва-ли́лая",
+      "translation": "по собственной воле"
+    },
+    {
+      "original": "जटा",
+      "transliteration": "джага́ттра́тум",
+      "translation": "чтобы защитить мир"
+    },
+    {
+      "original": "मुकुट",
+      "transliteration": "а́вирбху́там",
+      "translation": "проявленного"
+    },
+    {
+      "original": "मण्डितम्",
+      "transliteration": "а́джам",
+      "translation": "нерожденного"
+    },
+    {
+      "original": "सासि",
+      "transliteration": "вибху́м",
+      "translation": "всепроникающего"
+    },
+    {
+      "original": "तूण",
+      "transliteration": "джанакилакшманопетам",
+      "translation": "в сопровождении Джанаки и Лакшмана"
+    },
+    {
+      "original": "धनुः",
+      "transliteration": "джатамукутамандитам",
+      "translation": "украшенного короной из спутанных волос"
+    },
+    {
+      "original": "बाण",
+      "transliteration": "сааситунадханурбанапаним",
+      "translation": "держащего меч, колчан, лук и стрелу"
+    },
+    {
+      "original": "पाणिं",
+      "transliteration": "нактачарантакам",
+      "translation": "уничтожающего демонов ночи"
+    },
+    {
+      "original": "नक्तञ्चर",
+      "transliteration": "свалилйайа",
+      "translation": "по собственной воле"
+    },
+    {
+      "original": "अन्तकम्",
+      "transliteration": "джагаттратум",
+      "translation": "для защиты мира"
+    },
+    {
+      "original": "स्वलीलया",
+      "transliteration": "авирбхутам",
+      "translation": "явившегося"
+    },
+    {
+      "original": "जगत्",
+      "transliteration": "аджам",
+      "translation": "нерожденного"
+    },
+    {
+      "original": "त्रातुम्",
+      "transliteration": "вибхум",
+      "translation": "всепроникающего"
+    },
+    {
+      "original": "आविर्भूतम्",
+      "transliteration": "рамаракшам",
+      "translation": "защиту Рамы"
+    },
+    {
+      "original": "अजं",
+      "transliteration": "патхетпраджнях",
+      "translation": "должен читать мудрый человек"
+    },
+    {
+      "original": "विभुम्",
+      "transliteration": "папагхним",
+      "translation": "уничтожающую грехи"
+    },
+    {
+      "original": "रामरक्षां",
+      "transliteration": "сарвакамадам",
+      "translation": "исполняющую все желания"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "широ",
+      "translation": "голову"
+    },
+    {
+      "original": "प्राज्ञः",
+      "transliteration": "ме",
+      "translation": "мою"
+    },
+    {
+      "original": "पापघ्नीं",
+      "transliteration": "рагхавах",
+      "translation": "Рагхава (Рама)"
+    },
+    {
+      "original": "सर्वकामदाम्",
+      "transliteration": "пату",
+      "translation": "пусть защищает"
+    },
+    {
+      "original": "शिरः",
+      "transliteration": "бхалам",
+      "translation": "лоб"
+    },
+    {
+      "original": "मे",
+      "transliteration": "дашаратхатмаджах",
+      "translation": "сын Дашаратхи"
+    },
+    {
+      "original": "राघवः",
+      "transliteration": "каусальеё",
+      "translation": "сын Каусальи"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "дришау",
+      "translation": "глаза"
+    },
+    {
+      "original": "भालं",
+      "transliteration": "пату",
+      "translation": "пусть защищает"
+    },
+    {
+      "original": "दशरथात्मजः",
+      "transliteration": "вишвамитраприйах",
+      "translation": "любимый Вишвамитрой"
+    },
+    {
+      "original": "कौसल्येयो",
+      "transliteration": "шрути",
+      "translation": "уши"
+    },
+    {
+      "original": "दृशौ",
+      "transliteration": "гхранам",
+      "translation": "нос"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "пату",
+      "translation": "пусть защищает"
+    },
+    {
+      "original": "विश्वामित्रप्रियः",
+      "transliteration": "махатрата",
+      "translation": "защитник жертвоприношений"
+    },
+    {
+      "original": "श्रुती",
+      "transliteration": "мукхам",
+      "translation": "лицо"
+    },
+    {
+      "original": "घ्राणं",
+      "transliteration": "саумитриватсалах",
+      "translation": "любящий Лакшмана"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "джихвам",
+      "translation": "язык"
+    },
+    {
+      "original": "मखत्राता",
+      "transliteration": "видйанидхих",
+      "translation": "сокровищница знаний"
+    },
+    {
+      "original": "मुखं",
+      "transliteration": "пату",
+      "translation": "пусть защищает"
+    },
+    {
+      "original": "सौमित्रिवत्सलः",
+      "transliteration": "кантхам",
+      "translation": "горло"
+    },
+    {
+      "original": "जिह्वां",
+      "transliteration": "бхаратвандитах",
+      "translation": "почитаемый Бхаратой"
+    },
+    {
+      "original": "विद्यानिधिः",
+      "transliteration": "скандхау",
+      "translation": "плечи"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "дивйаюдхах",
+      "translation": "обладающий божественным оружием"
+    },
+    {
+      "original": "कण्ठं",
+      "transliteration": "бхуджау",
+      "translation": "руки"
+    },
+    {
+      "original": "भरतवन्दितः",
+      "transliteration": "бхагнешака́рмуках",
+      "translation": "сломавший лук Шивы"
+    },
+    {
+      "original": "स्कन्धौ",
+      "transliteration": "карау",
+      "translation": "руки"
+    },
+    {
+      "original": "दिव्यायुधः",
+      "transliteration": "ситапатих",
+      "translation": "супруг Ситы"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "пату",
+      "translation": "пусть защищает"
+    },
+    {
+      "original": "भुजौ",
+      "transliteration": "хридайам",
+      "translation": "сердце"
+    },
+    {
+      "original": "भग्न",
+      "transliteration": "джамадагняджит",
+      "translation": "победитель Раму Парашу"
+    },
+    {
+      "original": "ईश",
+      "transliteration": "мадхьям",
+      "translation": "талия"
+    },
+    {
+      "original": "कार्मुकः",
+      "transliteration": "пату",
+      "translation": "пусть защищает"
+    },
+    {
+      "original": "करौ",
+      "transliteration": "харадхвамси",
+      "translation": "уничтоживший демона Кхару"
+    },
+    {
+      "original": "सीतापतिः",
+      "transliteration": "набхим",
+      "translation": "пупок"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "джамбавад-ашрайах",
+      "translation": "покровитель Джамбавана"
+    },
+    {
+      "original": "हृदयं",
+      "transliteration": "сугри́веша",
+      "translation": "владыка Сугривы"
+    },
+    {
+      "original": "जामदग्न्य",
+      "transliteration": "кати",
+      "translation": "бедра"
+    },
+    {
+      "original": "जित्",
+      "transliteration": "пату",
+      "translation": "пусть защищает"
+    },
+    {
+      "original": "मध्यं",
+      "transliteration": "сактхини",
+      "translation": "бёдра"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "хануматпрабху",
+      "translation": "владыка Ханумана"
+    },
+    {
+      "original": "खर",
+      "transliteration": "уру",
+      "translation": "бедра"
+    },
+    {
+      "original": "ध्वंसी",
+      "transliteration": "рагхуттама",
+      "translation": "лучший из Рагху"
+    },
+    {
+      "original": "नाभिं",
+      "transliteration": "пату",
+      "translation": "пусть защищает"
+    },
+    {
+      "original": "जाम्बवत्",
+      "transliteration": "ракшахкулвинаша-крит",
+      "translation": "уничтоживший клан демонов"
+    },
+    {
+      "original": "आश्रयः",
+      "transliteration": "джануни",
+      "translation": "колени"
+    },
+    {
+      "original": "सुग्रीवेशः",
+      "transliteration": "сетукрит",
+      "translation": "построивший мост"
+    },
+    {
+      "original": "कटी",
+      "transliteration": "патु",
+      "translation": "пусть защищает"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "джангхе",
+      "translation": "голени"
+    },
+    {
+      "original": "सक्थिनी",
+      "transliteration": "дашамукхантак",
+      "translation": "уничтожитель Раваны"
+    },
+    {
+      "original": "हनुमत्",
+      "transliteration": "падау",
+      "translation": "стопы"
+    },
+    {
+      "original": "प्रभुः",
+      "transliteration": "бибхишанашрид",
+      "translation": "дарующий славу Вибхишане"
+    },
+    {
+      "original": "ऊरू",
+      "transliteration": "пату",
+      "translation": "пусть защищает"
+    },
+    {
+      "original": "रघूत्तमः",
+      "transliteration": "рамах",
+      "translation": "Рама"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "ахилам",
+      "translation": "весь"
+    },
+    {
+      "original": "रक्षः",
+      "transliteration": "вапух",
+      "translation": "тело"
+    },
+    {
+      "original": "कुल",
+      "transliteration": "этаам",
+      "translation": "эту"
+    },
+    {
+      "original": "विनाश",
+      "transliteration": "рама-балопетам",
+      "translation": "наполненную силой Рамы"
+    },
+    {
+      "original": "कृत्",
+      "transliteration": "ракшам",
+      "translation": "защиту"
+    },
+    {
+      "original": "जानुनी",
+      "transliteration": "ях",
+      "translation": "кто"
+    },
+    {
+      "original": "सेतुकृत्",
+      "transliteration": "сукрити",
+      "translation": "благочестивый"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "патхет",
+      "translation": "читает"
+    },
+    {
+      "original": "जङ्घे",
+      "transliteration": "са",
+      "translation": "он"
+    },
+    {
+      "original": "दशमुख",
+      "transliteration": "чирайух",
+      "translation": "долгожитель"
+    },
+    {
+      "original": "अन्तकः",
+      "transliteration": "сухи",
+      "translation": "счастливый"
+    },
+    {
+      "original": "पादौ",
+      "transliteration": "путри",
+      "translation": "имеющий сыновей"
+    },
+    {
+      "original": "बिभीषण",
+      "transliteration": "виджаи",
+      "translation": "победитель"
+    },
+    {
+      "original": "श्रीदः",
+      "transliteration": "винайи",
+      "translation": "скромный"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "бхавет",
+      "translation": "становится"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "паатала",
+      "translation": "подземный мир"
+    },
+    {
+      "original": "अखिलं",
+      "transliteration": "бхутала",
+      "translation": "земля"
+    },
+    {
+      "original": "वपुः",
+      "transliteration": "вйома",
+      "translation": "небо"
+    },
+    {
+      "original": "एतां",
+      "transliteration": "чаринах",
+      "translation": "передвигающиеся"
+    },
+    {
+      "original": "रामबल",
+      "transliteration": "чхадма",
+      "translation": "замаскированные"
+    },
+    {
+      "original": "उपेतां",
+      "transliteration": "чаринах",
+      "translation": "передвигающиеся"
+    },
+    {
+      "original": "रक्षां",
+      "transliteration": "на",
+      "translation": "не"
+    },
+    {
+      "original": "यः",
+      "transliteration": "драшту",
+      "translation": "видеть"
+    },
+    {
+      "original": "सुकृती",
+      "transliteration": "апи",
+      "translation": "даже"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "шактаах",
+      "translation": "способны"
+    },
+    {
+      "original": "स",
+      "transliteration": "те",
+      "translation": "они"
+    },
+    {
+      "original": "चिरायुः",
+      "transliteration": "ракшитам",
+      "translation": "защищенное"
+    },
+    {
+      "original": "सुखी",
+      "transliteration": "раманамабхих",
+      "translation": "именами Рамы"
+    },
+    {
+      "original": "पुत्री",
+      "transliteration": "рамэти",
+      "translation": "\"Рама\""
+    },
+    {
+      "original": "विजयी",
+      "transliteration": "рамбхадрети",
+      "translation": "\"Рамабхадра\""
+    },
+    {
+      "original": "विनयी",
+      "transliteration": "рамчандрети",
+      "translation": "\"Рамачандра\""
+    },
+    {
+      "original": "भवेत्",
+      "transliteration": "ва",
+      "translation": "или"
+    },
+    {
+      "original": "पाताल",
+      "transliteration": "смаран",
+      "translation": "вспоминая"
+    },
+    {
+      "original": "भूतल",
+      "transliteration": "наро",
+      "translation": "человек"
+    },
+    {
+      "original": "व्योम",
+      "transliteration": "на",
+      "translation": "не"
+    },
+    {
+      "original": "चारिणः",
+      "transliteration": "липяте",
+      "translation": "покрывается"
+    },
+    {
+      "original": "छद्म",
+      "transliteration": "папайх",
+      "translation": "грехами"
+    },
+    {
+      "original": "चारिणः",
+      "transliteration": "бхуктим",
+      "translation": "наслаждение"
+    },
+    {
+      "original": "न",
+      "transliteration": "муктим",
+      "translation": "освобождение"
+    },
+    {
+      "original": "द्रष्टुम्",
+      "transliteration": "ча",
+      "translation": "и"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "виндати",
+      "translation": "обретает"
+    },
+    {
+      "original": "शक्ताः",
+      "transliteration": "джагаджайтра",
+      "translation": "победоносный во всем мире"
+    },
+    {
+      "original": "ते",
+      "transliteration": "эка-мантрена",
+      "translation": "с единой мантрой"
+    },
+    {
+      "original": "रक्षितम्",
+      "transliteration": "раманамна",
+      "translation": "именем Рамы"
+    },
+    {
+      "original": "रामनामभिः",
+      "transliteration": "абхи-ракшитам",
+      "translation": "охраняемый"
+    },
+    {
+      "original": "रामेति",
+      "transliteration": "ях",
+      "translation": "кто"
+    },
+    {
+      "original": "रामभद्रेति",
+      "transliteration": "кантхе",
+      "translation": "на шее"
+    },
+    {
+      "original": "रामचन्द्रेति",
+      "transliteration": "дхарйает",
+      "translation": "носит"
+    },
+    {
+      "original": "वा",
+      "transliteration": "тасья",
+      "translation": "его"
+    },
+    {
+      "original": "स्मरन्",
+      "transliteration": "карастхах",
+      "translation": "находящиеся в руке"
+    },
+    {
+      "original": "नरो",
+      "transliteration": "сарвасиддхаях",
+      "translation": "все совершенства"
+    },
+    {
+      "original": "न",
+      "transliteration": "ваджрапанджара",
+      "translation": "алмазная защита"
+    },
+    {
+      "original": "लिप्यते",
+      "transliteration": "нама",
+      "translation": "называемая"
+    },
+    {
+      "original": "पापैः",
+      "transliteration": "идам",
+      "translation": "это"
+    },
+    {
+      "original": "भुक्तिं",
+      "transliteration": "ях",
+      "translation": "кто"
+    },
+    {
+      "original": "मुक्तिं",
+      "transliteration": "рама",
+      "translation": "Рама"
+    },
+    {
+      "original": "च",
+      "transliteration": "кавачам",
+      "translation": "броня"
+    },
+    {
+      "original": "विन्दति",
+      "transliteration": "смарет",
+      "translation": "помнит"
+    },
+    {
+      "original": "जगज्जैत्र",
+      "transliteration": "авйахатаджнах",
+      "translation": "имеющий несокрушимую мудрость"
+    },
+    {
+      "original": "एक",
+      "transliteration": "сарватра",
+      "translation": "везде"
+    },
+    {
+      "original": "मन्त्रेण",
+      "transliteration": "лабхате",
+      "translation": "получает"
+    },
+    {
+      "original": "रामनाम्ना",
+      "transliteration": "джаямангалам",
+      "translation": "победу и благополучие"
+    },
+    {
+      "original": "अभिरक्षितम्",
+      "transliteration": "адиштавн",
+      "translation": "повелел"
+    },
+    {
+      "original": "यः",
+      "transliteration": "ятха",
+      "translation": "как"
+    },
+    {
+      "original": "कण्ठे",
+      "transliteration": "свапне",
+      "translation": "во сне"
+    },
+    {
+      "original": "धारयेत्",
+      "transliteration": "рамаракшам",
+      "translation": "защиту Рамы"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "имам",
+      "translation": "эту"
+    },
+    {
+      "original": "करस्थाः",
+      "transliteration": "харах",
+      "translation": "Шива"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "таха",
+      "translation": "так"
+    },
+    {
+      "original": "सिद्धयः",
+      "transliteration": "лихитаван",
+      "translation": "записал"
+    },
+    {
+      "original": "वज्र",
+      "transliteration": "пратах",
+      "translation": "утром"
+    },
+    {
+      "original": "पञ्जर",
+      "transliteration": "прабуддха",
+      "translation": "пробудившись"
+    },
+    {
+      "original": "नाम",
+      "transliteration": "будхакаушиках",
+      "translation": "мудрец Будхакаушика"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "аарамах",
+      "translation": "обитель покоя"
+    },
+    {
+      "original": "यः",
+      "transliteration": "калпаврикшанам",
+      "translation": "среди деревьев исполнения желаний"
+    },
+    {
+      "original": "राम",
+      "transliteration": "вирамах",
+      "translation": "успокоение"
+    },
+    {
+      "original": "कवचं",
+      "transliteration": "сакалаападам",
+      "translation": "всех бедствий"
+    },
+    {
+      "original": "स्मरेत्",
+      "transliteration": "абхирамах",
+      "translation": "восхитительный"
+    },
+    {
+      "original": "अव्याहत",
+      "transliteration": "трилоканам",
+      "translation": "трех миров"
+    },
+    {
+      "original": "आज्ञः",
+      "transliteration": "рамах",
+      "translation": "Рама"
+    },
+    {
+      "original": "सर्वत्र",
+      "transliteration": "шриман",
+      "translation": "благословенный"
+    },
+    {
+      "original": "लभते",
+      "transliteration": "са",
+      "translation": "он"
+    },
+    {
+      "original": "जय",
+      "transliteration": "нах",
+      "translation": "наш"
+    },
+    {
+      "original": "मङ्गलम्",
+      "transliteration": "прабхух",
+      "translation": "господин"
+    },
+    {
+      "original": "आदिष्टवान्",
+      "transliteration": "тарунау",
+      "translation": "юные"
+    },
+    {
+      "original": "यथा",
+      "transliteration": "рупасампннау",
+      "translation": "красивые"
+    },
+    {
+      "original": "स्वप्ने",
+      "transliteration": "сукумарау",
+      "translation": "нежные"
+    },
+    {
+      "original": "रामरक्षाम्",
+      "transliteration": "махабалау",
+      "translation": "могучие"
+    },
+    {
+      "original": "इमां",
+      "transliteration": "пундарика",
+      "translation": "лотосный"
+    },
+    {
+      "original": "हरः",
+      "transliteration": "вишалаакшау",
+      "translation": "с большими глазами"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "чира",
+      "translation": "одежда отшельника"
+    },
+    {
+      "original": "लिखितवान्",
+      "transliteration": "кришнаджинаамбарау",
+      "translation": "в одежде из оленьей шкуры"
+    },
+    {
+      "original": "प्रातः",
+      "transliteration": "пхаламулашинау",
+      "translation": "питающиеся фруктами и корнями"
+    },
+    {
+      "original": "प्रबुद्धः",
+      "transliteration": "дантау",
+      "translation": "сдержанные"
+    },
+    {
+      "original": "बुध",
+      "transliteration": "тапасау",
+      "translation": "аскеты"
+    },
+    {
+      "original": "कौशिकः",
+      "transliteration": "брахмачаринау",
+      "translation": "следующие пути целомудрия"
+    },
+    {
+      "original": "आरामः",
+      "transliteration": "путрау",
+      "translation": "сыновья"
+    },
+    {
+      "original": "कल्पवृक्षाणां",
+      "transliteration": "дашаратхасйа",
+      "translation": "Дашаратхи"
+    },
+    {
+      "original": "विरामः",
+      "transliteration": "этау",
+      "translation": "эти"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "бхратарау",
+      "translation": "братья"
+    },
+    {
+      "original": "आपदाम्",
+      "transliteration": "рамалакшманау",
+      "translation": "Рама и Лакшмана"
+    },
+    {
+      "original": "अभिरामः",
+      "transliteration": "шараняу",
+      "translation": "защитники"
+    },
+    {
+      "original": "त्रिलोकानाम्",
+      "transliteration": "сарвасаттванам",
+      "translation": "всех существ"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "шрештхау",
+      "translation": "лучшие"
+    },
+    {
+      "original": "श्रीमान्",
+      "transliteration": "сарваданушматам",
+      "translation": "среди всех лучников"
+    },
+    {
+      "original": "सः",
+      "transliteration": "ракшах",
+      "translation": "демонов"
+    },
+    {
+      "original": "नः",
+      "transliteration": "кула",
+      "translation": "рода"
+    },
+    {
+      "original": "प्रभुः",
+      "transliteration": "нихантарау",
+      "translation": "уничтожители"
+    },
+    {
+      "original": "तरुणौ",
+      "transliteration": "трайетам",
+      "translation": "да защитят"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "но",
+      "translation": "нас"
+    },
+    {
+      "original": "सम्पन्नौ",
+      "transliteration": "рагхуттамау",
+      "translation": "величайшие из рода Рагху"
+    },
+    {
+      "original": "सुकुमारौ",
+      "transliteration": "аттасаджжа",
+      "translation": "вооруженные"
+    },
+    {
+      "original": "महा",
+      "transliteration": "дануша",
+      "translation": "луками"
+    },
+    {
+      "original": "बलौ",
+      "transliteration": "вишусприш",
+      "translation": "держащие стрелы"
+    },
+    {
+      "original": "पुण्डरीक",
+      "transliteration": "акшаяашу",
+      "translation": "неистощимые и быстрые"
+    },
+    {
+      "original": "विशाल",
+      "transliteration": "нишангасангинау",
+      "translation": "с колчанами за плечами"
+    },
+    {
+      "original": "अक्षौ",
+      "transliteration": "ракшанайа",
+      "translation": "для защиты"
+    },
+    {
+      "original": "चीर",
+      "transliteration": "мама",
+      "translation": "меня"
+    },
+    {
+      "original": "कृष्ण",
+      "transliteration": "рамалакшманау",
+      "translation": "Рама и Лакшмана"
+    },
+    {
+      "original": "अजिन",
+      "transliteration": "аграта",
+      "translation": "впереди"
+    },
+    {
+      "original": "अम्बरौ",
+      "transliteration": "пати",
+      "translation": "на пути"
+    },
+    {
+      "original": "फल",
+      "transliteration": "садайва",
+      "translation": "всегда"
+    },
+    {
+      "original": "मूल",
+      "transliteration": "гаччатам",
+      "translation": "да идут"
+    },
+    {
+      "original": "आशिनौ",
+      "transliteration": "саннаддхах",
+      "translation": "полностью вооруженный"
+    },
+    {
+      "original": "दान्तौ",
+      "transliteration": "кавачи",
+      "translation": "в доспехах"
+    },
+    {
+      "original": "तापसौ",
+      "transliteration": "кхадги",
+      "translation": "с мечом"
+    },
+    {
+      "original": "ब्रह्म",
+      "transliteration": "чапабанадхаро",
+      "translation": "с луком и стрелами"
+    },
+    {
+      "original": "चारिणौ",
+      "transliteration": "юва",
+      "translation": "молодой"
+    },
+    {
+      "original": "पुत्रौ",
+      "transliteration": "гаччан",
+      "translation": "идущий"
+    },
+    {
+      "original": "दशरथस्य",
+      "transliteration": "маноратах",
+      "translation": "желание"
+    },
+    {
+      "original": "एतौ",
+      "transliteration": "асмакам",
+      "translation": "наш"
+    },
+    {
+      "original": "भ्रातरौ",
+      "transliteration": "рамах",
+      "translation": "Рама"
+    },
+    {
+      "original": "राम",
+      "transliteration": "пату",
+      "translation": "да защитит"
+    },
+    {
+      "original": "लक्ष्मणौ",
+      "transliteration": "салакшманах",
+      "translation": "вместе с Лакшманой"
+    },
+    {
+      "original": "शरण्यौ",
+      "transliteration": "рамах",
+      "translation": "Рама"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "дашаратхих",
+      "translation": "сын Дашаратхи"
+    },
+    {
+      "original": "सत्त्वानाम्",
+      "transliteration": "шурах",
+      "translation": "храбрый"
+    },
+    {
+      "original": "श्रेष्ठौ",
+      "transliteration": "лакшмананучарах",
+      "translation": "следующий за Лакшманой"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "бали",
+      "translation": "сильный"
+    },
+    {
+      "original": "धनुष्मताम्",
+      "transliteration": "какутстхах",
+      "translation": "потомок Какутстхи"
+    },
+    {
+      "original": "रक्षः",
+      "transliteration": "пурушах",
+      "translation": "человек"
+    },
+    {
+      "original": "कुल",
+      "transliteration": "пурнах",
+      "translation": "совершенный"
+    },
+    {
+      "original": "निहन्तारौ",
+      "transliteration": "каусальейах",
+      "translation": "сын Каусальи"
+    },
+    {
+      "original": "त्रायेताम्",
+      "transliteration": "рагхуттмах",
+      "translation": "лучший из рода Рагху"
+    },
+    {
+      "original": "नः",
+      "transliteration": "ведантаведйах",
+      "translation": "познаваемый через Веданту"
+    },
+    {
+      "original": "रघूत्तमौ",
+      "transliteration": "ягньешах",
+      "translation": "владыка жертвоприношений"
+    },
+    {
+      "original": "आत्त",
+      "transliteration": "пуранапурушоттамах",
+      "translation": "древнейший Верховный Человек"
+    },
+    {
+      "original": "सज्ज",
+      "transliteration": "жанакиваллабхах",
+      "translation": "возлюбленный Ситы"
+    },
+    {
+      "original": "धनुषौ",
+      "transliteration": "шриман",
+      "translation": "благословенный"
+    },
+    {
+      "original": "इषु",
+      "transliteration": "апрамейах",
+      "translation": "непостижимый"
+    },
+    {
+      "original": "स्पृशौ",
+      "transliteration": "паракрамах",
+      "translation": "могучий"
+    },
+    {
+      "original": "अक्षय",
+      "transliteration": "итйетани",
+      "translation": "таковы эти"
+    },
+    {
+      "original": "आशुग",
+      "transliteration": "джапан",
+      "translation": "повторяя"
+    },
+    {
+      "original": "निषङ्ग",
+      "transliteration": "нитьям",
+      "translation": "постоянно"
+    },
+    {
+      "original": "सङ्गिनौ",
+      "transliteration": "мадбхактах",
+      "translation": "мой преданный"
+    },
+    {
+      "original": "रक्षणाय",
+      "transliteration": "шраддхаянвитах",
+      "translation": "полный веры"
+    },
+    {
+      "original": "मम",
+      "transliteration": "ашвамедхадхикам",
+      "translation": "больше, чем жертва коня"
+    },
+    {
+      "original": "राम",
+      "transliteration": "пунйам",
+      "translation": "благочестивый плод"
+    },
+    {
+      "original": "लक्ष्मणौ",
+      "transliteration": "сампрапноти",
+      "translation": "обретает"
+    },
+    {
+      "original": "अग्रतः",
+      "transliteration": "на",
+      "translation": "не"
+    },
+    {
+      "original": "पथि",
+      "transliteration": "самшайах",
+      "translation": "сомнение"
+    },
+    {
+      "original": "सदैव",
+      "transliteration": "рамам",
+      "translation": "Раму"
+    },
+    {
+      "original": "गच्छताम्",
+      "transliteration": "дурвадалашйамам",
+      "translation": "темного, как лист травы дурва"
+    },
+    {
+      "original": "सन्नद्धः",
+      "transliteration": "падмакшам",
+      "translation": "с глазами, как лотос"
+    },
+    {
+      "original": "कवची",
+      "transliteration": "питавасасам",
+      "translation": "в желтых одеждах"
+    },
+    {
+      "original": "खड्गी",
+      "transliteration": "стуванти",
+      "translation": "прославляют"
+    },
+    {
+      "original": "चाप",
+      "transliteration": "намабхих",
+      "translation": "именами"
+    },
+    {
+      "original": "बाण",
+      "transliteration": "дивйайх",
+      "translation": "божественными"
+    },
+    {
+      "original": "धरः",
+      "transliteration": "на",
+      "translation": "не"
+    },
+    {
+      "original": "युवा",
+      "transliteration": "те",
+      "translation": "они"
+    },
+    {
+      "original": "गच्छन्",
+      "transliteration": "самсаринах",
+      "translation": "подвержены сансаре"
+    },
+    {
+      "original": "मनोरथः",
+      "transliteration": "нарах",
+      "translation": "люди"
+    },
+    {
+      "original": "अस्माकं",
+      "transliteration": "рамам",
+      "translation": "Раму"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "лакшманапурваджам",
+      "translation": "старшего брата Лакшманы"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "рагхуварам",
+      "translation": "лучшего из рода Рагху"
+    },
+    {
+      "original": "सलक्ष्मणः",
+      "transliteration": "ситапатим",
+      "translation": "мужа Ситы"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "сундарам",
+      "translation": "прекрасного"
+    },
+    {
+      "original": "दाशरथिः",
+      "transliteration": "какутстхам",
+      "translation": "потомка Какутстхи"
+    },
+    {
+      "original": "शूरः",
+      "transliteration": "карунарнавам",
+      "translation": "океан сострадания"
+    },
+    {
+      "original": "लक्ष्मण",
+      "transliteration": "гунанидхим",
+      "translation": "сокровищницу добродетелей"
+    },
+    {
+      "original": "अनुचरः",
+      "transliteration": "випраприам",
+      "translation": "любимого брахманами"
+    },
+    {
+      "original": "बली",
+      "transliteration": "дхармикам",
+      "translation": "праведного"
+    },
+    {
+      "original": "काकुत्स्थः",
+      "transliteration": "рамам",
+      "translation": "Раму"
+    },
+    {
+      "original": "पुरुषः",
+      "transliteration": "лакшманапурваджам",
+      "translation": "старшего брата Лакшманы"
+    },
+    {
+      "original": "पूर्णः",
+      "transliteration": "рагхуварам",
+      "translation": "лучшего из рода Рагху"
+    },
+    {
+      "original": "कौसल्येयः",
+      "transliteration": "ситапатим",
+      "translation": "мужа Ситы"
+    },
+    {
+      "original": "रघूत्तमः",
+      "transliteration": "сундарам",
+      "translation": "прекрасного"
+    },
+    {
+      "original": "वेदान्त",
+      "transliteration": "какутстхам",
+      "translation": "потомка Какутстхи"
+    },
+    {
+      "original": "वेद्यः",
+      "transliteration": "карунарнавам",
+      "translation": "океан сострадания"
+    },
+    {
+      "original": "यज्ञेशः",
+      "transliteration": "гунанидхим",
+      "translation": "сокровищницу добродетелей"
+    },
+    {
+      "original": "पुराण",
+      "transliteration": "випраприам",
+      "translation": "любимого брахманами"
+    },
+    {
+      "original": "पुरुषोत्तमः",
+      "transliteration": "дхармикам",
+      "translation": "праведного"
+    },
+    {
+      "original": "जानकी",
+      "transliteration": "шрирама",
+      "translation": "святой Рама"
+    },
+    {
+      "original": "वल्लभः",
+      "transliteration": "рама",
+      "translation": "Рама"
+    },
+    {
+      "original": "श्रीमान्",
+      "transliteration": "рагунандана",
+      "translation": "радость рода Рагху"
+    },
+    {
+      "original": "अप्रमेयः",
+      "transliteration": "рама",
+      "translation": "Рама"
+    },
+    {
+      "original": "पराक्रमः",
+      "transliteration": "рама",
+      "translation": "Рама"
+    },
+    {
+      "original": "इति",
+      "transliteration": "шрирама",
+      "translation": "святой Рама"
+    },
+    {
+      "original": "एतानि",
+      "transliteration": "рама",
+      "translation": "Рама"
+    },
+    {
+      "original": "जपन",
+      "transliteration": "бхаратаграджа",
+      "translation": "старший брат Бхараты"
+    },
+    {
+      "original": "नित्यं",
+      "transliteration": "рама",
+      "translation": "Рама"
+    },
+    {
+      "original": "मद्भक्तः",
+      "transliteration": "шрӣрамачандра-чаранау",
+      "translation": "ступни Шри Рамачандры"
+    },
+    {
+      "original": "श्रद्धया",
+      "transliteration": "манаса",
+      "translation": "умом"
+    },
+    {
+      "original": "अन्वितः",
+      "transliteration": "смарами",
+      "translation": "помню"
+    },
+    {
+      "original": "अश्वमेध",
+      "transliteration": "шрӣрамачандра-чаранау",
+      "translation": "ступни Шри Рамачандры"
+    },
+    {
+      "original": "अधिकं",
+      "transliteration": "вачаса",
+      "translation": "речью"
+    },
+    {
+      "original": "पुण्यम्",
+      "transliteration": "гринами",
+      "translation": "восхваляю"
+    },
+    {
+      "original": "सम्प्राप्नोति",
+      "transliteration": "шрӣрамачандра-чаранау",
+      "translation": "ступни Шри Рамачандры"
+    },
+    {
+      "original": "न",
+      "transliteration": "шираса",
+      "translation": "головой"
+    },
+    {
+      "original": "संशयः",
+      "transliteration": "намами",
+      "translation": "поклоняюсь"
+    },
+    {
+      "original": "रामं",
+      "transliteration": "шрӣрамачандра-чаранау",
+      "translation": "ступни Шри Рамачандры"
+    },
+    {
+      "original": "दूर्वा",
+      "transliteration": "шаранам",
+      "translation": "прибежище"
+    },
+    {
+      "original": "दल",
+      "transliteration": "прападйе",
+      "translation": "предаюсь"
+    },
+    {
+      "original": "श्यामं",
+      "transliteration": "мата",
+      "translation": "мать"
+    },
+    {
+      "original": "पद्म",
+      "transliteration": "рамах",
+      "translation": "Рама"
+    },
+    {
+      "original": "अक्षं",
+      "transliteration": "матпита",
+      "translation": "мой отец"
+    },
+    {
+      "original": "पीत",
+      "transliteration": "рамачандрах",
+      "translation": "Рамачандра"
+    },
+    {
+      "original": "वाससम्",
+      "transliteration": "свами",
+      "translation": "господин"
+    },
+    {
+      "original": "स्तुवन्ति",
+      "transliteration": "рамах",
+      "translation": "Рама"
+    },
+    {
+      "original": "नामभिः",
+      "transliteration": "матсакха",
+      "translation": "мой друг"
+    },
+    {
+      "original": "दिव्यैः",
+      "transliteration": "рамачандрах",
+      "translation": "Рамачандра"
+    },
+    {
+      "original": "न",
+      "transliteration": "сарвасвам",
+      "translation": "всё мое"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ме",
+      "translation": "мое"
+    },
+    {
+      "original": "संसारिणः",
+      "transliteration": "рамачандрах",
+      "translation": "Рамачандра"
+    },
+    {
+      "original": "नराः",
+      "transliteration": "даялух",
+      "translation": "милостивый"
+    },
+    {
+      "original": "रामं",
+      "transliteration": "на",
+      "translation": "не"
+    },
+    {
+      "original": "लक्ष्मण",
+      "transliteration": "аням",
+      "translation": "другого"
+    },
+    {
+      "original": "पूर्वजं",
+      "transliteration": "джане",
+      "translation": "знаю"
+    },
+    {
+      "original": "रघुवरं",
+      "transliteration": "найва",
+      "translation": "вовсе не"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "джане",
+      "translation": "знаю"
+    },
+    {
+      "original": "पतिं",
+      "transliteration": "на",
+      "translation": "не"
+    },
+    {
+      "original": "सुन्दरम्",
+      "transliteration": "джане",
+      "translation": "знаю"
+    },
+    {
+      "original": "काकुत्स्थं",
+      "transliteration": "дакшине",
+      "translation": "справа"
+    },
+    {
+      "original": "करुणार्णवं",
+      "transliteration": "лакшманах",
+      "translation": "Лакшмана"
+    },
+    {
+      "original": "गुणनिधिं",
+      "transliteration": "ясйа",
+      "translation": "у которого"
+    },
+    {
+      "original": "विप्रप्रियं",
+      "transliteration": "ваме",
+      "translation": "слева"
+    },
+    {
+      "original": "धार्मिकम्",
+      "transliteration": "ту",
+      "translation": "же"
+    },
+    {
+      "original": "राजेन्द्रं",
+      "transliteration": "джанакатмаджа",
+      "translation": "дочь Джанаки"
+    },
+    {
+      "original": "सत्यसन्धं",
+      "transliteration": "пуратах",
+      "translation": "впереди"
+    },
+    {
+      "original": "दशरथ",
+      "transliteration": "марутах",
+      "translation": "Хануман"
+    },
+    {
+      "original": "तनयं",
+      "transliteration": "ясйа",
+      "translation": "у которого"
+    },
+    {
+      "original": "श्यामलं",
+      "transliteration": "там",
+      "translation": "того"
+    },
+    {
+      "original": "शान्तमूर्तिम्",
+      "transliteration": "вандэ",
+      "translation": "почитаю"
+    },
+    {
+      "original": "वन्दे",
+      "transliteration": "рагу-нанданам",
+      "translation": "радость рода Рагху"
+    },
+    {
+      "original": "लोकाभिरामं",
+      "transliteration": "локаабхирамам",
+      "translation": "услаждающий мир"
+    },
+    {
+      "original": "रघुकुल",
+      "transliteration": "ранарангадхйирам",
+      "translation": "мужественный на поле битвы"
+    },
+    {
+      "original": "तिलकं",
+      "transliteration": "радживанетрам",
+      "translation": "лотосоокий"
+    },
+    {
+      "original": "राघवं",
+      "transliteration": "рагувамшанатхам",
+      "translation": "владыку рода Рагху"
+    },
+    {
+      "original": "रावणारिम्",
+      "transliteration": "карунйарупам",
+      "translation": "воплощение милосердия"
+    },
+    {
+      "original": "रामाय",
+      "transliteration": "карунакарам",
+      "translation": "источник сострадания"
+    },
+    {
+      "original": "रामभद्राय",
+      "transliteration": "там",
+      "translation": "того"
+    },
+    {
+      "original": "रामचन्द्राय",
+      "transliteration": "шрӣрамачандрам",
+      "translation": "Шри Рамачандру"
+    },
+    {
+      "original": "वेधसे",
+      "transliteration": "шаранам",
+      "translation": "прибежище"
+    },
+    {
+      "original": "रघुनाथाय",
+      "transliteration": "прападйе",
+      "translation": "предаюсь"
+    },
+    {
+      "original": "नाथाय",
+      "transliteration": "маноджавам",
+      "translation": "быстрый как мысль"
+    },
+    {
+      "original": "सीतायाः",
+      "transliteration": "марутатульявегам",
+      "translation": "скорый как ветер"
+    },
+    {
+      "original": "पतये",
+      "transliteration": "житендрийям",
+      "translation": "покоривший чувства"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "буддхиматам",
+      "translation": "среди мудрых"
+    },
+    {
+      "original": "श्रीराम",
+      "transliteration": "вариштхам",
+      "translation": "величайший"
+    },
+    {
+      "original": "राम",
+      "transliteration": "вататмаджам",
+      "translation": "сын ветра"
+    },
+    {
+      "original": "रघुनन्दन",
+      "transliteration": "ванарайутхамукхйам",
+      "translation": "вождя обезьяньего войска"
+    },
+    {
+      "original": "राम",
+      "transliteration": "шрӣрамадутам",
+      "translation": "посланника Шри Рамы"
+    },
+    {
+      "original": "राम",
+      "transliteration": "шаранам",
+      "translation": "прибежище"
+    },
+    {
+      "original": "श्रीराम",
+      "transliteration": "прападйе",
+      "translation": "предаюсь"
+    },
+    {
+      "original": "राम",
+      "transliteration": "куджантам",
+      "translation": "сладкоголосо поющего"
+    },
+    {
+      "original": "भरताग्रज",
+      "transliteration": "рама",
+      "translation": "Рама"
+    },
+    {
+      "original": "राम",
+      "transliteration": "рамэти",
+      "translation": "\"Рама\""
+    },
+    {
+      "original": "राम",
+      "transliteration": "мадхурам",
+      "translation": "сладостно"
+    },
+    {
+      "original": "श्रीराम",
+      "transliteration": "мадхуракшарам",
+      "translation": "сладкие слоги"
+    },
+    {
+      "original": "राम",
+      "transliteration": "арухйа",
+      "translation": "взобравшись"
+    },
+    {
+      "original": "रणकर्कश",
+      "transliteration": "кавиташакхам",
+      "translation": "на ветвь поэзии"
+    },
+    {
+      "original": "राम",
+      "transliteration": "вандэ",
+      "translation": "почитаю"
+    },
+    {
+      "original": "राम",
+      "transliteration": "валмики-кокилам",
+      "translation": "Валмики-соловья"
+    },
+    {
+      "original": "श्रीराम",
+      "transliteration": "ападам-апахартарам",
+      "translation": "устраняющего беды"
+    },
+    {
+      "original": "राम",
+      "transliteration": "датарам",
+      "translation": "дарующего"
+    },
+    {
+      "original": "शरणं",
+      "transliteration": "сарвасампадам",
+      "translation": "все богатства"
+    },
+    {
+      "original": "भव",
+      "transliteration": "локаабхирамам",
+      "translation": "услаждающий мир"
+    },
+    {
+      "original": "राम",
+      "transliteration": "шрӣрамам",
+      "translation": "Шри Раму"
+    },
+    {
+      "original": "राम",
+      "transliteration": "бхуйо",
+      "translation": "снова"
+    },
+    {
+      "original": "श्रीरामचन्द्र",
+      "transliteration": "бхуйо",
+      "translation": "снова"
+    },
+    {
+      "original": "चरणौ",
+      "transliteration": "намамйахам",
+      "translation": "почитаю я"
+    },
+    {
+      "original": "मनसा",
+      "transliteration": "бхаржанам",
+      "translation": "сжигание"
+    },
+    {
+      "original": "स्मरामि",
+      "transliteration": "бхабиджанам",
+      "translation": "семян существования"
+    },
+    {
+      "original": "श्रीरामचन्द्र",
+      "transliteration": "арджанам",
+      "translation": "накопление"
+    },
+    {
+      "original": "चरणौ",
+      "transliteration": "сухасампадам",
+      "translation": "счастья и богатства"
+    },
+    {
+      "original": "वचसा",
+      "transliteration": "таржанам",
+      "translation": "устрашение"
+    },
+    {
+      "original": "गृणामि",
+      "transliteration": "ямадутанам",
+      "translation": "посланников Ямы"
+    },
+    {
+      "original": "श्रीरामचन्द्र",
+      "transliteration": "рама",
+      "translation": "Рама"
+    },
+    {
+      "original": "चरणौ",
+      "transliteration": "рамэти",
+      "translation": "\"Рама\""
+    },
+    {
+      "original": "शिरसा",
+      "transliteration": "гарджанам",
+      "translation": "громогласное провозглашение"
+    },
+    {
+      "original": "नमामि",
+      "transliteration": "рамах",
+      "translation": "Рама"
+    },
+    {
+      "original": "श्रीरामचन्द्र",
+      "transliteration": "раджамани",
+      "translation": "драгоценность царей"
+    },
+    {
+      "original": "चरणौ",
+      "transliteration": "сада",
+      "translation": "всегда"
+    },
+    {
+      "original": "शरणं",
+      "transliteration": "виджайате",
+      "translation": "побеждает"
+    },
+    {
+      "original": "प्रपद्ये",
+      "transliteration": "рамам",
+      "translation": "Раму"
+    },
+    {
+      "original": "माता",
+      "transliteration": "рамеша",
+      "translation": "владыку Лакшми"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "бхадже",
+      "translation": "поклоняюсь"
+    },
+    {
+      "original": "मत्पिता",
+      "transliteration": "рамэна",
+      "translation": "Рамой"
+    },
+    {
+      "original": "रामचन्द्रः",
+      "transliteration": "абхихата",
+      "translation": "пораженная"
+    },
+    {
+      "original": "स्वामी",
+      "transliteration": "нишачарачаму",
+      "translation": "армия демонов"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "рамайа",
+      "translation": "Раме"
+    },
+    {
+      "original": "मत्सखा",
+      "transliteration": "тасмай",
+      "translation": "тому"
+    },
+    {
+      "original": "रामचन्द्रः",
+      "transliteration": "намах",
+      "translation": "поклон"
+    },
+    {
+      "original": "सर्वस्वं",
+      "transliteration": "рамат",
+      "translation": "от Рамы"
+    },
+    {
+      "original": "मे",
+      "transliteration": "насти",
+      "translation": "нет"
+    },
+    {
+      "original": "रामचन्द्रः",
+      "transliteration": "параянам",
+      "translation": "высшего прибежища"
+    },
+    {
+      "original": "दयालुः",
+      "transliteration": "паратарам",
+      "translation": "выше"
+    },
+    {
+      "original": "न",
+      "transliteration": "рамасйа",
+      "translation": "Рамы"
+    },
+    {
+      "original": "अन्यं",
+      "transliteration": "дасах",
+      "translation": "слуга"
+    },
+    {
+      "original": "जाने",
+      "transliteration": "асми",
+      "translation": "я есть"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "ахам",
+      "translation": "я"
+    },
+    {
+      "original": "जाने",
+      "transliteration": "рамэ",
+      "translation": "в Раме"
+    },
+    {
+      "original": "न",
+      "transliteration": "читталайах",
+      "translation": "растворение ума"
+    },
+    {
+      "original": "जाने",
+      "transliteration": "сада",
+      "translation": "всегда"
+    },
+    {
+      "original": "दक्षिणे",
+      "transliteration": "бхавату",
+      "translation": "да будет"
+    },
+    {
+      "original": "लक्ष्मणः",
+      "transliteration": "ме",
+      "translation": "у меня"
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "бхо",
+      "translation": "о!"
+    },
+    {
+      "original": "वामे",
+      "transliteration": "рама",
+      "translation": "Рама"
+    },
+    {
+      "original": "तु",
+      "transliteration": "мам",
+      "translation": "меня"
+    },
+    {
+      "original": "जनकात्मजा",
+      "transliteration": "уддхара",
+      "translation": "спаси"
+    },
+    {
+      "original": "पुरतः",
+      "transliteration": "рама",
+      "translation": "Рама"
+    },
+    {
+      "original": "मारुतिः",
+      "transliteration": "рамэти",
+      "translation": "\"Рама\""
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "рамэти",
+      "translation": "\"Рама\""
+    },
+    {
+      "original": "तं",
+      "transliteration": "рамэ",
+      "translation": "наслаждаюсь"
+    },
+    {
+      "original": "वन्दे",
+      "transliteration": "рамэ",
+      "translation": "в Раме"
+    },
+    {
+      "original": "रघुनन्दनम्",
+      "transliteration": "манорараме",
+      "translation": "услаждающем"
+    },
+    {
+      "original": "लोकाभिरामं",
+      "transliteration": "сахасранама",
+      "translation": "тысяча имен"
+    },
+    {
+      "original": "रणरङ्गधीरं",
+      "transliteration": "тат",
+      "translation": "то"
+    },
+    {
+      "original": "राजीवनेत्रं",
+      "transliteration": "тульям",
+      "translation": "равноценное"
+    },
+    {
+      "original": "रघुवंशनाथम्",
+      "transliteration": "раманама",
+      "translation": "имя Рамы"
+    },
+    {
+      "original": "कारुण्यरूपं",
+      "transliteration": "варанане",
+      "translation": "прекрасноликая"
+    },
+    {
+      "original": "करुणाकरं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीरामचन्द्रम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शरणं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रपद्ये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मनोजवं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मारुततुल्यवेगं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जितेन्द्रियं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बुद्धिमतां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वरिष्ठम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वातात्मजं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वानरयूथमुख्यं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीरामदूतं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शरणं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रपद्ये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कूजन्तं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामेति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मधुरं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मधुराक्षरम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आरुह्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कविताशाखां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वन्दे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वाल्मीकिकोकिलम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आपदामपहर्तारं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दातारं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वसम्पदाम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लोकाभिरामं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीरामं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भूयो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भूयो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नमाम्यहम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भर्जनं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भवबीजानाम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अर्जनं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुखसम्पदाम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तर्जनं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यमदूतानां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामेति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "गर्जनम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राजमणिः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विजयते",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रमेशं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामेण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अभिहता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "निशाचरचमू",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामाय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नास्ति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परायणं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परतरं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामस्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "दासः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अस्म्यहम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रामे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चित्तलयः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भवतु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मामुद्धर",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_ram_raksha_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_ram_raksha_stotra\\russian\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_ram_raksha_stotra\\russian\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:44.039Z"
+  }
+}

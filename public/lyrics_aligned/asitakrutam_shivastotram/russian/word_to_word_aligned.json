@@ -1,0 +1,604 @@
+{
+  "mantra": "asitakrutam_shivastotram",
+  "language": "russian",
+  "type": "word_to_word",
+  "totalWords": 118,
+  "alignedWords": [
+    {
+      "original": "असित",
+      "transliteration": "Асита",
+      "translation": "Асита (имя человека)"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "кṛтам",
+      "translation": "Создано, сделано"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "Шива",
+      "translation": "Шива (бог)"
+    },
+    {
+      "original": "स्तोत्रम्",
+      "transliteration": "столтрам",
+      "translation": "Мантра, гимн"
+    },
+    {
+      "original": "असित",
+      "transliteration": "Асита",
+      "translation": "Асита (имя)"
+    },
+    {
+      "original": "उवाच",
+      "transliteration": "увāча",
+      "translation": "Сказал"
+    },
+    {
+      "original": "जगद्गुरो",
+      "transliteration": "Джагадгуру",
+      "translation": "Учитель мира"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "намастубхьям",
+      "translation": "Поклоняюсь тебе"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "шивāя",
+      "translation": "Шиве"
+    },
+    {
+      "original": "शिवदाय",
+      "transliteration": "шивадая",
+      "translation": "Дарующий благо Шивы"
+    },
+    {
+      "original": "च",
+      "transliteration": "ча",
+      "translation": "И"
+    },
+    {
+      "original": "योगीन्द्राणां",
+      "transliteration": "йогиндраṇāṃ",
+      "translation": "Йоги и их учителя"
+    },
+    {
+      "original": "च",
+      "transliteration": "ча",
+      "translation": "И"
+    },
+    {
+      "original": "योगीन्द्र",
+      "transliteration": "йогиндра",
+      "translation": "Глава йогинов"
+    },
+    {
+      "original": "गुरूणां",
+      "transliteration": "гуруṇāṃ",
+      "translation": "Учителей"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "гуруве",
+      "translation": "Гуру, учителю"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "намах",
+      "translation": "Поклонение, почтение"
+    },
+    {
+      "original": "मृत्योर",
+      "transliteration": "мṛтьёр",
+      "translation": "Смерти"
+    },
+    {
+      "original": "मृत्युस्वरूपेण",
+      "transliteration": "мṛтьюсварупена",
+      "translation": "Формой смерти"
+    },
+    {
+      "original": "मृत्युसंसारखण्डन",
+      "transliteration": "мṛтьюсансаракхаṇдан",
+      "translation": "Уничтожитель цикла смерти"
+    },
+    {
+      "original": "मृत्योरीश",
+      "transliteration": "мṛтьюрīш",
+      "translation": "Господь смерти"
+    },
+    {
+      "original": "मृत्युबीज",
+      "transliteration": "мṛтьюбīджа",
+      "translation": "Семя смерти"
+    },
+    {
+      "original": "मृत्युञ्जय",
+      "transliteration": "мṛтьюñджа",
+      "translation": "Победитель смерти"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "намо'сту",
+      "translation": "Поклоняюсь"
+    },
+    {
+      "original": "ते",
+      "transliteration": "те",
+      "translation": "Тебе"
+    },
+    {
+      "original": "कालरूपं",
+      "transliteration": "Кāларūпаṃ",
+      "translation": "Форма времени"
+    },
+    {
+      "original": "कलयतां",
+      "transliteration": "калайатāṃ",
+      "translation": "Тех, кто управляет временем"
+    },
+    {
+      "original": "कालकालेश",
+      "transliteration": "kāлакāлеща",
+      "translation": "Господь времени"
+    },
+    {
+      "original": "कारण",
+      "transliteration": "kāраṇa",
+      "translation": "Причина"
+    },
+    {
+      "original": "कालादतीत",
+      "transliteration": "Кāладāтітā",
+      "translation": "Превышающий время"
+    },
+    {
+      "original": "कालस्थ",
+      "transliteration": "kāласθā",
+      "translation": "Сущность времени"
+    },
+    {
+      "original": "कालकाल",
+      "transliteration": "kāлакāл",
+      "translation": "Время времени"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "намо'сту",
+      "translation": "Поклоняюсь"
+    },
+    {
+      "original": "ते",
+      "transliteration": "те",
+      "translation": "Тебе"
+    },
+    {
+      "original": "गुणातीत",
+      "transliteration": "Гунāтіт",
+      "translation": "Превышающий качества"
+    },
+    {
+      "original": "गुणाधार",
+      "transliteration": "гунāдхар",
+      "translation": "Источник качеств"
+    },
+    {
+      "original": "गुणबीज",
+      "transliteration": "гунaбīджа",
+      "translation": "Семя качеств"
+    },
+    {
+      "original": "गुणात्मक",
+      "transliteration": "гунāтмак",
+      "translation": "Наполненный качествами"
+    },
+    {
+      "original": "गुणीश",
+      "transliteration": "Гунīш",
+      "translation": "Господь качеств"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "гūнинāṃ",
+      "translation": "Из тех, кто обладает качествами"
+    },
+    {
+      "original": "बीज",
+      "transliteration": "бīджа",
+      "translation": "Семя"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "гūнинāṃ",
+      "translation": "Обладателей качеств"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "гуруве",
+      "translation": "Гуру, учителю"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "намах",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "ब्रह्मस्वरूप",
+      "transliteration": "Брахмасваруп",
+      "translation": "Воплощение Брахмана"
+    },
+    {
+      "original": "ब्रह्मज्ञ",
+      "transliteration": "брахмаджня",
+      "translation": "Знающий Брахмана"
+    },
+    {
+      "original": "ब्रह्मभावे",
+      "transliteration": "брахмaбāве",
+      "translation": "В состоянии Брахмана"
+    },
+    {
+      "original": "च",
+      "transliteration": "ча",
+      "translation": "И"
+    },
+    {
+      "original": "तत्पर",
+      "transliteration": "татпар",
+      "translation": "Преданный этому"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "брахмaбīджа",
+      "translation": "Семя Брахмана"
+    },
+    {
+      "original": "स्वरूपेण",
+      "transliteration": "сварупена",
+      "translation": "В форме"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "брахмaбīджа",
+      "translation": "Семя Брахмана"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "намо'сту",
+      "translation": "Поклоняюсь"
+    },
+    {
+      "original": "ते",
+      "transliteration": "те",
+      "translation": "Тебе"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Ити",
+      "translation": "Таким образом"
+    },
+    {
+      "original": "स्तुत्वा",
+      "transliteration": "стутва",
+      "translation": "Похвалив"
+    },
+    {
+      "original": "शिवं",
+      "transliteration": "шивам",
+      "translation": "Шиву"
+    },
+    {
+      "original": "नत्वा",
+      "transliteration": "натва",
+      "translation": "Поклонившись"
+    },
+    {
+      "original": "पुरस्तस्थौ",
+      "transliteration": "пурстастау",
+      "translation": "Он стал перед ним"
+    },
+    {
+      "original": "मुनीश्वरः",
+      "transliteration": "муни́швара",
+      "translation": "Господь мудрецов"
+    },
+    {
+      "original": "दीनवत्साश्रुनेत्रश्च",
+      "transliteration": "Дīнаватсāшрунēтрашча",
+      "translation": "Слезами и дрожащим телом"
+    },
+    {
+      "original": "पुळकाञ्चितविग्रहः",
+      "transliteration": "Ашрюнeтрашча",
+      "translation": "Плачущий в слезах"
+    },
+    {
+      "original": "असितेन",
+      "transliteration": "пḻкāнчитавигрāха",
+      "translation": "Дрожащий в теле"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "аситен",
+      "translation": "Аситой"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "кṛтам",
+      "translation": "Сделано"
+    },
+    {
+      "original": "भक्तियुक्तश्च",
+      "transliteration": "столтрам",
+      "translation": "Гимн"
+    },
+    {
+      "original": "यः",
+      "transliteration": "бхактиюктах",
+      "translation": "Тот, кто с преданностью"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "ча",
+      "translation": "И"
+    },
+    {
+      "original": "वर्षमेकं",
+      "transliteration": "йах",
+      "translation": "Кто"
+    },
+    {
+      "original": "हविष्याशी",
+      "transliteration": "паṭет",
+      "translation": "Читает"
+    },
+    {
+      "original": "शङ्करस्य",
+      "transliteration": "варшемекāм",
+      "translation": "Один год"
+    },
+    {
+      "original": "महात्मनः",
+      "transliteration": "хавишьяші",
+      "translation": "Тот, кто приносит подношения"
+    },
+    {
+      "original": "स",
+      "transliteration": "шанкарᾱсья",
+      "translation": "Шанкары"
+    },
+    {
+      "original": "लभेद्वैष्णवं",
+      "transliteration": "махāтманаḥ",
+      "translation": "Великой души"
+    },
+    {
+      "original": "पुत्रं",
+      "transliteration": "са",
+      "translation": "Он"
+    },
+    {
+      "original": "ज्ञानिनं",
+      "transliteration": "лабхет",
+      "translation": "Получит"
+    },
+    {
+      "original": "चिरजीविनम्",
+      "transliteration": "вайшṇавам",
+      "translation": "Вайшнавское"
+    },
+    {
+      "original": "दरिद्रो",
+      "transliteration": "путрам",
+      "translation": "Сына"
+    },
+    {
+      "original": "भवेद्धनाढ्यो",
+      "transliteration": "джñанинāṃ",
+      "translation": "Знание"
+    },
+    {
+      "original": "मूको",
+      "transliteration": "ча",
+      "translation": "И"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "чираджīвинaм",
+      "translation": "Долгоживущего"
+    },
+    {
+      "original": "पण्डितः",
+      "transliteration": "даридрaḥ",
+      "translation": "Бедный"
+    },
+    {
+      "original": "अभार्यो",
+      "transliteration": "бхавет",
+      "translation": "Станет"
+    },
+    {
+      "original": "लभते",
+      "transliteration": "дханāḍхьяḥ",
+      "translation": "Богатый"
+    },
+    {
+      "original": "भार्यां",
+      "transliteration": "мūкāḥ",
+      "translation": "Немой"
+    },
+    {
+      "original": "सुशीलां",
+      "transliteration": "бхавати",
+      "translation": "Становится"
+    },
+    {
+      "original": "च",
+      "transliteration": "пaṇдитaḥ",
+      "translation": "Учёный"
+    },
+    {
+      "original": "पतिव्रताम्",
+      "transliteration": "абхарья",
+      "translation": "Без жены"
+    },
+    {
+      "original": "इह",
+      "transliteration": "лабхате",
+      "translation": "Находит"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "бhарьяṃ",
+      "translation": "Жена"
+    },
+    {
+      "original": "सुखं",
+      "transliteration": "сушīлам",
+      "translation": "Хорошую жену"
+    },
+    {
+      "original": "भुक्त्वा",
+      "transliteration": "ча",
+      "translation": "И"
+    },
+    {
+      "original": "यात्यन्ते",
+      "transliteration": "пативратām",
+      "translation": "Верную жену"
+    },
+    {
+      "original": "शिवसन्निधिम्",
+      "transliteration": "иха",
+      "translation": "Здесь"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "локе",
+      "translation": "В мире"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "сукхам",
+      "translation": "Счастье"
+    },
+    {
+      "original": "पुरा",
+      "transliteration": "бхуктвā",
+      "translation": "Наслаждаясь"
+    },
+    {
+      "original": "दत्तं",
+      "transliteration": "йати",
+      "translation": "Уходит"
+    },
+    {
+      "original": "ब्रह्मणा",
+      "transliteration": "анте",
+      "translation": "Конец"
+    },
+    {
+      "original": "च",
+      "transliteration": "шивсáннидхим",
+      "translation": "В присутствии Шивы"
+    },
+    {
+      "original": "प्रचेतसे",
+      "transliteration": "идам",
+      "translation": "Это"
+    },
+    {
+      "original": "प्रचेतसा",
+      "transliteration": "столтрам",
+      "translation": "Мантра"
+    },
+    {
+      "original": "स्वपुत्रायासिताय",
+      "transliteration": "пурā",
+      "translation": "Древний"
+    },
+    {
+      "original": "दत्तमुत्तमम्",
+      "transliteration": "даттам",
+      "translation": "Дано"
+    },
+    {
+      "original": "इति",
+      "transliteration": "брахмaṇā",
+      "translation": "Брахмой"
+    },
+    {
+      "original": "श्रीब्रह्मवैवर्ते",
+      "transliteration": "ча",
+      "translation": "И"
+    },
+    {
+      "original": "महापुराणे",
+      "transliteration": "прачетасе",
+      "translation": "Прачетасе"
+    },
+    {
+      "original": "श्रीकृष्णजन्मखण्डे",
+      "transliteration": "свапутрāйā",
+      "translation": "Сыну его"
+    },
+    {
+      "original": "असितकृतं",
+      "transliteration": "аситāйā",
+      "translation": "Асите"
+    },
+    {
+      "original": "शिवस्तोत्रं",
+      "transliteration": "даттам",
+      "translation": "Дано"
+    },
+    {
+      "original": "संपूर्णम्",
+      "transliteration": "уттамам",
+      "translation": "Великое"
+    },
+    {
+      "original": "---",
+      "transliteration": "Ити",
+      "translation": "Таким образом"
+    },
+    {
+      "original": "---",
+      "transliteration": "шрібрахмавайварте",
+      "translation": "В великом Пуране Брахмана"
+    },
+    {
+      "original": "---",
+      "transliteration": "махапураṇе",
+      "translation": "В великом Пуране"
+    },
+    {
+      "original": "---",
+      "transliteration": "шрікришṇaжáмнакхандé",
+      "translation": "В разделе о рождении Кришны"
+    },
+    {
+      "original": "---",
+      "transliteration": "аситакṛтам",
+      "translation": "Сделано Аситом"
+    },
+    {
+      "original": "---",
+      "transliteration": "шивастотрं",
+      "translation": "Гимн Шиве"
+    },
+    {
+      "original": "---",
+      "transliteration": "санпурнам",
+      "translation": "Завершено"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\russian\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\russian\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.255Z"
+  }
+}

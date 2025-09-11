@@ -18,7 +18,7 @@ const Sidebar = () => (
             <Link to="/mostly-searched" key={index}>
               <div className="flex items-start gap-3 cursor-pointer hover:bg-[#2A2A2A] p-2 rounded-md">
                 <img
-                  src="https://rgdqfofzptrmxehlmxzz.supabase.co/storage/v1/object/public/media//MostlySearched.png"
+                  src="https://ygygguzbcwtcuquqjqfk.supabase.co/storage/v1/object/public/mantraImages/hanuman_chalisa/hindi/hanuman-hindi.png"
                   alt="thumbnail"
                   className="w-12 h-12 rounded-md object-cover"
                 />

@@ -1,0 +1,1494 @@
+{
+  "mantra": "shiv_tandav_stotra",
+  "language": "german",
+  "type": "word_to_word",
+  "totalWords": 296,
+  "alignedWords": [
+    {
+      "original": "जटा",
+      "transliteration": "jaṭā",
+      "translation": "Haarknoten"
+    },
+    {
+      "original": "टवी",
+      "transliteration": "ṭavī",
+      "translation": "Gebündeltes Haar"
+    },
+    {
+      "original": "गलज्जल",
+      "transliteration": "galajjala",
+      "translation": "Schmutziges Wasser"
+    },
+    {
+      "original": "प्रवाह",
+      "transliteration": "pravāha",
+      "translation": "Fluss, Strömung"
+    },
+    {
+      "original": "पावितस्थले",
+      "transliteration": "pāvitasthale",
+      "translation": "Heiliger Ort"
+    },
+    {
+      "original": "गलेऽवलम्ब्य",
+      "transliteration": "gale'valambya",
+      "translation": "Am Hals hängend"
+    },
+    {
+      "original": "लम्बितां",
+      "transliteration": "lambitāṁ",
+      "translation": "Lang oder gedehnt"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "bhujaṅga",
+      "translation": "Schlange"
+    },
+    {
+      "original": "तुङ्ग",
+      "transliteration": "tuṅga",
+      "translation": "Hoch, erhöht"
+    },
+    {
+      "original": "मालिकाम्",
+      "transliteration": "mālikām",
+      "translation": "Halskette des Herrn"
+    },
+    {
+      "original": "डमड्डमड्ड",
+      "transliteration": "ḍamaḍḍamaḍḍa",
+      "translation": "Trommelsound"
+    },
+    {
+      "original": "डमड्डमड्डमड्डमन्निनाद्",
+      "transliteration": "ḍamaḍḍamaḍḍamaṇinād",
+      "translation": "Der widerhallende Trommelsound"
+    },
+    {
+      "original": "वड्डमर्वयं",
+      "transliteration": "vaḍḍamarvayaṁ",
+      "translation": "Klang eines Konflikts"
+    },
+    {
+      "original": "चकार",
+      "transliteration": "cakāra",
+      "translation": "Tat, ausgeführt"
+    },
+    {
+      "original": "चण्डताण्डवं",
+      "transliteration": "caṇḍatāṇḍavaṁ",
+      "translation": "Furchtbarer Tandava-Tanz"
+    },
+    {
+      "original": "तनोतु",
+      "transliteration": "tanotu",
+      "translation": "Möge wachsen"
+    },
+    {
+      "original": "नः",
+      "transliteration": "naḥ",
+      "translation": "Uns"
+    },
+    {
+      "original": "शिवः",
+      "transliteration": "śivaḥ",
+      "translation": "Herr Shiva"
+    },
+    {
+      "original": "शिवम्",
+      "transliteration": "śivam",
+      "translation": "Glücklich, Frieden, Shiva"
+    },
+    {
+      "original": "जटा",
+      "transliteration": "jata",
+      "translation": "Zöpfe, Haarknoten"
+    },
+    {
+      "original": "कटा",
+      "transliteration": "kata",
+      "translation": "Geschnitten, abgetrennt"
+    },
+    {
+      "original": "हसंभ्रम",
+      "transliteration": "hasambhram",
+      "translation": "Verwirrung, Drehung, Verstrickung"
+    },
+    {
+      "original": "भ्रमन्निलिम्प",
+      "transliteration": "bhramannilimp",
+      "translation": "Drehen und Fließen im Wasser"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "nirjhari",
+      "translation": "Wasserfall, Wasserstrom"
+    },
+    {
+      "original": "विलो",
+      "transliteration": "vilu",
+      "translation": "In verschiedene Richtungen fließend, wogend"
+    },
+    {
+      "original": "लवी",
+      "transliteration": "lavi",
+      "translation": "Lange Wellen, Strom"
+    },
+    {
+      "original": "चिवल्लरी",
+      "transliteration": "civalari",
+      "translation": "Schimmernde Wellen, strahlende Wellen"
+    },
+    {
+      "original": "विराजमान",
+      "transliteration": "virajman",
+      "translation": "Situiert, platziert"
+    },
+    {
+      "original": "मूर्धनि",
+      "transliteration": "mūrdhani",
+      "translation": "Kopf, Krone"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "dhagad",
+      "translation": "Brennend, in Flammen"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "dhagad",
+      "translation": "Brennend, in Flammen"
+    },
+    {
+      "original": "धगज्ज्वलल्",
+      "transliteration": "dhagajjwalan",
+      "translation": "Flamme, brennendes Feuer"
+    },
+    {
+      "original": "ललाट",
+      "transliteration": "lalat",
+      "translation": "Stirn, Krone"
+    },
+    {
+      "original": "पट्ट",
+      "transliteration": "patta",
+      "translation": "Band, Faden, Schnur"
+    },
+    {
+      "original": "पावके",
+      "transliteration": "pāvake",
+      "translation": "Heilig, rein"
+    },
+    {
+      "original": "किशोर",
+      "transliteration": "kishor",
+      "translation": "Jugend, jung"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "candra",
+      "translation": "Mond, Mondlicht"
+    },
+    {
+      "original": "शेखरे",
+      "transliteration": "shekhare",
+      "translation": "Auf dem Gipfel, auf dem Höhepunkt"
+    },
+    {
+      "original": "रति:",
+      "transliteration": "rati",
+      "translation": "Liebe, Verlangen"
+    },
+    {
+      "original": "प्रतिक्षणं",
+      "transliteration": "pratikshanṁ",
+      "translation": "Jeder Moment, jeder Augenblick"
+    },
+    {
+      "original": "मम",
+      "transliteration": "mama",
+      "translation": "Mein, mein"
+    },
+    {
+      "original": "धरा",
+      "transliteration": "dhara",
+      "translation": "Erde"
+    },
+    {
+      "original": "धरेन्द्र",
+      "transliteration": "dharendra",
+      "translation": "Sohn von Indra, Herr Shiva"
+    },
+    {
+      "original": "नंदिनी",
+      "transliteration": "nandini",
+      "translation": "Göttin Durga, Frau von Lord Shiva"
+    },
+    {
+      "original": "विलास",
+      "transliteration": "vilasa",
+      "translation": "Freude, Vergnügen"
+    },
+    {
+      "original": "बन्धु",
+      "transliteration": "bandhu",
+      "translation": "Freund, Verwandter"
+    },
+    {
+      "original": "बन्धुरस",
+      "transliteration": "bandhurasa",
+      "translation": "Zuneigung, Liebe"
+    },
+    {
+      "original": "फुरद्",
+      "transliteration": "furad",
+      "translation": "Sich schnell vorwärts bewegen"
+    },
+    {
+      "original": "दिगन्त",
+      "transliteration": "diganta",
+      "translation": "Ende der Richtung, Grenze"
+    },
+    {
+      "original": "सन्तति",
+      "transliteration": "santati",
+      "translation": "Nachkommen, Nachfahren"
+    },
+    {
+      "original": "प्रमोद",
+      "transliteration": "pramod",
+      "translation": "Freude, Glück"
+    },
+    {
+      "original": "मानमानसे",
+      "transliteration": "manamanase",
+      "translation": "Steigerung des Selbstwertgefühls"
+    },
+    {
+      "original": "कृपा",
+      "transliteration": "kripa",
+      "translation": "Barmherzigkeit, Mitgefühl"
+    },
+    {
+      "original": "कटाक्ष",
+      "transliteration": "kataksha",
+      "translation": "Blick, schiefer Blick"
+    },
+    {
+      "original": "धोरणी",
+      "transliteration": "dhorani",
+      "translation": "Erde, Boden"
+    },
+    {
+      "original": "निरुद्ध",
+      "transliteration": "niruddha",
+      "translation": "Blockiert, zurückgehalten"
+    },
+    {
+      "original": "दुर्धरापदि",
+      "transliteration": "durdharapadi",
+      "translation": "Schwierige Situation, Katastrophe"
+    },
+    {
+      "original": "क्वचिद्",
+      "transliteration": "kvachid",
+      "translation": "Manchmal, irgendwo"
+    },
+    {
+      "original": "दिगम्बरे",
+      "transliteration": "digambare",
+      "translation": "Derjenige, der im Himmel lebt"
+    },
+    {
+      "original": "मनो",
+      "transliteration": "mano",
+      "translation": "Geist, Seele"
+    },
+    {
+      "original": "विनोदमेतु",
+      "transliteration": "vinodametu",
+      "translation": "Derjenige, der Freude bringt, glücklich"
+    },
+    {
+      "original": "वस्तुनी",
+      "transliteration": "vastuni",
+      "translation": "Objekt, Ding"
+    },
+    {
+      "original": "लता",
+      "transliteration": "latā",
+      "translation": "Kletterpflanze, Ranke"
+    },
+    {
+      "original": "भुजंग",
+      "transliteration": "bhujang",
+      "translation": "Schlange, Natter"
+    },
+    {
+      "original": "पिंगलस",
+      "transliteration": "pingalash",
+      "translation": "Gelb, oder gelbe Farbe"
+    },
+    {
+      "original": "फुरत्फणा",
+      "transliteration": "furatfna",
+      "translation": "Zischen, schnell bewegen"
+    },
+    {
+      "original": "मणिप्रभा",
+      "transliteration": "maniprabha",
+      "translation": "Der Glanz von Edelsteinen, das Licht eines Juwels"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "kadamba",
+      "translation": "Eine Baumart"
+    },
+    {
+      "original": "कुङ्कुमद्रवप्",
+      "transliteration": "kunkumadravap",
+      "translation": "Safran, Safranessenz"
+    },
+    {
+      "original": "रलिप्तदिग्व",
+      "transliteration": "raliptadigv",
+      "translation": "Überall bedeckt"
+    },
+    {
+      "original": "धूमुखे",
+      "transliteration": "dhumukhe",
+      "translation": "Mit Rauch gefüllt, im Rauch"
+    },
+    {
+      "original": "मदांध",
+      "transliteration": "madandha",
+      "translation": "Blind durch Rausch"
+    },
+    {
+      "original": "सिन्धुरस",
+      "transliteration": "sindhuras",
+      "translation": "Die Farbe des Flusses, oder Blau"
+    },
+    {
+      "original": "फुरत",
+      "transliteration": "furat",
+      "translation": "Sich vorwärts bewegen"
+    },
+    {
+      "original": "त्वगुत्तरीयमे",
+      "transliteration": "tvaguttariyame",
+      "translation": "Zur Haut gehörend"
+    },
+    {
+      "original": "दूरे",
+      "transliteration": "dure",
+      "translation": "Weit entfernt, fern"
+    },
+    {
+      "original": "मनो",
+      "transliteration": "mano",
+      "translation": "Geist, Seele"
+    },
+    {
+      "original": "विनोद",
+      "transliteration": "vinod",
+      "translation": "Freude, Glück"
+    },
+    {
+      "original": "मद्भुतं",
+      "transliteration": "madbhutam",
+      "translation": "Wundervoll, erstaunlich"
+    },
+    {
+      "original": "बिभर्तु",
+      "transliteration": "bibhartu",
+      "translation": "Der Träger, der Träger"
+    },
+    {
+      "original": "भूतभर्तरि",
+      "transliteration": "bhutabhartari",
+      "translation": "Der Erhalter aller Wesen"
+    },
+    {
+      "original": "सहस्र",
+      "transliteration": "sahasra",
+      "translation": "Tausend"
+    },
+    {
+      "original": "लोचनप्रभृत्य",
+      "transliteration": "locanaprabhṛtya",
+      "translation": "Das Licht der Augen"
+    },
+    {
+      "original": "शेष",
+      "transliteration": "shesh",
+      "translation": "Übrig, verbleibend"
+    },
+    {
+      "original": "लेखशेखर",
+      "transliteration": "lekhasekhara",
+      "translation": "Der Gipfel des Schreibens"
+    },
+    {
+      "original": "प्रसून",
+      "transliteration": "prasun",
+      "translation": "Blume"
+    },
+    {
+      "original": "धूलिधोरणी",
+      "transliteration": "dhoolidhorani",
+      "translation": "Staubfluss"
+    },
+    {
+      "original": "विधूस",
+      "transliteration": "vidhusa",
+      "translation": "Rein, heilig"
+    },
+    {
+      "original": "राङ्घ्रि",
+      "transliteration": "ranghri",
+      "translation": "Haut unter den Füßen"
+    },
+    {
+      "original": "पीठभूः",
+      "transliteration": "peethbhooh",
+      "translation": "Die Vereinigung von Rücken und Erde"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "bhujanga",
+      "translation": "Schlange"
+    },
+    {
+      "original": "राजमालया",
+      "transliteration": "rajamalaya",
+      "translation": "Die Königsgirlande"
+    },
+    {
+      "original": "निबद्ध",
+      "transliteration": "nibaddha",
+      "translation": "In Fesseln gebunden"
+    },
+    {
+      "original": "जाटजूटक",
+      "transliteration": "jatajootak",
+      "translation": "Ein in den Haaren gebundener Knoten"
+    },
+    {
+      "original": "श्रियै",
+      "transliteration": "shriyai",
+      "translation": "Gnade von Lakshmi"
+    },
+    {
+      "original": "चिराय",
+      "transliteration": "chiraya",
+      "translation": "Für lange Zeit"
+    },
+    {
+      "original": "जायतां",
+      "transliteration": "jayataaṁ",
+      "translation": "Möge es geboren werden"
+    },
+    {
+      "original": "चकोर",
+      "transliteration": "chakora",
+      "translation": "Ein Vogel, der zum Mond hinzugezogen wird"
+    },
+    {
+      "original": "बन्धुशेखरः",
+      "transliteration": "bandhushékhar",
+      "translation": "Freund und Gipfel, eine gegenseitige Beziehung"
+    },
+    {
+      "original": "ललाट",
+      "transliteration": "lalat",
+      "translation": "Stirn"
+    },
+    {
+      "original": "चत्वर",
+      "transliteration": "catvara",
+      "translation": "Vier Himmelsrichtungen"
+    },
+    {
+      "original": "ज्वलद्",
+      "transliteration": "jvalad",
+      "translation": "Brennend"
+    },
+    {
+      "original": "धनञ्जय",
+      "transliteration": "dhananjaya",
+      "translation": "Wohlstand, Sieger"
+    },
+    {
+      "original": "स्फुलिङ्गभा",
+      "transliteration": "sphulingabha",
+      "translation": "Flamme Zeichen"
+    },
+    {
+      "original": "निपीत",
+      "transliteration": "nipita",
+      "translation": "Betrunken"
+    },
+    {
+      "original": "पञ्चसायकं",
+      "transliteration": "panchasayakum",
+      "translation": "Mit fünf Pfeilen ausgerüstet"
+    },
+    {
+      "original": "नमन्",
+      "transliteration": "naman",
+      "translation": "Gruß"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "nilimpa",
+      "translation": "Vom Staub gereinigt"
+    },
+    {
+      "original": "नायकम्",
+      "transliteration": "nayakam",
+      "translation": "Führer"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "sudha",
+      "translation": "Nektar, Amrita"
+    },
+    {
+      "original": "मयूखले",
+      "transliteration": "mayukhale",
+      "translation": "Strahlend"
+    },
+    {
+      "original": "खया",
+      "transliteration": "khaya",
+      "translation": "Umfassend, Vollständig"
+    },
+    {
+      "original": "विराजमानशेखरं",
+      "transliteration": "virajamanaśekheram",
+      "translation": "Eine Krone auf einem Kopf, geschmückt mit Schönheit"
+    },
+    {
+      "original": "महाकपालि",
+      "transliteration": "mahakāpalī",
+      "translation": "Große Gottheit, Krönungsträger"
+    },
+    {
+      "original": "सम्पदे",
+      "transliteration": "sampade",
+      "translation": "Reichtum"
+    },
+    {
+      "original": "शिरोज",
+      "transliteration": "shiroja",
+      "translation": "Krone"
+    },
+    {
+      "original": "टालमस्तु",
+      "transliteration": "talmastu",
+      "translation": "Zeichen von Frieden und Wohlstand"
+    },
+    {
+      "original": "नः",
+      "transliteration": "nah",
+      "translation": "Unser"
+    },
+    {
+      "original": "कराल",
+      "transliteration": "Karala",
+      "translation": "Heftig, Furchtbar"
+    },
+    {
+      "original": "भाल",
+      "transliteration": "Bhala",
+      "translation": "Stirn"
+    },
+    {
+      "original": "पट्टिका",
+      "transliteration": "Pattika",
+      "translation": "Stirnband"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "Dhagad",
+      "translation": "Brennend"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "Dhagad",
+      "translation": "Brennend"
+    },
+    {
+      "original": "धगज्ज्वल",
+      "transliteration": "Dhagajjwala",
+      "translation": "Heftig brennend"
+    },
+    {
+      "original": "धनञ्जयाहुती",
+      "transliteration": "Dhananjayahuti",
+      "translation": "Opfer von Dhananjaya"
+    },
+    {
+      "original": "कृतप्रचण्ड",
+      "transliteration": "Kṛtpracaṇḍa",
+      "translation": "Sehr heftig"
+    },
+    {
+      "original": "पञ्चसायके",
+      "transliteration": "Panchasayake",
+      "translation": "Fünf Pfeile"
+    },
+    {
+      "original": "धरा",
+      "transliteration": "Dhara",
+      "translation": "Erde"
+    },
+    {
+      "original": "धरेन्द्र",
+      "transliteration": "Dhiṛendra",
+      "translation": "Herr der Erde"
+    },
+    {
+      "original": "नन्दिनी",
+      "transliteration": "Nandini",
+      "translation": "Schenkerin der Freude"
+    },
+    {
+      "original": "कुचाग्र",
+      "transliteration": "Kuchagra",
+      "translation": "Gipfel der Brust"
+    },
+    {
+      "original": "चित्रपत्रक",
+      "transliteration": "Citrapatraka",
+      "translation": "Bunte Band"
+    },
+    {
+      "original": "प्रकल्प",
+      "transliteration": "Prapata",
+      "translation": "Plan"
+    },
+    {
+      "original": "नैक",
+      "transliteration": "Naika",
+      "translation": "Viele"
+    },
+    {
+      "original": "शिल्पिनि",
+      "transliteration": "Shilpini",
+      "translation": "Künstler"
+    },
+    {
+      "original": "त्रिलोचने",
+      "transliteration": "Trilocane",
+      "translation": "Mit drei Augen"
+    },
+    {
+      "original": "रतिर्मम",
+      "transliteration": "Ratirmama",
+      "translation": "Meine Liebe"
+    },
+    {
+      "original": "नवीन",
+      "transliteration": "naveen",
+      "translation": "Neu, frisch und lebendig"
+    },
+    {
+      "original": "मेघ",
+      "transliteration": "megh",
+      "translation": "Wolke"
+    },
+    {
+      "original": "मण्डली",
+      "transliteration": "mandali",
+      "translation": "Gruppe, Kreis"
+    },
+    {
+      "original": "निरुद्",
+      "transliteration": "nirud",
+      "translation": "Beenden, Zerstören"
+    },
+    {
+      "original": "धदुर्",
+      "transliteration": "dhadur",
+      "translation": "Ein lautes Geräusch, tumultuös"
+    },
+    {
+      "original": "धरस्फुरत्",
+      "transliteration": "dharasphurat",
+      "translation": "Strahlend oder leuchtend auf der Erde"
+    },
+    {
+      "original": "कुहू",
+      "transliteration": "kuhoo",
+      "translation": "Nachtzeit, schlechtes Omen"
+    },
+    {
+      "original": "निशीथि",
+      "transliteration": "nishithi",
+      "translation": "Nachts, nächtlich"
+    },
+    {
+      "original": "नीतमः",
+      "transliteration": "neetamah",
+      "translation": "Das Beste, der Tugendhafteste"
+    },
+    {
+      "original": "प्रबन्ध",
+      "transliteration": "prabandh",
+      "translation": "Disziplin, Ordnung"
+    },
+    {
+      "original": "बद्ध",
+      "transliteration": "baddh",
+      "translation": "Gebunden, verknüpft"
+    },
+    {
+      "original": "कन्धरः",
+      "transliteration": "kandharah",
+      "translation": "Hals, um den Hals"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "nilimp",
+      "translation": "Ruhig, makellos"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "nirjhari",
+      "translation": "Bach, fließendes Wasser"
+    },
+    {
+      "original": "धरस्",
+      "transliteration": "dharas",
+      "translation": "Erde, Boden"
+    },
+    {
+      "original": "तनोतु",
+      "transliteration": "tanotu",
+      "translation": "Ausbreiten, erweitern"
+    },
+    {
+      "original": "कृत्ति",
+      "transliteration": "krutti",
+      "translation": "Schöpfung, Handlung"
+    },
+    {
+      "original": "सिन्धुरः",
+      "transliteration": "sindhurah",
+      "translation": "Ozean, weites Wasser"
+    },
+    {
+      "original": "कला",
+      "transliteration": "kala",
+      "translation": "Kunst, Exzellenz"
+    },
+    {
+      "original": "निधान",
+      "transliteration": "nidhan",
+      "translation": "Schatz, Aufbewahrung von Objekten"
+    },
+    {
+      "original": "बन्धुरः",
+      "transliteration": "bandhurah",
+      "translation": "Geliebter, Begleiter"
+    },
+    {
+      "original": "श्रियं",
+      "transliteration": "shriyam",
+      "translation": "Wohlstand, Reichtum"
+    },
+    {
+      "original": "जगद्",
+      "transliteration": "jagad",
+      "translation": "Welt, Universum"
+    },
+    {
+      "original": "धुरंधरः",
+      "transliteration": "dhurandharah",
+      "translation": "Einer, der große Arbeit tut, verantwortlich für Taten"
+    },
+    {
+      "original": "प्रफुल्ल",
+      "transliteration": "prafull",
+      "translation": "Blühend, Aufblühend"
+    },
+    {
+      "original": "नीलपङ्कज",
+      "transliteration": "neelapankaja",
+      "translation": "Blauer Lotus"
+    },
+    {
+      "original": "प्रपञ्च",
+      "transliteration": "prapancha",
+      "translation": "Universum, Welt"
+    },
+    {
+      "original": "कालिम",
+      "transliteration": "kalim",
+      "translation": "Schwarz, Dunkel"
+    },
+    {
+      "original": "प्रभा",
+      "transliteration": "prabha",
+      "translation": "Licht, Strahlung"
+    },
+    {
+      "original": "वलम्बि",
+      "transliteration": "valambi",
+      "translation": "Hängend, Aufgehängt"
+    },
+    {
+      "original": "कण्ठकन्दली",
+      "transliteration": "kanthakandalee",
+      "translation": "Halskranz"
+    },
+    {
+      "original": "रुचिप्रबद्ध",
+      "transliteration": "roochiprabaddha",
+      "translation": "Zierlich gebunden"
+    },
+    {
+      "original": "कन्धरम्",
+      "transliteration": "kandharam",
+      "translation": "Schulter"
+    },
+    {
+      "original": "स्मरच्छिदं",
+      "transliteration": "smaracchidan",
+      "translation": "Entferner des Gedächtnisses"
+    },
+    {
+      "original": "पुरच्छिदं",
+      "transliteration": "puracchidan",
+      "translation": "Entferner des Alten"
+    },
+    {
+      "original": "भवच्छिदं",
+      "transliteration": "bhavacchidan",
+      "translation": "Entferner des Lebens"
+    },
+    {
+      "original": "मखच्छिदं",
+      "transliteration": "makacchidan",
+      "translation": "Entferner des Opfers"
+    },
+    {
+      "original": "गजच्छि",
+      "transliteration": "gajacchi",
+      "translation": "Entferner wie ein Elefant"
+    },
+    {
+      "original": "दांध",
+      "transliteration": "daand",
+      "translation": "Entferner durch Stürme"
+    },
+    {
+      "original": "कच्छिदं",
+      "transliteration": "kachidan",
+      "translation": "Entferner durch das Meer"
+    },
+    {
+      "original": "तमंत",
+      "transliteration": "tamat",
+      "translation": "Höchster, Letzter"
+    },
+    {
+      "original": "कच्छिदं",
+      "transliteration": "kachidan",
+      "translation": "Entferner durch das Meer"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "bhaje",
+      "translation": "Ich verehre"
+    },
+    {
+      "original": "अखर्व",
+      "transliteration": "akharva",
+      "translation": "Erhaben, Unvergleichlich"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "sarva",
+      "translation": "Alle, Ganz"
+    },
+    {
+      "original": "मङ्गला",
+      "transliteration": "mangala",
+      "translation": "Glückselig, Heilig"
+    },
+    {
+      "original": "कला",
+      "transliteration": "kala",
+      "translation": "Kunst, Fähigkeit"
+    },
+    {
+      "original": "कदंब",
+      "transliteration": "kadamba",
+      "translation": "Kadamba Baum"
+    },
+    {
+      "original": "मञ्जरी",
+      "transliteration": "manjari",
+      "translation": "Blumenstrauß"
+    },
+    {
+      "original": "रस",
+      "transliteration": "rasa",
+      "translation": "Essenz, Freude"
+    },
+    {
+      "original": "प्रवाह",
+      "transliteration": "pravaha",
+      "translation": "Strömung, Fluss"
+    },
+    {
+      "original": "माधुरी",
+      "transliteration": "madhuri",
+      "translation": "Süße, Melodie"
+    },
+    {
+      "original": "विजृंभणा",
+      "transliteration": "vijrmbhana",
+      "translation": "Expansion, Freude"
+    },
+    {
+      "original": "मधुव्रतम्",
+      "transliteration": "madhuvratam",
+      "translation": "Süßes Gelübde, Fasten"
+    },
+    {
+      "original": "स्मरान्तकं",
+      "transliteration": "smarantakam",
+      "translation": "Zerstörer des Gedächtnisses"
+    },
+    {
+      "original": "पुरान्तकं",
+      "transliteration": "purantakam",
+      "translation": "Zerstörer der Vergangenheit"
+    },
+    {
+      "original": "भवान्तकं",
+      "transliteration": "bhavantakam",
+      "translation": "Zerstörer des Lebens"
+    },
+    {
+      "original": "मखान्तकं",
+      "transliteration": "makhantakam",
+      "translation": "Zerstörer des Opfers"
+    },
+    {
+      "original": "गजान्त",
+      "transliteration": "gajanta",
+      "translation": "Elefanten-ähnlicher Zerstörer"
+    },
+    {
+      "original": "कान्ध",
+      "transliteration": "kandha",
+      "translation": "Schulter, Seite"
+    },
+    {
+      "original": "कान्त",
+      "transliteration": "kanta",
+      "translation": "Geliebter, Liebhaber"
+    },
+    {
+      "original": "कं",
+      "transliteration": "kam",
+      "translation": "Form, Vision"
+    },
+    {
+      "original": "तमन्त",
+      "transliteration": "tamanta",
+      "translation": "Höchstes, Erhaben"
+    },
+    {
+      "original": "कान्त",
+      "transliteration": "kanta",
+      "translation": "Geliebter, Liebhaber"
+    },
+    {
+      "original": "कं",
+      "transliteration": "kam",
+      "translation": "Form, Vision"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "bhaje",
+      "translation": "Ich verehre"
+    },
+    {
+      "original": "जयत्",
+      "transliteration": "Jayat",
+      "translation": "Sieg"
+    },
+    {
+      "original": "वदभ्र",
+      "transliteration": "Vadabhra",
+      "translation": "Fehlerhafte Rede"
+    },
+    {
+      "original": "विभ्रम",
+      "transliteration": "Vibhrama",
+      "translation": "Verwirrung"
+    },
+    {
+      "original": "भ्रमद्",
+      "transliteration": "Bhramad",
+      "translation": "Täuschung"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "Bhujanga",
+      "translation": "Schlange"
+    },
+    {
+      "original": "मश्वस",
+      "transliteration": "Mashvasa",
+      "translation": "Atmen"
+    },
+    {
+      "original": "द्विनिर्ग",
+      "transliteration": "Dvinirga",
+      "translation": "Ausgang"
+    },
+    {
+      "original": "मत्",
+      "transliteration": "Mat",
+      "translation": "Meinung"
+    },
+    {
+      "original": "क्रमस्फुरत्",
+      "transliteration": "Kramasphurat",
+      "translation": "Fortschreiten"
+    },
+    {
+      "original": "कराल",
+      "transliteration": "Karala",
+      "translation": "Furchtbar"
+    },
+    {
+      "original": "भाल",
+      "transliteration": "Bhala",
+      "translation": "Stirn"
+    },
+    {
+      "original": "हव्यवाट्",
+      "transliteration": "Havyavat",
+      "translation": "Opferweg"
+    },
+    {
+      "original": "धिमिद्धिमिद्धिमि",
+      "transliteration": "Dhimiddhimiddhi",
+      "translation": "Klang des Gesangs"
+    },
+    {
+      "original": "ध्वनन्मृदङ्ग",
+      "transliteration": "Dhvananmridanga",
+      "translation": "Trommelschall"
+    },
+    {
+      "original": "तुङ्गमङ्गल",
+      "transliteration": "Tungamangala",
+      "translation": "Hoch und Heilvoll"
+    },
+    {
+      "original": "ध्वनिक्रमप्रवर्तित",
+      "transliteration": "Dhvanikramapravartita",
+      "translation": "Klangfortschritt"
+    },
+    {
+      "original": "प्रचण्डताण्डवः",
+      "transliteration": "Prachandatandavah",
+      "translation": "Schrecklicher Tanz"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "Shiva",
+      "translation": "Herr Shiva"
+    },
+    {
+      "original": "स्पृषद्विचित्रतल्पयोः",
+      "transliteration": "sprishadvichitratalpyoḥ",
+      "translation": "Diejenigen, deren weite und vielfältige Oberflächen existieren"
+    },
+    {
+      "original": "भुजङ्गमौक्तिकस्रजोर्",
+      "transliteration": "bhujangamauktikasrajor",
+      "translation": "Diejenigen, die die Schlange mit Edelsteinen tragen"
+    },
+    {
+      "original": "गरिष्ठरत्नलोष्ठयोः",
+      "transliteration": "garishtharatnaloṣhthayoḥ",
+      "translation": "Diejenigen, deren Stirn schwere Juwelen trägt"
+    },
+    {
+      "original": "सुहृद्विपक्षपक्षयोः",
+      "transliteration": "suhridvipakshapakshayoḥ",
+      "translation": "Diejenigen, die Freunde und Feinde auf ihren Seiten haben"
+    },
+    {
+      "original": "तृष्णारविन्दचक्षुषोः",
+      "transliteration": "trishnaravindachakshushoḥ",
+      "translation": "Diejenigen, deren Augen das Symbol des Verlangens sind"
+    },
+    {
+      "original": "प्रजामहीमहेन्द्रयोः",
+      "transliteration": "prajamihmahendrayoḥ",
+      "translation": "Diejenigen, die Untertanen und große Könige haben"
+    },
+    {
+      "original": "समप्रवृत्तिकः",
+      "transliteration": "samapravritikah",
+      "translation": "Diejenigen, deren Handlungen und Motivationen gleich sind"
+    },
+    {
+      "original": "कदा सदाशिवं भजे",
+      "transliteration": "kada sadashivam bhaje",
+      "translation": "Wann werde ich immer Lord Shiva verehren?"
+    },
+    {
+      "original": "कदा",
+      "transliteration": "Kada",
+      "translation": "Wann"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "Nilimpa",
+      "translation": "Verdunkeln"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "Nirjhari",
+      "translation": "Bach"
+    },
+    {
+      "original": "निकुञ्ज",
+      "transliteration": "Nikunja",
+      "translation": "Garten"
+    },
+    {
+      "original": "कोटरे",
+      "transliteration": "Kotare",
+      "translation": "Hütte"
+    },
+    {
+      "original": "वसन",
+      "transliteration": "Vasan",
+      "translation": "Leben"
+    },
+    {
+      "original": "विमुक्त",
+      "transliteration": "Vimukta",
+      "translation": "Befreit"
+    },
+    {
+      "original": "दुर्मति",
+      "transliteration": "Durmati",
+      "translation": "Böse Gedanken"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "Sada",
+      "translation": "Immer"
+    },
+    {
+      "original": "सिरः",
+      "transliteration": "Shirah",
+      "translation": "Kopf"
+    },
+    {
+      "original": "स्थमञ्जलिं",
+      "transliteration": "Sthamanjalim",
+      "translation": "Gebetsposition"
+    },
+    {
+      "original": "वहन",
+      "transliteration": "Vahan",
+      "translation": "Tragen"
+    },
+    {
+      "original": "विमुक्त",
+      "transliteration": "Vimukta",
+      "translation": "Frei"
+    },
+    {
+      "original": "लोललोचनो",
+      "transliteration": "Lolalochano",
+      "translation": "Ruhelos-Augen"
+    },
+    {
+      "original": "ललाम",
+      "transliteration": "Lalam",
+      "translation": "Stirn"
+    },
+    {
+      "original": "भाललग्नकः",
+      "transliteration": "Bhalalagnakah",
+      "translation": "Auf der Stirn eingeprägt"
+    },
+    {
+      "original": "शिवेति",
+      "transliteration": "Shiveti",
+      "translation": "Shivas Mantra"
+    },
+    {
+      "original": "मंत्रमुच्चरन्",
+      "transliteration": "Mantramuchcharan",
+      "translation": "Rezitieren des Mantras"
+    },
+    {
+      "original": "कदा",
+      "transliteration": "Kada",
+      "translation": "Wann"
+    },
+    {
+      "original": "सुखी",
+      "transliteration": "Sukhi",
+      "translation": "Glücklich"
+    },
+    {
+      "original": "भवाम्यहम्",
+      "transliteration": "Bhavamyaham",
+      "translation": "Ich werde"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "idam",
+      "translation": "Dies"
+    },
+    {
+      "original": "ही",
+      "transliteration": "hi",
+      "translation": "Tatsächlich"
+    },
+    {
+      "original": "नित्यंेव",
+      "transliteration": "nityameva",
+      "translation": "Immer"
+    },
+    {
+      "original": "मुक्तम्",
+      "transliteration": "muktam",
+      "translation": "Befreit"
+    },
+    {
+      "original": "उत्तमं",
+      "transliteration": "uttamam",
+      "translation": "Höchstes"
+    },
+    {
+      "original": "स्तवं",
+      "transliteration": "stavam",
+      "translation": "Lob"
+    },
+    {
+      "original": "पठन्",
+      "transliteration": "pathan",
+      "translation": "Rezitieren"
+    },
+    {
+      "original": "स्मरण",
+      "transliteration": "smaran",
+      "translation": "Erinnern"
+    },
+    {
+      "original": "ब्रुवन्",
+      "transliteration": "bruvan",
+      "translation": "Sprechen"
+    },
+    {
+      "original": "नर",
+      "transliteration": "nara",
+      "translation": "Mensch"
+    },
+    {
+      "original": "विशुद्धिम्",
+      "transliteration": "vishuddhim",
+      "translation": "Reinheit"
+    },
+    {
+      "original": "एतित",
+      "transliteration": "etit",
+      "translation": "Dies"
+    },
+    {
+      "original": "संतमं",
+      "transliteration": "santatam",
+      "translation": "Konstant"
+    },
+    {
+      "original": "हरे",
+      "transliteration": "hare",
+      "translation": "Herr Krishna"
+    },
+    {
+      "original": "गुरौ",
+      "transliteration": "gurau",
+      "translation": "Guru"
+    },
+    {
+      "original": "सुभक्तिं",
+      "transliteration": "subhaktim",
+      "translation": "Hingabe"
+    },
+    {
+      "original": "आशु",
+      "transliteration": "āsu",
+      "translation": "Schnell"
+    },
+    {
+      "original": "याति",
+      "transliteration": "yāti",
+      "translation": "Geht"
+    },
+    {
+      "original": "नान्यथा",
+      "transliteration": "nānyathā",
+      "translation": "Andernfalls"
+    },
+    {
+      "original": "गतिं",
+      "transliteration": "gatiṁ",
+      "translation": "Weg"
+    },
+    {
+      "original": "विमोहनं",
+      "transliteration": "vimohanam",
+      "translation": "Befreiung"
+    },
+    {
+      "original": "ही",
+      "transliteration": "hi",
+      "translation": "Tatsächlich"
+    },
+    {
+      "original": "देहिनां",
+      "transliteration": "dehinām",
+      "translation": "Des Körpers"
+    },
+    {
+      "original": "सुशङ्करस्य",
+      "transliteration": "susankarasya",
+      "translation": "Von Lord Shankar"
+    },
+    {
+      "original": "चिंतनं",
+      "transliteration": "cintanam",
+      "translation": "Meditation"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "Pooja",
+      "translation": "Verehrung"
+    },
+    {
+      "original": "वसान",
+      "transliteration": "Vasan",
+      "translation": "Tragen"
+    },
+    {
+      "original": "समये",
+      "transliteration": "Samaye",
+      "translation": "Zur Zeit"
+    },
+    {
+      "original": "दशवक्त्र",
+      "transliteration": "Dashavaktra",
+      "translation": "Zehn Gesichter"
+    },
+    {
+      "original": "गीतं",
+      "transliteration": "Geetam",
+      "translation": "Lied"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Yah",
+      "translation": "Wer"
+    },
+    {
+      "original": "शंभु",
+      "transliteration": "Shambhu",
+      "translation": "Shiva"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "Pooja",
+      "translation": "Verehrung"
+    },
+    {
+      "original": "परं",
+      "transliteration": "Param",
+      "translation": "Höchste"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "Pathati",
+      "translation": "Liest"
+    },
+    {
+      "original": "प्रदोषे",
+      "transliteration": "Pradoshe",
+      "translation": "Pradosh (Nachtzeit)"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "Tasya",
+      "translation": "Sein"
+    },
+    {
+      "original": "स्थिरां",
+      "transliteration": "Sthiraam",
+      "translation": "Stabil"
+    },
+    {
+      "original": "रथगजेन्द्र",
+      "transliteration": "Rathgajendra",
+      "translation": "König der Elefanten (Rath)"
+    },
+    {
+      "original": "तुरङ्ग",
+      "transliteration": "Turanga",
+      "translation": "Pferd"
+    },
+    {
+      "original": "युक्तां",
+      "transliteration": "Yuktaam",
+      "translation": "Verbunden"
+    },
+    {
+      "original": "लक्ष्मीं",
+      "transliteration": "Lakshmim",
+      "translation": "Lakshmi (Göttin des Wohlstands)"
+    },
+    {
+      "original": "सदैव",
+      "transliteration": "Sadaiv",
+      "translation": "Immer"
+    },
+    {
+      "original": "सुमुखिं",
+      "transliteration": "Sumukhin",
+      "translation": "Schönes Gesicht"
+    },
+    {
+      "original": "प्रददाति",
+      "transliteration": "Pradadati",
+      "translation": "Gibt"
+    },
+    {
+      "original": "शंभुः",
+      "transliteration": "Shambhuh",
+      "translation": "Shiva"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\german\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\german\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.671Z"
+  }
+}

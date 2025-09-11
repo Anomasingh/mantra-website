@@ -1,0 +1,1494 @@
+{
+  "mantra": "shiv_tandav_stotra",
+  "language": "gujarati",
+  "type": "word_to_word",
+  "totalWords": 296,
+  "alignedWords": [
+    {
+      "original": "जटा",
+      "transliteration": "જટા",
+      "translation": "બટુકશિવના ઢંગથી જટાવાળો જટાવાળો સંકલ્પ"
+    },
+    {
+      "original": "टवी",
+      "transliteration": "ટવી",
+      "translation": "સ્વચ્છ અને પવિત્ર માટી કે કાપડ"
+    },
+    {
+      "original": "गलज्जल",
+      "transliteration": "ગલજ્જલ",
+      "translation": "ગંગા નદીનું પાણી, પવિત્ર જલ"
+    },
+    {
+      "original": "प्रवाह",
+      "transliteration": "પ્રવાહ",
+      "translation": "પ્રવાહ, પ્રવાહનું વહન"
+    },
+    {
+      "original": "पावितस्थले",
+      "transliteration": "પાવિતસ્થલે",
+      "translation": "પવિત્ર થળે"
+    },
+    {
+      "original": "गलेऽवलम्ब्य",
+      "transliteration": "ગલે'અવલંબ્ય",
+      "translation": "ગળામાં ટંકાવેલા, પવિત્ર મુક્તિ"
+    },
+    {
+      "original": "लम्बितां",
+      "transliteration": "લંબિતાં",
+      "translation": "લંબાવવામાં આવેલી"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "ભુજંગ",
+      "translation": "સાપ, ભયાવહ શરીર"
+    },
+    {
+      "original": "तुङ्ग",
+      "transliteration": "તુંગ",
+      "translation": "ઊંચો, તીવ્ર"
+    },
+    {
+      "original": "मालिकाम्",
+      "transliteration": "માલિકામ્",
+      "translation": "હીરાની મણીઓ, ધાતુના ખણાની અનુક્રમણિકા"
+    },
+    {
+      "original": "डमड्डमड्ड",
+      "transliteration": "ડમડમડમડડમન્નિનાદ",
+      "translation": "મકાનના બાજાના અવાજ, ધ્વનિ"
+    },
+    {
+      "original": "डमड्डमड्डमड्डमन्निनाद्",
+      "transliteration": "વડડમર્વયં",
+      "translation": "અવાજ, સાંજ અથવા ઘરનો અવાજ"
+    },
+    {
+      "original": "वड्डमर्वयं",
+      "transliteration": "ચકાર",
+      "translation": "કરવો, બનાવવું"
+    },
+    {
+      "original": "चकार",
+      "transliteration": "ચંડતાંડવં",
+      "translation": "એતિહાસિક કાવ્ય, તાંડવ નૃત્ય"
+    },
+    {
+      "original": "चण्डताण्डवं",
+      "transliteration": "તનોતુ નઃ",
+      "translation": "આપે, પ્રસારિત કરો"
+    },
+    {
+      "original": "तनोतु",
+      "transliteration": "શિવઃ",
+      "translation": "ભગવાન શિવ, ત્રિદેવોના આદરભર્યા દેવ"
+    },
+    {
+      "original": "नः",
+      "transliteration": "શિવમ્",
+      "translation": "ભગવાન શિવ, ભક્તિમાં અને ઐશ્વર્યના નિવાસી"
+    },
+    {
+      "original": "शिवः",
+      "transliteration": "જટા",
+      "translation": "અવ્યાખ્યાયિત સિલેસ (સંકલ્પ માટેના બાંધકામ)"
+    },
+    {
+      "original": "शिवम्",
+      "transliteration": "કટા",
+      "translation": "મર્યાદિતકક્ષા, ખૂણાની સીમ"
+    },
+    {
+      "original": "जटा",
+      "transliteration": "હસંભ્રમ",
+      "translation": "હાસ્ય અને મનોરંજન માટેનો અર્થ, ખૂણાની શરૂઆત"
+    },
+    {
+      "original": "कटा",
+      "transliteration": "ભ્રમન્નિલિમ્પ",
+      "translation": "અર્થવ્યાખ્યા માટે, મોટાભાગના સઘન પરિસ્થિતિ"
+    },
+    {
+      "original": "हसंभ्रम",
+      "transliteration": "નિર્જરી",
+      "translation": "જલરાશિ, આહાર અને દ્રષ્ટિ"
+    },
+    {
+      "original": "भ्रमन्निलिम्प",
+      "transliteration": "વિલો",
+      "translation": "જ્યાં અથવા શહેર અથવા પ્રવાસ"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "લવી",
+      "translation": "મીઠાઇ નશાવણી, દરેક વિકાસ પ્રકાર"
+    },
+    {
+      "original": "विलो",
+      "transliteration": "ચિવલ્લરી",
+      "translation": "પાંજર પડતો"
+    },
+    {
+      "original": "लवी",
+      "transliteration": "વિરાજમાન",
+      "translation": "આછો પાડો"
+    },
+    {
+      "original": "चिवल्लरी",
+      "transliteration": "મૂર્ધનિ",
+      "translation": "દ્રષ્ટિ, ચિંતન"
+    },
+    {
+      "original": "विराजमान",
+      "transliteration": "ધગદ્",
+      "translation": "ભડકાર, પ્રગટાવવું"
+    },
+    {
+      "original": "मूर्धनि",
+      "transliteration": "ધગદ્",
+      "translation": "પ્રચંડ આગની આગની શક્તિ"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "ધગજ્જ્વલલ્",
+      "translation": "પ્રચંડ પ્રચંડ લાલ રંગ વાળી આગ"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "લલાટ",
+      "translation": "માથાની આગળની સીમાવાળી જમીન"
+    },
+    {
+      "original": "धगज्ज्वलल्",
+      "transliteration": "પટ્ટ",
+      "translation": "મજબૂત કે વાંધાની બહાર બેસી રહી"
+    },
+    {
+      "original": "ललाट",
+      "transliteration": "પાવકે",
+      "translation": "આગમાં સાવધાની માટે જીવનને બચાવતું"
+    },
+    {
+      "original": "पट्ट",
+      "transliteration": "કિશોર",
+      "translation": "યુવાનીમાં, યુવાન"
+    },
+    {
+      "original": "पावके",
+      "transliteration": "ચન્દ્ર",
+      "translation": "ચાંદ્રમાને, ચાંદ્રિકા"
+    },
+    {
+      "original": "किशोर",
+      "transliteration": "શેખરે",
+      "translation": "શક્તિ, વિકાસકારક"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "રતિઃ",
+      "translation": "પ્રીતિ, આનંદ"
+    },
+    {
+      "original": "शेखरे",
+      "transliteration": "પ્રતિક્ષણં",
+      "translation": "પ્રત્યેક ક્ષણે, આપણી પ્રગતિ"
+    },
+    {
+      "original": "रति:",
+      "transliteration": "મમ",
+      "translation": "મારું"
+    },
+    {
+      "original": "प्रतिक्षणं",
+      "transliteration": "ધરા",
+      "translation": "ધરતી, પૃથ્વી"
+    },
+    {
+      "original": "मम",
+      "transliteration": "ધરેન્દ્ર",
+      "translation": "પર્વતમાળાનું મકાન"
+    },
+    {
+      "original": "धरा",
+      "transliteration": "નંદિની",
+      "translation": "ઉધોગોની તૂટતી લોહી"
+    },
+    {
+      "original": "धरेन्द्र",
+      "transliteration": "વિલાસ",
+      "translation": "વિકાસ, વૈભવ"
+    },
+    {
+      "original": "नंदिनी",
+      "transliteration": "બન્ધુ",
+      "translation": "મિત્ર"
+    },
+    {
+      "original": "विलास",
+      "transliteration": "બન્ધુરસ્",
+      "translation": "નજીકનો મિત્ર"
+    },
+    {
+      "original": "बन्धु",
+      "transliteration": "ફુરદ્",
+      "translation": "સુંદર સાદગી"
+    },
+    {
+      "original": "बन्धुरस",
+      "transliteration": "દિગંત",
+      "translation": "દિશાઓ"
+    },
+    {
+      "original": "फुरद्",
+      "transliteration": "સંતતિ",
+      "translation": "વૃદ્ધિ, સમૂહ"
+    },
+    {
+      "original": "दिगन्त",
+      "transliteration": "પ્રમોદ",
+      "translation": "આનંદ, ઉત્સાહ"
+    },
+    {
+      "original": "सन्तति",
+      "transliteration": "માનમાનસે",
+      "translation": "માનવીના પ્રતિભાવ"
+    },
+    {
+      "original": "प्रमोद",
+      "transliteration": "કૃપા",
+      "translation": "કૃપા, દયાળુતા"
+    },
+    {
+      "original": "मानमानसे",
+      "transliteration": "કટાક્ષ",
+      "translation": "દૃષ્ટિ"
+    },
+    {
+      "original": "कृपा",
+      "transliteration": "ધોરણી",
+      "translation": "પ્રકૃતિ"
+    },
+    {
+      "original": "कटाक्ष",
+      "transliteration": "નિરુદ્ધ",
+      "translation": "અંકુશિત, પકડી રાખવી"
+    },
+    {
+      "original": "धोरणी",
+      "transliteration": "દુર્ધરાપદી",
+      "translation": "દુશ્મનામાં વિકટ અવસ્થા"
+    },
+    {
+      "original": "निरुद्ध",
+      "transliteration": "ક્વચિદ્",
+      "translation": "સમયાંતરે"
+    },
+    {
+      "original": "दुर्धरापदि",
+      "transliteration": "દિગમ્બરે",
+      "translation": "યાત્રાઓ"
+    },
+    {
+      "original": "क्वचिद्",
+      "transliteration": "મનो",
+      "translation": "મનોવિચાર"
+    },
+    {
+      "original": "दिगम्बरे",
+      "transliteration": "વિનોદમેતુ",
+      "translation": "આનંદ લાવવાનો, મનોવિચાર"
+    },
+    {
+      "original": "मनो",
+      "transliteration": "વસ્તુની",
+      "translation": "અવસ્થાને"
+    },
+    {
+      "original": "विनोदमेतु",
+      "transliteration": "લતા",
+      "translation": "ઝાંઝર, પાતરાની લાંબી દોરી"
+    },
+    {
+      "original": "वस्तुनी",
+      "transliteration": "ભુજંગ",
+      "translation": "સర్ప, નાગ"
+    },
+    {
+      "original": "लता",
+      "transliteration": "પિંગલस्",
+      "translation": "તેલ ની કલર અથવા રંગ"
+    },
+    {
+      "original": "भुजंग",
+      "transliteration": "ફુરત્ફણા",
+      "translation": "ઊંચી અને લંબાઈ પામતી ખિસકાવાવાળી પ્રતિક્રિયા"
+    },
+    {
+      "original": "पिंगलस",
+      "transliteration": "મણિપ્રભા",
+      "translation": "મણિ અને પ્રકાશ"
+    },
+    {
+      "original": "फुरत्फणा",
+      "transliteration": "કદંબ",
+      "translation": "કાદમ્બ બાર, પેદીથી ગૂંથાતી કાંઠો"
+    },
+    {
+      "original": "मणिप्रभा",
+      "transliteration": "કુંકુમદ્રવપ્",
+      "translation": "ચરબી અથવા અનુકૂળ ક્રિયાવિધિ"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "રલિપ્તદિગ્વ",
+      "translation": "તરંગી નમ્બર ફટાટા અને બધી અટકાવ ચીજોમાં ઓકંધ વધવું"
+    },
+    {
+      "original": "कुङ्कुमद्रवप्",
+      "transliteration": "ધૂમુખે",
+      "translation": "મોહક ચિત્રો ભટકાવાની પ્રવિણતા"
+    },
+    {
+      "original": "रलिप्तदिग्व",
+      "transliteration": "મદાંધ",
+      "translation": "દૃષ્ટિ માં ભાવિ ઉત્કટતાનું લાપસીંગી પ્રચંડ ધોરણ"
+    },
+    {
+      "original": "धूमुखे",
+      "transliteration": "સિંધુરસ્",
+      "translation": "ના નમ્ન બગાડવું"
+    },
+    {
+      "original": "मदांध",
+      "transliteration": "ફુરત્",
+      "translation": "પ્રવર્તાયક પ્રોત્સાહક"
+    },
+    {
+      "original": "सिन्धुरस",
+      "transliteration": "ત્વગત્તરીયમૅ",
+      "translation": "અનુસંધાન કરો"
+    },
+    {
+      "original": "फुरत",
+      "transliteration": "દુરે",
+      "translation": "મંડકાવાળી કે વ્યાપક સંપ્રતિ"
+    },
+    {
+      "original": "त्वगुत्तरीयमे",
+      "transliteration": "મનો",
+      "translation": "વિચારો, મનોવિચાર"
+    },
+    {
+      "original": "दूरे",
+      "transliteration": "વિનોદ",
+      "translation": "આનંદ, મનોરંજન"
+    },
+    {
+      "original": "मनो",
+      "transliteration": "મધભુતં",
+      "translation": "ઊંચા વિકાસ કે શક્તિશાળી મંચ"
+    },
+    {
+      "original": "विनोद",
+      "transliteration": "bibhartu",
+      "translation": "પોષણ અથવા જીવટ્ય વૈશ્વિક દૃષ્ટિ"
+    },
+    {
+      "original": "मद्भुतं",
+      "transliteration": "ભૂતભર્તરી",
+      "translation": "તત્વોના કાર્યો કરતા જીવજન્ય વિકાસ"
+    },
+    {
+      "original": "बिभर्तु",
+      "transliteration": "સહસ્ર",
+      "translation": "હજાર, અનંત સંખ્યા"
+    },
+    {
+      "original": "भूतभर्तरि",
+      "transliteration": "લોચનપ્રભૃત્ય",
+      "translation": "દ્રષ્ટિ કે આંખોનું પ્રકાશ"
+    },
+    {
+      "original": "सहस्र",
+      "transliteration": "શેષ",
+      "translation": "બાકીના, અવશેષ"
+    },
+    {
+      "original": "लोचनप्रभृत्य",
+      "transliteration": "લખશેખર",
+      "translation": "શ્રેષ્ઠ, શ્રેષ્ઠ પિઠ, શ્રેષ્ઠ લેખ"
+    },
+    {
+      "original": "शेष",
+      "transliteration": "પ્રસૂન",
+      "translation": "ફૂલ, પુષ્પ"
+    },
+    {
+      "original": "लेखशेखर",
+      "transliteration": "ધૂલીધોરણી",
+      "translation": "ધૂળ અને અવાજની થાપી"
+    },
+    {
+      "original": "प्रसून",
+      "transliteration": "વિધૂસ",
+      "translation": "પ્રકાશીત, આદર્શ"
+    },
+    {
+      "original": "धूलिधोरणी",
+      "transliteration": "રાંઘ્રિ",
+      "translation": "પંથે, જીવન, ધારણક"
+    },
+    {
+      "original": "विधूस",
+      "transliteration": "પીટભૂઃ",
+      "translation": "પીઠ, મકાન"
+    },
+    {
+      "original": "राङ्घ्रि",
+      "transliteration": "ભુજંગ",
+      "translation": "સાપ, નાગ"
+    },
+    {
+      "original": "पीठभूः",
+      "transliteration": "રાજમાલયા",
+      "translation": "રાજદંડ પર શોભિત ધરાવવું"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "નિબદ્ધ",
+      "translation": "બાંધી રાખવો"
+    },
+    {
+      "original": "राजमालया",
+      "transliteration": "જાટજૂટક",
+      "translation": "શેખોની પાસે લાગણીઓ કે મોટેભાગે આકર્ષક ઘરની લાગણીઓ"
+    },
+    {
+      "original": "निबद्ध",
+      "transliteration": "શ્રિયૈ",
+      "translation": "વિશાળ અને વિરલ સમાજ મકાન"
+    },
+    {
+      "original": "जाटजूटक",
+      "transliteration": "ચિરાય",
+      "translation": "અંતે, લાંબી અવધિ"
+    },
+    {
+      "original": "श्रियै",
+      "transliteration": "જાયતાં",
+      "translation": "જન્મવું"
+    },
+    {
+      "original": "चिराय",
+      "transliteration": "ચકોર",
+      "translation": "જંગલના પંખીઓ જેમ તમે હાથ પર અટકાવવાથી લોકો સુધી પહોંચવું"
+    },
+    {
+      "original": "जायतां",
+      "transliteration": "બન્ધુશેખરઃ",
+      "translation": "શુભકામનાઓ અને આશાવાદી દેવ"
+    },
+    {
+      "original": "चकोर",
+      "transliteration": "લલાટ",
+      "translation": "મુખમંડળ, ખૂણો"
+    },
+    {
+      "original": "बन्धुशेखरः",
+      "transliteration": "ચत्वરજ્વલદ્",
+      "translation": "ચોથા પર બળકતી આગ"
+    },
+    {
+      "original": "ललाट",
+      "transliteration": "ધનંજયસ્ફુલિંગભા",
+      "translation": "વિજયના મશહૂર ગોલો"
+    },
+    {
+      "original": "चत्वर",
+      "transliteration": "નિપીત",
+      "translation": "પીણું પીવું"
+    },
+    {
+      "original": "ज्वलद्",
+      "transliteration": "પંચસાયકં",
+      "translation": "પાંચ શસ્ત્રો"
+    },
+    {
+      "original": "धनञ्जय",
+      "transliteration": "નમન્નિલિમ્પ",
+      "translation": "શ્રદ્ધાવાન અને ઉદાર"
+    },
+    {
+      "original": "स्फुलिङ्गभा",
+      "transliteration": "નાયકમ્",
+      "translation": "નાયક, સત્તાવાર પ્રતિનિધિ"
+    },
+    {
+      "original": "निपीत",
+      "transliteration": "સુધા",
+      "translation": "અમૃત, શ્રેષ્ઠ"
+    },
+    {
+      "original": "पञ्चसायकं",
+      "transliteration": "મયૂખલેઃ",
+      "translation": "કિરણોથી પ્રકાશ"
+    },
+    {
+      "original": "नमन्",
+      "transliteration": "ખયાં",
+      "translation": "ખોરાક, પોષણ"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "વિરાજમાણશેખરં",
+      "translation": "પ્રકાશમાં શિખર, શ્રેષ્ઠ"
+    },
+    {
+      "original": "नायकम्",
+      "transliteration": "મહાકાપાલિસંપદે",
+      "translation": "મહાકપાલિ અને સર્વશક્તિ સાથે વિસ્તૃત સમર્થતા"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "શિરોજ",
+      "translation": "શિખરનો સરખાવ"
+    },
+    {
+      "original": "मयूखले",
+      "transliteration": "ટાલમસ્તુ નઃ",
+      "translation": "સ્ત્રાવદ અને મથોર મૂલ્ય"
+    },
+    {
+      "original": "खया",
+      "transliteration": "કરાલ",
+      "translation": "અતિબીર, કરાળ"
+    },
+    {
+      "original": "विराजमानशेखरं",
+      "transliteration": "ભાલ",
+      "translation": "મોહક દ્રષ્ટિ, પ્રભાવે"
+    },
+    {
+      "original": "महाकपालि",
+      "transliteration": "पट्टिका",
+      "translation": "મજબૂત ચિહ્ન, કમાનક"
+    },
+    {
+      "original": "सम्पदे",
+      "transliteration": "ધગદ્",
+      "translation": "ઉત્પાતિક આગ"
+    },
+    {
+      "original": "शिरोज",
+      "transliteration": "ધગદ્",
+      "translation": "અસાધારણ સક્રિયતા"
+    },
+    {
+      "original": "टालमस्तु",
+      "transliteration": "ધગજ્જ્વલ",
+      "translation": "તેજસ્વી આગ"
+    },
+    {
+      "original": "नः",
+      "transliteration": "ધનંજયાહુતી",
+      "translation": "વિજય પછી ધ્યાનથી મોકળાઈ"
+    },
+    {
+      "original": "कराल",
+      "transliteration": "કૃતપ્રચંડ",
+      "translation": "ઊંચી અને શક્તિશાળી સ્થિતિ"
+    },
+    {
+      "original": "भाल",
+      "transliteration": "પંચસાયકે",
+      "translation": "પાંચ શસ્ત્રો"
+    },
+    {
+      "original": "पट्टिका",
+      "transliteration": "ધરા",
+      "translation": "પૃથ્વી, ધરતી"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "ધરેન્દ્ર",
+      "translation": "આકાશના રાજા"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "નંદિની",
+      "translation": "સુખની, વૃધ્ધિ"
+    },
+    {
+      "original": "धगज्ज्वल",
+      "transliteration": "કુચાગ્ર",
+      "translation": "સ્ત્રીઓમાં ટાઈટ અને મીઠી આંખો"
+    },
+    {
+      "original": "धनञ्जयाहुती",
+      "transliteration": "ચિત્રપત્રક",
+      "translation": "એક રંગીન પત્ર પ્રતિક"
+    },
+    {
+      "original": "कृतप्रचण्ड",
+      "transliteration": "પ્રકલ્પ",
+      "translation": "નકશા, આયોજન"
+    },
+    {
+      "original": "पञ्चसायके",
+      "transliteration": "નૈક",
+      "translation": "એસ્ટેટ લાગણી માં બંધાવવાનો"
+    },
+    {
+      "original": "धरा",
+      "transliteration": "શિલ્પિની",
+      "translation": "જ્ઞાને એક દ્રષ્ટિ માટે ડિઝાઇન ખૂણાઓ"
+    },
+    {
+      "original": "धरेन्द्र",
+      "transliteration": "ત્રિલોચને",
+      "translation": "ત્રણ આંખ ધરાવનાર"
+    },
+    {
+      "original": "नन्दिनी",
+      "transliteration": "રતિર્મમ",
+      "translation": "આનંદ, શ્રદ્ધા"
+    },
+    {
+      "original": "कुचाग्र",
+      "transliteration": "નવીન",
+      "translation": "નવો, તાજો"
+    },
+    {
+      "original": "चित्रपत्रक",
+      "transliteration": "મેઘ",
+      "translation": "વાદળ, વાતાવરણ"
+    },
+    {
+      "original": "प्रकल्प",
+      "transliteration": "મંડળી",
+      "translation": "વલય, ગોળીય રેખા"
+    },
+    {
+      "original": "नैक",
+      "transliteration": "નિરુદ",
+      "translation": "અવરોધિત, અવરોધ"
+    },
+    {
+      "original": "शिल्पिनि",
+      "transliteration": "ધદુર",
+      "translation": "દ્રષ્ટિ અવલંબિત"
+    },
+    {
+      "original": "त्रिलोचने",
+      "transliteration": "ધરસ્ફુરત્",
+      "translation": "ભૂખમન્ત, તાજો સ્પર્શ"
+    },
+    {
+      "original": "रतिर्मम",
+      "transliteration": "કુહૂ",
+      "translation": "નાનકડું બૂમ્બો"
+    },
+    {
+      "original": "नवीन",
+      "transliteration": "નિશીથી",
+      "translation": "ઊંઘ, રાત્રિ"
+    },
+    {
+      "original": "मेघ",
+      "transliteration": "નીતમઃ",
+      "translation": "શ્રેષ્ઠ, શ્રેષ્ઠતમ"
+    },
+    {
+      "original": "मण्डली",
+      "transliteration": "પ્રબંધ",
+      "translation": "વ્યવસ્થા, ગોઠવણ"
+    },
+    {
+      "original": "निरुद्",
+      "transliteration": "બદ્ધ",
+      "translation": "બંધાયેલા, ગોઠવાયેલા"
+    },
+    {
+      "original": "धदुर्",
+      "transliteration": "કંધરઃ",
+      "translation": "ગળામાં રહેલા, ખૂણો"
+    },
+    {
+      "original": "धरस्फुरत्",
+      "transliteration": "નિલિમ્પ",
+      "translation": "અભાવ, અવ્યાખ્યાયિત"
+    },
+    {
+      "original": "कुहू",
+      "transliteration": "નિર્જરી",
+      "translation": "નદી, પાણીનો પ્રવાહ"
+    },
+    {
+      "original": "निशीथि",
+      "transliteration": "ધરસ",
+      "translation": "પૃથ્વી, ટેકાઓ"
+    },
+    {
+      "original": "नीतमः",
+      "transliteration": "તનોતુ",
+      "translation": "યોગ આપે"
+    },
+    {
+      "original": "प्रबन्ध",
+      "transliteration": "કૃતિ",
+      "translation": "કાર્ય, શ્રેષ્ઠ"
+    },
+    {
+      "original": "बद्ध",
+      "transliteration": "સિંધુરઃ",
+      "translation": "નર્મદા અને ખૂણો"
+    },
+    {
+      "original": "कन्धरः",
+      "transliteration": "કલા",
+      "translation": "કલા, ક્ષેત્ર"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "નિધાન",
+      "translation": "ખજાનો, સાચવવું"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "બन्धુરઃ",
+      "translation": "મિત્ર, સહયોગ"
+    },
+    {
+      "original": "धरस्",
+      "transliteration": "શ્રીયં",
+      "translation": "વૈભવ, આદર"
+    },
+    {
+      "original": "तनोतु",
+      "transliteration": "જગદ",
+      "translation": "જગત, બ્રહ્માંડ"
+    },
+    {
+      "original": "कृत्ति",
+      "transliteration": "ધુરંધરઃ",
+      "translation": "શક્તિશાળી, વિજયી"
+    },
+    {
+      "original": "सिन्धुरः",
+      "transliteration": "પ્રફુલ્લ",
+      "translation": "ખિલાવવું, પૂરક"
+    },
+    {
+      "original": "कला",
+      "transliteration": "નીલપંગકજ",
+      "translation": "નીલકમળ"
+    },
+    {
+      "original": "निधान",
+      "transliteration": "પ્રપંચ",
+      "translation": "જગત, વિશ્વ"
+    },
+    {
+      "original": "बन्धुरः",
+      "transliteration": "કાલિમ",
+      "translation": "કાળો, સમય"
+    },
+    {
+      "original": "श्रियं",
+      "transliteration": "પ્રસ્વી",
+      "translation": "પ્રકાશ, તેજ"
+    },
+    {
+      "original": "जगद्",
+      "transliteration": "વલંબિ",
+      "translation": "લટકાવવું, ખૂણો"
+    },
+    {
+      "original": "धुरंधरः",
+      "transliteration": "કણ્ઠકંદલી",
+      "translation": "ગળાનો કણ, લટકાવવું"
+    },
+    {
+      "original": "प्रफुल्ल",
+      "transliteration": "રૂચિપ્રબદ્ધ",
+      "translation": "રૂચિબદ્ધ, આકર્ષક"
+    },
+    {
+      "original": "नीलपङ्कज",
+      "transliteration": "કંધરમ",
+      "translation": "ખૂણો, ગુલાબના ફૂલ"
+    },
+    {
+      "original": "प्रपञ्च",
+      "transliteration": "સ્મરચ્છિદં",
+      "translation": "યાદોથી બચાવવું, લય અનુભવવી"
+    },
+    {
+      "original": "कालिम",
+      "transliteration": "પુરચ્છિદં",
+      "translation": "ભૂતકલ્પોથી મુક્ત"
+    },
+    {
+      "original": "प्रभा",
+      "transliteration": "ભવચ્છિદં",
+      "translation": "ભવિષ્યથી મુક્ત"
+    },
+    {
+      "original": "वलम्बि",
+      "transliteration": "મખચ્છિદં",
+      "translation": "યજ્ઞોથી મુક્ત"
+    },
+    {
+      "original": "कण्ठकन्दली",
+      "transliteration": "ગજચ્છિ",
+      "translation": "હાથીનાં પદચિહ્ન"
+    },
+    {
+      "original": "रुचिप्रबद्ध",
+      "transliteration": "દાંધ",
+      "translation": "કઠિન, સાવધ"
+    },
+    {
+      "original": "कन्धरम्",
+      "transliteration": "કચ્છિદં",
+      "translation": "લયશીલ, વાણી"
+    },
+    {
+      "original": "स्मरच्छिदं",
+      "transliteration": "તમંત",
+      "translation": "દુશ્મન, દુશ્મનવાળી"
+    },
+    {
+      "original": "पुरच्छिदं",
+      "transliteration": "કચ્છિદં",
+      "translation": "કોઈ, કોઈટું"
+    },
+    {
+      "original": "भवच्छिदं",
+      "transliteration": "ભજે",
+      "translation": "મંત્રોચ્ચાર, સ્નેહ"
+    },
+    {
+      "original": "मखच्छिदं",
+      "transliteration": "અખર્વ",
+      "translation": "શ્રેષ્ઠ, અદ્ભુત"
+    },
+    {
+      "original": "गजच्छि",
+      "transliteration": "સર્વ",
+      "translation": "સર્વ, તમામ"
+    },
+    {
+      "original": "दांध",
+      "transliteration": "મંગલા",
+      "translation": "શુભતા, સારી વાત"
+    },
+    {
+      "original": "कच्छिदं",
+      "transliteration": "કલા",
+      "translation": "કલા, સ્વરૂપ"
+    },
+    {
+      "original": "तमंत",
+      "transliteration": "કદંબ",
+      "translation": "કદંબ વૃક્ષ, વૃક્ષ"
+    },
+    {
+      "original": "कच्छिदं",
+      "transliteration": "મંજરી",
+      "translation": "ફૂલોનો ગૂંચ, મધુરતા"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "રસ",
+      "translation": "સ્વાદ, રુચિ"
+    },
+    {
+      "original": "अखर्व",
+      "transliteration": "પ્રવાહ",
+      "translation": "પ્રવાહ, વહાવું"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "माधुरी",
+      "translation": "મધુરતા, મીઠાશ"
+    },
+    {
+      "original": "मङ्गला",
+      "transliteration": "વિજૃંભણા",
+      "translation": "પ્રકાશિત થવું, પ્રગટ થવું"
+    },
+    {
+      "original": "कला",
+      "transliteration": "મધુવ્રતમ્",
+      "translation": "મધુરસ, મીઠું જીવન"
+    },
+    {
+      "original": "कदंब",
+      "transliteration": "સ્મરાંતકં",
+      "translation": "યમરાજ, મૃત્યુ સંહારક"
+    },
+    {
+      "original": "मञ्जरी",
+      "transliteration": "પુરાંતકં",
+      "translation": "પાશુપતિ, ભવિષ્ય સ્નેહ"
+    },
+    {
+      "original": "रस",
+      "transliteration": "ભાવાંતકં",
+      "translation": "મૈત્રીજનક, શક્તિશાળી"
+    },
+    {
+      "original": "प्रवाह",
+      "transliteration": "મખાંતકં",
+      "translation": "યજ્ઞનો વિમોચક, વિજયી"
+    },
+    {
+      "original": "माधुरी",
+      "transliteration": "ગજાંત",
+      "translation": "એશિયનો માણસ, રાજસી"
+    },
+    {
+      "original": "विजृंभणा",
+      "transliteration": "કાન્થ",
+      "translation": "ગુલાબના પાંખે"
+    },
+    {
+      "original": "मधुव्रतम्",
+      "transliteration": "કાંત",
+      "translation": "પ્રેમી, આધ્યાત્મિક"
+    },
+    {
+      "original": "स्मरान्तकं",
+      "transliteration": "કં",
+      "translation": "નમર, થંકાર"
+    },
+    {
+      "original": "पुरान्तकं",
+      "transliteration": "તમંત",
+      "translation": "હાકલાવવું"
+    },
+    {
+      "original": "भवान्तकं",
+      "transliteration": "કાંત",
+      "translation": "પ્રેમી"
+    },
+    {
+      "original": "मखान्तकं",
+      "transliteration": "કં",
+      "translation": "નમર"
+    },
+    {
+      "original": "गजान्त",
+      "transliteration": "ભજે",
+      "translation": "આરાધના, ભક્તિ"
+    },
+    {
+      "original": "कान्ध",
+      "transliteration": "જયત્",
+      "translation": "વિજયી, સહકાર"
+    },
+    {
+      "original": "कान्त",
+      "transliteration": "વડભ્ર",
+      "translation": "બોલવું, શબ્દ"
+    },
+    {
+      "original": "कं",
+      "transliteration": "વિભ્રમ",
+      "translation": "વિમોશન, અનિયમિત"
+    },
+    {
+      "original": "तमन्त",
+      "transliteration": "ભ્રમદ્",
+      "translation": "વિચલિત, ભ્રમિત"
+    },
+    {
+      "original": "कान्त",
+      "transliteration": "ભુજંગ",
+      "translation": "સાપ, વાંદરા"
+    },
+    {
+      "original": "कं",
+      "transliteration": "મશ્વસ",
+      "translation": "સંકેત, મીઠું મીઠું"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "દ્વિનિર્ગ",
+      "translation": "પાવર, અવરોધ"
+    },
+    {
+      "original": "जयत्",
+      "transliteration": "મત્",
+      "translation": "આત્મબોધ"
+    },
+    {
+      "original": "वदभ्र",
+      "transliteration": "ક્રમસ્ફુરત્",
+      "translation": "ક્રમ, મૂલ્ય"
+    },
+    {
+      "original": "विभ्रम",
+      "transliteration": "કરાલ",
+      "translation": "વિજયી, દેવ"
+    },
+    {
+      "original": "भ्रमद्",
+      "transliteration": "ભાલ",
+      "translation": "ભાલો"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "હવ્યવાટ્",
+      "translation": "યજ્ઞ ગ્રંથ"
+    },
+    {
+      "original": "मश्वस",
+      "transliteration": "ધિમિધ્ધિમિધ્ધિમિધ્ણનમૃદંગતૂંગમંગલ",
+      "translation": "વિધિ, ભગવાન"
+    },
+    {
+      "original": "द्विनिर्ग",
+      "transliteration": "ધ્વનિક્રમપ્રવર્તિત",
+      "translation": "ગાવવું, વૈભવ"
+    },
+    {
+      "original": "मत्",
+      "transliteration": "પ્રચંડતાંડવઃ",
+      "translation": "શક્તિશાળી નૃત્ય"
+    },
+    {
+      "original": "क्रमस्फुरत्",
+      "transliteration": "શિવઃ",
+      "translation": "આદર, ભૂખમંડ"
+    },
+    {
+      "original": "कराल",
+      "transliteration": "સ્પૃષદ્વિચિત્રતલ્પયોઃ",
+      "translation": "લલિત, સૃજનાત્મક"
+    },
+    {
+      "original": "भाल",
+      "transliteration": "ભુજંગમૌક્તિકસ્રજોર્",
+      "translation": "મણિની માળા, ભુજંગના ઝીણા અંશો"
+    },
+    {
+      "original": "हव्यवाट्",
+      "transliteration": "ગરिष्ठરત્નલોષ્ઠયોઃ",
+      "translation": "શ્રેષ્ઠ રત્નો"
+    },
+    {
+      "original": "धिमिद्धिमिद्धिमि",
+      "transliteration": "સુહૃદ્વિપ્રક્ષપક્ષયોઃ",
+      "translation": "મિત્ર, વિખંડિત"
+    },
+    {
+      "original": "ध्वनन्मृदङ्ग",
+      "transliteration": "તૃષ્ણારવિંદચક્ષુષોઃ",
+      "translation": "તૃષ્ટિ, દરાવ"
+    },
+    {
+      "original": "तुङ्गमङ्गल",
+      "transliteration": "પ્રજામહીમહેન્દ્રયોઃ",
+      "translation": "પ્રજાસત્તાનો વ્યાખ્યાવિહીન, વિશ્વ પર સશક્તિ"
+    },
+    {
+      "original": "ध्वनिक्रमप्रवर्तित",
+      "transliteration": "સમપ્રવૃત્તિકઃ",
+      "translation": "એકીકરણ, સમન્વય"
+    },
+    {
+      "original": "प्रचण्डताण्डवः",
+      "transliteration": "કદા",
+      "translation": "ક્યારે"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "સદાશિવં",
+      "translation": "સદાશિવ"
+    },
+    {
+      "original": "स्पृषद्विचित्रतल्पयोः",
+      "transliteration": "ભજે",
+      "translation": "ભક્તિ"
+    },
+    {
+      "original": "भुजङ्गमौक्तिकस्रजोर्",
+      "transliteration": "નિલિમ્પનીઝરીનિકુંજકોટે",
+      "translation": "લીંબો ઝરણો, નાની નદી"
+    },
+    {
+      "original": "गरिष्ठरत्नलोष्ठयोः",
+      "transliteration": "વસન",
+      "translation": "રહેવું"
+    },
+    {
+      "original": "सुहृद्विपक्षपक्षयोः",
+      "transliteration": "વિમુક્તદુર્મતિઃ",
+      "translation": "શ્રદ્ધા વિનાની મુક્તિ"
+    },
+    {
+      "original": "तृष्णारविन्दचक्षुषोः",
+      "transliteration": "શિરઃ",
+      "translation": "શિર"
+    },
+    {
+      "original": "प्रजामहीमहेन्द्रयोः",
+      "transliteration": "સ્થમંજલિં",
+      "translation": "મજલ, આશિર્વાદ"
+    },
+    {
+      "original": "समप्रवृत्तिकः",
+      "transliteration": "વિમુક્તલોલલોચનો",
+      "translation": "મુક્તિબોધ"
+    },
+    {
+      "original": "कदा सदाशिवं भजे",
+      "transliteration": "લલામભાલલગ્નકઃ",
+      "translation": "શ્રેષ્ઠ યોગી"
+    },
+    {
+      "original": "कदा",
+      "transliteration": "શિવેતી",
+      "translation": "શ્રીશિવ"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "મંત્રમુચ્છરં",
+      "translation": "મંત્રપ્રસારણ"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "કદા",
+      "translation": "ક્યારે"
+    },
+    {
+      "original": "निकुञ्ज",
+      "transliteration": "સુખી",
+      "translation": "સુખદ"
+    },
+    {
+      "original": "कोटरे",
+      "transliteration": "ભવામ્યહમ્",
+      "translation": "હું ખુશીથી રહીશ"
+    },
+    {
+      "original": "वसन",
+      "transliteration": "ઇદમ્",
+      "translation": "આ"
+    },
+    {
+      "original": "विमुक्त",
+      "transliteration": "હિ",
+      "translation": "ખૂણો"
+    },
+    {
+      "original": "दुर्मति",
+      "transliteration": "નિત્યમેવ",
+      "translation": "સતત અને મહાન"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "ઉત્તમોત્તમં",
+      "translation": "શ્રેષ્ઠ"
+    },
+    {
+      "original": "सिरः",
+      "transliteration": "સ્તવં",
+      "translation": "સ્તોત્ર"
+    },
+    {
+      "original": "स्थमञ्जलिं",
+      "transliteration": "પઠન્સ્મરન્બ્રુવન્નરો",
+      "translation": "પાઠ વાંચતી વખતે શ્રદ્ધા"
+    },
+    {
+      "original": "वहन",
+      "transliteration": "વિશુદ્ધિમેઇતિસંતતમ્",
+      "translation": "ઊંચા સંતકાર્ય"
+    },
+    {
+      "original": "विमुक्त",
+      "transliteration": "હરેઃ",
+      "translation": "હરિ, ભગવાન"
+    },
+    {
+      "original": "लोललोचनो",
+      "transliteration": "ગુરૌ",
+      "translation": "ગુરુ, શિક્ષક"
+    },
+    {
+      "original": "ललाम",
+      "transliteration": "સુભક્તિમાશુ",
+      "translation": "શ્રદ્ધા વિનાની"
+    },
+    {
+      "original": "भाललग्नकः",
+      "transliteration": "યાતિ",
+      "translation": "જવું"
+    },
+    {
+      "original": "शिवेति",
+      "transliteration": "નાન્યથા",
+      "translation": "બીજું નથી"
+    },
+    {
+      "original": "मंत्रमुच्चरन्",
+      "transliteration": "ગતિ",
+      "translation": "ગતિ"
+    },
+    {
+      "original": "कदा",
+      "transliteration": "વિમોહનં",
+      "translation": "મુક્તિ"
+    },
+    {
+      "original": "सुखी",
+      "transliteration": "દેહિનાં",
+      "translation": "શરીરનો આરોગ્ય"
+    },
+    {
+      "original": "भवाम्यहम्",
+      "transliteration": "સુશંકરસ્ય",
+      "translation": "સ્વામિ આશિર્વાદ"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "ચિંતનમ્",
+      "translation": "મૌલિક અભ્યાસ"
+    },
+    {
+      "original": "ही",
+      "transliteration": "પૂજા",
+      "translation": "પૂજા (ઉત્સવ વિધિ)"
+    },
+    {
+      "original": "नित्यंेव",
+      "transliteration": "વસાન",
+      "translation": "નિશા દરમ્યાન"
+    },
+    {
+      "original": "मुक्तम्",
+      "transliteration": "સમયે",
+      "translation": "સમય, અવધિ"
+    },
+    {
+      "original": "उत्तमं",
+      "transliteration": "દશવક્ત્ર",
+      "translation": "દશ મુખવાળી"
+    },
+    {
+      "original": "स्तवं",
+      "transliteration": "ગીતં",
+      "translation": "ગીત, ભજન"
+    },
+    {
+      "original": "पठन्",
+      "transliteration": "યઃ",
+      "translation": "જે (યે)"
+    },
+    {
+      "original": "स्मरण",
+      "transliteration": "શંભુ",
+      "translation": "ભગવાન શિવા"
+    },
+    {
+      "original": "ब्रुवन्",
+      "transliteration": "પૂજન",
+      "translation": "પૂજા (ઇશ્વર વંદના)"
+    },
+    {
+      "original": "नर",
+      "transliteration": "પરં",
+      "translation": "પરમ, શ્રેષ્ઠ"
+    },
+    {
+      "original": "विशुद्धिम्",
+      "transliteration": "પઠતિ",
+      "translation": "વાંચે"
+    },
+    {
+      "original": "एतित",
+      "transliteration": "પ્રદોષે",
+      "translation": "સંધ્યાવેળા"
+    },
+    {
+      "original": "संतमं",
+      "transliteration": "તેની",
+      "translation": "તે (વિશિષ્ટ વ્યક્તિ)"
+    },
+    {
+      "original": "हरे",
+      "transliteration": "સ્થિરાં",
+      "translation": "સ્થિર (અડીખમ)"
+    },
+    {
+      "original": "गुरौ",
+      "transliteration": "રથગજેન્દ્ર",
+      "translation": "રથ અને હાથી (રથરાજ)"
+    },
+    {
+      "original": "सुभक्तिं",
+      "transliteration": "તુરંગ",
+      "translation": "ઘોડો"
+    },
+    {
+      "original": "आशु",
+      "transliteration": "yuktaṁ",
+      "translation": "જોડેલું"
+    },
+    {
+      "original": "याति",
+      "transliteration": "લક્ષ્મી",
+      "translation": "શ્રેયાવહ (દક્ષિણ)"
+    },
+    {
+      "original": "नान्यथा",
+      "transliteration": "સદૈવ",
+      "translation": "હંમેશા"
+    },
+    {
+      "original": "गतिं",
+      "transliteration": "સુમુખિ",
+      "translation": "સકારાત્મક ચહેરો"
+    },
+    {
+      "original": "विमोहनं",
+      "transliteration": "પ્રદાદાતિ",
+      "translation": "આપવી"
+    },
+    {
+      "original": "ही",
+      "transliteration": "શંભુઃ",
+      "translation": "ભગવાન શિવા"
+    },
+    {
+      "original": "देहिनां",
+      "transliteration": "ઇતિ",
+      "translation": "આ રીતે"
+    },
+    {
+      "original": "सुशङ्करस्य",
+      "transliteration": "શ્રીરાવણ",
+      "translation": "શ્રીરાવણ"
+    },
+    {
+      "original": "चिंतनं",
+      "transliteration": "કૃતમ",
+      "translation": "રચનાકૃત, બનાવેલું"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "શિવ-",
+      "translation": "શિવ (ભગવાન શિવા)"
+    },
+    {
+      "original": "वसान",
+      "transliteration": "તાંડવ-",
+      "translation": "તાંડવ નૃત્ય"
+    },
+    {
+      "original": "समये",
+      "transliteration": "સ્તોત્રં",
+      "translation": "સ્તોત્ર (પ્રાર્થના, ભજન)"
+    },
+    {
+      "original": "दशवक्त्र",
+      "transliteration": "सम्पૂર્ણम्",
+      "translation": "પૂર્ણ, સંપૂર્ણ"
+    },
+    {
+      "original": "गीतं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शंभु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रदोषे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्थिरां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रथगजेन्द्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तुरङ्ग",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "युक्तां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लक्ष्मीं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सदैव",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुमुखिं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रददाति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शंभुः",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\gujarati\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\gujarati\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.678Z"
+  }
+}

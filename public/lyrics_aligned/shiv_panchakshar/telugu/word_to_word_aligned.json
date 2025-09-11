@@ -1,0 +1,344 @@
+{
+  "mantra": "shiv_panchakshar",
+  "language": "telugu",
+  "type": "word_to_word",
+  "totalWords": 66,
+  "alignedWords": [
+    {
+      "original": "नागेन्द्रहाराय",
+      "transliteration": "నాగేంద్రహారాయ",
+      "translation": "నాగేంద్ర హారాయ - శివుని నామం"
+    },
+    {
+      "original": "त्रिलोचनाय",
+      "transliteration": "త్రిలోచనాయ",
+      "translation": "త్రిలోచనాయ - మూడు కన్నులు ఉన్న"
+    },
+    {
+      "original": "भस्माङ्गरागाय",
+      "transliteration": "భస్మాంగరాగాయ",
+      "translation": "భస్మంగరాగాయ - శివుని గుణం"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "మహేశ్వరాయ",
+      "translation": "మహేశ్వరాయ - శివుని పేరా"
+    },
+    {
+      "original": "नित्याय",
+      "transliteration": "నిత్యాయ",
+      "translation": "నిత్యాయ - శాశ్వతమైన"
+    },
+    {
+      "original": "शुद्धाय",
+      "transliteration": "శుద్ధాయ",
+      "translation": "శుద్ధాయ - పవిత్రమైన"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "దిగంబరాయ",
+      "translation": "దిగంబరాయ - దిగంబరం ధరించిన"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "తస్మై",
+      "translation": "అతనికి, ఆయనకు"
+    },
+    {
+      "original": "न काराय",
+      "transliteration": "న",
+      "translation": "న - వ్యంగ్యార్థంలో లేదా"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "కారాయ",
+      "translation": "కారాయ - కార్యాన్ని నిర్వాహించే"
+    },
+    {
+      "original": "मन्दाकिनी",
+      "transliteration": "నమః",
+      "translation": "నమః - నమస్కారము, ఆరాధన"
+    },
+    {
+      "original": "सलीलचन्दन",
+      "transliteration": "శివాయ",
+      "translation": "శివాయ - శివుని నామం"
+    },
+    {
+      "original": "चर्चिताय",
+      "transliteration": "మండాకిని",
+      "translation": "మండాకిని - గంగా నది"
+    },
+    {
+      "original": "नन्दीश्वर",
+      "transliteration": "సలిలచందన",
+      "translation": "సలిలచందన - స్నానం చేసే పదార్థం"
+    },
+    {
+      "original": "प्रमथनाथ",
+      "transliteration": "చర్చితాయ",
+      "translation": "చర్చితాయ - పేరుప్రఖ్యాత అయిన"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "నందీశ్వర",
+      "translation": "నందీశ్వర - శివుని వాహనమైన నంది"
+    },
+    {
+      "original": "मन्दारपुष्प",
+      "transliteration": "ప్రమథనాథ",
+      "translation": "ప్రమథనాథ - శివుని సేవకుడు"
+    },
+    {
+      "original": "बहुपुष्प",
+      "transliteration": "మహేశ్వరాయ",
+      "translation": "మహేశ్వరాయ - మహాదేవుడు"
+    },
+    {
+      "original": "सुपूजिताय",
+      "transliteration": "మండారపుష్ప",
+      "translation": "మండారపుష్ప - పూలు"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "బహుపుష్ప",
+      "translation": "బహుపుష్ప - అనేక పూలు"
+    },
+    {
+      "original": "म काराय",
+      "transliteration": "సుపూజితాయ",
+      "translation": "సుపూజితాయ - పూజించబడిన"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "తస్మై",
+      "translation": "అతనికి, ఆయనకు"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "మ",
+      "translation": "మ - వ్యంగ్యార్థంలో లేదా"
+    },
+    {
+      "original": "गोरिवदनाब्जवृंद",
+      "transliteration": "కారాయ",
+      "translation": "కారాయ - కార్యాన్ని నిర్వాహించే"
+    },
+    {
+      "original": "सूर्याय",
+      "transliteration": "నమః",
+      "translation": "నమః - నమస్కారము, ఆరాధన"
+    },
+    {
+      "original": "दक्षाध्वरनाशकाय",
+      "transliteration": "శివాయ",
+      "translation": "శివాయ - శివుని నామం"
+    },
+    {
+      "original": "श्रीनीलकंठाय",
+      "transliteration": "శివాయ",
+      "translation": "శివాయ - శివుని నామం"
+    },
+    {
+      "original": "वृषध्वजाय",
+      "transliteration": "గౌరీవదనాబ్జవృంద",
+      "translation": "గౌరీ వదన (పెద్ద పెద్ద కళ్ళతో గౌరీ)"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "సూర్యాయ",
+      "translation": "సూర్యాయ - సూర్యుని నామం"
+    },
+    {
+      "original": "शि काराय",
+      "transliteration": "దక్షాధ్వరణాశకాయ",
+      "translation": "దక్షాధ్వరణాశకాయ - శివుని పేరు"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "శ్రీనీలకంఠాయ",
+      "translation": "శ్రీనీలకంఠాయ - శివుని నామం"
+    },
+    {
+      "original": "वसिष्ठ",
+      "transliteration": "వృషధ్వజాయ",
+      "translation": "వృషధ్వజాయ - శివుని రథ పతాకం"
+    },
+    {
+      "original": "कुम्भोद्भव",
+      "transliteration": "తస్మై",
+      "translation": "అతనికి, ఆయనకు"
+    },
+    {
+      "original": "गौतमार्य",
+      "transliteration": "శి",
+      "translation": "శి - శివుని స్వరూపం"
+    },
+    {
+      "original": "मुनीन्द्र",
+      "transliteration": "కారాయ",
+      "translation": "కారాయ - కార్యాన్ని నిర్వాహించే"
+    },
+    {
+      "original": "देव",
+      "transliteration": "నమః",
+      "translation": "నమః - నమస్కారము, ఆరాధన"
+    },
+    {
+      "original": "अर्चित",
+      "transliteration": "శివాయ",
+      "translation": "శివాయ - శివుని నామం"
+    },
+    {
+      "original": "शेखराय",
+      "transliteration": "వసిష్ఠకుంభోద్భవగౌతమార్య",
+      "translation": "వసిష్ట కుంభోద్భవగౌతమార్య - పెద్ద మంది మూనీ అంగికంగా ఉన్న"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "మూనీంద్రదేవార్చితశేఖరాయ",
+      "translation": "మూనీంద్ర దేవార్చితశేఖరాయ - మునీ, దేవాలయ వర్ణములలో సేవలు"
+    },
+    {
+      "original": "अर्क",
+      "transliteration": "చంద్రార్క",
+      "translation": "చంద్రార్క - చంద్రుడు మరియు అగ్ని"
+    },
+    {
+      "original": "वैश्वानर",
+      "transliteration": "వైశ్వానరలోచనాయ",
+      "translation": "వైశ్వానరలోచనాయ - అగ్ని దేవుని చూడటం"
+    },
+    {
+      "original": "लोचनाय",
+      "transliteration": "తస్మై",
+      "translation": "అతనికి, ఆయనకు"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "న",
+      "translation": "న - వ్యంగ్యార్థంలో లేదా"
+    },
+    {
+      "original": "व काराय",
+      "transliteration": "కారాయ",
+      "translation": "కారాయ - కార్యాన్ని నిర్వాహించే"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "నమః",
+      "translation": "నమః - నమస్కారము, ఆరాధన"
+    },
+    {
+      "original": "यक्ष",
+      "transliteration": "శివాయ",
+      "translation": "శివాయ - శివుని నామం"
+    },
+    {
+      "original": "स्वरूपाय",
+      "transliteration": "యక్షస్వరూపాయ",
+      "translation": "యక్ష స్వరూపాయ - యక్ష రూపంలో ఉన్న"
+    },
+    {
+      "original": "जटाधराय",
+      "transliteration": "జటాధరాయ",
+      "translation": "జటాధరాయ - జట ధారణ చేసుకున్న"
+    },
+    {
+      "original": "पिनाकहस्ताय",
+      "transliteration": "పినాకహస్తాయ",
+      "translation": "పినాక హస్తాయ - శివుని పినాక వృత్తి"
+    },
+    {
+      "original": "सनातनाय",
+      "transliteration": "సనాతనాయ",
+      "translation": "సనాతనాయ - శాశ్వతమైన"
+    },
+    {
+      "original": "दिव्याय",
+      "transliteration": "దివ్యాయ",
+      "translation": "దివ్యాయ - పవిత్రమైన, దివ్యమైన"
+    },
+    {
+      "original": "देवाय",
+      "transliteration": "దేవాయ",
+      "translation": "దేవాయ - దేవుని నామం"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "దిగంబరాయ",
+      "translation": "దిగంబరాయ - దిగంబరం ధరించిన"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "తస్మై",
+      "translation": "అతనికి, ఆయనకు"
+    },
+    {
+      "original": "य काराय",
+      "transliteration": "య",
+      "translation": "య - 'య' నామకం"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "కారాయ",
+      "translation": "కారాయ - కార్యాన్ని నిర్వహించు"
+    },
+    {
+      "original": "पञ्चाक्षरमिदं",
+      "transliteration": "నమః",
+      "translation": "నమః - నమస్కారము, ఆరాధన"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "శివాయ",
+      "translation": "శివాయ - శివుని నామం"
+    },
+    {
+      "original": "यः",
+      "transliteration": "పంచాక్షరమిదం పుణ్యంకు",
+      "translation": "పంచాక్షరమిదం పుణ్యంకు - పంచాక్షరం శివుని నామానికి"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "యః",
+      "translation": "యః - ఎవరు, ఆ వ్యక్తి"
+    },
+    {
+      "original": "शिवसन्निधौ",
+      "transliteration": "పఠేచ్చివసన్నిధౌ",
+      "translation": "పఠించేవారు శివుని దగ్గరుండి శివలోకానికి చేరుకుంటారు"
+    },
+    {
+      "original": "शिवलोकं",
+      "transliteration": "శివలోకమవాప్నోతి",
+      "translation": "శివలోకం - శివుని నివాస స్థలం"
+    },
+    {
+      "original": "अवाप्नोति",
+      "transliteration": "శివేన సహ మోదతే",
+      "translation": "శివునితో ఆనందంగా ఉంటారు"
+    },
+    {
+      "original": "शिवेन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सह",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मोदीते",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\telugu\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\telugu\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.644Z"
+  }
+}

@@ -1,0 +1,1494 @@
+{
+  "mantra": "shiv_tandav_stotra",
+  "language": "russian",
+  "type": "word_to_word",
+  "totalWords": 296,
+  "alignedWords": [
+    {
+      "original": "जटा",
+      "transliteration": "жа́та",
+      "translation": "узел волос"
+    },
+    {
+      "original": "टवी",
+      "transliteration": "тви́",
+      "translation": "пучок волос"
+    },
+    {
+      "original": "गलज्जल",
+      "transliteration": "галаджжала",
+      "translation": "грязная вода"
+    },
+    {
+      "original": "प्रवाह",
+      "transliteration": "права́ха",
+      "translation": "поток, течение"
+    },
+    {
+      "original": "पावितस्थले",
+      "transliteration": "па́витастхале",
+      "translation": "святое место"
+    },
+    {
+      "original": "गलेऽवलम्ब्य",
+      "transliteration": "галеваламбья",
+      "translation": "висящий на шее"
+    },
+    {
+      "original": "लम्बितां",
+      "transliteration": "ламби́тан",
+      "translation": "длинный или растянутый"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "бхуджáнга",
+      "translation": "змея"
+    },
+    {
+      "original": "तुङ्ग",
+      "transliteration": "тунга",
+      "translation": "высокий, возвышенный"
+    },
+    {
+      "original": "मालिकाम्",
+      "transliteration": "ма́ликаам",
+      "translation": "ожерелье господа"
+    },
+    {
+      "original": "डमड्डमड्ड",
+      "transliteration": "дамаддама́дда",
+      "translation": "звук барабана"
+    },
+    {
+      "original": "डमड्डमड्डमड्डमन्निनाद्",
+      "transliteration": "дамаддама́ддамадминна́д",
+      "translation": "отголоски звука барабана"
+    },
+    {
+      "original": "वड्डमर्वयं",
+      "transliteration": "ваддамарвя́м",
+      "translation": "звук конфликта"
+    },
+    {
+      "original": "चकार",
+      "transliteration": "чакáра",
+      "translation": "сделал, исполнил"
+    },
+    {
+      "original": "चण्डताण्डवं",
+      "transliteration": "чан́датāндавам",
+      "translation": "жестокий танец Танджавы"
+    },
+    {
+      "original": "तनोतु",
+      "transliteration": "таноту",
+      "translation": "пусть растет"
+    },
+    {
+      "original": "नः",
+      "transliteration": "нах",
+      "translation": "нас"
+    },
+    {
+      "original": "शिवः",
+      "transliteration": "шивáх",
+      "translation": "господь Шива"
+    },
+    {
+      "original": "शिवम्",
+      "transliteration": "шивам",
+      "translation": "благоприятный, мир, Шива"
+    },
+    {
+      "original": "जटा",
+      "transliteration": "жата",
+      "translation": "Пучок волос, волосы"
+    },
+    {
+      "original": "कटा",
+      "transliteration": "ката",
+      "translation": "Наручники, повязка"
+    },
+    {
+      "original": "हसंभ्रम",
+      "transliteration": "хасамбхрам",
+      "translation": "Заблуждение, ошибочное состояние"
+    },
+    {
+      "original": "भ्रमन्निलिम्प",
+      "transliteration": "бхраманнилмп",
+      "translation": "Мелькание, быстрое движение"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "нирджари",
+      "translation": "Река, поток, течение воды"
+    },
+    {
+      "original": "विलो",
+      "transliteration": "вилo",
+      "translation": "Тот, кто защищает"
+    },
+    {
+      "original": "लवी",
+      "transliteration": "лави",
+      "translation": "Древесная лоза, веревка"
+    },
+    {
+      "original": "चिवल्लरी",
+      "transliteration": "чиваллари",
+      "translation": "Образ, выражение, лицо"
+    },
+    {
+      "original": "विराजमान",
+      "transliteration": "виражмаан",
+      "translation": "Великолепие, сияние"
+    },
+    {
+      "original": "मूर्धनि",
+      "transliteration": "мурдхани",
+      "translation": "Голова, верхняя часть"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "дхагад",
+      "translation": "Пламя, огонь"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "дхагад",
+      "translation": "Пламя, огонь"
+    },
+    {
+      "original": "धगज्ज्वलल्",
+      "transliteration": "дхагадджвала",
+      "translation": "Сжигающий, горящий"
+    },
+    {
+      "original": "ललाट",
+      "transliteration": "лалат",
+      "translation": "Лоб, верхняя часть головы"
+    },
+    {
+      "original": "पट्ट",
+      "transliteration": "патта",
+      "translation": "Лента, шнур, ткань"
+    },
+    {
+      "original": "पावके",
+      "transliteration": "павке",
+      "translation": "Священный, чистый"
+    },
+    {
+      "original": "किशोर",
+      "transliteration": "кишор",
+      "translation": "Молодой человек, юноша"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "чандра",
+      "translation": "Луна, свет луны"
+    },
+    {
+      "original": "शेखरे",
+      "transliteration": "шехаре",
+      "translation": "На вершине, на пике"
+    },
+    {
+      "original": "रति:",
+      "transliteration": "рати",
+      "translation": "Любовь, желание"
+    },
+    {
+      "original": "प्रतिक्षणं",
+      "transliteration": "пратикшаном",
+      "translation": "Каждый момент, каждый взгляд"
+    },
+    {
+      "original": "मम",
+      "transliteration": "мама",
+      "translation": "Мой, мой"
+    },
+    {
+      "original": "धरा",
+      "transliteration": "дхара",
+      "translation": "Земля"
+    },
+    {
+      "original": "धरेन्द्र",
+      "transliteration": "дарендра",
+      "translation": "Сын Индры, Господь Шива"
+    },
+    {
+      "original": "नंदिनी",
+      "transliteration": "нандини",
+      "translation": "Богиня Дурга, жена Господа Шивы"
+    },
+    {
+      "original": "विलास",
+      "transliteration": "вилеса",
+      "translation": "Удовольствие, наслаждение"
+    },
+    {
+      "original": "बन्धु",
+      "transliteration": "бандху",
+      "translation": "Друг, родственник"
+    },
+    {
+      "original": "बन्धुरस",
+      "transliteration": "бандхураза",
+      "translation": "Привязанность, любовь"
+    },
+    {
+      "original": "फुरद्",
+      "transliteration": "фурад",
+      "translation": "Быстро двигаться вперёд"
+    },
+    {
+      "original": "दिगन्त",
+      "transliteration": "диганта",
+      "translation": "Конец направления, граница"
+    },
+    {
+      "original": "सन्तति",
+      "transliteration": "сангати",
+      "translation": "Потомки, потомство"
+    },
+    {
+      "original": "प्रमोद",
+      "transliteration": "прамода",
+      "translation": "Радость, счастье"
+    },
+    {
+      "original": "मानमानसे",
+      "transliteration": "манаманасе",
+      "translation": "Увеличение самоуважения"
+    },
+    {
+      "original": "कृपा",
+      "transliteration": "крипа",
+      "translation": "Милосердие, сострадание"
+    },
+    {
+      "original": "कटाक्ष",
+      "transliteration": "катакша",
+      "translation": "Взгляд, косой взгляд"
+    },
+    {
+      "original": "धोरणी",
+      "transliteration": "дхорани",
+      "translation": "Земля, почва"
+    },
+    {
+      "original": "निरुद्ध",
+      "transliteration": "ниру́дха",
+      "translation": "Блокированный, сдержанный"
+    },
+    {
+      "original": "दुर्धरापदि",
+      "transliteration": "дурдхарапади",
+      "translation": "Трудная ситуация, катастрофа"
+    },
+    {
+      "original": "क्वचिद्",
+      "transliteration": "квачид",
+      "translation": "Иногда, где-то"
+    },
+    {
+      "original": "दिगम्बरे",
+      "transliteration": "дигамбере",
+      "translation": "Тот, кто живёт в небе"
+    },
+    {
+      "original": "मनो",
+      "transliteration": "мано",
+      "translation": "Разум, душа"
+    },
+    {
+      "original": "विनोदमेतु",
+      "transliteration": "винодамету",
+      "translation": "Тот, кто приносит радость, радостный"
+    },
+    {
+      "original": "वस्तुनी",
+      "transliteration": "вастуни",
+      "translation": "Объект, вещь"
+    },
+    {
+      "original": "लता",
+      "transliteration": "лата",
+      "translation": "Вьющаяся лиана, лоза"
+    },
+    {
+      "original": "भुजंग",
+      "transliteration": "бужанга",
+      "translation": "Змеевидный, змея"
+    },
+    {
+      "original": "पिंगलस",
+      "transliteration": "пингалас",
+      "translation": "Песчаный, золотисто-коричневый"
+    },
+    {
+      "original": "फुरत्फणा",
+      "transliteration": "фурат",
+      "translation": "Продвигающийся вперед"
+    },
+    {
+      "original": "मणिप्रभा",
+      "transliteration": "фана",
+      "translation": "Змеиная голова или хвост"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "манипрабха",
+      "translation": "Сияние драгоценного камня"
+    },
+    {
+      "original": "कुङ्कुमद्रवप्",
+      "transliteration": "кадамб",
+      "translation": "Дерево с круглыми листьями и цветами"
+    },
+    {
+      "original": "रलिप्तदिग्व",
+      "transliteration": "кункумадравап",
+      "translation": "Сок шафрана"
+    },
+    {
+      "original": "धूमुखे",
+      "transliteration": "ралиптадигв",
+      "translation": "Окутанный дымом"
+    },
+    {
+      "original": "मदांध",
+      "transliteration": "дхумухе",
+      "translation": "В дыму"
+    },
+    {
+      "original": "सिन्धुरस",
+      "transliteration": "мадандха",
+      "translation": "Слепой от опьянения"
+    },
+    {
+      "original": "फुरत",
+      "transliteration": "синдхурас",
+      "translation": "Цвет реки, или голубой"
+    },
+    {
+      "original": "त्वगुत्तरीयमे",
+      "transliteration": "фурат",
+      "translation": "Продвигающийся вперед"
+    },
+    {
+      "original": "दूरे",
+      "transliteration": "твагуттарийме",
+      "translation": "Относящийся к коже"
+    },
+    {
+      "original": "मनो",
+      "transliteration": "дурэ",
+      "translation": "Далеко, удаленный"
+    },
+    {
+      "original": "विनोद",
+      "transliteration": "мано",
+      "translation": "Разум, душа"
+    },
+    {
+      "original": "मद्भुतं",
+      "transliteration": "винод",
+      "translation": "Радость, счастье"
+    },
+    {
+      "original": "बिभर्तु",
+      "transliteration": "мадбхутаṁ",
+      "translation": "Удивительный, замечательный"
+    },
+    {
+      "original": "भूतभर्तरि",
+      "transliteration": "бибарту",
+      "translation": "Носитель, тот, кто носит"
+    },
+    {
+      "original": "सहस्र",
+      "transliteration": "бутбхартари",
+      "translation": "Содержатель всех существ"
+    },
+    {
+      "original": "लोचनप्रभृत्य",
+      "transliteration": "сахасра",
+      "translation": "Тысяча"
+    },
+    {
+      "original": "शेष",
+      "transliteration": "локанапрабхритья",
+      "translation": "Свет глаз"
+    },
+    {
+      "original": "लेखशेखर",
+      "transliteration": "шеш",
+      "translation": "Оставшийся, лишний"
+    },
+    {
+      "original": "प्रसून",
+      "transliteration": "лехашекхара",
+      "translation": "Вершина письма"
+    },
+    {
+      "original": "धूलिधोरणी",
+      "transliteration": "прасуна",
+      "translation": "Цветок"
+    },
+    {
+      "original": "विधूस",
+      "transliteration": "дхулидхорани",
+      "translation": "Поток пыли"
+    },
+    {
+      "original": "राङ्घ्रि",
+      "transliteration": "видхуса",
+      "translation": "Чистый, святой"
+    },
+    {
+      "original": "पीठभूः",
+      "transliteration": "рангхри",
+      "translation": "Кожа под ногтями"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "питхабху",
+      "translation": "Единение спины и земли"
+    },
+    {
+      "original": "राजमालया",
+      "transliteration": "бхуджанг",
+      "translation": "Змея"
+    },
+    {
+      "original": "निबद्ध",
+      "transliteration": "раджамалая",
+      "translation": "Королевская гирлянда"
+    },
+    {
+      "original": "जाटजूटक",
+      "transliteration": "нибаддха",
+      "translation": "Связан в узах"
+    },
+    {
+      "original": "श्रियै",
+      "transliteration": "джатаджутак",
+      "translation": "Узел, завязанный в волосах"
+    },
+    {
+      "original": "चिराय",
+      "transliteration": "шрияй",
+      "translation": "Милость Лакшми"
+    },
+    {
+      "original": "जायतां",
+      "transliteration": "чирай",
+      "translation": "На долгое время"
+    },
+    {
+      "original": "चकोर",
+      "transliteration": "джаятаṁ",
+      "translation": "Пусть родится"
+    },
+    {
+      "original": "बन्धुशेखरः",
+      "transliteration": "чакора",
+      "translation": "Птица, которая тянется к Луне"
+    },
+    {
+      "original": "ललाट",
+      "transliteration": "бандхушекхар",
+      "translation": "Друг и вершина, взаимосвязь"
+    },
+    {
+      "original": "चत्वर",
+      "transliteration": "Лалат",
+      "translation": "Лоб (Forehead)"
+    },
+    {
+      "original": "ज्वलद्",
+      "transliteration": "Чатваджвалад",
+      "translation": "Пламя на лбу (Flame on the forehead)"
+    },
+    {
+      "original": "धनञ्जय",
+      "transliteration": "Дхананджая",
+      "translation": "Победитель богатства (Conqueror of wealth)"
+    },
+    {
+      "original": "स्फुलिङ्गभा",
+      "transliteration": "Сфулингбха",
+      "translation": "Искра (Spark)"
+    },
+    {
+      "original": "निपीत",
+      "transliteration": "Нипита",
+      "translation": "Выпитый (Drunk)"
+    },
+    {
+      "original": "पञ्चसायकं",
+      "transliteration": "Панчасайакам",
+      "translation": "Пять стрел (Five arrows)"
+    },
+    {
+      "original": "नमन्",
+      "transliteration": "Наманнимпа",
+      "translation": "Преклоняющийся (Bowing down)"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "Наякам",
+      "translation": "Лидер (Leader)"
+    },
+    {
+      "original": "नायकम्",
+      "transliteration": "Судха",
+      "translation": "Нектар (Nectar)"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "Майухале",
+      "translation": "Лучи (Rays)"
+    },
+    {
+      "original": "मयूखले",
+      "transliteration": "Хая",
+      "translation": "Луна (Moon)"
+    },
+    {
+      "original": "खया",
+      "transliteration": "Вираджмана",
+      "translation": "Сияющий (Radiant)"
+    },
+    {
+      "original": "विराजमानशेखरं",
+      "transliteration": "Шехарам",
+      "translation": "Вершина (Summit)"
+    },
+    {
+      "original": "महाकपालि",
+      "transliteration": "Махакопали",
+      "translation": "Властелин Шлема (Lord of the Helm)"
+    },
+    {
+      "original": "सम्पदे",
+      "transliteration": "Сампаде",
+      "translation": "Состояние (Wealth)"
+    },
+    {
+      "original": "शिरोज",
+      "transliteration": "Широж",
+      "translation": "Голова (Head)"
+    },
+    {
+      "original": "टालमस्तु",
+      "transliteration": "Таламасту",
+      "translation": "Уважение (Respect)"
+    },
+    {
+      "original": "नः",
+      "transliteration": "Нах",
+      "translation": "Наш (Our)"
+    },
+    {
+      "original": "कराल",
+      "transliteration": "Карал",
+      "translation": "Ужасный (Terrible)"
+    },
+    {
+      "original": "भाल",
+      "transliteration": "Бхала",
+      "translation": "Лоб (Forehead)"
+    },
+    {
+      "original": "पट्टिका",
+      "transliteration": "Паттика",
+      "translation": "Лента (Headband)"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "Дхагад",
+      "translation": "Горящий (Burning)"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "Дхагад",
+      "translation": "Горящий (Burning)"
+    },
+    {
+      "original": "धगज्ज्वल",
+      "transliteration": "Дхагаджвлал",
+      "translation": "Ярко горящий (Intensely burning)"
+    },
+    {
+      "original": "धनञ्जयाहुती",
+      "transliteration": "Дхананжаяхути",
+      "translation": "Жертвоприношение Дхананджая (Sacrifice of Dhananjaya)"
+    },
+    {
+      "original": "कृतप्रचण्ड",
+      "transliteration": "Крітпрачанд",
+      "translation": "Очень яростный (Extremely fierce)"
+    },
+    {
+      "original": "पञ्चसायके",
+      "transliteration": "Панчасайке",
+      "translation": "Пять стрел (Five arrows)"
+    },
+    {
+      "original": "धरा",
+      "transliteration": "Дхара",
+      "translation": "Земля (Earth)"
+    },
+    {
+      "original": "धरेन्द्र",
+      "transliteration": "Дхарендра",
+      "translation": "Господин Земли (Lord of Earth)"
+    },
+    {
+      "original": "नन्दिनी",
+      "transliteration": "Нандини",
+      "translation": "Дарующая радость (Giver of joy)"
+    },
+    {
+      "original": "कुचाग्र",
+      "transliteration": "Кучагра",
+      "translation": "Пик груди (Peak of the breast)"
+    },
+    {
+      "original": "चित्रपत्रक",
+      "transliteration": "Цитрапатрака",
+      "translation": "Красочная лента (Colorful band)"
+    },
+    {
+      "original": "प्रकल्प",
+      "transliteration": "Прапата",
+      "translation": "План (Plan)"
+    },
+    {
+      "original": "नैक",
+      "transliteration": "Наика",
+      "translation": "Множество (Many)"
+    },
+    {
+      "original": "शिल्पिनि",
+      "transliteration": "Шилпини",
+      "translation": "Художник (Artist)"
+    },
+    {
+      "original": "त्रिलोचने",
+      "transliteration": "Трилокане",
+      "translation": "Тот, у кого три глаза (One with three eyes)"
+    },
+    {
+      "original": "रतिर्मम",
+      "transliteration": "Ратирмам",
+      "translation": "Моя любовь (My love)"
+    },
+    {
+      "original": "नवीन",
+      "transliteration": "навин",
+      "translation": "новый, свежий"
+    },
+    {
+      "original": "मेघ",
+      "transliteration": "мег",
+      "translation": "облако"
+    },
+    {
+      "original": "मण्डली",
+      "transliteration": "мандали",
+      "translation": "облачность"
+    },
+    {
+      "original": "निरुद्",
+      "transliteration": "нируд",
+      "translation": "исчезающий, уходящий"
+    },
+    {
+      "original": "धदुर्",
+      "transliteration": "дадур",
+      "translation": "очень сильный звук, взрыв"
+    },
+    {
+      "original": "धरस्फुरत्",
+      "transliteration": "дарсфурат",
+      "translation": "сияющий, сверкающий"
+    },
+    {
+      "original": "कुहू",
+      "transliteration": "куу",
+      "translation": "ночное время, плохая судьба"
+    },
+    {
+      "original": "निशीथि",
+      "transliteration": "нишити",
+      "translation": "ночной, относящийся к ночи"
+    },
+    {
+      "original": "नीतमः",
+      "transliteration": "нитомах",
+      "translation": "лучший, наиболее добродетельный"
+    },
+    {
+      "original": "प्रबन्ध",
+      "transliteration": "прабандх",
+      "translation": "дисциплина, порядок"
+    },
+    {
+      "original": "बद्ध",
+      "transliteration": "баддх",
+      "translation": "связанный, привязанный"
+    },
+    {
+      "original": "कन्धरः",
+      "transliteration": "кандахара",
+      "translation": "шея, вокруг шеи"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "нилимп",
+      "translation": "спокойный, безупречный"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "ниржари",
+      "translation": "поток воды, река"
+    },
+    {
+      "original": "धरस्",
+      "transliteration": "дарс",
+      "translation": "земля, почва"
+    },
+    {
+      "original": "तनोतु",
+      "transliteration": "таноту",
+      "translation": "расширять, увеличивать"
+    },
+    {
+      "original": "कृत्ति",
+      "transliteration": "крутти",
+      "translation": "творение, действие"
+    },
+    {
+      "original": "सिन्धुरः",
+      "transliteration": "синдурах",
+      "translation": "океан, большое море"
+    },
+    {
+      "original": "कला",
+      "transliteration": "кала",
+      "translation": "искусство, совершенство"
+    },
+    {
+      "original": "निधान",
+      "transliteration": "нидхан",
+      "translation": "сокровище, хранение"
+    },
+    {
+      "original": "बन्धुरः",
+      "transliteration": "бандхурах",
+      "translation": "любимый, спутник"
+    },
+    {
+      "original": "श्रियं",
+      "transliteration": "шриям",
+      "translation": "богатство, процветание"
+    },
+    {
+      "original": "जगद्",
+      "transliteration": "джагад",
+      "translation": "мир, вселенная"
+    },
+    {
+      "original": "धुरंधरः",
+      "transliteration": "дурендхара",
+      "translation": "тот, кто делает великие дела, ответственный за поступки"
+    },
+    {
+      "original": "प्रफुल्ल",
+      "transliteration": "прафулл",
+      "translation": "Расцветающий, цветущий"
+    },
+    {
+      "original": "नीलपङ्कज",
+      "transliteration": "нилапанкедж",
+      "translation": "Синий лотос"
+    },
+    {
+      "original": "प्रपञ्च",
+      "transliteration": "прапанча",
+      "translation": "Вселенная, мир"
+    },
+    {
+      "original": "कालिम",
+      "transliteration": "калим",
+      "translation": "Чёрный, тёмный"
+    },
+    {
+      "original": "प्रभा",
+      "transliteration": "прабха",
+      "translation": "Свет, сияние"
+    },
+    {
+      "original": "वलम्बि",
+      "transliteration": "валамби",
+      "translation": "Подвешенный, висящий"
+    },
+    {
+      "original": "कण्ठकन्दली",
+      "transliteration": "кантхакандали",
+      "translation": "Ожерелье на шее"
+    },
+    {
+      "original": "रुचिप्रबद्ध",
+      "transliteration": "ручипрабаддха",
+      "translation": "Украшенный, оформленный"
+    },
+    {
+      "original": "कन्धरम्",
+      "transliteration": "кандхарам",
+      "translation": "Плечо"
+    },
+    {
+      "original": "स्मरच्छिदं",
+      "transliteration": "смараччидом",
+      "translation": "Уничтожающий память"
+    },
+    {
+      "original": "पुरच्छिदं",
+      "transliteration": "пуроччидом",
+      "translation": "Уничтожающий старое"
+    },
+    {
+      "original": "भवच्छिदं",
+      "transliteration": "бхаваччидом",
+      "translation": "Уничтожающий жизнь"
+    },
+    {
+      "original": "मखच्छिदं",
+      "transliteration": "макочидом",
+      "translation": "Уничтожающий жертвоприношение"
+    },
+    {
+      "original": "गजच्छि",
+      "transliteration": "гаджаччи",
+      "translation": "Уничтожающий как слон"
+    },
+    {
+      "original": "दांध",
+      "transliteration": "даанд",
+      "translation": "Уничтожающий бурю"
+    },
+    {
+      "original": "कच्छिदं",
+      "transliteration": "каччидом",
+      "translation": "Уничтожающий морем"
+    },
+    {
+      "original": "तमंत",
+      "transliteration": "тамант",
+      "translation": "Самый высокий, последний"
+    },
+    {
+      "original": "कच्छिदं",
+      "transliteration": "каччидом",
+      "translation": "Уничтожающий морем"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "бхадже",
+      "translation": "Я поклоняюсь"
+    },
+    {
+      "original": "अखर्व",
+      "transliteration": "акхарва",
+      "translation": "Верховный, Несравненный"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "сарва",
+      "translation": "Все, Полный"
+    },
+    {
+      "original": "मङ्गला",
+      "transliteration": "мангала",
+      "translation": "Благословенный, Священный"
+    },
+    {
+      "original": "कला",
+      "transliteration": "кала",
+      "translation": "Искусство, Навык"
+    },
+    {
+      "original": "कदंब",
+      "transliteration": "кадамба",
+      "translation": "Дерево кадамб"
+    },
+    {
+      "original": "मञ्जरी",
+      "transliteration": "манджари",
+      "translation": "Ветка цветов"
+    },
+    {
+      "original": "रस",
+      "transliteration": "раса",
+      "translation": "Суть, Удовольствие"
+    },
+    {
+      "original": "प्रवाह",
+      "transliteration": "праваха",
+      "translation": "Поток, Течение"
+    },
+    {
+      "original": "माधुरी",
+      "transliteration": "мадхури",
+      "translation": "Сладость, Мелодия"
+    },
+    {
+      "original": "विजृंभणा",
+      "transliteration": "визжрымбхана",
+      "translation": "Расширение, Радость"
+    },
+    {
+      "original": "मधुव्रतम्",
+      "transliteration": "мадхувратам",
+      "translation": "Сладкое Обетование, Пост"
+    },
+    {
+      "original": "स्मरान्तकं",
+      "transliteration": "смарантакам",
+      "translation": "Уничтожитель Памяти"
+    },
+    {
+      "original": "पुरान्तकं",
+      "transliteration": "пурантакам",
+      "translation": "Уничтожитель Прошлого"
+    },
+    {
+      "original": "भवान्तकं",
+      "transliteration": "бхавантакам",
+      "translation": "Уничтожитель Жизни"
+    },
+    {
+      "original": "मखान्तकं",
+      "transliteration": "махантакам",
+      "translation": "Уничтожитель Жертвоприношений"
+    },
+    {
+      "original": "गजान्त",
+      "transliteration": "гажанта",
+      "translation": "Уничтожитель, как слон"
+    },
+    {
+      "original": "कान्ध",
+      "transliteration": "кандха",
+      "translation": "Плечо, Бок"
+    },
+    {
+      "original": "कान्त",
+      "transliteration": "канта",
+      "translation": "Возлюбленный, Любовник"
+    },
+    {
+      "original": "कं",
+      "transliteration": "кам",
+      "translation": "Форма, Вид"
+    },
+    {
+      "original": "तमन्त",
+      "transliteration": "таманта",
+      "translation": "Высший, Верховный"
+    },
+    {
+      "original": "कान्त",
+      "transliteration": "канта",
+      "translation": "Возлюбленный, Любовник"
+    },
+    {
+      "original": "कं",
+      "transliteration": "кам",
+      "translation": "Форма, Вид"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "бхадже",
+      "translation": "Я поклоняюсь"
+    },
+    {
+      "original": "जयत्",
+      "transliteration": "Джайат",
+      "translation": "Победа"
+    },
+    {
+      "original": "वदभ्र",
+      "transliteration": "Вадабхра",
+      "translation": "Ошибочная речь"
+    },
+    {
+      "original": "विभ्रम",
+      "transliteration": "Вибхрама",
+      "translation": "Заблуждение"
+    },
+    {
+      "original": "भ्रमद्",
+      "transliteration": "Бхрамад",
+      "translation": "Обман"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "Бхуджанг",
+      "translation": "Змея"
+    },
+    {
+      "original": "मश्वस",
+      "transliteration": "Машваса",
+      "translation": "Дыхание"
+    },
+    {
+      "original": "द्विनिर्ग",
+      "transliteration": "Двинирга",
+      "translation": "Выход"
+    },
+    {
+      "original": "मत्",
+      "transliteration": "Мат",
+      "translation": "Мнение"
+    },
+    {
+      "original": "क्रमस्फुरत्",
+      "transliteration": "Крамасфурат",
+      "translation": "Прогресс"
+    },
+    {
+      "original": "कराल",
+      "transliteration": "Карал",
+      "translation": "Ужасный"
+    },
+    {
+      "original": "भाल",
+      "transliteration": "Бхала",
+      "translation": "Лоб"
+    },
+    {
+      "original": "हव्यवाट्",
+      "transliteration": "Хавяват",
+      "translation": "Путь жертвоприношения"
+    },
+    {
+      "original": "धिमिद्धिमिद्धिमि",
+      "transliteration": "Дхимиддхимиддхи",
+      "translation": "Звук мантры"
+    },
+    {
+      "original": "ध्वनन्मृदङ्ग",
+      "transliteration": "Дхвананмриданга",
+      "translation": "Звук барабана"
+    },
+    {
+      "original": "तुङ्गमङ्गल",
+      "transliteration": "Тунгамангала",
+      "translation": "Высокий и благоприятный"
+    },
+    {
+      "original": "ध्वनिक्रमप्रवर्तित",
+      "transliteration": "Дхваникрамаправартиа",
+      "translation": "Прогресс звука"
+    },
+    {
+      "original": "प्रचण्डताण्डवः",
+      "transliteration": "Прачандатандвав",
+      "translation": "Ужасный танец"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "Шива",
+      "translation": "Господь Шива"
+    },
+    {
+      "original": "स्पृषद्विचित्रतल्पयोः",
+      "transliteration": "sprishadvichitratalpyoḥ",
+      "translation": "Те, чьи поверхности обширны и разнообразны"
+    },
+    {
+      "original": "भुजङ्गमौक्तिकस्रजोर्",
+      "transliteration": "bhujangamauktikasrajor",
+      "translation": "Те, кто носит ожерелье из змеиных драгоценных камней"
+    },
+    {
+      "original": "गरिष्ठरत्नलोष्ठयोः",
+      "transliteration": "garishtharatnaloṣhthayoḥ",
+      "translation": "Те, у кого на лбу тяжелые драгоценные камни"
+    },
+    {
+      "original": "सुहृद्विपक्षपक्षयोः",
+      "transliteration": "suhridvipakshapakshayoḥ",
+      "translation": "Те, чьи стороны полны друзей и врагов"
+    },
+    {
+      "original": "तृष्णारविन्दचक्षुषोः",
+      "transliteration": "trishnaravindachakshushoḥ",
+      "translation": "Те, чьи глаза символизируют жажду"
+    },
+    {
+      "original": "प्रजामहीमहेन्द्रयोः",
+      "transliteration": "prajamihmahendrayoḥ",
+      "translation": "Те, кто имеет подданных и великих королей"
+    },
+    {
+      "original": "समप्रवृत्तिकः",
+      "transliteration": "samapravritikah",
+      "translation": "Те, чьи действия и мотивы одинаковы"
+    },
+    {
+      "original": "कदा सदाशिवं भजे",
+      "transliteration": "kada sadashivam bhaje",
+      "translation": "Когда я буду всегда поклоняться Шиве?"
+    },
+    {
+      "original": "कदा",
+      "transliteration": "Када",
+      "translation": "Когда"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "Нилимпа",
+      "translation": "Становится туманным"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "Нирджари",
+      "translation": "Ручей"
+    },
+    {
+      "original": "निकुञ्ज",
+      "transliteration": "Никунджа",
+      "translation": "Сад"
+    },
+    {
+      "original": "कोटरे",
+      "transliteration": "Котаре",
+      "translation": "Хижина"
+    },
+    {
+      "original": "वसन",
+      "transliteration": "Васан",
+      "translation": "Живя"
+    },
+    {
+      "original": "विमुक्त",
+      "transliteration": "Вимуктa",
+      "translation": "Освобожденный"
+    },
+    {
+      "original": "दुर्मति",
+      "transliteration": "Дурмати",
+      "translation": "Плохая мысль"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "Сада",
+      "translation": "Всегда"
+    },
+    {
+      "original": "सिरः",
+      "transliteration": "Ширах",
+      "translation": "Голова"
+    },
+    {
+      "original": "स्थमञ्जलिं",
+      "transliteration": "Стаманджалим",
+      "translation": "Поза молитвы"
+    },
+    {
+      "original": "वहन",
+      "transliteration": "Вахан",
+      "translation": "Носить"
+    },
+    {
+      "original": "विमुक्त",
+      "transliteration": "Вимуктa",
+      "translation": "Свободный"
+    },
+    {
+      "original": "लोललोचनो",
+      "transliteration": "Лолалочано",
+      "translation": "Глаза с жадным взглядом"
+    },
+    {
+      "original": "ललाम",
+      "transliteration": "Лалам",
+      "translation": "Лоб"
+    },
+    {
+      "original": "भाललग्नकः",
+      "transliteration": "Бхалалагнаках",
+      "translation": "Врезанный на лбу"
+    },
+    {
+      "original": "शिवेति",
+      "transliteration": "Шивети",
+      "translation": "Мантра Шивы"
+    },
+    {
+      "original": "मंत्रमुच्चरन्",
+      "transliteration": "Мантрамуччаран",
+      "translation": "Произнесение мантры"
+    },
+    {
+      "original": "कदा",
+      "transliteration": "Када",
+      "translation": "Когда"
+    },
+    {
+      "original": "सुखी",
+      "transliteration": "Сухи",
+      "translation": "Счастливый"
+    },
+    {
+      "original": "भवाम्यहम्",
+      "transliteration": "Бхавамйахам",
+      "translation": "Я стану"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "идам",
+      "translation": "Это"
+    },
+    {
+      "original": "ही",
+      "transliteration": "хи",
+      "translation": "Действительно"
+    },
+    {
+      "original": "नित्यंेव",
+      "transliteration": "нитьямева",
+      "translation": "Всегда"
+    },
+    {
+      "original": "मुक्तम्",
+      "transliteration": "муктам",
+      "translation": "Освобождённый"
+    },
+    {
+      "original": "उत्तमं",
+      "transliteration": "уттамам",
+      "translation": "Высший"
+    },
+    {
+      "original": "स्तवं",
+      "transliteration": "ставам",
+      "translation": "Хвала"
+    },
+    {
+      "original": "पठन्",
+      "transliteration": "патхан",
+      "translation": "Чтение"
+    },
+    {
+      "original": "स्मरण",
+      "transliteration": "смаран",
+      "translation": "Вспоминание"
+    },
+    {
+      "original": "ब्रुवन्",
+      "transliteration": "бруван",
+      "translation": "Говорящий"
+    },
+    {
+      "original": "नर",
+      "transliteration": "нара",
+      "translation": "Человек"
+    },
+    {
+      "original": "विशुद्धिम्",
+      "transliteration": "вишуддхим",
+      "translation": "Чистота"
+    },
+    {
+      "original": "एतित",
+      "transliteration": "этит",
+      "translation": "Это"
+    },
+    {
+      "original": "संतमं",
+      "transliteration": "санатам",
+      "translation": "Постоянный"
+    },
+    {
+      "original": "हरे",
+      "transliteration": "харе",
+      "translation": "Господь Кришна"
+    },
+    {
+      "original": "गुरौ",
+      "transliteration": "гурау",
+      "translation": "Гуру"
+    },
+    {
+      "original": "सुभक्तिं",
+      "transliteration": "субхактим",
+      "translation": "Преданность"
+    },
+    {
+      "original": "आशु",
+      "transliteration": "ашу",
+      "translation": "Быстро"
+    },
+    {
+      "original": "याति",
+      "transliteration": "яти",
+      "translation": "Идёт"
+    },
+    {
+      "original": "नान्यथा",
+      "transliteration": "нанйатха",
+      "translation": "Иначе"
+    },
+    {
+      "original": "गतिं",
+      "transliteration": "гатим",
+      "translation": "Путь"
+    },
+    {
+      "original": "विमोहनं",
+      "transliteration": "вимоанам",
+      "translation": "Освобождение"
+    },
+    {
+      "original": "ही",
+      "transliteration": "хи",
+      "translation": "Действительно"
+    },
+    {
+      "original": "देहिनां",
+      "transliteration": "дехинам",
+      "translation": "Телесный"
+    },
+    {
+      "original": "सुशङ्करस्य",
+      "transliteration": "сусанкарасйа",
+      "translation": "Шанкара"
+    },
+    {
+      "original": "चिंतनं",
+      "transliteration": "чинтанам",
+      "translation": "Размышление"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "Пууджа",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "वसान",
+      "transliteration": "Васан",
+      "translation": "Надевать"
+    },
+    {
+      "original": "समये",
+      "transliteration": "Самай",
+      "translation": "Время"
+    },
+    {
+      "original": "दशवक्त्र",
+      "transliteration": "Дашавактра",
+      "translation": "Десятиглавый"
+    },
+    {
+      "original": "गीतं",
+      "transliteration": "Гитам",
+      "translation": "Песня"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Ях",
+      "translation": "Кто"
+    },
+    {
+      "original": "शंभु",
+      "transliteration": "Шамбху",
+      "translation": "Шива"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "Пууджа",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "परं",
+      "transliteration": "Парам",
+      "translation": "Высший"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "Патхати",
+      "translation": "Читает"
+    },
+    {
+      "original": "प्रदोषे",
+      "transliteration": "Прадоше",
+      "translation": "Прадош (время ночи)"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "Тасья",
+      "translation": "Его"
+    },
+    {
+      "original": "स्थिरां",
+      "transliteration": "Стирам",
+      "translation": "Твердый"
+    },
+    {
+      "original": "रथगजेन्द्र",
+      "transliteration": "Ратхгаджендра",
+      "translation": "Царь слонов (Ратха)"
+    },
+    {
+      "original": "तुरङ्ग",
+      "transliteration": "Туранга",
+      "translation": "Лошадь"
+    },
+    {
+      "original": "युक्तां",
+      "transliteration": "Юктаам",
+      "translation": "Соединенный"
+    },
+    {
+      "original": "लक्ष्मीं",
+      "transliteration": "Лакшмим",
+      "translation": "Лакшми (богиня богатства)"
+    },
+    {
+      "original": "सदैव",
+      "transliteration": "Садаив",
+      "translation": "Всегда"
+    },
+    {
+      "original": "सुमुखिं",
+      "transliteration": "Сумухин",
+      "translation": "Прекрасное лицо"
+    },
+    {
+      "original": "प्रददाति",
+      "transliteration": "Прададати",
+      "translation": "Дающий"
+    },
+    {
+      "original": "शंभुः",
+      "transliteration": "Шамбху",
+      "translation": "Шива"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\russian\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\russian\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.728Z"
+  }
+}

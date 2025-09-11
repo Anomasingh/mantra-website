@@ -1,0 +1,1259 @@
+{
+  "mantra": "shri_haygriv_stotra",
+  "language": "marathi",
+  "type": "word_to_word",
+  "totalWords": 249,
+  "alignedWords": [
+    {
+      "original": "श्रीमान्",
+      "transliteration": "श्रीमान्",
+      "translation": "श्रीमान्"
+    },
+    {
+      "original": "वेङ्कटनाथार्यः",
+      "transliteration": "वेङ्कटनाथार्यः",
+      "translation": "वेङ्कटनाथार्य म्हणजे श्री वेङ्कटनाथ"
+    },
+    {
+      "original": "कवितार्किककेसरी",
+      "transliteration": "कवितार्किककेसरी",
+      "translation": "कवितेचा गूढार्थ सांगणारा महान कवी"
+    },
+    {
+      "original": "वेदान्ताचार्यवर्यो",
+      "transliteration": "वेदान्ताचार्यवर्यो",
+      "translation": "वेदांताचे उपदेश करणारा महान आचार्य"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "माझ्या"
+    },
+    {
+      "original": "सन्निधत्तां",
+      "transliteration": "सन्निधत्तां",
+      "translation": "सदैव हृदयात असावा"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "सदा",
+      "translation": "नेहमी"
+    },
+    {
+      "original": "हृदि",
+      "transliteration": "हृदि",
+      "translation": "हृदयात"
+    },
+    {
+      "original": "ज्ञानानन्द",
+      "transliteration": "ज्ञानानन्द",
+      "translation": "ज्ञान आणि आनंद यांचे मिश्रण"
+    },
+    {
+      "original": "मयं",
+      "transliteration": "मयं",
+      "translation": "मी"
+    },
+    {
+      "original": "देवं",
+      "transliteration": "देवं",
+      "translation": "देव"
+    },
+    {
+      "original": "निर्मलस्फटिकाकृतिम्",
+      "transliteration": "निर्मलस्फटिकाकृतिम्",
+      "translation": "निर्मल कांचन रूप असलेला"
+    },
+    {
+      "original": "आधारं",
+      "transliteration": "आधारं",
+      "translation": "आधार, जडावटीं तत्व"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "सर्व",
+      "translation": "सर्व"
+    },
+    {
+      "original": "विद्यानां",
+      "transliteration": "विद्यानां",
+      "translation": "ज्ञानाच्या सर्व शाखा"
+    },
+    {
+      "original": "हयग्रीवम्",
+      "transliteration": "हयग्रीवम्",
+      "translation": "हयग्रीव, ज्ञान आणि बुद्धीचा देव"
+    },
+    {
+      "original": "उपास्महे",
+      "transliteration": "उपास्महे",
+      "translation": "मी त्याची पूजा करतो"
+    },
+    {
+      "original": "स्वतस्सिद्धं",
+      "transliteration": "स्वतस्सिद्धं",
+      "translation": "स्वाभाविकपणे सिद्ध केलेला"
+    },
+    {
+      "original": "शुद्धस्फटिकमणि",
+      "transliteration": "शुद्धस्फटिकमणि",
+      "translation": "निर्मळ स्फटिकाच्या मनोहर रत्नाप्रमाणे"
+    },
+    {
+      "original": "भूभृत्प्रतिभटं",
+      "transliteration": "भूभृत्प्रतिभटं",
+      "translation": "भूमीवर शासन करणारा प्रख्यात शूर"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "सुधा",
+      "translation": "अमृत किंवा दिव्य चहा"
+    },
+    {
+      "original": "सध्रीचीभिर्",
+      "transliteration": "सध्रीचीभिर्",
+      "translation": "ज्ञान आणि बुद्धीला नष्ट करणारी दोषपरिणामं"
+    },
+    {
+      "original": "धुतिभिर्",
+      "transliteration": "धुतिभिर्",
+      "translation": "शुद्धीकरणाच्या शक्तीने"
+    },
+    {
+      "original": "अवदातत्रिभुवनम्",
+      "transliteration": "अवदातत्रिभुवनम्",
+      "translation": "शुद्ध आणि पवित्र सर्व तिन्ही लोकांचे कार्य करणारा"
+    },
+    {
+      "original": "समाहारस्साम्नां",
+      "transliteration": "अनन्तैस्त्रय्यन्तैर्",
+      "translation": "अनंत शक्तीने पूरक असलेले"
+    },
+    {
+      "original": "प्रतिपदमृचां",
+      "transliteration": "अनुविहित हेषा हलहलं",
+      "translation": "एक अकल्पनीय शक्ति करणारा शौर्य"
+    },
+    {
+      "original": "धाम यजुषां",
+      "transliteration": "हताशेषावद्यं",
+      "translation": "सर्व दोष आणि अपवित्रतेचा नाश करणारा"
+    },
+    {
+      "original": "लयः",
+      "transliteration": "हयवदन",
+      "translation": "हयग्रीव, ज्ञान आणि बुद्धीचे प्रतीक"
+    },
+    {
+      "original": "प्रत्यूहानां",
+      "transliteration": "मीडी",
+      "translation": "अत्यंत पराक्रमी आणि महा शक्तिशाली"
+    },
+    {
+      "original": "लहरि",
+      "transliteration": "महि",
+      "translation": "महासत्ता, महान कार्य करणारा"
+    },
+    {
+      "original": "विततिर्बोधजलधेः",
+      "transliteration": "महः",
+      "translation": "महा कार्य आणि महत्त्व"
+    },
+    {
+      "original": "कथा",
+      "transliteration": "समाहारस्साम्नां",
+      "translation": "संप्रदायांचा संकलन"
+    },
+    {
+      "original": "दर्पक्षुभ्यत्",
+      "transliteration": "प्रतिपदमृचां",
+      "translation": "प्रत्येक ऋचांचा निवास स्थळ"
+    },
+    {
+      "original": "कथककुल",
+      "transliteration": "धाम यजुषां",
+      "translation": "यजुर वेदांच्या स्थान"
+    },
+    {
+      "original": "कोलाहलभवं",
+      "transliteration": "लयः प्रत्यूहानां",
+      "translation": "लय आणि त्याच्या लहान लहान लाटांचा विस्तार"
+    },
+    {
+      "original": "प्राची",
+      "transliteration": "लहरी विततिर्बोधजलधेः",
+      "translation": "बोधाच्या जलाच्या विशालतेचा विस्तार"
+    },
+    {
+      "original": "सन्ध्या",
+      "transliteration": "कथा दर्पक्षुभ्यत्",
+      "translation": "कथेतील विषमता आणि विचारांची निंदा"
+    },
+    {
+      "original": "काचिदन्तर्",
+      "transliteration": "कथककुल",
+      "translation": "कथाकारांचा समाज"
+    },
+    {
+      "original": "निशायाः",
+      "transliteration": "कोलाहलभवं",
+      "translation": "गडबडी आणि आवाजांची होणारी अत्यंत जागतिक व्याख्या"
+    },
+    {
+      "original": "प्रज्ञादृष्टेरञ्जन",
+      "transliteration": "हरत्वन्तर्ध्वान्तं",
+      "translation": "अंधकाराच्या दूर झालेल्या कार्यांची शांती"
+    },
+    {
+      "original": "श्रीरपूर्वा",
+      "transliteration": "हयवदन हेषा हलहलः",
+      "translation": "हयग्रीवाच्या विजय स्वरूपाची सर्वशक्तीचा अविराम विजय"
+    },
+    {
+      "original": "वक्त्री",
+      "transliteration": "प्राची",
+      "translation": "पूर्व संध्याकाळ"
+    },
+    {
+      "original": "वेदान्",
+      "transliteration": "संध्या",
+      "translation": "संध्याकाळ"
+    },
+    {
+      "original": "भातु",
+      "transliteration": "काचि",
+      "translation": "एक काच"
+    },
+    {
+      "original": "मे",
+      "transliteration": "दन्तर्",
+      "translation": "अंतर"
+    },
+    {
+      "original": "वाजि",
+      "transliteration": "निशायाः",
+      "translation": "रात्रीचे"
+    },
+    {
+      "original": "वक्त्रा",
+      "transliteration": "प्रज्ञा",
+      "translation": "बुद्धी"
+    },
+    {
+      "original": "वागीशाख्या",
+      "transliteration": "दृष्टेः",
+      "translation": "दृष्टी"
+    },
+    {
+      "original": "वासुदेवस्य",
+      "transliteration": "अञ्जन",
+      "translation": "रंग"
+    },
+    {
+      "original": "मूर्तिः",
+      "transliteration": "श्रीर",
+      "translation": "श्री"
+    },
+    {
+      "original": "विशुद्ध",
+      "transliteration": "पूर्वा",
+      "translation": "पूर्वसूचना"
+    },
+    {
+      "original": "विज्ञान",
+      "transliteration": "वक्त्री",
+      "translation": "बोलणारी व्यक्ती"
+    },
+    {
+      "original": "घन",
+      "transliteration": "वेदान्",
+      "translation": "वेद"
+    },
+    {
+      "original": "स्वरूपं",
+      "transliteration": "भातु",
+      "translation": "प्रकाशित होणे"
+    },
+    {
+      "original": "विज्ञान",
+      "transliteration": "मे",
+      "translation": "माझे"
+    },
+    {
+      "original": "विश्राणन",
+      "transliteration": "वाजि",
+      "translation": "वाज"
+    },
+    {
+      "original": "बद्ध",
+      "transliteration": "वक्त्रा",
+      "translation": "बोलणारा व्यक्ती"
+    },
+    {
+      "original": "दीक्षम्",
+      "transliteration": "वागीशाख्या",
+      "translation": "वाणीच्या देवतेचे रूप"
+    },
+    {
+      "original": "दयानिधिं",
+      "transliteration": "वासुदेवस्य",
+      "translation": "वासुदेवाचे"
+    },
+    {
+      "original": "देहभृतां",
+      "transliteration": "मूर्तिः",
+      "translation": "रूप"
+    },
+    {
+      "original": "शरण्यं",
+      "transliteration": "विशुद्ध",
+      "translation": "शुद्ध"
+    },
+    {
+      "original": "देवम्",
+      "transliteration": "विज्ञान",
+      "translation": "ज्ञान"
+    },
+    {
+      "original": "हयग्रीवम्",
+      "transliteration": "घन",
+      "translation": "घन"
+    },
+    {
+      "original": "अहं",
+      "transliteration": "स्वरूपं",
+      "translation": "रूप"
+    },
+    {
+      "original": "प्रपद्ये",
+      "transliteration": "विश्राणन",
+      "translation": "विश्राणन (विघटन करणारा)"
+    },
+    {
+      "original": "अपौरुषेयैर्",
+      "transliteration": "बद्ध",
+      "translation": "बंधित"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "दीक्षम्",
+      "translation": "दीक्षा"
+    },
+    {
+      "original": "वाक्प्रपञ्चैः",
+      "transliteration": "दयानिधिं",
+      "translation": "दयाळू, करुणेचा धनी"
+    },
+    {
+      "original": "अद्यापि",
+      "transliteration": "देहभृतां",
+      "translation": "देह धारण करणारा"
+    },
+    {
+      "original": "ते",
+      "transliteration": "शरण्यं",
+      "translation": "शरण स्थळ"
+    },
+    {
+      "original": "भूति",
+      "transliteration": "देवम्",
+      "translation": "देव"
+    },
+    {
+      "original": "मदृष्ट",
+      "transliteration": "हयग्रीवम्",
+      "translation": "हयग्रीव"
+    },
+    {
+      "original": "पाराम्",
+      "transliteration": "अहम्",
+      "translation": "मी"
+    },
+    {
+      "original": "स्तुवन्नहं",
+      "transliteration": "प्रपद्ये",
+      "translation": "शरण घेतो"
+    },
+    {
+      "original": "मुग्ध",
+      "transliteration": "अपौरुषेयैः",
+      "translation": "अप्राकृत वाक्यांनी"
+    },
+    {
+      "original": "इति",
+      "transliteration": "अपि",
+      "translation": "देखील"
+    },
+    {
+      "original": "त्वयैव",
+      "transliteration": "वाक्प्रपञ्चैः",
+      "translation": "शब्दांच्या प्रवाहाने"
+    },
+    {
+      "original": "कारुण्यतो",
+      "transliteration": "अद्यापि",
+      "translation": "अद्यापि"
+    },
+    {
+      "original": "नाथ",
+      "transliteration": "ते",
+      "translation": "ते"
+    },
+    {
+      "original": "कटाक्षणीयः",
+      "transliteration": "भूति",
+      "translation": "समृद्धी"
+    },
+    {
+      "original": "दाक्षिण्य",
+      "transliteration": "मदृष्ट",
+      "translation": "माझ्या दृष्टिने"
+    },
+    {
+      "original": "रम्या",
+      "transliteration": "पाराम",
+      "translation": "पार"
+    },
+    {
+      "original": "गिरिशस्य",
+      "transliteration": "स्तुवन्",
+      "translation": "स्तुति करणारा"
+    },
+    {
+      "original": "मूर्तिः",
+      "transliteration": "नहं",
+      "translation": "मी"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "मुग्ध",
+      "translation": "मोहक"
+    },
+    {
+      "original": "सरोजासन",
+      "transliteration": "इति",
+      "translation": "असा"
+    },
+    {
+      "original": "धर्मपत्नी",
+      "transliteration": "त्वयैव",
+      "translation": "केवळ तुमच्याकडून"
+    },
+    {
+      "original": "व्यासादयोऽपि",
+      "transliteration": "कारुण्यतो",
+      "translation": "करुणा वरून"
+    },
+    {
+      "original": "व्यपदेश्य",
+      "transliteration": "नाथ",
+      "translation": "स्वामी"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "कटाक्षणीयः",
+      "translation": "दृष्टि करणारा"
+    },
+    {
+      "original": "स्फुरन्ति",
+      "transliteration": "दाक्षिण्य",
+      "translation": "दक्षिणी"
+    },
+    {
+      "original": "सर्वे",
+      "transliteration": "रम्या",
+      "translation": "सुंदर"
+    },
+    {
+      "original": "तव",
+      "transliteration": "गिरिशस्य",
+      "translation": "गिरिशाचा"
+    },
+    {
+      "original": "शक्ति",
+      "transliteration": "मूर्तिः",
+      "translation": "रूप"
+    },
+    {
+      "original": "लेशैः",
+      "transliteration": "देवी",
+      "translation": "देवी"
+    },
+    {
+      "original": "मन्दोऽभविष्यन्",
+      "transliteration": "सरोजासन",
+      "translation": "कमळासन"
+    },
+    {
+      "original": "नियतं",
+      "transliteration": "धर्मपत्नी",
+      "translation": "धर्मपत्नी"
+    },
+    {
+      "original": "विरिञ्चो",
+      "transliteration": "व्यासादयोऽपि",
+      "translation": "व्यास आणि अन्य गुरू"
+    },
+    {
+      "original": "वाचां",
+      "transliteration": "व्यपदेश्य",
+      "translation": "शिकविणारा"
+    },
+    {
+      "original": "निधे",
+      "transliteration": "वाचः",
+      "translation": "शब्द"
+    },
+    {
+      "original": "वञ्चित",
+      "transliteration": "स्फुरन्ति",
+      "translation": "प्रकाशित होते"
+    },
+    {
+      "original": "भाग",
+      "transliteration": "सर्वे",
+      "translation": "सर्व"
+    },
+    {
+      "original": "धेयः",
+      "transliteration": "तव",
+      "translation": "तुमचे"
+    },
+    {
+      "original": "दैत्यापनीतान्",
+      "transliteration": "शक्ति",
+      "translation": "शक्ती"
+    },
+    {
+      "original": "दययैव",
+      "transliteration": "लेशैः",
+      "translation": "थोडक्यात"
+    },
+    {
+      "original": "भूयोऽपि",
+      "transliteration": "मंदोऽभविष्यन्",
+      "translation": "मंद होईल"
+    },
+    {
+      "original": "अध्यापयिष्यो",
+      "transliteration": "नियतं",
+      "translation": "निश्चित"
+    },
+    {
+      "original": "निगमान्",
+      "transliteration": "विरिञ्चो",
+      "translation": "ब्रह्मा"
+    },
+    {
+      "original": "न",
+      "transliteration": "वाचां",
+      "translation": "शब्द"
+    },
+    {
+      "original": "चेत्",
+      "transliteration": "निधे",
+      "translation": "ठेवणे"
+    },
+    {
+      "original": "त्वम्",
+      "transliteration": "वञ्चित",
+      "translation": "कपट"
+    },
+    {
+      "original": "वितर्क",
+      "transliteration": "भाग",
+      "translation": "भाग"
+    },
+    {
+      "original": "डोलां",
+      "transliteration": "धेयः",
+      "translation": "लक्ष्य"
+    },
+    {
+      "original": "व्यवधूय",
+      "transliteration": "दैत्यापनीतान्",
+      "translation": "दानवांपासून ठेवलेले"
+    },
+    {
+      "original": "सत्वे",
+      "transliteration": "दययैव",
+      "translation": "केवळ दया"
+    },
+    {
+      "original": "बृहस्पतिं",
+      "transliteration": "भूयोऽपि",
+      "translation": "पुन्हा"
+    },
+    {
+      "original": "वर्तयसे",
+      "transliteration": "अध्यापयिष्यो",
+      "translation": "शिकविणारा"
+    },
+    {
+      "original": "यतस्त्वम्",
+      "transliteration": "निगमान्",
+      "translation": "वेद"
+    },
+    {
+      "original": "तेनैव",
+      "transliteration": "न",
+      "translation": "नाही"
+    },
+    {
+      "original": "देव",
+      "transliteration": "चेत्",
+      "translation": "जर"
+    },
+    {
+      "original": "त्रिदशेश्वराणाम्",
+      "transliteration": "त्वम्",
+      "translation": "तू"
+    },
+    {
+      "original": "अस्पृष्ट",
+      "transliteration": "वितर्क",
+      "translation": "विवेक"
+    },
+    {
+      "original": "डोलायित",
+      "transliteration": "डोलां",
+      "translation": "लहरी"
+    },
+    {
+      "original": "माधिराज्यम्",
+      "transliteration": "व्यवधूय",
+      "translation": "हलवणारा"
+    },
+    {
+      "original": "अग्नोउ",
+      "transliteration": "सत्वे",
+      "translation": "तत्व"
+    },
+    {
+      "original": "समिद्धार्चिषि",
+      "transliteration": "बृहस्पतिं",
+      "translation": "बृहस्पति"
+    },
+    {
+      "original": "सप्ततन्तोः",
+      "transliteration": "वर्तयसे",
+      "translation": "चालवते"
+    },
+    {
+      "original": "आतस्थिवान्",
+      "transliteration": "यतस्त्वम्",
+      "translation": "कारणाने"
+    },
+    {
+      "original": "मन्त्रमयं",
+      "transliteration": "तेनैव",
+      "translation": "तेच"
+    },
+    {
+      "original": "शरीरम्",
+      "transliteration": "देव",
+      "translation": "देव"
+    },
+    {
+      "original": "अखण्ड",
+      "transliteration": "त्रिदशेश्वराणाम्",
+      "translation": "देवांचा राजा"
+    },
+    {
+      "original": "सारैर्",
+      "transliteration": "अस्पृष्ट",
+      "translation": "अशुद्ध"
+    },
+    {
+      "original": "हविषां",
+      "transliteration": "डोलायित",
+      "translation": "हलका झालेल्या लहरी"
+    },
+    {
+      "original": "प्रदानैः",
+      "transliteration": "माधिराज्यम्",
+      "translation": "मद्याच्या साम्राज्य"
+    },
+    {
+      "original": "आप्यायनं",
+      "transliteration": "अग्नोउ",
+      "translation": "अग्नि मध्ये"
+    },
+    {
+      "original": "व्योम",
+      "transliteration": "समिद्धार्चिषि",
+      "translation": "आग त्याग केलेला"
+    },
+    {
+      "original": "सदां",
+      "transliteration": "सप्ततन्तोः",
+      "translation": "सात शिखांनी"
+    },
+    {
+      "original": "विधत्से",
+      "transliteration": "आतस्थिवान्",
+      "translation": "त्यागलेल्या"
+    },
+    {
+      "original": "यन्मूलमीदृक्",
+      "transliteration": "मन्त्रमयं",
+      "translation": "मंत्रचक्र"
+    },
+    {
+      "original": "प्रतिभाति",
+      "transliteration": "शरीरम्",
+      "translation": "शरीर"
+    },
+    {
+      "original": "तत्वं",
+      "transliteration": "अखण्ड",
+      "translation": "अपूर्ण"
+    },
+    {
+      "original": "या",
+      "transliteration": "सारैर्",
+      "translation": "श्राव्य"
+    },
+    {
+      "original": "मूलमाम्नाय",
+      "transliteration": "हविषां",
+      "translation": "सहली"
+    },
+    {
+      "original": "महाद्रुमाणाम्",
+      "transliteration": "प्रदानैः",
+      "translation": "प्राप्त करणे"
+    },
+    {
+      "original": "तत्वेन",
+      "transliteration": "आप्यायनं",
+      "translation": "प्राप्त करा"
+    },
+    {
+      "original": "जानन्ति",
+      "transliteration": "व्योम",
+      "translation": "आकाश"
+    },
+    {
+      "original": "विशुद्ध",
+      "transliteration": "सदां",
+      "translation": "संपूर्ण"
+    },
+    {
+      "original": "सत्वाः",
+      "transliteration": "विधत्से",
+      "translation": "निर्धारण करणे"
+    },
+    {
+      "original": "त्वाम्",
+      "transliteration": "यन्मूलमीदृक्",
+      "translation": "ज्याचं मूळ असं असं तत्व"
+    },
+    {
+      "original": "अक्षराम्",
+      "transliteration": "प्रतिभाति",
+      "translation": "प्रतिबिंबित होणारे"
+    },
+    {
+      "original": "अक्षर",
+      "transliteration": "तत्वं",
+      "translation": "तत्व"
+    },
+    {
+      "original": "मातृकां",
+      "transliteration": "या",
+      "translation": "जो"
+    },
+    {
+      "original": "ते",
+      "transliteration": "मूलमाम्नाय",
+      "translation": "मूळामाजी"
+    },
+    {
+      "original": "अव्याकृताद्",
+      "transliteration": "महाद्रुमाणाम्",
+      "translation": "महागच्छाची वृक्षे"
+    },
+    {
+      "original": "व्याकृत",
+      "transliteration": "तत्वेन",
+      "translation": "तत्वाचं"
+    },
+    {
+      "original": "वानसि",
+      "transliteration": "जानन्ति",
+      "translation": "जाणते"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "विशुद्ध",
+      "translation": "शुद्ध"
+    },
+    {
+      "original": "नामानि",
+      "transliteration": "सत्वाः",
+      "translation": "अस्तित्वं"
+    },
+    {
+      "original": "रूपाणि",
+      "transliteration": "त्वाम्",
+      "translation": "तुम्हाला"
+    },
+    {
+      "original": "च",
+      "transliteration": "अक्षराम्",
+      "translation": "अक्षर"
+    },
+    {
+      "original": "यानि",
+      "transliteration": "अक्षर",
+      "translation": "निराकार"
+    },
+    {
+      "original": "पूर्वम्",
+      "transliteration": "मातृकां",
+      "translation": "आईची स्वरूप"
+    },
+    {
+      "original": "शंसन्ति",
+      "transliteration": "ते",
+      "translation": "ते"
+    },
+    {
+      "original": "तेषां",
+      "transliteration": "अव्याकृताद्",
+      "translation": "निराकार"
+    },
+    {
+      "original": "चरमां",
+      "transliteration": "व्याकृत",
+      "translation": "व्याप्त"
+    },
+    {
+      "original": "प्रतिष्टां",
+      "transliteration": "वानसि",
+      "translation": "अपूर्ण"
+    },
+    {
+      "original": "वागीश्वर",
+      "transliteration": "त्वं",
+      "translation": "तू"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "नामानि",
+      "translation": "नाम"
+    },
+    {
+      "original": "त्वदुपज्ञ",
+      "transliteration": "रूपाणि",
+      "translation": "रूप"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "च",
+      "translation": "आणि"
+    },
+    {
+      "original": "मुग्धेन्दु",
+      "transliteration": "यानि",
+      "translation": "जे"
+    },
+    {
+      "original": "निष्यन्द",
+      "transliteration": "पूर्वम्",
+      "translation": "मागे"
+    },
+    {
+      "original": "विलोभ",
+      "transliteration": "शंसन्ति",
+      "translation": "प्रशंसा"
+    },
+    {
+      "original": "नीयां",
+      "transliteration": "तेषां",
+      "translation": "त्याचं"
+    },
+    {
+      "original": "मूर्तिं",
+      "transliteration": "चरमां",
+      "translation": "शेवटचा"
+    },
+    {
+      "original": "तवानन्द",
+      "transliteration": "प्रतिष्टां",
+      "translation": "पवित्रा"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "वागीश्वर",
+      "translation": "वाणीचा परमेश्वर"
+    },
+    {
+      "original": "प्रसूतिम्",
+      "transliteration": "त्वां",
+      "translation": "तुम्हाला"
+    },
+    {
+      "original": "विपश्चितश्चेतसि",
+      "transliteration": "त्वदुपज्ञ",
+      "translation": "तुझ्या कडून ज्ञान"
+    },
+    {
+      "original": "भावयन्ते",
+      "transliteration": "वाचः",
+      "translation": "शब्द"
+    },
+    {
+      "original": "वेला",
+      "transliteration": "मुग्धेन्दु",
+      "translation": "मोहक चंद्राचा प्रकाश"
+    },
+    {
+      "original": "मुदारामिव",
+      "transliteration": "निष्यन्द",
+      "translation": "मोहक कांति"
+    },
+    {
+      "original": "दुग्ध",
+      "transliteration": "विलोभ",
+      "translation": "आकर्षण"
+    },
+    {
+      "original": "सिन्धोः",
+      "transliteration": "नीयां",
+      "translation": "घेणारा"
+    },
+    {
+      "original": "मनोगतं",
+      "transliteration": "मूर्तिं",
+      "translation": "रूप"
+    },
+    {
+      "original": "पश्यति",
+      "transliteration": "तवानन्द",
+      "translation": "तुमच्या आनंदाचा"
+    },
+    {
+      "original": "यः",
+      "transliteration": "सुधा",
+      "translation": "अमृत"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "प्रसूतिम्",
+      "translation": "उत्पत्ति"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "विपश्चित",
+      "translation": "ज्ञानी"
+    },
+    {
+      "original": "मनीषिणां",
+      "transliteration": "चेतसि",
+      "translation": "मनामध्ये"
+    },
+    {
+      "original": "मानस",
+      "transliteration": "भावयन्ते",
+      "translation": "मनात ध्यान करतात"
+    },
+    {
+      "original": "राज",
+      "transliteration": "वेला",
+      "translation": "वेळ"
+    },
+    {
+      "original": "हंसम्",
+      "transliteration": "मुदारामिव",
+      "translation": "समुद्राच्या शुद्ध अमृतासारखा"
+    },
+    {
+      "original": "स्वयं",
+      "transliteration": "दुग्ध",
+      "translation": "दूध"
+    },
+    {
+      "original": "पुरोभाव",
+      "transliteration": "सिन्धोः",
+      "translation": "सागर"
+    },
+    {
+      "original": "विवादभाजः",
+      "transliteration": "मनोगतं",
+      "translation": "मनात विचार केलेले"
+    },
+    {
+      "original": "किंकुर्वते",
+      "transliteration": "पश्यति",
+      "translation": "पाहतो"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "यः",
+      "translation": "जो"
+    },
+    {
+      "original": "गिरो",
+      "transliteration": "सदा",
+      "translation": "सदा"
+    },
+    {
+      "original": "यथार्हम्",
+      "transliteration": "त्वां",
+      "translation": "तुला"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "मनीषिणां",
+      "translation": "विचारकांच्या"
+    },
+    {
+      "original": "क्षणार्धं",
+      "transliteration": "मानस",
+      "translation": "मन"
+    },
+    {
+      "original": "कलयन्ति",
+      "transliteration": "राज",
+      "translation": "राजा"
+    },
+    {
+      "original": "ये",
+      "transliteration": "हंसम्",
+      "translation": "हंस"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "स्वयं",
+      "translation": "स्वतः"
+    },
+    {
+      "original": "आप्लावयन्तं",
+      "transliteration": "पुरोभाव",
+      "translation": "प्रारंभ"
+    },
+    {
+      "original": "विशदैर्",
+      "transliteration": "विवादभाजः",
+      "translation": "विवादकर्ता"
+    },
+    {
+      "original": "मयूखैः",
+      "transliteration": "किंकुर्वते",
+      "translation": "कसा कार्य करतो"
+    },
+    {
+      "original": "वाचां",
+      "transliteration": "तस्य",
+      "translation": "त्याचे"
+    },
+    {
+      "original": "प्रवाहैर्",
+      "transliteration": "गिरो",
+      "translation": "वाणी"
+    },
+    {
+      "original": "अनिवारितैस्ते",
+      "transliteration": "यथार्हम्",
+      "translation": "योग्यप्रमाणे"
+    },
+    {
+      "original": "मन्दाकिनीं",
+      "transliteration": "अपि",
+      "translation": "कायच"
+    },
+    {
+      "original": "मन्दयितुं",
+      "transliteration": "क्षणार्धं",
+      "translation": "क्षणिक भाग"
+    },
+    {
+      "original": "क्षमन्ते",
+      "transliteration": "कलयन्ति",
+      "translation": "जो पाहतात"
+    },
+    {
+      "original": "स्वामिन्",
+      "transliteration": "ये",
+      "translation": "जे"
+    },
+    {
+      "original": "भवद्ध्यान",
+      "transliteration": "त्वां",
+      "translation": "तुला"
+    },
+    {
+      "original": "सुधाभिषेकात्",
+      "transliteration": "आप्लावयन्तं",
+      "translation": "ज्यांनी तुमचं पाणी घालतात"
+    },
+    {
+      "original": "वहन्ति",
+      "transliteration": "विशदैर्",
+      "translation": "स्पष्ट किरणांनी"
+    },
+    {
+      "original": "धन्याः",
+      "transliteration": "मयूखैः",
+      "translation": "प्रकाशी"
+    },
+    {
+      "original": "पुलकानुबन्धम्",
+      "transliteration": "वाचां",
+      "translation": "वाणी"
+    },
+    {
+      "original": "अलक्षिते",
+      "transliteration": "प्रवाहैर्",
+      "translation": "धारा"
+    },
+    {
+      "original": "क्वापि",
+      "transliteration": "अनिवारितैस्ते",
+      "translation": "अनिवार्य प्रवाह"
+    },
+    {
+      "original": "निरूढ",
+      "transliteration": "मन्दाकिनीं",
+      "translation": "गंगा नदी"
+    },
+    {
+      "original": "मूलं",
+      "transliteration": "मन्दयितुं",
+      "translation": "मंद करतात"
+    },
+    {
+      "original": "अङ्गेष्विवानन्दथुम्",
+      "transliteration": "क्षमन्ते",
+      "translation": "सक्षम आहेत"
+    },
+    {
+      "original": "अङ्कुरन्तम्",
+      "transliteration": "स्वामिन्",
+      "translation": "स्वामी"
+    },
+    {
+      "original": "स्वामिन्",
+      "transliteration": "भवद्ध्यान",
+      "translation": "तुमचे ध्यान"
+    },
+    {
+      "original": "प्रतीचा",
+      "transliteration": "सुधाभिषेकात्",
+      "translation": "अमृताभिषेकापासून"
+    },
+    {
+      "original": "हृदयेन",
+      "transliteration": "वहन्ति",
+      "translation": "वाहतात"
+    },
+    {
+      "original": "धन्याः",
+      "transliteration": "धन्याः",
+      "translation": "भाग्यशाली"
+    },
+    {
+      "original": "त्वद्ध्यान",
+      "transliteration": "पुलकानुबन्धम्",
+      "translation": "रोमांच आणि प्रसन्नता"
+    },
+    {
+      "original": "चन्द्रोदय",
+      "transliteration": "अलक्षिते",
+      "translation": "दृष्टीपासून दृष्टी बाह्य"
+    },
+    {
+      "original": "वर्धमानम्",
+      "transliteration": "क्वापि",
+      "translation": "कुठेही"
+    },
+    {
+      "original": "अमान्त",
+      "transliteration": "निरूढ",
+      "translation": "मूळ स्थानावर स्थिर"
+    },
+    {
+      "original": "मानन्द",
+      "transliteration": "मूलं",
+      "translation": "मूळ"
+    },
+    {
+      "original": "पयोधिमन्तः",
+      "transliteration": "अङ्गेष्विवानन्दथुम्",
+      "translation": "शारीरिक आनंदाचे गहिन तप"
+    },
+    {
+      "original": "पयोभिरक्ष्णां",
+      "transliteration": "अङ्कुरन्तम्",
+      "translation": "अंकुर लागणे"
+    },
+    {
+      "original": "परिवाहयन्ति",
+      "transliteration": "स्वामिन्",
+      "translation": "स्वामी"
+    },
+    {
+      "original": "---",
+      "transliteration": "प्रतीचा",
+      "translation": "हृदयाची दिशा"
+    },
+    {
+      "original": "---",
+      "transliteration": "हृदयेन",
+      "translation": "हृदयाने"
+    },
+    {
+      "original": "---",
+      "transliteration": "धन्याः",
+      "translation": "भाग्यशाली"
+    },
+    {
+      "original": "---",
+      "transliteration": "त्वद्ध्यान",
+      "translation": "तुझ्या ध्यानाने"
+    },
+    {
+      "original": "---",
+      "transliteration": "चन्द्रोदय",
+      "translation": "चंद्राचा उदय"
+    },
+    {
+      "original": "---",
+      "transliteration": "वर्धमानम्",
+      "translation": "वर्धनशील"
+    },
+    {
+      "original": "---",
+      "transliteration": "अमान्त",
+      "translation": "शांत"
+    },
+    {
+      "original": "---",
+      "transliteration": "मानन्द",
+      "translation": "आनंद"
+    },
+    {
+      "original": "---",
+      "transliteration": "पयोधिमन्तः",
+      "translation": "समुद्रासार"
+    },
+    {
+      "original": "---",
+      "transliteration": "पयोभिरक्ष्णां",
+      "translation": "जलाने आणि दृष्टीपासून दूर"
+    },
+    {
+      "original": "---",
+      "transliteration": "परिवाहयन्ति",
+      "translation": "प्रवाह होतो"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\marathi\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\marathi\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.919Z"
+  }
+}

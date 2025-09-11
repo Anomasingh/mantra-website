@@ -1,0 +1,301 @@
+{
+  "description": "Word-to-word aligned mantras in multiple languages",
+  "structure": "/lyrics_aligned/<mantra>/<language>/word_to_word_aligned.json",
+  "mantras": {
+    "annapoorna_stotram": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujarati",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "mandarine",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "asitakrutam_shivastotram": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujarati",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "mandarine",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "astha_laxmi_stotram": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujarati",
+        "hindi",
+        "kannada",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu",
+        "_malayalam"
+      ],
+      "totalLanguages": 15
+    },
+    "daxinmurti_stotram": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german_",
+        "gujarati",
+        "hindi",
+        "kannada_",
+        "malayalam",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "hanuman_chalisa": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujarati",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "laxmi_stotra": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujrati",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "mahisasur_mardini": {
+      "availableLanguages": [
+        "bengali",
+        "english",
+        "german",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil"
+      ],
+      "totalLanguages": 10
+    },
+    "maruti_stotra": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujarati",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "narasimha_kavacham": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujarati",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telegu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "shiv_mahima_stotra_pushp_dant": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujrati",
+        "hindi",
+        "kannadaa",
+        "malayalam",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "shiv_panchakshar": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujrati",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "shiv_tandav_stotra": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujarati",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telegu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "shri_hari_stotram": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujrati",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "shri_haygriv_stotra": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujrati",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    },
+    "shri_ram_raksha_stotra": {
+      "availableLanguages": [
+        "arabic",
+        "bengali",
+        "english",
+        "german",
+        "gujrati",
+        "hindi",
+        "kannada",
+        "malayalam",
+        "mandarin",
+        "marathi",
+        "punjabi",
+        "russian",
+        "tamil",
+        "telugu",
+        "urdu"
+      ],
+      "totalLanguages": 15
+    }
+  }
+}

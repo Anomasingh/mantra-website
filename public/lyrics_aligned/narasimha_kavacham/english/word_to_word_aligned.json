@@ -1,0 +1,1534 @@
+{
+  "mantra": "narasimha_kavacham",
+  "language": "english",
+  "type": "word_to_word",
+  "totalWords": 304,
+  "alignedWords": [
+    {
+      "original": "नृसिंहकवचं",
+      "transliteration": "Nrisinghakavacham",
+      "translation": "The Narasimha armor"
+    },
+    {
+      "original": "वक्ष्ये",
+      "transliteration": "Vakshye",
+      "translation": "I will narrate"
+    },
+    {
+      "original": "प्रह्लादेनोदितं",
+      "transliteration": "Prahladenoditam",
+      "translation": "Spoken by Prahlada"
+    },
+    {
+      "original": "पुरा",
+      "transliteration": "Pura",
+      "translation": "In the past"
+    },
+    {
+      "original": "सर्वरक्षाकरं",
+      "transliteration": "Sarvarakshakaram",
+      "translation": "The protector of all"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "Punyam",
+      "translation": "Auspicious"
+    },
+    {
+      "original": "सर्वोपद्रवनाशनम्",
+      "transliteration": "Sarvopadravanashanam",
+      "translation": "The remover of all misfortunes"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "Sarva",
+      "translation": "All"
+    },
+    {
+      "original": "सम्पत्करं",
+      "transliteration": "Sampatkaram",
+      "translation": "The giver of wealth"
+    },
+    {
+      "original": "चैव",
+      "transliteration": "Chaiva",
+      "translation": "And"
+    },
+    {
+      "original": "स्वर्गमोक्षप्रदायकम्",
+      "transliteration": "Swargamokshapradayakam",
+      "translation": "The grantor of heaven and liberation"
+    },
+    {
+      "original": "ध्यात्वा",
+      "transliteration": "Dhyatva",
+      "translation": "Meditating upon"
+    },
+    {
+      "original": "नृसिंहं",
+      "transliteration": "Nrisingham",
+      "translation": "Narasimha"
+    },
+    {
+      "original": "देवेशं",
+      "transliteration": "Devesham",
+      "translation": "The Lord of the gods"
+    },
+    {
+      "original": "हेमसिंहासनस्थितम्",
+      "transliteration": "Hemsinghasanasthitam",
+      "translation": "Seated on the golden lion throne"
+    },
+    {
+      "original": "विवृतास्यं",
+      "transliteration": "Vivratasyam",
+      "translation": "With a wide open mouth"
+    },
+    {
+      "original": "त्रिनयनं",
+      "transliteration": "Trinayanam",
+      "translation": "Three-eyed"
+    },
+    {
+      "original": "शरदिन्दुसमप्रभम्",
+      "transliteration": "Sharadindusamaprabham",
+      "translation": "Shining like the autumn moon"
+    },
+    {
+      "original": "लक्ष्म्यालिङ्गितवामाङ्गं",
+      "transliteration": "Lakshmiyalingitavamangam",
+      "translation": "With Lakshmi embracing His left side"
+    },
+    {
+      "original": "विभूतिभिरुपाश्रितम्",
+      "transliteration": "Vibhutibhirupashritam",
+      "translation": "Surrounded by divine powers"
+    },
+    {
+      "original": "चतुर्भुजं",
+      "transliteration": "Mudanvitam",
+      "translation": "Full of joy"
+    },
+    {
+      "original": "कोमलाङ्गं",
+      "transliteration": "Chaturbhujam",
+      "translation": "Four-armed"
+    },
+    {
+      "original": "स्वर्णकुण्डलशोभितम्",
+      "transliteration": "Komalangam",
+      "translation": "With soft body"
+    },
+    {
+      "original": "सरोजशोभितोरस्कं",
+      "transliteration": "Swarnakundalashobhitam",
+      "translation": "Adorned with golden earrings"
+    },
+    {
+      "original": "रत्नकेयूरमुद्रितम्",
+      "transliteration": "Sarojashobhitoraskam",
+      "translation": "With a chest decorated by a lotus"
+    },
+    {
+      "original": "ताप्तकाञ्चनसंकाशं",
+      "transliteration": "Ratnakeeyooramudritam",
+      "translation": "With armlets and rings made of jewels"
+    },
+    {
+      "original": "पीतनिर्मलवाससम्",
+      "transliteration": "Taptakanchanasankasham",
+      "translation": "With a form like molten gold"
+    },
+    {
+      "original": "इन्द्रादिसुरमौलिस्थस्फुरन्माणिक्यदीप्तिभिः",
+      "transliteration": "Peetanirmalavasasam",
+      "translation": "Wearing clean yellow garments"
+    },
+    {
+      "original": "विराजितपदद्वन्द्वं",
+      "transliteration": "Indradesuramoulisthasphuranmanikyadeeptibhih",
+      "translation": "Glowing with the brilliance of gems from the crowns of Indra and other gods"
+    },
+    {
+      "original": "शङ्खचक्रादि हेतिभिः",
+      "transliteration": "Virajitapadadvandvam",
+      "translation": "With radiant feet"
+    },
+    {
+      "original": "गरुत्मता च विनयात्",
+      "transliteration": "Shankhachakraadihetibhih",
+      "translation": "Armed with the conch, wheel, and other weapons"
+    },
+    {
+      "original": "स्तूयमानं",
+      "transliteration": "Garutmata cha vinayat",
+      "translation": "And, with humility, praised by Garuda"
+    },
+    {
+      "original": "मुदान्वितम्",
+      "transliteration": "Stuyamanam",
+      "translation": "Being praised"
+    },
+    {
+      "original": "स्वहृत्कमलसंवासं",
+      "transliteration": "Mudanvitam",
+      "translation": "Filled with joy"
+    },
+    {
+      "original": "कृत्वा",
+      "transliteration": "Swahritkamalasanvasam",
+      "translation": "Residing in the heart's lotus"
+    },
+    {
+      "original": "तु",
+      "transliteration": "Krutva",
+      "translation": "Having done"
+    },
+    {
+      "original": "कवचं",
+      "transliteration": "Tu",
+      "translation": "But"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "Kavacham",
+      "translation": "Armor"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "Pathet",
+      "translation": "He should recite"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Nrisingho",
+      "translation": "Narasimha"
+    },
+    {
+      "original": "शिरः",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Shirah",
+      "translation": "Head"
+    },
+    {
+      "original": "लोकरक्षार्थसम्भवः",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "सर्वगोऽपि",
+      "transliteration": "Lokaraksharthasambhavah",
+      "translation": "Born for the protection of the world"
+    },
+    {
+      "original": "स्तम्भवासः",
+      "transliteration": "Sarvagopi",
+      "translation": "Also residing everywhere"
+    },
+    {
+      "original": "भालं",
+      "transliteration": "Stambhavasah",
+      "translation": "Residing in the pillar"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Bhalam",
+      "translation": "Forehead"
+    },
+    {
+      "original": "रक्षतु",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "ध्वनिम्",
+      "transliteration": "Rakshatu",
+      "translation": "Protect"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "Dhvanim",
+      "translation": "Sound"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Nrisingho",
+      "translation": "Narasimha"
+    },
+    {
+      "original": "दृशौ",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Drishau",
+      "translation": "Eyes"
+    },
+    {
+      "original": "सोमसूर्याग्निलोचनः",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "स्मृतिं",
+      "transliteration": "Somasuryagnilochanah",
+      "translation": "With eyes like the moon, sun, and fire"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Smritim",
+      "translation": "Memory"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "नृहरिर्मुनिवर्यस्तुतिप्रियः",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "नासं",
+      "transliteration": "Nrharimunivaryastutipriyah",
+      "translation": "Narhari, beloved by sages and praised by them"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Nasam",
+      "translation": "Nose"
+    },
+    {
+      "original": "सिंहनासस्तु",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "मुखं",
+      "transliteration": "Singhinasastu",
+      "translation": "The lion's nose"
+    },
+    {
+      "original": "लक्ष्मीमुखप्रियः",
+      "transliteration": "Mukham",
+      "translation": "Mouth"
+    },
+    {
+      "original": "सर्वविद्याधिपः",
+      "transliteration": "Lakshmimukhapriyah",
+      "translation": "Beloved of Lakshmi's face"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Sarvavidhyadhipah",
+      "translation": "Lord of all knowledge"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "रसनां",
+      "transliteration": "Nrisingho",
+      "translation": "Narasimha"
+    },
+    {
+      "original": "मम",
+      "transliteration": "Rasanam",
+      "translation": "My tongue"
+    },
+    {
+      "original": "वक्त्रं",
+      "transliteration": "Mama",
+      "translation": "My"
+    },
+    {
+      "original": "पात्विन्दुवदनं",
+      "transliteration": "Vaktram",
+      "translation": "Mouth"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "Patvinduvadanam",
+      "translation": "Always protect the moon-like face"
+    },
+    {
+      "original": "प्रह्लादवन्दितः",
+      "transliteration": "Sada",
+      "translation": "Always"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "Prahladavanditah",
+      "translation": "Always praised by Prahlada"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Nrisinghah",
+      "translation": "Narasimha"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "कण्ठं",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "स्कन्धौ",
+      "transliteration": "Kantham",
+      "translation": "Throat"
+    },
+    {
+      "original": "भूभरान्तकृत्",
+      "transliteration": "Skandhau",
+      "translation": "Shoulders"
+    },
+    {
+      "original": "दिव्यास्त्रशोभितभुजो",
+      "transliteration": "Bhoobharantakrit",
+      "translation": "Destroyer of the burden of the earth"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "Divyastrashobhitabhujo",
+      "translation": "With arms adorned with divine weapons"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Nrisinghah",
+      "translation": "Narasimha"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "भुजौ",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "करौ",
+      "transliteration": "Bhujau",
+      "translation": "Arms"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Karau",
+      "translation": "Hands"
+    },
+    {
+      "original": "देववरदो",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "Devavarado",
+      "translation": "The giver of blessings"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Nrisinghah",
+      "translation": "Narasimha"
+    },
+    {
+      "original": "सर्वतः",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "हृदयं",
+      "transliteration": "Sarvatah",
+      "translation": "From all sides"
+    },
+    {
+      "original": "योगिसाध्यश्च",
+      "transliteration": "Hridayam",
+      "translation": "Heart"
+    },
+    {
+      "original": "निवासं",
+      "transliteration": "Yogisadhyashcha",
+      "translation": "The one who is attainable by yogis"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Nivasam",
+      "translation": "Residence"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "हरिः",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "मध्यं",
+      "transliteration": "Harih",
+      "translation": "Lord Vishnu"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Madhyam",
+      "translation": "Midsection"
+    },
+    {
+      "original": "हिरण्याक्षवक्षःकुक्षिविदारणः",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "नाभिं",
+      "transliteration": "Hiranyakshavakshakukshividaranah",
+      "translation": "Slayer of Hiranyaksha, protector of chest and abdomen"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Nabhim",
+      "translation": "Navel"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "नृहरिः",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "स्वनाभि",
+      "transliteration": "Nrharih",
+      "translation": "Narhari"
+    },
+    {
+      "original": "ब्रह्मसंस्तुतः",
+      "transliteration": "Svanabhi",
+      "translation": "With a navel like the sound"
+    },
+    {
+      "original": "ब्रह्माण्डकोटयः",
+      "transliteration": "Brahmasanstutah",
+      "translation": "Praised by Brahma"
+    },
+    {
+      "original": "कट्यां",
+      "transliteration": "Brahmandakotayah",
+      "translation": "The millions of universes"
+    },
+    {
+      "original": "यस्यासौ",
+      "transliteration": "Katyam",
+      "translation": "Waist"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Yasyaasau",
+      "translation": "May that protect"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "कटिम्",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "गुह्यं",
+      "transliteration": "Katim",
+      "translation": "Hips"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Guhyam",
+      "translation": "Secret"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "गुह्यानां",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "मन्त्राणां",
+      "transliteration": "Guhyanam",
+      "translation": "Of the secrets"
+    },
+    {
+      "original": "गुह्यरूपदृक्",
+      "transliteration": "Mantranam",
+      "translation": "Of the mantras"
+    },
+    {
+      "original": "ऊरु",
+      "transliteration": "Guhyarupadrik",
+      "translation": "The one with the form of secrets"
+    },
+    {
+      "original": "मनोभवः",
+      "transliteration": "Uru",
+      "translation": "Thighs"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Manobhavah",
+      "translation": "The one who is born of the mind"
+    },
+    {
+      "original": "जानुनी",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "नररूपधृक्",
+      "transliteration": "Januni",
+      "translation": "Knees"
+    },
+    {
+      "original": "जङ्घे",
+      "transliteration": "Nararoopadhrik",
+      "translation": "The one who holds the form of a man"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Janghe",
+      "translation": "Thighs"
+    },
+    {
+      "original": "धराभारहर्ता",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "योऽसौ",
+      "transliteration": "Dharabharaharta",
+      "translation": "The one who removes the burden of the earth"
+    },
+    {
+      "original": "नृकेसरी",
+      "transliteration": "Yoasau",
+      "translation": "He who"
+    },
+    {
+      "original": "सुरराज्यप्रदः",
+      "transliteration": "Nrikesari",
+      "translation": "King of Nrikes"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Surarajyapradhah",
+      "translation": "Giver of the kingdom of gods"
+    },
+    {
+      "original": "पादौ",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Pādau",
+      "translation": "Feet"
+    },
+    {
+      "original": "नृहरीश्वरः",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "सहस्रशीर्षा",
+      "transliteration": "Nrharishwarah",
+      "translation": "Lord of Narasimha"
+    },
+    {
+      "original": "पुरुषः",
+      "transliteration": "Sahasrasirsah",
+      "translation": "The thousand-headed one"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Purushah",
+      "translation": "The Purusha (cosmic being)"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "सर्वशस्तनुम्",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "महोग्रः",
+      "transliteration": "Sarvashastanum",
+      "translation": "The one with all weapons"
+    },
+    {
+      "original": "पूर्वतः",
+      "transliteration": "Mahogra",
+      "translation": "The great one, terrible"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Purvatah",
+      "translation": "From the east"
+    },
+    {
+      "original": "महावीराग्रजोऽग्नितः",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "महाविष्णुर्दक्षिणे",
+      "transliteration": "Mahaviragragojagnitah",
+      "translation": "The great warrior with a fiery radiance"
+    },
+    {
+      "original": "तु",
+      "transliteration": "Mahavishnurdakshine",
+      "translation": "The great Vishnu on the right"
+    },
+    {
+      "original": "महाज्वालस्तु",
+      "transliteration": "Tu",
+      "translation": "And"
+    },
+    {
+      "original": "नैरृतौ",
+      "transliteration": "Mahajwalanstu",
+      "translation": "The great flame on the left"
+    },
+    {
+      "original": "पश्चिमे",
+      "transliteration": "Nairritau",
+      "translation": "In the direction of the demons"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Pashchime",
+      "translation": "In the west"
+    },
+    {
+      "original": "सर्वेशो",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "Sarvesho",
+      "translation": "Lord of all"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Dishi",
+      "translation": "In the direction"
+    },
+    {
+      "original": "सर्वतोमुखः",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "Sarvatomukhah",
+      "translation": "The one with faces in all directions"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Nrisinghah",
+      "translation": "Narasimha"
+    },
+    {
+      "original": "वायव्यां",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "सौम्यां",
+      "transliteration": "Vayavyam",
+      "translation": "In the wind direction"
+    },
+    {
+      "original": "भूषणविग्रहः",
+      "transliteration": "Saumyam",
+      "translation": "The gentle one"
+    },
+    {
+      "original": "ईशान्यां",
+      "transliteration": "Bhushanavigrahah",
+      "translation": "The one adorned with ornaments"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Ishanyam",
+      "translation": "In the northeast"
+    },
+    {
+      "original": "भद्रो",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "मे",
+      "transliteration": "Bhadro",
+      "translation": "The auspicious one"
+    },
+    {
+      "original": "सर्वमङ्गलदायकः",
+      "transliteration": "Me",
+      "translation": "My"
+    },
+    {
+      "original": "संसारभयतः",
+      "transliteration": "Sarvamangaladayakah",
+      "translation": "The one who brings all auspiciousness"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "Samsarabhayatah",
+      "translation": "From the fear of the material world"
+    },
+    {
+      "original": "मृत्योर्मृत्युः",
+      "transliteration": "Patu",
+      "translation": "Protect"
+    },
+    {
+      "original": "नृकेसरी",
+      "transliteration": "Mrityor Mrituryanrikesari",
+      "translation": "Protect me from death, O King of Narasimha"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Idam",
+      "translation": "This"
+    },
+    {
+      "original": "नृसिंहकवचं",
+      "transliteration": "Nrisinghakavacham",
+      "translation": "The Narasimha armor"
+    },
+    {
+      "original": "प्रह्लादमुखमण्डितम्",
+      "transliteration": "Prahladmukhamanditam",
+      "translation": "Adorned with the face of Prahlada"
+    },
+    {
+      "original": "भक्तिमान्",
+      "transliteration": "Bhaktiman",
+      "translation": "The devotee"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Yah",
+      "translation": "Who"
+    },
+    {
+      "original": "पठेन्नित्यं",
+      "transliteration": "Pathet",
+      "translation": "Recites"
+    },
+    {
+      "original": "सर्वपापैः",
+      "transliteration": "Nityam",
+      "translation": "Always"
+    },
+    {
+      "original": "प्रमुच्यते",
+      "transliteration": "Sarvapapaih",
+      "translation": "From all sins"
+    },
+    {
+      "original": "भक्तिमान्",
+      "transliteration": "Pramuchyate",
+      "translation": "Is released"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Putravan",
+      "translation": "One who has children"
+    },
+    {
+      "original": "पठेन्नित्यं",
+      "transliteration": "Dhanavan",
+      "translation": "One who is wealthy"
+    },
+    {
+      "original": "सर्वपापैः",
+      "transliteration": "Loke",
+      "translation": "In the world"
+    },
+    {
+      "original": "प्रमुच्यते",
+      "transliteration": "Dīrghāyurupajāyate",
+      "translation": "Is blessed with long life"
+    },
+    {
+      "original": "पुत्रवान्",
+      "transliteration": "Yam",
+      "translation": "Whomever"
+    },
+    {
+      "original": "धनवान्",
+      "transliteration": "Yam",
+      "translation": "Whomever"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "Kamayate",
+      "translation": "Desires"
+    },
+    {
+      "original": "दीर्घायुरुपजायते",
+      "transliteration": "Kāmam",
+      "translation": "The desire"
+    },
+    {
+      "original": "यं",
+      "transliteration": "Tam",
+      "translation": "That"
+    },
+    {
+      "original": "यं",
+      "transliteration": "Tam",
+      "translation": "That"
+    },
+    {
+      "original": "कामयते",
+      "transliteration": "Prapnoti",
+      "translation": "Achieves"
+    },
+    {
+      "original": "कामं",
+      "transliteration": "Asanshyam",
+      "translation": "Without a doubt"
+    },
+    {
+      "original": "तं",
+      "transliteration": "Sarvatra",
+      "translation": "Everywhere"
+    },
+    {
+      "original": "तं",
+      "transliteration": "Jayamapnoti",
+      "translation": "Attains victory"
+    },
+    {
+      "original": "प्राप्नोति",
+      "transliteration": "Sarvatra",
+      "translation": "Everywhere"
+    },
+    {
+      "original": "असंशयम्",
+      "transliteration": "Vijayi",
+      "translation": "Victorious"
+    },
+    {
+      "original": "सर्वत्र",
+      "transliteration": "Bhavet",
+      "translation": "Be"
+    },
+    {
+      "original": "जयमाप्नोति",
+      "transliteration": "Bhoomyantareekshadivyanam",
+      "translation": "Of the celestial bodies in the earth and sky"
+    },
+    {
+      "original": "सर्वत्र",
+      "transliteration": "Grahanam",
+      "translation": "Of the planets"
+    },
+    {
+      "original": "विजयी",
+      "transliteration": "Vinivaranam",
+      "translation": "The removal"
+    },
+    {
+      "original": "भवेत्",
+      "transliteration": "Vrischikoragasambhoot",
+      "translation": "Born of scorpions and serpents"
+    },
+    {
+      "original": "भूम्यन्तरीक्षदिव्यानां",
+      "transliteration": "Vishapaharanam",
+      "translation": "The removal of poison"
+    },
+    {
+      "original": "ग्रहाणां",
+      "transliteration": "Param",
+      "translation": "Supreme"
+    },
+    {
+      "original": "विनिवारणम्",
+      "transliteration": "Brahmarakshasayakshanam",
+      "translation": "Of the Brahmarakshasas and Yakshas"
+    },
+    {
+      "original": "वृश्चिकोरगसम्भूत",
+      "transliteration": "Doorotsaranakaranam",
+      "translation": "The cause of banishment"
+    },
+    {
+      "original": "विषापहरणं",
+      "transliteration": "Bhurje",
+      "translation": "On the Bhrigu tree"
+    },
+    {
+      "original": "परम्",
+      "transliteration": "Va",
+      "translation": "Or"
+    },
+    {
+      "original": "ब्रह्मराक्षसयक्षाणां",
+      "transliteration": "Talapatre",
+      "translation": "On a palm leaf"
+    },
+    {
+      "original": "दूरोत्सारणकारणम्",
+      "transliteration": "Va",
+      "translation": "Or"
+    },
+    {
+      "original": "भूर्जे",
+      "transliteration": "Kavacham",
+      "translation": "The armor"
+    },
+    {
+      "original": "वा",
+      "transliteration": "Likhitam",
+      "translation": "Written"
+    },
+    {
+      "original": "तालपत्रे",
+      "transliteration": "Shubham",
+      "translation": "Auspicious"
+    },
+    {
+      "original": "वा",
+      "transliteration": "Karamule",
+      "translation": "At the root of the hand"
+    },
+    {
+      "original": "कवचं",
+      "transliteration": "Dhrutam",
+      "translation": "Held"
+    },
+    {
+      "original": "लिखितं",
+      "transliteration": "Yena",
+      "translation": "By whom"
+    },
+    {
+      "original": "शुभम्",
+      "transliteration": "Sidhyeyuh",
+      "translation": "May succeed"
+    },
+    {
+      "original": "करमूले",
+      "transliteration": "Karmasiddhayah",
+      "translation": "The accomplishment of duties"
+    },
+    {
+      "original": "धृतं",
+      "transliteration": "Tasya",
+      "translation": "Of that"
+    },
+    {
+      "original": "येन",
+      "transliteration": "Karyani",
+      "translation": "Works"
+    },
+    {
+      "original": "सिध्येयुः",
+      "transliteration": "Sidhyeyuh",
+      "translation": "May succeed"
+    },
+    {
+      "original": "कर्मसिद्धयः",
+      "transliteration": "Karmasiddhayah",
+      "translation": "The accomplishment of duties"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "Devasuramanushyeshu",
+      "translation": "Among gods, demons, and humans"
+    },
+    {
+      "original": "कार्याणि",
+      "transliteration": "Svan",
+      "translation": "Own"
+    },
+    {
+      "original": "देवासुरमनुष्येषु",
+      "transliteration": "Svameva",
+      "translation": "By oneself"
+    },
+    {
+      "original": "स्वं",
+      "transliteration": "Jayam",
+      "translation": "Victory"
+    },
+    {
+      "original": "स्वमेव",
+      "transliteration": "Labhet",
+      "translation": "Attains"
+    },
+    {
+      "original": "जयं",
+      "transliteration": "Ekasandhyam",
+      "translation": "One prayer"
+    },
+    {
+      "original": "लभेत्",
+      "transliteration": "Trisandhyam",
+      "translation": "Three prayers"
+    },
+    {
+      "original": "एकसन्ध्यं",
+      "transliteration": "Va",
+      "translation": "Or"
+    },
+    {
+      "original": "त्रिसन्ध्यं",
+      "transliteration": "Yah",
+      "translation": "Who"
+    },
+    {
+      "original": "वा",
+      "transliteration": "Pathet",
+      "translation": "Recites"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Niyato",
+      "translation": "Self-disciplined"
+    },
+    {
+      "original": "पठेन्नियतो",
+      "transliteration": "Narah",
+      "translation": "Man"
+    },
+    {
+      "original": "नरः",
+      "transliteration": "Sarvamangalamangalyam",
+      "translation": "All auspiciousness"
+    },
+    {
+      "original": "सर्वमङ्गलमाङ्गल्यं",
+      "transliteration": "Bhuktim",
+      "translation": "Enjoyment"
+    },
+    {
+      "original": "भुक्तिं",
+      "transliteration": "Muktim",
+      "translation": "Liberation"
+    },
+    {
+      "original": "मुक्तिं",
+      "transliteration": "Cha",
+      "translation": "And"
+    },
+    {
+      "original": "च",
+      "transliteration": "Vindati",
+      "translation": "Attains"
+    },
+    {
+      "original": "विन्दति",
+      "transliteration": "Dvatrimshatisahasrani",
+      "translation": "Thirty thousand"
+    },
+    {
+      "original": "द्वात्रिंशतिसहस्राणि",
+      "transliteration": "Pathet",
+      "translation": "Recites"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "Shuddhatmanam",
+      "translation": "Of pure souls"
+    },
+    {
+      "original": "शुद्धात्मनां",
+      "transliteration": "Nrinam",
+      "translation": "Of men"
+    },
+    {
+      "original": "नृणाम्",
+      "transliteration": "Kavachasyasya",
+      "translation": "Of this armor"
+    },
+    {
+      "original": "कवचस्यास्य",
+      "transliteration": "Mantrasya",
+      "translation": "Of the mantra"
+    },
+    {
+      "original": "मन्त्रस्य",
+      "transliteration": "Mantrasiddhih",
+      "translation": "The perfection of the mantra"
+    },
+    {
+      "original": "मन्त्रसिद्धिः",
+      "transliteration": "Prajayate",
+      "translation": "Is produced"
+    },
+    {
+      "original": "प्रजायते",
+      "transliteration": "Anena",
+      "translation": "By this"
+    },
+    {
+      "original": "अनेन",
+      "transliteration": "Mantraraajena",
+      "translation": "By the king of mantras"
+    },
+    {
+      "original": "मन्त्रराजेन",
+      "transliteration": "Kṛtvā",
+      "translation": "Having performed"
+    },
+    {
+      "original": "कृत्वा",
+      "transliteration": "Basmabhimantranam",
+      "translation": "The mantra of ash"
+    },
+    {
+      "original": "भस्माभिमन्त्रणम्",
+      "transliteration": "Tilakam",
+      "translation": "The mark"
+    },
+    {
+      "original": "तिलकं",
+      "transliteration": "Vinyasedyastu",
+      "translation": "One who applies"
+    },
+    {
+      "original": "विन्यसेद्यस्तु",
+      "transliteration": "Tasya",
+      "translation": "His"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "Grahabhayam",
+      "translation": "The fear of planets"
+    },
+    {
+      "original": "ग्रहभयं",
+      "transliteration": "Haret",
+      "translation": "Removes"
+    },
+    {
+      "original": "हरेत्",
+      "transliteration": "Trivaram",
+      "translation": "Three times"
+    },
+    {
+      "original": "त्रिवारं",
+      "transliteration": "Japamanastu",
+      "translation": "One who chants"
+    },
+    {
+      "original": "जपमानस्तु",
+      "transliteration": "Dattam",
+      "translation": "The given"
+    },
+    {
+      "original": "दत्तं",
+      "transliteration": "Varyabhimantrya",
+      "translation": "Having uttered water mantras"
+    },
+    {
+      "original": "वार्यभिमन्त्र्य",
+      "transliteration": "Cha",
+      "translation": "And"
+    },
+    {
+      "original": "च",
+      "transliteration": "Prashayedyo",
+      "translation": "One who performs"
+    },
+    {
+      "original": "प्राशयेद्यो",
+      "transliteration": "Naro",
+      "translation": "A person"
+    },
+    {
+      "original": "नरो",
+      "transliteration": "Mantram",
+      "translation": "The mantra"
+    },
+    {
+      "original": "मन्त्रं",
+      "transliteration": "Nrisinghadhyanamacharet",
+      "translation": "Meditates on Lord Narasimha"
+    },
+    {
+      "original": "नृसिंहध्यानमाचरेत्",
+      "transliteration": "Tasya",
+      "translation": "Of him"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "Rogah",
+      "translation": "The diseases"
+    },
+    {
+      "original": "रोगाः",
+      "transliteration": "Pranashyanti",
+      "translation": "Perish"
+    },
+    {
+      "original": "प्रणश्यन्ति",
+      "transliteration": "Ye",
+      "translation": "Those"
+    },
+    {
+      "original": "ये",
+      "transliteration": "Cha",
+      "translation": "And"
+    },
+    {
+      "original": "च",
+      "transliteration": "Syuh",
+      "translation": "Are"
+    },
+    {
+      "original": "स्युः",
+      "transliteration": "Kukshisambhavah",
+      "translation": "Born of the womb"
+    },
+    {
+      "original": "कुक्षिसम्भवाः",
+      "transliteration": "Kimatra",
+      "translation": "What is here"
+    },
+    {
+      "original": "किमत्र",
+      "transliteration": "Bahunoktena",
+      "translation": "By much being said"
+    },
+    {
+      "original": "बहुनोक्तेन",
+      "transliteration": "Nrisinghasadrisho",
+      "translation": "Like Narasimha"
+    },
+    {
+      "original": "नृसिंहसदृशो",
+      "transliteration": "Bhavet",
+      "translation": "Should be"
+    },
+    {
+      "original": "भवेत्",
+      "transliteration": "Manasa",
+      "translation": "By mind"
+    },
+    {
+      "original": "मनसा",
+      "transliteration": "Chintitam",
+      "translation": "Thought of"
+    },
+    {
+      "original": "चिन्तितं",
+      "transliteration": "Yattu",
+      "translation": "That which"
+    },
+    {
+      "original": "यत्तु",
+      "transliteration": "Sa",
+      "translation": "He"
+    },
+    {
+      "original": "स",
+      "transliteration": "Tachapnotyashanshyam",
+      "translation": "Surely attains"
+    },
+    {
+      "original": "तच्चाप्नोत्यसंशयम्",
+      "transliteration": "Garjantam",
+      "translation": "Roaring"
+    },
+    {
+      "original": "गर्जन्तं",
+      "transliteration": "Garjayantam",
+      "translation": "Roaring"
+    },
+    {
+      "original": "गर्जयन्तं",
+      "transliteration": "Nijabhujapatalam",
+      "translation": "His own arm’s plate"
+    },
+    {
+      "original": "निजभुजपटलं",
+      "transliteration": "Sphotayantam",
+      "translation": "Cracking"
+    },
+    {
+      "original": "स्फोटयन्तं",
+      "transliteration": "Hathantam",
+      "translation": "Forcing"
+    },
+    {
+      "original": "हठन्तं",
+      "transliteration": "Rupyantam",
+      "translation": "Making bright"
+    },
+    {
+      "original": "रूप्यन्तं",
+      "transliteration": "Tapayantam",
+      "translation": "Making burn"
+    },
+    {
+      "original": "तापयन्तं",
+      "transliteration": "Divi",
+      "translation": "In the heavens"
+    },
+    {
+      "original": "दिवि",
+      "transliteration": "Bhumi",
+      "translation": "On the earth"
+    },
+    {
+      "original": "भुवि",
+      "transliteration": "Ditijam",
+      "translation": "Son of Diti (demon)"
+    },
+    {
+      "original": "दितिजं",
+      "transliteration": "Kshepayantam",
+      "translation": "Throwing"
+    },
+    {
+      "original": "क्षेपयन्तं",
+      "transliteration": "Kshipantam",
+      "translation": "Throwing"
+    },
+    {
+      "original": "क्षिपन्तम्",
+      "transliteration": "Krandantam",
+      "translation": "Crying"
+    },
+    {
+      "original": "क्रन्दन्तं",
+      "transliteration": "Roshayantam",
+      "translation": "Making angry"
+    },
+    {
+      "original": "रोषयन्तं",
+      "transliteration": "Dishi",
+      "translation": "In the directions"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "Dishi",
+      "translation": "In the directions"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "Satatam",
+      "translation": "Continuously"
+    },
+    {
+      "original": "सततं",
+      "transliteration": "Sanharantam",
+      "translation": "Destroying"
+    },
+    {
+      "original": "संहरन्तं",
+      "transliteration": "Bharantam",
+      "translation": "Carrying"
+    },
+    {
+      "original": "भरन्तं",
+      "transliteration": "Bhramantam",
+      "translation": "Roaming"
+    },
+    {
+      "original": "भ्रमन्तं",
+      "transliteration": "Vikshantam",
+      "translation": "Looking"
+    },
+    {
+      "original": "वीक्षन्तं",
+      "transliteration": "Ghoornayantam",
+      "translation": "Whirling"
+    },
+    {
+      "original": "घूर्णयन्तं",
+      "transliteration": "Sharanikarashataih",
+      "translation": "By thousands of arrows"
+    },
+    {
+      "original": "शरनिकरशतैः",
+      "transliteration": "Divyasingham",
+      "translation": "Divine lion"
+    },
+    {
+      "original": "दिव्यसिंहं",
+      "transliteration": "Namami",
+      "translation": "I bow"
+    },
+    {
+      "original": "नमामि",
+      "transliteration": "Iti",
+      "translation": "Thus"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Shreebrahmandpurane",
+      "translation": "In the Brahmanda Purana"
+    },
+    {
+      "original": "श्रीब्रह्माण्डपुराणे",
+      "transliteration": "Prahladoktam",
+      "translation": "Spoken by Prahlada"
+    },
+    {
+      "original": "प्रह्लादोक्तं",
+      "transliteration": "Shrinrsinhakavacham",
+      "translation": "The Narasimha Kavach"
+    },
+    {
+      "original": "श्रीनृसिंहकवचं",
+      "transliteration": "Sampurnam",
+      "translation": "Complete"
+    },
+    {
+      "original": "सम्पूर्णम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\english\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\english\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.124Z"
+  }
+}

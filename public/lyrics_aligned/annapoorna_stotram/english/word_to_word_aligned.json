@@ -1,0 +1,734 @@
+{
+  "mantra": "annapoorna_stotram",
+  "language": "english",
+  "type": "word_to_word",
+  "totalWords": 144,
+  "alignedWords": [
+    {
+      "original": "नित्यानन्दकरी",
+      "transliteration": "Nityanandkari",
+      "translation": "One who brings eternal bliss."
+    },
+    {
+      "original": "वराभयकरी",
+      "transliteration": "Varabhaykari",
+      "translation": "One who grants protection from fear."
+    },
+    {
+      "original": "सौन्दर्यरत्नाकरी",
+      "transliteration": "Saundaryaratnakaari",
+      "translation": "One who possesses the jewel of beauty."
+    },
+    {
+      "original": "निर्धूताखिलघोरपावनकरी",
+      "transliteration": "Nirdhootakhilaghorpavankari",
+      "translation": "One who purifies all that is terrible and frightening."
+    },
+    {
+      "original": "प्रत्यक्षमाहेश्वरी",
+      "transliteration": "Pratyakshamaaheshwari",
+      "translation": "One who is directly perceived as the Divine Mother."
+    },
+    {
+      "original": "प्रालेयाचलवंशपावनकरी",
+      "transliteration": "Pralayachalavanshapavankari",
+      "translation": "One who purifies the family of the mountain (symbolizing the Himalayas)."
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "Kashi Puradhishwari",
+      "translation": "The Goddess who is the ruler of Kashi (Varanasi)."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Bhiksham",
+      "translation": "Alms (food)."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Dehi",
+      "translation": "Grant (me)."
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "Kripavalambanakarī",
+      "translation": "One who provides shelter through grace."
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "Matannpurneshwari",
+      "translation": "The Divine Mother who is the giver of abundance and nourishment."
+    },
+    {
+      "original": "नानारत्नविचित्रभूषणकरी",
+      "transliteration": "Nanaratnavichitrabhushankari",
+      "translation": "One who adorns herself with various unique and precious jewels."
+    },
+    {
+      "original": "हेमाम्बराडम्बरी",
+      "transliteration": "Hemambaradambari",
+      "translation": "One who wears golden garments and is resplendent."
+    },
+    {
+      "original": "मुक्ताहारविलम्बमान",
+      "transliteration": "Muktahaaravillambamanavillasadvakshojakumbhantari",
+      "translation": "One who wears a necklace of liberated gems, glows with brilliance on her chest."
+    },
+    {
+      "original": "विलसद्वक्षोजकुम्भान्तरी",
+      "transliteration": "Kashmeeraguravasitangaruchire",
+      "translation": "One whose body is graced with the fragrance of Kashmiri saffron and elegance."
+    },
+    {
+      "original": "काश्मीरागरुवासिताङ्गरुचिरे",
+      "transliteration": "Kashi Puradhishwari",
+      "translation": "The Goddess who is the ruler of Kashi (Varanasi)."
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "Bhiksham",
+      "translation": "Alms (food)."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Dehi",
+      "translation": "Grant (me)."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Kripavalambanakarī",
+      "translation": "One who provides shelter through grace."
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "Matannpurneshwari",
+      "translation": "The Divine Mother who is the giver of abundance and nourishment."
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "Yoganandkari",
+      "translation": "One who brings bliss through yoga."
+    },
+    {
+      "original": "योगानन्दकरी",
+      "transliteration": "Ripukshyakari",
+      "translation": "One who destroys the enemies and removes all obstacles."
+    },
+    {
+      "original": "रिपुक्षयकरी",
+      "transliteration": "Dharmarthanishthakari",
+      "translation": "One who is established in righteousness and supports both religious and material welfare."
+    },
+    {
+      "original": "धर्मार्थनिष्ठाकरी",
+      "transliteration": "Chandrarkanalabhasamanalhari",
+      "translation": "One who has the radiance of the moon, sun, and fire combined."
+    },
+    {
+      "original": "चन्द्रार्कानलभासमानलहरी",
+      "transliteration": "Trailokyarakshakari",
+      "translation": "One who protects and maintains the three worlds."
+    },
+    {
+      "original": "त्रैलोक्यरक्षाकरी",
+      "transliteration": "Sarvaishwaryasamastavanchitkari",
+      "translation": "One who grants all kinds of wealth and fulfills all desires."
+    },
+    {
+      "original": "सर्वैश्वर्यसमस्तवाञ्छितकरी",
+      "transliteration": "Kashi Puradhishwari",
+      "translation": "The Goddess who is the ruler of Kashi (Varanasi)."
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "Bhiksham",
+      "translation": "Alms (food)."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Dehi",
+      "translation": "Grant (me)."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Kripavalambanakarī",
+      "translation": "One who provides shelter through grace."
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "Matannpurneshwari",
+      "translation": "The Divine Mother who is the giver of abundance and nourishment."
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "Kailasachalkandralayakari",
+      "translation": "One who resides in the mountain Kailasa and is the abode of Shiva."
+    },
+    {
+      "original": "कैलासाचलकन्दरालयकरी",
+      "transliteration": "Gauri",
+      "translation": "Goddess Parvati, the consort of Lord Shiva."
+    },
+    {
+      "original": "गौरी",
+      "transliteration": "Uma",
+      "translation": "Another name of Goddess Parvati."
+    },
+    {
+      "original": "उमा",
+      "transliteration": "Shankari",
+      "translation": "The consort of Lord Shiva."
+    },
+    {
+      "original": "शङ्करी",
+      "transliteration": "Kaumari",
+      "translation": "One who is the daughter of the mountain (a form of Parvati)."
+    },
+    {
+      "original": "कौमारी",
+      "transliteration": "Nigamarthagocharkari",
+      "translation": "One who is the embodiment of the essence of sacred scriptures and guides souls to salvation."
+    },
+    {
+      "original": "निगमार्थगोचरकरी",
+      "transliteration": "Omkarabeejakshari",
+      "translation": "One who is the embodiment of the sacred sound \"Om\" and its seed mantra."
+    },
+    {
+      "original": "ओङ्कारबीजाक्षरी",
+      "transliteration": "Mokshadwarkapatapatanakari",
+      "translation": "One who opens the door to liberation and brings salvation."
+    },
+    {
+      "original": "मोक्षद्वारकपाटपाटनकरी",
+      "transliteration": "Kashi Puradhishwari",
+      "translation": "The Goddess who is the ruler of Kashi (Varanasi)."
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "Bhiksham",
+      "translation": "Alms (food)."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Dehi",
+      "translation": "Grant (me)."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Kripavalambanakarī",
+      "translation": "One who provides shelter through grace."
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "Matannpurneshwari",
+      "translation": "The Divine Mother who is the giver of abundance and nourishment."
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "Dushyadrishyavibhutivahanakari",
+      "translation": "One who rides the vehicle of both the visible and invisible divine powers."
+    },
+    {
+      "original": "दृश्यादृश्यविभूतिवाहनकरी",
+      "transliteration": "Brahmandabandodari",
+      "translation": "The one who holds the entire universe in her womb."
+    },
+    {
+      "original": "ब्रह्माण्डभाण्डोदरी",
+      "transliteration": "Leelanatakasutrabhedanakarī",
+      "translation": "One who divides the play and drama of the universe and cuts the knots of illusion."
+    },
+    {
+      "original": "लीलानाटकसूत्रभेदनकरी",
+      "transliteration": "Vijnanadeepankuri",
+      "translation": "The one who is the light of knowledge and wisdom."
+    },
+    {
+      "original": "विज्ञानदीपाङ्कुरी",
+      "transliteration": "ShriVishweshmanahprasadanakari",
+      "translation": "One who brings happiness and pleasure to the minds of the devotees."
+    },
+    {
+      "original": "श्रीविश्वेशमनःप्रसादनकरी",
+      "transliteration": "Kashi Puradhishwari",
+      "translation": "The Goddess who is the ruler of Kashi (Varanasi)."
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "Bhiksham",
+      "translation": "Alms (food)."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Dehi",
+      "translation": "Grant (me)."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Kripavalambanakarī",
+      "translation": "One who provides shelter through grace."
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "Matannpurneshwari",
+      "translation": "The Divine Mother who is the giver of abundance and nourishment."
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "Urvisarvjaneshwari",
+      "translation": "The Goddess who is the ruler of the entire universe and all beings."
+    },
+    {
+      "original": "उर्वीसर्वजनेश्वरी",
+      "transliteration": "Bhagwati",
+      "translation": "The Divine Goddess."
+    },
+    {
+      "original": "भगवती",
+      "transliteration": "Matannpurneshwari",
+      "translation": "The Divine Mother who is the giver of abundance and nourishment."
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "Venineelasamanakuntalahari",
+      "translation": "One whose hair is like a garland of blue lotuses and radiates eternal light."
+    },
+    {
+      "original": "वेणीनीलसमानकुन्तलहरी",
+      "transliteration": "Nityanndaneshwari",
+      "translation": "The Goddess who bestows eternal food and nourishment."
+    },
+    {
+      "original": "नित्यान्नदानेश्वरी",
+      "transliteration": "Sarvanandkari",
+      "translation": "The one who brings all joy and happiness to the world."
+    },
+    {
+      "original": "सर्वानन्दकरी",
+      "transliteration": "Sada Shubhkari",
+      "translation": "The one who is always auspicious and brings welfare."
+    },
+    {
+      "original": "सदा शुभकरी",
+      "transliteration": "Kashi Puradhishwari",
+      "translation": "The Goddess who is the ruler of Kashi (Varanasi)."
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "Bhiksham",
+      "translation": "Alms (food)."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Dehi",
+      "translation": "Grant (me)."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Kripavalambanakarī",
+      "translation": "One who provides shelter through grace."
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "Matannpurneshwari",
+      "translation": "The Divine Mother who is the giver of abundance and nourishment."
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "Adikshantasamastavarnanakari",
+      "translation": "The one who narrates the essence of all beginning and the end of the universe."
+    },
+    {
+      "original": "आदिक्षान्तसमस्तवर्णनकरी",
+      "transliteration": "Shambhostribhavakari",
+      "translation": "The one who embodies the three divine qualities of creation, preservation, and destruction."
+    },
+    {
+      "original": "शम्भोस्त्रिभावाकरी",
+      "transliteration": "Kashmiratrijaleshwari",
+      "translation": "The Goddess who rules over the sacred night of Kashmir."
+    },
+    {
+      "original": "काश्मीरात्रिजलेश्वरी",
+      "transliteration": "Trilahari",
+      "translation": "The Goddess with the three waves of divine power."
+    },
+    {
+      "original": "त्रिलहरी",
+      "transliteration": "Nityankura",
+      "translation": "The ever-blooming, eternal spring of divine energy."
+    },
+    {
+      "original": "नित्याङ्कुरा शर्वरी",
+      "transliteration": "Sharvari",
+      "translation": "The Goddess who is the night, bringing peace and calm."
+    },
+    {
+      "original": "कामाकाङ्क्षकरी",
+      "transliteration": "Kamakankshakari",
+      "translation": "The one who fulfills all desires and wishes."
+    },
+    {
+      "original": "जनोदयकरी",
+      "transliteration": "Janodayakari",
+      "translation": "The one who uplifts and awakens all beings."
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "Kashi Puradhishwari",
+      "translation": "The Goddess who is the ruler of Kashi (Varanasi)."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Bhiksham",
+      "translation": "Alms (food)."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Dehi",
+      "translation": "Grant (me)."
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "Kripavalambanakarī",
+      "translation": "One who provides shelter through grace."
+    },
+    {
+      "original": "देवी",
+      "transliteration": "Matannpurneshwari",
+      "translation": "The Divine Mother who is the giver of abundance and nourishment."
+    },
+    {
+      "original": "सर्वविचित्ररत्नरचिता",
+      "transliteration": "Devi",
+      "translation": "The Goddess, the divine mother."
+    },
+    {
+      "original": "दाक्षायणी",
+      "transliteration": "Sarvavichitratnrachita",
+      "translation": "The one who is the creator of all wondrous and beautiful jewels."
+    },
+    {
+      "original": "सुन्दरी",
+      "transliteration": "Dakshayani",
+      "translation": "The one who is the daughter of Daksha."
+    },
+    {
+      "original": "वामं",
+      "transliteration": "Sundari",
+      "translation": "The beautiful one."
+    },
+    {
+      "original": "स्वादुपयोधरप्रियकरी",
+      "transliteration": "Vamam",
+      "translation": "The left side, the graceful and auspicious side."
+    },
+    {
+      "original": "सौभाग्यमाहेश्वरी",
+      "transliteration": "Swadupayodharapriyakarī",
+      "translation": "The one who loves the sweet nectar-like body."
+    },
+    {
+      "original": "भक्ताभीष्टकरी",
+      "transliteration": "Saubhagyamaaheshwari",
+      "translation": "The Goddess who brings prosperity and auspiciousness."
+    },
+    {
+      "original": "सदा शुभकरी",
+      "transliteration": "Bhaktabhishtakari",
+      "translation": "The one who grants the wishes and desires of her devotees."
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "Sadasubhakari",
+      "translation": "The one who always brings auspiciousness and good fortune."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Kashi Puradhishwari",
+      "translation": "The Goddess who is the ruler of Kashi (Varanasi)."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Bhiksham",
+      "translation": "Alms (food)."
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "Dehi",
+      "translation": "Grant (me)."
+    },
+    {
+      "original": "चन्द्रार्कानलकोटिकोटिसदृशा",
+      "transliteration": "Kripavalambanakarī",
+      "translation": "One who provides shelter through grace."
+    },
+    {
+      "original": "चन्द्रांशुबिम्बाधरी",
+      "transliteration": "Matannpurneshwari",
+      "translation": "The Divine Mother who is the giver of abundance and nourishment."
+    },
+    {
+      "original": "चन्द्रार्काग्निसमानकुन्तलधरी",
+      "transliteration": "Chandrarkanalkotikotikodisha",
+      "translation": "Like the countless suns and moons, radiant with fiery light."
+    },
+    {
+      "original": "चन्द्रार्कवर्णेश्वरी",
+      "transliteration": "Chandrambimbadhari",
+      "translation": "The one who holds the moon's reflection in her body."
+    },
+    {
+      "original": "मालापुस्तकपाशासाङ्कुशधरी",
+      "transliteration": "Chandrakagni samanakuntaldhari",
+      "translation": "The one who has hair like the fiery light of the sun and moon."
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "Chandrakarneshwari",
+      "translation": "The Goddess with a complexion like the moon and sun's radiance."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Malapustakapashasankushdhari",
+      "translation": "The one who carries the garland, book, rope, and hook in her hands."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Kashipuradhishwari",
+      "translation": "The Goddess who is the ruler of Kashi (Varanasi)."
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "Bhiksham",
+      "translation": "Alms (food)."
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "Dehi",
+      "translation": "Grant (me)."
+    },
+    {
+      "original": "चन्द्रार्कानलकोटिकोटिसदृशा",
+      "transliteration": "Kripavalambanakarī",
+      "translation": "One who provides shelter through grace."
+    },
+    {
+      "original": "चन्द्रांशुबिम्बाधरी",
+      "transliteration": "Matannpurneshwari",
+      "translation": "The Divine Mother who is the giver of abundance and nourishment."
+    },
+    {
+      "original": "चन्द्रार्काग्निसमानकुन्तलधरी",
+      "transliteration": "Kshatratranakari",
+      "translation": "The one who protects warriors."
+    },
+    {
+      "original": "चन्द्रार्कवर्णेश्वरी",
+      "transliteration": "Mahabhayakari",
+      "translation": "The one who removes fear."
+    },
+    {
+      "original": "मालापुस्तकपाशासाङ्कुशधरी",
+      "transliteration": "Mata",
+      "translation": "The Mother."
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "Kripasagari",
+      "translation": "The one who is an ocean of mercy."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Sakshanmokshakari",
+      "translation": "The one who gives liberation directly."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Sada Shivakari",
+      "translation": "The always auspicious, who grants Shiva's blessings."
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "Vishweshwarashridhari",
+      "translation": "The one who holds the universe and the wealth of the world."
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "Dakshakrindakari",
+      "translation": "The one who stops the cries of the deserving."
+    },
+    {
+      "original": "क्षत्रत्राणकरी",
+      "transliteration": "Niramaya Kari",
+      "translation": "The one who is free from sickness."
+    },
+    {
+      "original": "महाऽभयकरी",
+      "transliteration": "Kashipuradhishwari",
+      "translation": "The Goddess who is the ruler of Kashi (Varanasi)."
+    },
+    {
+      "original": "माता",
+      "transliteration": "Bhiksham",
+      "translation": "Alms (food)."
+    },
+    {
+      "original": "कृपासागरी",
+      "transliteration": "Dehi",
+      "translation": "Grant (me)."
+    },
+    {
+      "original": "साक्षान्मोक्षकरी",
+      "transliteration": "Kripavalambanakarī",
+      "translation": "One who provides shelter through grace."
+    },
+    {
+      "original": "सदा शिवकरी",
+      "transliteration": "Matannpurneshwari",
+      "translation": "The Divine Mother who is the giver of abundance and nourishment."
+    },
+    {
+      "original": "विश्वेश्वरश्रीधरी",
+      "transliteration": "Annapurne",
+      "translation": "The one who is always full (provider of nourishment)."
+    },
+    {
+      "original": "दक्षाक्रन्दकरी",
+      "transliteration": "Sadapurne",
+      "translation": "The one who is always complete."
+    },
+    {
+      "original": "निरामयकरी",
+      "transliteration": "Shankarapranavallabhe",
+      "translation": "The beloved of Shiva's life-force."
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "Jñānavairagyasiddhartham",
+      "translation": "The one who is the goal of knowledge and renunciation."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Bhiksham",
+      "translation": "Alms (food)."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Dehi",
+      "translation": "Grant (me)."
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "Cha",
+      "translation": "And."
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "Parvati",
+      "translation": "Goddess Parvati."
+    },
+    {
+      "original": "अन्नपूर्णे",
+      "transliteration": "Mata",
+      "translation": "The Mother."
+    },
+    {
+      "original": "सदापूर्णे",
+      "transliteration": "Cha",
+      "translation": "And."
+    },
+    {
+      "original": "शङ्करप्राणवल्लभे",
+      "transliteration": "Parvati",
+      "translation": "Goddess Parvati."
+    },
+    {
+      "original": "ज्ञानवैराग्यसिद्ध्यर्थं",
+      "transliteration": "Devi",
+      "translation": "The Goddess."
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "Pita",
+      "translation": "The Father."
+    },
+    {
+      "original": "देहि",
+      "transliteration": "Devo",
+      "translation": "The Divine One."
+    },
+    {
+      "original": "च",
+      "transliteration": "Maheswarah",
+      "translation": "The Lord of the Universe, Shiva."
+    },
+    {
+      "original": "पार्वति",
+      "transliteration": "Bandhavas",
+      "translation": "Relatives, kinsfolk."
+    },
+    {
+      "original": "माता",
+      "transliteration": "Shivabhaktasch",
+      "translation": "Devotees of Lord Shiva."
+    },
+    {
+      "original": "च",
+      "transliteration": "Swadesho",
+      "translation": "The homeland."
+    },
+    {
+      "original": "पार्वती",
+      "transliteration": "Bhuvanatrayam",
+      "translation": "The three worlds."
+    },
+    {
+      "original": "देवी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पिता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देवो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "महेश्वरः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बान्धवाः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शिवभक्ताश्च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वदेशो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भुवनत्रयम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\english\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\english\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.119Z"
+  }
+}

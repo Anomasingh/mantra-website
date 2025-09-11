@@ -1,0 +1,2094 @@
+{
+  "mantra": "hanuman_chalisa",
+  "language": "gujarati",
+  "type": "word_to_word",
+  "totalWords": 416,
+  "alignedWords": [
+    {
+      "original": "श्री-गुरु",
+      "transliteration": "શ્રીગુરુ",
+      "translation": "શ્રિ ગુરુ (Respected teacher or spiritual guide)"
+    },
+    {
+      "original": "चरण",
+      "transliteration": "ચરણ",
+      "translation": "પગ (Feet)"
+    },
+    {
+      "original": "सरोज",
+      "transliteration": "સરોજ",
+      "translation": "કમલ (Lotus)"
+    },
+    {
+      "original": "रज",
+      "transliteration": "રજ",
+      "translation": "ધૂળ (Dust)"
+    },
+    {
+      "original": "निज",
+      "transliteration": "નિજ",
+      "translation": "પોતાના (Own)"
+    },
+    {
+      "original": "मनु",
+      "transliteration": "મનુ",
+      "translation": "મન (Mind)"
+    },
+    {
+      "original": "मुकुरु",
+      "transliteration": "મુકુરુ",
+      "translation": "ઢાલ (Mirror)"
+    },
+    {
+      "original": "सुधारि",
+      "transliteration": "સુધારી",
+      "translation": "સુધારવું (To improve)"
+    },
+    {
+      "original": "बरनउँ",
+      "transliteration": "વર્ણું",
+      "translation": "વર્ણવું (To describe)"
+    },
+    {
+      "original": "रघुबर",
+      "transliteration": "રઘુબર",
+      "translation": "રઘુકુલનો માણસ (The person from the Raghu dynasty)"
+    },
+    {
+      "original": "बिमल",
+      "transliteration": "બિમલ",
+      "translation": "શુદ્ધ (Pure)"
+    },
+    {
+      "original": "जसु",
+      "transliteration": "જસુ",
+      "translation": "યશ (Glory)"
+    },
+    {
+      "original": "जो",
+      "transliteration": "જો",
+      "translation": "જે (Who)"
+    },
+    {
+      "original": "दायकु",
+      "transliteration": "દાયકુ",
+      "translation": "દાતા (Giver)"
+    },
+    {
+      "original": "फल",
+      "transliteration": "ફળ",
+      "translation": "ફળ (Fruit)"
+    },
+    {
+      "original": "चारि",
+      "transliteration": "ચાર",
+      "translation": "ચાર (Four)"
+    },
+    {
+      "original": "बुद्धिहीन",
+      "transliteration": "બુદ્ધિહીન",
+      "translation": "બુદ્ધિ વિહીન (Lacking intelligence)"
+    },
+    {
+      "original": "तनु",
+      "transliteration": "તનુ",
+      "translation": "શરીર (Body)"
+    },
+    {
+      "original": "जानिके",
+      "transliteration": "જાણીને",
+      "translation": "જાણવું (Knowing)"
+    },
+    {
+      "original": "सुमिरौं",
+      "transliteration": "સુમિરાઉં",
+      "translation": "સ્મરણ કરવું (To remember)"
+    },
+    {
+      "original": "पवन",
+      "transliteration": "પવન",
+      "translation": "પવન (Wind)"
+    },
+    {
+      "original": "कुमार",
+      "transliteration": "કુમાર",
+      "translation": "પુત્ર (Son)"
+    },
+    {
+      "original": "बल",
+      "transliteration": "બળ",
+      "translation": "શક્તિ (Strength)"
+    },
+    {
+      "original": "बुधि",
+      "transliteration": "બુદ્ધિ",
+      "translation": "બુદ્ધિ (Intelligence)"
+    },
+    {
+      "original": "विद्या",
+      "transliteration": "વિદ્યા",
+      "translation": "વિદ્યા (Knowledge)"
+    },
+    {
+      "original": "देहु",
+      "transliteration": "દેહુ",
+      "translation": "દો (Give)"
+    },
+    {
+      "original": "मोहि",
+      "transliteration": "મોહી",
+      "translation": "મને (To me)"
+    },
+    {
+      "original": "हरहु",
+      "transliteration": "હરહુ",
+      "translation": "દૂર કરવું (To remove)"
+    },
+    {
+      "original": "कलेश",
+      "transliteration": "કલેષ",
+      "translation": "દુઃખ (Suffering)"
+    },
+    {
+      "original": "विकार",
+      "transliteration": "વિકાર",
+      "translation": "વિકાર (Impairment)"
+    },
+    {
+      "original": "जय",
+      "transliteration": "જય",
+      "translation": "વિજય (Victory)"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "હનુમાન",
+      "translation": "હનુમાન (Hanuman)"
+    },
+    {
+      "original": "ज्ञान",
+      "transliteration": "જ્ઞાન",
+      "translation": "જ્ઞાન (Knowledge)"
+    },
+    {
+      "original": "गुण",
+      "transliteration": "ગુણ",
+      "translation": "ગુણ (Virtue)"
+    },
+    {
+      "original": "सागर",
+      "transliteration": "સાગર",
+      "translation": "સાગર (Ocean)"
+    },
+    {
+      "original": "जय",
+      "transliteration": "જય",
+      "translation": "વિજય (Victory)"
+    },
+    {
+      "original": "कपीस",
+      "transliteration": "કપીસ",
+      "translation": "વાનરરાજા (King of Monkeys)"
+    },
+    {
+      "original": "तिहुँ",
+      "transliteration": "તિહું",
+      "translation": "ત્રણ (Three)"
+    },
+    {
+      "original": "लोक",
+      "transliteration": "લોક",
+      "translation": "જગત (World)"
+    },
+    {
+      "original": "उजागर",
+      "transliteration": "ઉજાગર",
+      "translation": "પ્રકાશિત (Illuminate)"
+    },
+    {
+      "original": "राम",
+      "transliteration": "રામ",
+      "translation": "રામ (Lord Ram)"
+    },
+    {
+      "original": "दूत",
+      "transliteration": "દૂત",
+      "translation": "દૂત (Messenger)"
+    },
+    {
+      "original": "अतुलित",
+      "transliteration": "અતુલિત",
+      "translation": "અપ્રતિમ (Incomparable)"
+    },
+    {
+      "original": "बल",
+      "transliteration": "બળ",
+      "translation": "બળ (Strength)"
+    },
+    {
+      "original": "धामा",
+      "transliteration": "ધામા",
+      "translation": "સ્થાન (Abode)"
+    },
+    {
+      "original": "अंजनि",
+      "transliteration": "અંજની",
+      "translation": "અંજની (Mother of Hanuman)"
+    },
+    {
+      "original": "पुत्र",
+      "transliteration": "પુત્ર",
+      "translation": "પુત્ર (Son)"
+    },
+    {
+      "original": "पवनसुत",
+      "transliteration": "પવનસुत",
+      "translation": "પવનકુમાર (Son of the Wind)"
+    },
+    {
+      "original": "नामा",
+      "transliteration": "નામ",
+      "translation": "નામ (Name)"
+    },
+    {
+      "original": "महाबीर",
+      "transliteration": "મહાવીર",
+      "translation": "મહા વિર (Great warrior)"
+    },
+    {
+      "original": "बिक्रम",
+      "transliteration": "વિક્રમ",
+      "translation": "શક્તિશાળી (Powerful)"
+    },
+    {
+      "original": "बजरंगी",
+      "transliteration": "બજરંગી",
+      "translation": "બુઝરંગી (One with a thunderbolt)"
+    },
+    {
+      "original": "कुमति",
+      "transliteration": "કુમતિ",
+      "translation": "દુષ્ટ માનસિકતા (Bad mind)"
+    },
+    {
+      "original": "निवार",
+      "transliteration": "નિવાર",
+      "translation": "દૂર કરવું (To remove)"
+    },
+    {
+      "original": "सुमति",
+      "transliteration": "સુમતિ",
+      "translation": "શ્રેષ્ઠ મન (Good mind)"
+    },
+    {
+      "original": "के",
+      "transliteration": "કે",
+      "translation": "ના (Of)"
+    },
+    {
+      "original": "संगी",
+      "transliteration": "સંગી",
+      "translation": "સાથી (Companion)"
+    },
+    {
+      "original": "कंचन",
+      "transliteration": "કંચન",
+      "translation": "સોના (Golden)"
+    },
+    {
+      "original": "बरन",
+      "transliteration": "બરણ",
+      "translation": "રંગ (Color)"
+    },
+    {
+      "original": "बिराज",
+      "transliteration": "બિરાજ",
+      "translation": "આલંગન (To adorn)"
+    },
+    {
+      "original": "सुबेसा",
+      "transliteration": "સુબેસા",
+      "translation": "સુદ્રષ્ટિ (Good appearance)"
+    },
+    {
+      "original": "कानन",
+      "transliteration": "કાનન",
+      "translation": "જંગલ (Forest)"
+    },
+    {
+      "original": "कुंडल",
+      "transliteration": "કુંડલ",
+      "translation": "શ્રૃંગાર (Earring)"
+    },
+    {
+      "original": "कुँचित",
+      "transliteration": "કંચિત",
+      "translation": "વળણ (Curled)"
+    },
+    {
+      "original": "केसा",
+      "transliteration": "ਕੇસા",
+      "translation": "વાળ (Hair)"
+    },
+    {
+      "original": "हाथ",
+      "transliteration": "હાથ",
+      "translation": "હાથ (Hand)"
+    },
+    {
+      "original": "वज्र",
+      "transliteration": "બજ્ર",
+      "translation": "વજ્ર (Thunderbolt)"
+    },
+    {
+      "original": "अरु",
+      "transliteration": "અરુ",
+      "translation": "અને (And)"
+    },
+    {
+      "original": "ध्वजा",
+      "transliteration": "ધ્વજા",
+      "translation": "ધ્વજ (Flag)"
+    },
+    {
+      "original": "बिराजे",
+      "transliteration": "બિરાજે",
+      "translation": "બિરાજવું (To adorn)"
+    },
+    {
+      "original": "कांधे",
+      "transliteration": "કાંધે",
+      "translation": "મોહરું (On the shoulder)"
+    },
+    {
+      "original": "मूंज",
+      "transliteration": "મૂંજ",
+      "translation": "મુંજ (A type of grass)"
+    },
+    {
+      "original": "जनेऊ",
+      "transliteration": "જનેઉ",
+      "translation": "જનેઉ (Sacred thread)"
+    },
+    {
+      "original": "साजे",
+      "transliteration": "સાજે",
+      "translation": "સૌંદર્ય (To adorn)"
+    },
+    {
+      "original": "शंकर",
+      "transliteration": "શંકર",
+      "translation": "શંકર (Lord Shiva)"
+    },
+    {
+      "original": "सुवन",
+      "transliteration": "સુવન",
+      "translation": "પુત્ર (Son)"
+    },
+    {
+      "original": "केसरी",
+      "transliteration": "કેશરી",
+      "translation": "કેસરી (Kesari - Lion, also a name of Hanuman's father)"
+    },
+    {
+      "original": "नंदन",
+      "transliteration": "નંદન",
+      "translation": "નંદન (Son)"
+    },
+    {
+      "original": "तेज",
+      "transliteration": "તેજ",
+      "translation": "તેજસ્વી (Radiance)"
+    },
+    {
+      "original": "प्रताप",
+      "transliteration": "પ્રતિપ",
+      "translation": "પ્રતિપ (Glory)"
+    },
+    {
+      "original": "महा",
+      "transliteration": "મહા",
+      "translation": "મહાન (Great)"
+    },
+    {
+      "original": "जगवंदन",
+      "transliteration": "જગવનદાન",
+      "translation": "જગત (World)"
+    },
+    {
+      "original": "विद्यावान",
+      "transliteration": "વિદ્યાવાન",
+      "translation": "વિદ્યા ધરાવતો (Possessor of knowledge)"
+    },
+    {
+      "original": "गुनी",
+      "transliteration": "ગુણી",
+      "translation": "ગુણવત્તાવાળો (Virtuous)"
+    },
+    {
+      "original": "अति",
+      "transliteration": "અતિ",
+      "translation": "અતિ (Excessive)"
+    },
+    {
+      "original": "चातुर",
+      "transliteration": "ચાતુર",
+      "translation": "ચતુર (Clever)"
+    },
+    {
+      "original": "राम",
+      "transliteration": "રામ",
+      "translation": "રામ (Lord Ram)"
+    },
+    {
+      "original": "काज",
+      "transliteration": "કાજ",
+      "translation": "કાર્ય (Task)"
+    },
+    {
+      "original": "करिबे",
+      "transliteration": "કરિબે",
+      "translation": "કરવું (To do)"
+    },
+    {
+      "original": "को",
+      "transliteration": "કો",
+      "translation": "માટે (For)"
+    },
+    {
+      "original": "आतुर",
+      "transliteration": "આતુર",
+      "translation": "ઉતાવળ (Eager)"
+    },
+    {
+      "original": "प्रभु",
+      "transliteration": "પ્રભુ",
+      "translation": "ભગવાન (Lord)"
+    },
+    {
+      "original": "चरित्र",
+      "transliteration": "ચારિત્ર",
+      "translation": "વાર્તા (Story)"
+    },
+    {
+      "original": "सुनिबे",
+      "transliteration": "સુનીબે",
+      "translation": "સાંભળવું (To hear)"
+    },
+    {
+      "original": "को",
+      "transliteration": "કો",
+      "translation": "માટે (For)"
+    },
+    {
+      "original": "रसिया",
+      "transliteration": "રસિયા",
+      "translation": "મઝા (Delight)"
+    },
+    {
+      "original": "राम",
+      "transliteration": "રામ",
+      "translation": "રામ (Lord Ram)"
+    },
+    {
+      "original": "लखन",
+      "transliteration": "લક્ષ્મણ",
+      "translation": "લક્ષ્મણ (Laxman)"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "સીતા",
+      "translation": "સીતા (Sita)"
+    },
+    {
+      "original": "मनबसिया",
+      "transliteration": "મનબસિયા",
+      "translation": "મનથી પ્રેમ (Heartfelt love)"
+    },
+    {
+      "original": "सूक्ष्म",
+      "transliteration": "સૂક્ષ્મ",
+      "translation": "નાના (Small)"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "રૂપ",
+      "translation": "સ્વરૂપ (Form)"
+    },
+    {
+      "original": "धरी",
+      "transliteration": "ધરી",
+      "translation": "ધારણ કરવું (To assume)"
+    },
+    {
+      "original": "सियहि",
+      "transliteration": "સિયહી",
+      "translation": "સીતાને (To Sita)"
+    },
+    {
+      "original": "दिखावा",
+      "transliteration": "દર્શાવા",
+      "translation": "બતાવવું (To show)"
+    },
+    {
+      "original": "विकट",
+      "transliteration": "વિકટ",
+      "translation": "દયાળુ (Fierce)"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "રૂપ",
+      "translation": "સ્વરૂપ (Form)"
+    },
+    {
+      "original": "धरी",
+      "transliteration": "ધરી",
+      "translation": "ધારણ કરવું (To assume)"
+    },
+    {
+      "original": "लंक",
+      "transliteration": "લંક",
+      "translation": "લંકા (Lanka)"
+    },
+    {
+      "original": "जरावा",
+      "transliteration": "ઝરાવા",
+      "translation": "જળાવવું (To burn)"
+    },
+    {
+      "original": "भीम",
+      "transliteration": "ભીમ",
+      "translation": "હીરોગોણ (Fierce)"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "રૂપ",
+      "translation": "સ્વરૂપ (Form)"
+    },
+    {
+      "original": "धरी",
+      "transliteration": "ધરી",
+      "translation": "ધારણ કરવું (To assume)"
+    },
+    {
+      "original": "असुर",
+      "transliteration": "અસુર",
+      "translation": "દૈત્ય (Demon)"
+    },
+    {
+      "original": "सँहारे",
+      "transliteration": "સંહારે",
+      "translation": "હરાવવું (To destroy)"
+    },
+    {
+      "original": "रामचंद्र",
+      "transliteration": "રામચન્દ્ર",
+      "translation": "રામચંદ્ર (Lord Ram)"
+    },
+    {
+      "original": "के",
+      "transliteration": "કે",
+      "translation": "ના (Of)"
+    },
+    {
+      "original": "काज",
+      "transliteration": "કાજ",
+      "translation": "કાર્ય (Task)"
+    },
+    {
+      "original": "सवाँरे",
+      "transliteration": "સવાંરે",
+      "translation": "પાર પાડવો (To complete)"
+    },
+    {
+      "original": "लाय",
+      "transliteration": "લાય",
+      "translation": "લાવવું (To bring)"
+    },
+    {
+      "original": "सजीवन",
+      "transliteration": "સજીવન",
+      "translation": "જીવત (Living)"
+    },
+    {
+      "original": "लखन",
+      "transliteration": "લક્ષ્મણ",
+      "translation": "લક્ષ્મણ (Laxman)"
+    },
+    {
+      "original": "जियाए",
+      "transliteration": "જીયાએ",
+      "translation": "જીવાવવું (To revive)"
+    },
+    {
+      "original": "श्री",
+      "transliteration": "શ્રી",
+      "translation": "શ્રી (Holy)"
+    },
+    {
+      "original": "रघुबीर",
+      "transliteration": "રઘુબીર",
+      "translation": "રઘુબીર (Lord Ram)"
+    },
+    {
+      "original": "हरषि",
+      "transliteration": "હરષિ",
+      "translation": "ખુશ (Happy)"
+    },
+    {
+      "original": "उर",
+      "transliteration": "ઉર",
+      "translation": "હૃદય (Heart)"
+    },
+    {
+      "original": "लाए",
+      "transliteration": "લાય",
+      "translation": "લાવવું (To bring)"
+    },
+    {
+      "original": "रघुपति",
+      "transliteration": "રઘુપતિ",
+      "translation": "રઘુપતિ (Lord Ram)"
+    },
+    {
+      "original": "कीन्ही",
+      "transliteration": "કીંહી",
+      "translation": "કર્યું (Did)"
+    },
+    {
+      "original": "बहुत",
+      "transliteration": "બહુત",
+      "translation": "ઘણું (Much)"
+    },
+    {
+      "original": "बड़ाई",
+      "transliteration": "બડાઈ",
+      "translation": "વખાણ (Praise)"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "તમે",
+      "translation": "તમે (You)"
+    },
+    {
+      "original": "मम",
+      "transliteration": "મમ",
+      "translation": "મારો (My)"
+    },
+    {
+      "original": "प्रिय",
+      "transliteration": "પ્રિય",
+      "translation": "પ્રિય (Beloved)"
+    },
+    {
+      "original": "भरत-हि",
+      "transliteration": "ભદત-હિ",
+      "translation": "ભદત (Bharat)"
+    },
+    {
+      "original": "सम",
+      "transliteration": "સમ",
+      "translation": "સમ (Equal)"
+    },
+    {
+      "original": "भाई",
+      "transliteration": "ભાઈ",
+      "translation": "ભાઈ (Brother)"
+    },
+    {
+      "original": "सहस",
+      "transliteration": "સહસ",
+      "translation": "હજારો (Thousands)"
+    },
+    {
+      "original": "बदन",
+      "transliteration": "વડન",
+      "translation": "મુખ (Face)"
+    },
+    {
+      "original": "तुम्हरो",
+      "transliteration": "તમારો",
+      "translation": "તમારો (Your)"
+    },
+    {
+      "original": "जस",
+      "transliteration": "જસ",
+      "translation": "જશ (Fame)"
+    },
+    {
+      "original": "गावै",
+      "transliteration": "ગાવે",
+      "translation": "ગાવું (To sing)"
+    },
+    {
+      "original": "अस",
+      "transliteration": "અસ",
+      "translation": "આવી (Thus)"
+    },
+    {
+      "original": "कहि",
+      "transliteration": "કહી",
+      "translation": "કહું (Saying)"
+    },
+    {
+      "original": "श्रीपति",
+      "transliteration": "શ્રીપતિ",
+      "translation": "શ્રીપતિ (Lord of Lakshmi)"
+    },
+    {
+      "original": "कंठ",
+      "transliteration": "કંઠ",
+      "translation": "ગળું (Neck)"
+    },
+    {
+      "original": "लगावै",
+      "transliteration": "લાગવે",
+      "translation": "લાગવું (To place)"
+    },
+    {
+      "original": "सनकादिक",
+      "transliteration": "सनकાદिक",
+      "translation": "सनकादि (Sage)"
+    },
+    {
+      "original": "ब्रह्मादि",
+      "transliteration": "બ્રહ્માદિ",
+      "translation": "બ્રહ્મા અને અન્ય દેવતા"
+    },
+    {
+      "original": "मुनीसा",
+      "transliteration": "મુનીસા",
+      "translation": "મુનિ (Sage)"
+    },
+    {
+      "original": "नारद",
+      "transliteration": "યમ",
+      "translation": "યમ (God of Death)"
+    },
+    {
+      "original": "सारद",
+      "transliteration": "કુબેર",
+      "translation": "કૂબેર (God of wealth)"
+    },
+    {
+      "original": "सहित",
+      "transliteration": "દિગપાલ",
+      "translation": "દિગપાલ (Guardians of directions)"
+    },
+    {
+      "original": "अहीसा",
+      "transliteration": "જ્યાં",
+      "translation": "જ્યાં (Where)"
+    },
+    {
+      "original": "जम",
+      "transliteration": "તે",
+      "translation": "તે (Them)"
+    },
+    {
+      "original": "कुबेर",
+      "transliteration": "કવિ",
+      "translation": "કવિ (Poet)"
+    },
+    {
+      "original": "दिगपाल",
+      "transliteration": "કોવિદ",
+      "translation": "કોશલ (Scholar)"
+    },
+    {
+      "original": "जहाँ",
+      "transliteration": "કહ્યું",
+      "translation": "કહ્યું (Say)"
+    },
+    {
+      "original": "ते",
+      "transliteration": "શકે",
+      "translation": "શકે (Can)"
+    },
+    {
+      "original": "कवि",
+      "transliteration": "ક્યાં",
+      "translation": "ક્યાં (Where)"
+    },
+    {
+      "original": "कोविद",
+      "transliteration": "તે",
+      "translation": "તે (Them)"
+    },
+    {
+      "original": "कहि",
+      "transliteration": "તમે",
+      "translation": "તમે (You)"
+    },
+    {
+      "original": "सके",
+      "transliteration": "ઉપકાર",
+      "translation": "ઉપકાર (Help)"
+    },
+    {
+      "original": "कहाँ",
+      "transliteration": "સુગ્રીવહિ",
+      "translation": "સુગ્રીવ (Sugriva, the name of a monkey king)"
+    },
+    {
+      "original": "ते",
+      "transliteration": "કરી લીધું",
+      "translation": "કર્યું (Did)"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "રામ",
+      "translation": "રામ (Rama, the name of Lord Rama)"
+    },
+    {
+      "original": "उपकार",
+      "transliteration": "મળાવે",
+      "translation": "મળવું (To unite)"
+    },
+    {
+      "original": "सुग्रीवहि",
+      "transliteration": "રાજ",
+      "translation": "રાજ (King)"
+    },
+    {
+      "original": "कीन्हा",
+      "transliteration": "પદ",
+      "translation": "પદ (Position)"
+    },
+    {
+      "original": "राम",
+      "transliteration": "આપ્યું",
+      "translation": "આપવું (To give)"
+    },
+    {
+      "original": "मिलाय",
+      "transliteration": "તમારો",
+      "translation": "તમારો (Your)"
+    },
+    {
+      "original": "राज",
+      "transliteration": "મંત્ર",
+      "translation": "મંત્ર (Mantra)"
+    },
+    {
+      "original": "पद",
+      "transliteration": "વિભીષણ",
+      "translation": "વિભીષણ (Vibhishana, name of a character)"
+    },
+    {
+      "original": "दीन्हा",
+      "transliteration": "માન્યું",
+      "translation": "માનવું (To accept)"
+    },
+    {
+      "original": "तुम्हरो",
+      "transliteration": "લંकेશ્વર",
+      "translation": "લંकेશ્વર (Lord of Lanka)"
+    },
+    {
+      "original": "मंत्र",
+      "transliteration": "થયા",
+      "translation": "થયા (Became)"
+    },
+    {
+      "original": "बिभीषण",
+      "transliteration": "બધા",
+      "translation": "બધા (All)"
+    },
+    {
+      "original": "माना",
+      "transliteration": "જગ",
+      "translation": "જગ (World)"
+    },
+    {
+      "original": "लंकेश्वर",
+      "transliteration": "જાણવું",
+      "translation": "જાણવું (To know)"
+    },
+    {
+      "original": "भये",
+      "transliteration": "યુગ",
+      "translation": "યુગ (Era)"
+    },
+    {
+      "original": "सब",
+      "transliteration": "સહસ્ત્ર",
+      "translation": "સહસ્ત્ર (Thousand)"
+    },
+    {
+      "original": "जग",
+      "transliteration": "યોજન",
+      "translation": "યોજન (Unit of measurement)"
+    },
+    {
+      "original": "जाना",
+      "transliteration": "પર",
+      "translation": "પર (Upon)"
+    },
+    {
+      "original": "जुग",
+      "transliteration": "ભાનુ",
+      "translation": "ભાનુ (Sun)"
+    },
+    {
+      "original": "सहस्त्र",
+      "transliteration": "લિલ્યો",
+      "translation": "લીલ્યો (Ate)"
+    },
+    {
+      "original": "जोजन",
+      "transliteration": "તે",
+      "translation": "તે (It)"
+    },
+    {
+      "original": "पर",
+      "transliteration": "મધુર",
+      "translation": "મધુર (Sweet)"
+    },
+    {
+      "original": "भानू",
+      "transliteration": "ફળ",
+      "translation": "ફળ (Fruit)"
+    },
+    {
+      "original": "लिल्यो",
+      "transliteration": "જાણું",
+      "translation": "જાણવું (To know)"
+    },
+    {
+      "original": "ताहि",
+      "transliteration": "પ્રભુ",
+      "translation": "પ્રભુ (Lord)"
+    },
+    {
+      "original": "मधुर",
+      "transliteration": "મુદ્રિકા",
+      "translation": "મુદ્રિકા (Ring/Seal)"
+    },
+    {
+      "original": "फ़ल",
+      "transliteration": "મિલાવી",
+      "translation": "મિલાવવું (To join)"
+    },
+    {
+      "original": "जानू",
+      "transliteration": "મુખ",
+      "translation": "મુખ (Mouth)"
+    },
+    {
+      "original": "प्रभु",
+      "transliteration": "માંહિ",
+      "translation": "માંહિ (In the)"
+    },
+    {
+      "original": "मुद्रिका",
+      "transliteration": "જલધિ",
+      "translation": "જલધિ (Ocean)"
+    },
+    {
+      "original": "मेलि",
+      "transliteration": "લાંઘી",
+      "translation": "લાંઘવું (To cross)"
+    },
+    {
+      "original": "मुख",
+      "transliteration": "ગયા",
+      "translation": "ગયા (Went)"
+    },
+    {
+      "original": "माही",
+      "transliteration": "અજણજ",
+      "translation": "અજણજ (Miracle)"
+    },
+    {
+      "original": "जलधि",
+      "transliteration": "નહીં",
+      "translation": "નહીં (No)"
+    },
+    {
+      "original": "लाँघि",
+      "transliteration": "દુર્ગમ",
+      "translation": "દુર્ગમ (Difficult)"
+    },
+    {
+      "original": "गए",
+      "transliteration": "કાર્ય",
+      "translation": "કાર્ય (Work)"
+    },
+    {
+      "original": "अचरज",
+      "transliteration": "જગત",
+      "translation": "જગત (World)"
+    },
+    {
+      "original": "नाही",
+      "transliteration": "ના",
+      "translation": "ના (Of)"
+    },
+    {
+      "original": "दुर्गम",
+      "transliteration": "જેટા",
+      "translation": "જેટા (All)"
+    },
+    {
+      "original": "काज",
+      "transliteration": "સુગમ",
+      "translation": "સુગમ (Easy)"
+    },
+    {
+      "original": "जगत",
+      "transliteration": "અનુક્રહ",
+      "translation": "અનુક્રહ (Grace)"
+    },
+    {
+      "original": "के",
+      "transliteration": "તમારા",
+      "translation": "તમારે (Your)"
+    },
+    {
+      "original": "जेते",
+      "transliteration": "તેવા",
+      "translation": "તેવા (Such)"
+    },
+    {
+      "original": "सुगम",
+      "transliteration": "રામ",
+      "translation": "રામ (Lord Rama)"
+    },
+    {
+      "original": "अनुग्रह",
+      "transliteration": "દરવાજા",
+      "translation": "દરવાજા (Door)"
+    },
+    {
+      "original": "तुम्हरे",
+      "transliteration": "તમે",
+      "translation": "તમે (You)"
+    },
+    {
+      "original": "तेते",
+      "transliteration": "રાખવાળે",
+      "translation": "રાખવાળે (Keeper/Protector)"
+    },
+    {
+      "original": "राम",
+      "transliteration": "હોય",
+      "translation": "થાય (Happen)"
+    },
+    {
+      "original": "दुआरे",
+      "transliteration": "ના",
+      "translation": "ના (No)"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "આજા",
+      "translation": "આજ્ઞા (Command)"
+    },
+    {
+      "original": "रखवारे",
+      "transliteration": "વિનાની",
+      "translation": "વિના (Without)"
+    },
+    {
+      "original": "होत",
+      "transliteration": "પૈસારા",
+      "translation": "પૈસારા (Pass)"
+    },
+    {
+      "original": "ना",
+      "transliteration": "બધા",
+      "translation": "બધા (All)"
+    },
+    {
+      "original": "आज्ञा",
+      "transliteration": "સુખ",
+      "translation": "સુખ (Happiness)"
+    },
+    {
+      "original": "बिनु",
+      "transliteration": "મળે",
+      "translation": "મળે (Obtain)"
+    },
+    {
+      "original": "पैसारे",
+      "transliteration": "તમારી",
+      "translation": "તમારી (Your)"
+    },
+    {
+      "original": "सब",
+      "transliteration": "શરણાગતિ",
+      "translation": "શ્રણા (Shelter/Refuge)"
+    },
+    {
+      "original": "सुख",
+      "transliteration": "તમે",
+      "translation": "તમે (You)"
+    },
+    {
+      "original": "लहैं",
+      "transliteration": "રક્ષણકર્તા",
+      "translation": "રક્ષણકર્તા (Protector)"
+    },
+    {
+      "original": "तुम्हारी",
+      "transliteration": "કાંઈ",
+      "translation": "કોઈ (Anyone)"
+    },
+    {
+      "original": "सरना",
+      "transliteration": "કોણ",
+      "translation": "કોઇ (To)"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "ડરવું",
+      "translation": "ડરવું (Fear)"
+    },
+    {
+      "original": "रक्षक",
+      "transliteration": "તમારું",
+      "translation": "તમારું (Your)"
+    },
+    {
+      "original": "काहु",
+      "transliteration": "તેજ",
+      "translation": "તેજ (Radiance/Power)"
+    },
+    {
+      "original": "को",
+      "transliteration": "સંભાળવું",
+      "translation": "સંભાળવું (To control)"
+    },
+    {
+      "original": "डरना",
+      "transliteration": "પોતે",
+      "translation": "પોતે (By yourself)"
+    },
+    {
+      "original": "आपन",
+      "transliteration": "ત્રણેય",
+      "translation": "ત્રણેય (Three)"
+    },
+    {
+      "original": "तेज",
+      "transliteration": "લોક",
+      "translation": "લોક (Worlds)"
+    },
+    {
+      "original": "सम्हारो",
+      "transliteration": "હાક",
+      "translation": "હાક (Call)"
+    },
+    {
+      "original": "आपै",
+      "transliteration": "થી",
+      "translation": "થી (From)"
+    },
+    {
+      "original": "तीनों",
+      "transliteration": "કપું",
+      "translation": "કાપે (Tremble)"
+    },
+    {
+      "original": "लोक",
+      "transliteration": "ભૂત",
+      "translation": "ભૂત (Ghost)"
+    },
+    {
+      "original": "हाँक",
+      "transliteration": "પિશાચ",
+      "translation": "પિશાચ (Demon)"
+    },
+    {
+      "original": "तै",
+      "transliteration": "નજીક",
+      "translation": "નજીક (Near)"
+    },
+    {
+      "original": "कापै",
+      "transliteration": "નહીં",
+      "translation": "નહીં (Not)"
+    },
+    {
+      "original": "भूत",
+      "transliteration": "આવે",
+      "translation": "આવે (Approach)"
+    },
+    {
+      "original": "पिशाच",
+      "transliteration": "મહાવીર",
+      "translation": "મહાવીર (Great warrior)"
+    },
+    {
+      "original": "निकट",
+      "transliteration": "જ્યારે",
+      "translation": "જ્યારે (When)"
+    },
+    {
+      "original": "नहि",
+      "transliteration": "નામ",
+      "translation": "નામ (Name)"
+    },
+    {
+      "original": "आवै",
+      "transliteration": "સાંભળે",
+      "translation": "સાંભળે (Hear)"
+    },
+    {
+      "original": "महावीर",
+      "transliteration": "નાશ કરે",
+      "translation": "નાશ (Destruction)"
+    },
+    {
+      "original": "जब",
+      "transliteration": "રોગ",
+      "translation": "રોગ (Disease)"
+    },
+    {
+      "original": "नाम",
+      "transliteration": "હરે",
+      "translation": "હરે (Removes)"
+    },
+    {
+      "original": "सुनावै",
+      "transliteration": "બધા",
+      "translation": "બધા (All)"
+    },
+    {
+      "original": "नासै",
+      "transliteration": "દુખ",
+      "translation": "દુખ (Pain)"
+    },
+    {
+      "original": "रोग",
+      "transliteration": "જપે",
+      "translation": "જપે (Chant)"
+    },
+    {
+      "original": "हरे",
+      "transliteration": "નિત્ય",
+      "translation": "નિત્ય (Constant)"
+    },
+    {
+      "original": "सब",
+      "transliteration": "હનુમત",
+      "translation": "હનુમત (Of Hanuman)"
+    },
+    {
+      "original": "पीरा",
+      "transliteration": "வீர",
+      "translation": "યોદ્ધા (Warrior)"
+    },
+    {
+      "original": "जपत",
+      "transliteration": "સંકટ",
+      "translation": "સંકટ (Trouble)"
+    },
+    {
+      "original": "निरंतर",
+      "transliteration": "થી",
+      "translation": "થી (From)"
+    },
+    {
+      "original": "हनुमत",
+      "transliteration": "હનુમાન",
+      "translation": "હનુમાન (Of Hanuman)"
+    },
+    {
+      "original": "बीरा",
+      "transliteration": "મુક્ત કરે",
+      "translation": "મુક્ત (Free)"
+    },
+    {
+      "original": "संकट",
+      "transliteration": "મન",
+      "translation": "મન (Mind)"
+    },
+    {
+      "original": "तै",
+      "transliteration": "ક્રમ",
+      "translation": "ક્રમ (Action)"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "વચન",
+      "translation": "વચન (Speech)"
+    },
+    {
+      "original": "छुडावै",
+      "transliteration": "ધ્યાન",
+      "translation": "ધ્યાન (Meditation)"
+    },
+    {
+      "original": "मन",
+      "transliteration": "જે",
+      "translation": "જે (Who)"
+    },
+    {
+      "original": "क्रम",
+      "transliteration": "લાવે",
+      "translation": "લાવે (Brings)"
+    },
+    {
+      "original": "वचन",
+      "transliteration": "બધા",
+      "translation": "બધા (All)"
+    },
+    {
+      "original": "ध्यान",
+      "transliteration": "પર",
+      "translation": "પર (On)"
+    },
+    {
+      "original": "जो",
+      "transliteration": "રામ",
+      "translation": "રામ (Ram)"
+    },
+    {
+      "original": "लावै",
+      "transliteration": "તપસ્વી",
+      "translation": "તપસ્વી (Ascetic)"
+    },
+    {
+      "original": "सब",
+      "transliteration": "રાજા",
+      "translation": "રાજા (King)"
+    },
+    {
+      "original": "पर",
+      "transliteration": "તેમના",
+      "translation": "તેમના (Their)"
+    },
+    {
+      "original": "राम",
+      "transliteration": "કાર્ય",
+      "translation": "કાર્ય (Work)"
+    },
+    {
+      "original": "तपस्वी",
+      "transliteration": "સકલ",
+      "translation": "સકલ (All)"
+    },
+    {
+      "original": "राजा",
+      "transliteration": "તમે",
+      "translation": "તમે (You)"
+    },
+    {
+      "original": "तिनके",
+      "transliteration": "સજાવું",
+      "translation": "સજાવું (Arrange)"
+    },
+    {
+      "original": "काज",
+      "transliteration": "અને",
+      "translation": "અને (And)"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "મનોરથ",
+      "translation": "મનોરથ (Desire)"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "જે",
+      "translation": "જે (Who)"
+    },
+    {
+      "original": "साजा",
+      "transliteration": "કોઈ",
+      "translation": "કોઈ (Anyone)"
+    },
+    {
+      "original": "और",
+      "transliteration": "લાવે",
+      "translation": "લાવે (Brings)"
+    },
+    {
+      "original": "मनोरथ",
+      "transliteration": "તે",
+      "translation": "તે (That)"
+    },
+    {
+      "original": "जो",
+      "transliteration": "અમિત",
+      "translation": "અમિત (Infinite)"
+    },
+    {
+      "original": "कोई",
+      "transliteration": "જીવન",
+      "translation": "જીવન (Life)"
+    },
+    {
+      "original": "लावै",
+      "transliteration": "ફળ",
+      "translation": "ફળ (Fruit)"
+    },
+    {
+      "original": "सोई",
+      "transliteration": "પામે",
+      "translation": "પામે (Obtains)"
+    },
+    {
+      "original": "अमित",
+      "transliteration": "ચારો",
+      "translation": "ચારો (Four)"
+    },
+    {
+      "original": "जीवन",
+      "transliteration": "યુગ",
+      "translation": "યુગ (Era)"
+    },
+    {
+      "original": "फल",
+      "transliteration": "પરતાપ",
+      "translation": "પરતાપ (Glory)"
+    },
+    {
+      "original": "पावै",
+      "transliteration": "તમારો",
+      "translation": "તમારો (Your)"
+    },
+    {
+      "original": "चारों",
+      "transliteration": "છે",
+      "translation": "છે (Is)"
+    },
+    {
+      "original": "युग",
+      "transliteration": "પરસિદ્ધ",
+      "translation": "પરસિદ્ધ (Famous)"
+    },
+    {
+      "original": "परताप",
+      "transliteration": "જગત",
+      "translation": "જગત (World)"
+    },
+    {
+      "original": "तुम्हारा",
+      "transliteration": "ઉજિયારો",
+      "translation": "ઉજિયારો (Light)"
+    },
+    {
+      "original": "है",
+      "transliteration": "સાધુ",
+      "translation": "સાધુ (Saint)"
+    },
+    {
+      "original": "परसिद्ध",
+      "transliteration": "સંત",
+      "translation": "સંત (Saint)"
+    },
+    {
+      "original": "जगत",
+      "transliteration": "ના",
+      "translation": "ના (Of)"
+    },
+    {
+      "original": "उजियारा",
+      "transliteration": "તમે",
+      "translation": "તમે (You)"
+    },
+    {
+      "original": "साधु",
+      "transliteration": "રાખવારે",
+      "translation": "રાખવારે (Protector)"
+    },
+    {
+      "original": "संत",
+      "transliteration": "અસુર",
+      "translation": "અસુર (Demon)"
+    },
+    {
+      "original": "के",
+      "transliteration": "નિકંદન",
+      "translation": "નિકંદન (Vanquisher)"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "રામ",
+      "translation": "રામ (Ram)"
+    },
+    {
+      "original": "रखवारे",
+      "transliteration": "દુલારે",
+      "translation": "દુલારે (Beloved)"
+    },
+    {
+      "original": "असुर",
+      "transliteration": "અષ્ટ",
+      "translation": "અષ્ટ (Eight)"
+    },
+    {
+      "original": "निकंदन",
+      "transliteration": "સિદ્ધિ",
+      "translation": "સિદ્ધિ (Perfection)"
+    },
+    {
+      "original": "राम",
+      "transliteration": "નવ",
+      "translation": "નવ (Nine)"
+    },
+    {
+      "original": "दुलारे",
+      "transliteration": "નિધિ",
+      "translation": "નિધિ (Treasure)"
+    },
+    {
+      "original": "अष्ट",
+      "transliteration": "ના",
+      "translation": "ના (Of)"
+    },
+    {
+      "original": "सिद्धि",
+      "transliteration": "દાતા",
+      "translation": "દાતા (Giver)"
+    },
+    {
+      "original": "नौ",
+      "transliteration": "આસ",
+      "translation": "આસ (This)"
+    },
+    {
+      "original": "निधि",
+      "transliteration": "વર્ણ",
+      "translation": "વર્ણ (Boons)"
+    },
+    {
+      "original": "के",
+      "transliteration": "દીન",
+      "translation": "દીન (Poor)"
+    },
+    {
+      "original": "दाता",
+      "transliteration": "જાણકી",
+      "translation": "જાણકી (Of Janaki, Sita)"
+    },
+    {
+      "original": "अस",
+      "transliteration": "માતા",
+      "translation": "માતા (Mother)"
+    },
+    {
+      "original": "बर",
+      "transliteration": "રામ",
+      "translation": "રામ (Ram)"
+    },
+    {
+      "original": "दीन",
+      "transliteration": "રસાયણ",
+      "translation": "રસાયણ (Elixir)"
+    },
+    {
+      "original": "जानकी",
+      "transliteration": "તમારા",
+      "translation": "તમારા (Your)"
+    },
+    {
+      "original": "माता",
+      "transliteration": "પાસા",
+      "translation": "પાસા (Possession)"
+    },
+    {
+      "original": "राम",
+      "transliteration": "સદા",
+      "translation": "સદા (Always)"
+    },
+    {
+      "original": "रसायन",
+      "transliteration": "રહો",
+      "translation": "રહો (Live)"
+    },
+    {
+      "original": "तुम्हरे",
+      "transliteration": "રઘુપતિ",
+      "translation": "રઘુપતિ (Lord of the Raghu dynasty, Ram)"
+    },
+    {
+      "original": "पासा",
+      "transliteration": "ના",
+      "translation": "ના (Of)"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "દાસા",
+      "translation": "દાસા (Servant)"
+    },
+    {
+      "original": "रहो",
+      "transliteration": "તમારા",
+      "translation": "તમારા (Your)"
+    },
+    {
+      "original": "रघुपति",
+      "transliteration": "ભજન",
+      "translation": "ભજન (Devotional song)"
+    },
+    {
+      "original": "के",
+      "transliteration": "રામ",
+      "translation": "રામ (Ram)"
+    },
+    {
+      "original": "दासा",
+      "transliteration": "કો",
+      "translation": "કો (To)"
+    },
+    {
+      "original": "तुम्हरे",
+      "transliteration": "પાવે",
+      "translation": "પાવે (Attain)"
+    },
+    {
+      "original": "भजन",
+      "transliteration": "જન્મ",
+      "translation": "જન્મ (Birth)"
+    },
+    {
+      "original": "राम",
+      "transliteration": "જન્મ",
+      "translation": "જન્મ (Birth)"
+    },
+    {
+      "original": "को",
+      "transliteration": "ના",
+      "translation": "ના (Of)"
+    },
+    {
+      "original": "पावै",
+      "transliteration": "દુખ",
+      "translation": "દુખ (Suffering)"
+    },
+    {
+      "original": "जनम",
+      "transliteration": "ભિસરે",
+      "translation": "ભિસરે (Forget)"
+    },
+    {
+      "original": "जनम",
+      "transliteration": "અંતકાળ",
+      "translation": "અંતકાળ (End of life)"
+    },
+    {
+      "original": "के",
+      "transliteration": "રઘુવરપુર",
+      "translation": "રઘુવરપુર (Raghupur, the city of Lord Ram)"
+    },
+    {
+      "original": "दुख",
+      "transliteration": "જાય",
+      "translation": "જાય (Go)"
+    },
+    {
+      "original": "बिसरावै",
+      "transliteration": "જ્યાં",
+      "translation": "જ્યાં (Where)"
+    },
+    {
+      "original": "अंतकाल",
+      "transliteration": "જન્મ",
+      "translation": "જન્મ (Birth)"
+    },
+    {
+      "original": "रघुवरपुर",
+      "transliteration": "હરિભક્ત",
+      "translation": "હરિભક્ત (Devotee of Hari, God)"
+    },
+    {
+      "original": "जाई",
+      "transliteration": "કહે",
+      "translation": "કહે (Is called)"
+    },
+    {
+      "original": "जहाँ",
+      "transliteration": "અને",
+      "translation": "અને (And)"
+    },
+    {
+      "original": "जन्म",
+      "transliteration": "દેવતા",
+      "translation": "દેવતા (Deities)"
+    },
+    {
+      "original": "हरिभक्त",
+      "transliteration": "ચિત્ત",
+      "translation": "ચિત્ત (Mind)"
+    },
+    {
+      "original": "कहाई",
+      "transliteration": "ના",
+      "translation": "ના (Not)"
+    },
+    {
+      "original": "और",
+      "transliteration": "ધરે",
+      "translation": "ધરે (Hold)"
+    },
+    {
+      "original": "देवता",
+      "transliteration": "હનુમત",
+      "translation": "હનુમત (Hanuman)"
+    },
+    {
+      "original": "चित्त",
+      "transliteration": "તે",
+      "translation": "તે (He)"
+    },
+    {
+      "original": "ना",
+      "transliteration": "સર્વ",
+      "translation": "સર્વ (All)"
+    },
+    {
+      "original": "धरई",
+      "transliteration": "સુખ",
+      "translation": "સુખ (Happiness)"
+    },
+    {
+      "original": "हनुमत",
+      "transliteration": "કરે",
+      "translation": "કરે (Does)"
+    },
+    {
+      "original": "सेई",
+      "transliteration": "સંકટ",
+      "translation": "સંકટ (Difficulties)"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "કટે",
+      "translation": "કટે (Cut)"
+    },
+    {
+      "original": "सुख",
+      "transliteration": "મિટે",
+      "translation": "મિટે (Disappear)"
+    },
+    {
+      "original": "करई",
+      "transliteration": "બધા",
+      "translation": "બધા (All)"
+    },
+    {
+      "original": "संकट",
+      "transliteration": "પીડા",
+      "translation": "પીડા (Pain)"
+    },
+    {
+      "original": "कटै",
+      "transliteration": "જે",
+      "translation": "જે (Who)"
+    },
+    {
+      "original": "मिटै",
+      "transliteration": "સ્મિરે",
+      "translation": "સ્મિરે (Remember)"
+    },
+    {
+      "original": "सब",
+      "transliteration": "હનુમત",
+      "translation": "હનુમત (Hanuman)"
+    },
+    {
+      "original": "पीरा",
+      "transliteration": "બલબીર",
+      "translation": "બલબીર (Mighty)"
+    },
+    {
+      "original": "जो",
+      "transliteration": "જય",
+      "translation": "જય (Victory)"
+    },
+    {
+      "original": "सुमिरै",
+      "transliteration": "જય",
+      "translation": "જય (Victory)"
+    },
+    {
+      "original": "बलबीरा",
+      "transliteration": "જય",
+      "translation": "જય (Victory)"
+    },
+    {
+      "original": "जय",
+      "transliteration": "હનુમાન",
+      "translation": "હનુમાન (Hanuman)"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ગુસાઈં",
+      "translation": "ગુસાઈં (Master)"
+    },
+    {
+      "original": "जय",
+      "transliteration": "કૃપા",
+      "translation": "કૃપા (Grace)"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "કરો",
+      "translation": "કરો (Do)"
+    },
+    {
+      "original": "गुसाईं",
+      "transliteration": "ગુરુ",
+      "translation": "ગુરુ (Master)"
+    },
+    {
+      "original": "कृपा",
+      "transliteration": "દેવ",
+      "translation": "દેવ (God)"
+    },
+    {
+      "original": "करहु",
+      "transliteration": "ની",
+      "translation": "ની (Of)"
+    },
+    {
+      "original": "गुरु",
+      "transliteration": "નાઈ",
+      "translation": "નાઈ (Like)"
+    },
+    {
+      "original": "देव",
+      "transliteration": "જે",
+      "translation": "જે (Who)"
+    },
+    {
+      "original": "की",
+      "transliteration": "સત",
+      "translation": "સત (True)"
+    },
+    {
+      "original": "नाई",
+      "transliteration": "વાર",
+      "translation": "વાર (Times)"
+    },
+    {
+      "original": "जो",
+      "transliteration": "પાઠ",
+      "translation": "પાઠ (Recitation)"
+    },
+    {
+      "original": "सत",
+      "transliteration": "કરે",
+      "translation": "કરે (Does)"
+    },
+    {
+      "original": "बार",
+      "transliteration": "કોઇ",
+      "translation": "કોઇ (Anyone)"
+    },
+    {
+      "original": "पाठ",
+      "transliteration": "છૂટે",
+      "translation": "છૂટે (Liberated)"
+    },
+    {
+      "original": "कर",
+      "transliteration": "બાંધી",
+      "translation": "બાંધી (Bond)"
+    },
+    {
+      "original": "कोई",
+      "transliteration": "મહા",
+      "translation": "મહા (Great)"
+    },
+    {
+      "original": "छूटहि",
+      "transliteration": "સુખ",
+      "translation": "સુખ (Happiness)"
+    },
+    {
+      "original": "बंदी",
+      "transliteration": "થાય",
+      "translation": "થાય (Will happen)"
+    },
+    {
+      "original": "महा",
+      "transliteration": "જે",
+      "translation": "જે (Who)"
+    },
+    {
+      "original": "सुख",
+      "transliteration": "આ",
+      "translation": "આ (This)"
+    },
+    {
+      "original": "होई",
+      "transliteration": "વાંચે",
+      "translation": "વાંચે (Reads)"
+    },
+    {
+      "original": "जो",
+      "transliteration": "હનુમાન",
+      "translation": "હનુમાન (Hanuman)"
+    },
+    {
+      "original": "यह",
+      "transliteration": "ચાળીસા",
+      "translation": "ચાળીસા (Chalisa)"
+    },
+    {
+      "original": "पढ़े",
+      "transliteration": "થાય",
+      "translation": "થાય (Will be)"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "સિદ્ધ",
+      "translation": "સિદ્ધ (Perfected)"
+    },
+    {
+      "original": "चालीसा",
+      "transliteration": "સાખી",
+      "translation": "સાખી (Witness)"
+    },
+    {
+      "original": "होय",
+      "transliteration": "ગૌરીસા",
+      "translation": "ગૌરીસા (Gaurīsa, a name for Goddess Parvati)"
+    },
+    {
+      "original": "सिद्ध",
+      "transliteration": "તુલસીદાસ",
+      "translation": "તુલસીદાસ (Tulsidas)"
+    },
+    {
+      "original": "साखी",
+      "transliteration": "સદા",
+      "translation": "સદા (Always)"
+    },
+    {
+      "original": "गौरीसा",
+      "transliteration": "હરિ",
+      "translation": "હરિ (Lord)"
+    },
+    {
+      "original": "तुलसीदास",
+      "transliteration": "ચેરા",
+      "translation": "ચેરા (Servant)"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "કરી",
+      "translation": "કરી (Do)"
+    },
+    {
+      "original": "हरि",
+      "transliteration": "નાથ",
+      "translation": "નાથ (Lord)"
+    },
+    {
+      "original": "चेरा",
+      "transliteration": "હૃદય",
+      "translation": "હૃદય (Heart)"
+    },
+    {
+      "original": "कीजै",
+      "transliteration": "મહા",
+      "translation": "મહા (Great)"
+    },
+    {
+      "original": "नाथ",
+      "transliteration": "ડેરા",
+      "translation": "ડેરા (Abode)"
+    },
+    {
+      "original": "हृदय",
+      "transliteration": "પવન",
+      "translation": "પવન (Wind)"
+    },
+    {
+      "original": "मह",
+      "transliteration": "તનય",
+      "translation": "તનય (Son)"
+    },
+    {
+      "original": "डेरा",
+      "transliteration": "સંકટ",
+      "translation": "સંકટ (Trouble)"
+    },
+    {
+      "original": "पवन",
+      "transliteration": "હરણ",
+      "translation": "હરણ (Remover)"
+    },
+    {
+      "original": "तनय",
+      "transliteration": "મંગલ",
+      "translation": "મંગલ (Auspicious)"
+    },
+    {
+      "original": "संकट",
+      "transliteration": "મૂર્તિ",
+      "translation": "મૂર્તિ (Form/Statue)"
+    },
+    {
+      "original": "हरन",
+      "transliteration": "રૂપ",
+      "translation": "રૂપ (Form)"
+    },
+    {
+      "original": "मंगल",
+      "transliteration": "राम",
+      "translation": "RAM (Lord Ram)"
+    },
+    {
+      "original": "मूर्ति",
+      "transliteration": "લક્ષ્મણ",
+      "translation": "લક્ષ્મણ (Lakshmana)"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "સીતા",
+      "translation": "સીતા (Sita)"
+    },
+    {
+      "original": "राम",
+      "transliteration": "સહિત",
+      "translation": "સહિત (With)"
+    },
+    {
+      "original": "लक्ष्मण",
+      "transliteration": "હૃદય",
+      "translation": "હૃદય (Heart)"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "બસહુ",
+      "translation": "બસહુ (Reside)"
+    },
+    {
+      "original": "सहित",
+      "transliteration": "સુર",
+      "translation": "સુર (Gods/Deities)"
+    },
+    {
+      "original": "हृदय",
+      "transliteration": "ભૂપ",
+      "translation": "ભૂપ (King)"
+    },
+    {
+      "original": "बसहु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुर",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भूप",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\hanuman_chalisa\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\hanuman_chalisa\\gujarati\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\hanuman_chalisa\\gujarati\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.639Z"
+  }
+}

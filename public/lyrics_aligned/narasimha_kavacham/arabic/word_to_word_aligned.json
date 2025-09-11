@@ -1,0 +1,1534 @@
+{
+  "mantra": "narasimha_kavacham",
+  "language": "arabic",
+  "type": "word_to_word",
+  "totalWords": 304,
+  "alignedWords": [
+    {
+      "original": "नृसिंहकवचं",
+      "transliteration": "نَرْسِنْهَكَوَجَمْ",
+      "translation": "درع النَّرْسِنْهَ"
+    },
+    {
+      "original": "वक्ष्ये",
+      "transliteration": "وَقْشْيَةٌ",
+      "translation": "سَأَقُولُ"
+    },
+    {
+      "original": "प्रह्लादेनोदितं",
+      "transliteration": "بْرَحْلَادِينُودِيتَمْ",
+      "translation": "الذي ذُكِرَ من قبل برَحْلَادِ"
+    },
+    {
+      "original": "पुरा",
+      "transliteration": "بُورَا",
+      "translation": "قَبْلَ"
+    },
+    {
+      "original": "सर्वरक्षाकरं",
+      "transliteration": "سَرْفَرَكْشَاكَرَمْ",
+      "translation": "الذي يحمي الجميع"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "بُوْنْيَمْ",
+      "translation": "مقدس"
+    },
+    {
+      "original": "सर्वोपद्रवनाशनम्",
+      "transliteration": "سَرْفُوبَدْرَفَنَاشَنَمْ",
+      "translation": "الذي يقضي على جميع المصائب"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "سَرْفَسَمْبَتْكَرَمْ",
+      "translation": "الذي يعطي كل البركات"
+    },
+    {
+      "original": "सम्पत्करं",
+      "transliteration": "شَيْفَ",
+      "translation": "أيضًا"
+    },
+    {
+      "original": "चैव",
+      "transliteration": "سْوَرْغَمُوكْشَبْرَدَايَكَمْ",
+      "translation": "الذي يمنح الجنة والتحرر"
+    },
+    {
+      "original": "स्वर्गमोक्षप्रदायकम्",
+      "transliteration": "ذْيَاتْوَ",
+      "translation": "بعد التأمل"
+    },
+    {
+      "original": "ध्यात्वा",
+      "transliteration": "نَرْسِنْهَا",
+      "translation": "النَّرْسِنْهَا"
+    },
+    {
+      "original": "नृसिंहं",
+      "transliteration": "دِيْوِيشَا",
+      "translation": "إله الكون"
+    },
+    {
+      "original": "देवेशं",
+      "transliteration": "هِيمَسِنْهَاسَانَسْثِتَمْ",
+      "translation": "جالس على عرش من الذهب"
+    },
+    {
+      "original": "हेमसिंहासनस्थितम्",
+      "transliteration": "فِيفْرُتَاسْيَمْ",
+      "translation": "فم مفتوح"
+    },
+    {
+      "original": "विवृतास्यं",
+      "transliteration": "تْرِينَايَنَمْ",
+      "translation": "ذو ثلاثة عيون"
+    },
+    {
+      "original": "त्रिनयनं",
+      "transliteration": "شَرَدِندُسَمَابْرَفَمْ",
+      "translation": "متألق كالقمر في فصل الخريف"
+    },
+    {
+      "original": "शरदिन्दुसमप्रभम्",
+      "transliteration": "لَكْشْمِيَآلِينْجِيتَفَامَانْغَمْ",
+      "translation": "الجهة اليسرى معانقة للإلهة لاكشمي"
+    },
+    {
+      "original": "लक्ष्म्यालिङ्गितवामाङ्गं",
+      "transliteration": "فِبْهُوتِبِهِرُبَاشْرِيتَمْ",
+      "translation": "محاط بمظاهر القوة"
+    },
+    {
+      "original": "विभूतिभिरुपाश्रितम्",
+      "transliteration": "شَتُرْبُهُجَمْ",
+      "translation": "ذو أربعة أيدٍ"
+    },
+    {
+      "original": "चतुर्भुजं",
+      "transliteration": "كُومَلَانْغَمْ",
+      "translation": "جسد ناعم"
+    },
+    {
+      "original": "कोमलाङ्गं",
+      "transliteration": "سْوَرْنَكُندَلَشُوبِتَمْ",
+      "translation": "مزخرف بأقراط ذهبية"
+    },
+    {
+      "original": "स्वर्णकुण्डलशोभितम्",
+      "transliteration": "سَرُوجَشُوبِتُورَسْكَمْ",
+      "translation": "مزخرف بزهرة اللوتس"
+    },
+    {
+      "original": "सरोजशोभितोरस्कं",
+      "transliteration": "رَتْنَكَيُورَمُدْرِتَمْ",
+      "translation": "مزخرف بخواتم من الأحجار الكريمة"
+    },
+    {
+      "original": "रत्नकेयूरमुद्रितम्",
+      "transliteration": "تَفْتَكَانْشَنَسَنْكَاشَمْ",
+      "translation": "ذو اللون الذهبي المحمر"
+    },
+    {
+      "original": "ताप्तकाञ्चनसंकाशं",
+      "transliteration": "بِيتَنِيرْمَالَفَاسَسَمْ",
+      "translation": "ذو الثوب الأصفر النظيف"
+    },
+    {
+      "original": "पीतनिर्मलवाससम्",
+      "transliteration": "إِندْرَادِسُورَمَاوِلِسْثَسْفُورَنْمَانِكْيَدِيبْتِبِهِ",
+      "translation": "اللامع بتوهج من الأحجار الكريمة"
+    },
+    {
+      "original": "इन्द्रादिसुरमौलिस्थस्फुरन्माणिक्यदीप्तिभिः",
+      "transliteration": "فِيرَاجِتَابَدَادْفَنْدْوَمْ",
+      "translation": "قدميه الزاهيتين"
+    },
+    {
+      "original": "विराजितपदद्वन्द्वं",
+      "transliteration": "شَنْخَشَكْرَادِهِتِبِهِ",
+      "translation": "بمساعدة قوقعات وأقراص"
+    },
+    {
+      "original": "शङ्खचक्रादि हेतिभिः",
+      "transliteration": "جَرُوتْمَتَابِهِ فِينايَاتْ",
+      "translation": "بالاعتراف المتواضع"
+    },
+    {
+      "original": "गरुत्मता च विनयात्",
+      "transliteration": "سْتُويَمَانَمْ",
+      "translation": "يتم مدحه"
+    },
+    {
+      "original": "स्तूयमानं",
+      "transliteration": "مُودَانْفِتَمْ",
+      "translation": "ملئ بالفرح"
+    },
+    {
+      "original": "मुदान्वितम्",
+      "transliteration": "سْوَهْرِتْكَمَلَسَنْوَاسَمْ",
+      "translation": "المقيم في قلب اللوتس"
+    },
+    {
+      "original": "स्वहृत्कमलसंवासं",
+      "transliteration": "كْرِتْوَا",
+      "translation": "بعد أن يفعل"
+    },
+    {
+      "original": "कृत्वा",
+      "transliteration": "تْوُ",
+      "translation": "ولكن"
+    },
+    {
+      "original": "तु",
+      "transliteration": "كَفَجَمْ",
+      "translation": "الدرع"
+    },
+    {
+      "original": "कवचं",
+      "transliteration": "بَتْهَتْ",
+      "translation": "يقرأ"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "نْرُسِنْهُو",
+      "translation": "نريسينغ"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "मे",
+      "transliteration": "شِيرَهُ",
+      "translation": "الرأس"
+    },
+    {
+      "original": "शिरः",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "لُوكَرَكْشَارْتْهَسَمْبَهُو",
+      "translation": "الحامي للكون"
+    },
+    {
+      "original": "लोकरक्षार्थसम्भवः",
+      "transliteration": "سَرْفَجُوْأَبِي",
+      "translation": "حتى من جميع الأنواع"
+    },
+    {
+      "original": "सर्वगोऽपि",
+      "transliteration": "سْتَمْبَهَفَاسَهُ",
+      "translation": "الحفاظ على الجسد"
+    },
+    {
+      "original": "स्तम्भवासः",
+      "transliteration": "بَاهَلَمْ",
+      "translation": "الجبهة"
+    },
+    {
+      "original": "भालं",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "मे",
+      "transliteration": "رَكْشَتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "रक्षतु",
+      "transliteration": "ذْوَنِمْ",
+      "translation": "الصوت"
+    },
+    {
+      "original": "ध्वनिम्",
+      "transliteration": "نْرُسِنْهُ",
+      "translation": "نريسينغ"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "मे",
+      "transliteration": "دْرِشَاوُ",
+      "translation": "العينين"
+    },
+    {
+      "original": "दृशौ",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "سُومَسُورِيَاغْنِلُوتْشَنَهُ",
+      "translation": "الذي يرى القمر والشمس والنار"
+    },
+    {
+      "original": "सोमसूर्याग्निलोचनः",
+      "transliteration": "سْمَرْتِمْ",
+      "translation": "الذاكرة"
+    },
+    {
+      "original": "स्मृतिं",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "मे",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "نْرُهَرِيرُ",
+      "translation": "نريهيرى"
+    },
+    {
+      "original": "नृहरिर्मुनिवर्यस्तुतिप्रियः",
+      "transliteration": "مُنِيفَرْيَسْتُوتِبْرِيَاهُ",
+      "translation": "محبوب من قبل حكماء التسبيح"
+    },
+    {
+      "original": "नासं",
+      "transliteration": "نَاسَمْ",
+      "translation": "الأنف"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "सिंहनासस्तु",
+      "transliteration": "سِهْنَنَاسَتُو",
+      "translation": "أنف الأسد"
+    },
+    {
+      "original": "मुखं",
+      "transliteration": "مُخَحْمْ",
+      "translation": "الفم"
+    },
+    {
+      "original": "लक्ष्मीमुखप्रियः",
+      "transliteration": "لَكْشْمِيمُخَابْرِيَاهُ",
+      "translation": "محبوب من فم لاكشمي"
+    },
+    {
+      "original": "सर्वविद्याधिपः",
+      "transliteration": "سَرْفَفِدْيَادِهِيَاهُ",
+      "translation": "سيد كل العلوم"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "نْرُسِنْهُ",
+      "translation": "نريسينغ"
+    },
+    {
+      "original": "रसनां",
+      "transliteration": "رَسَنَامْ",
+      "translation": "اللسان"
+    },
+    {
+      "original": "मम",
+      "transliteration": "مَمْ",
+      "translation": "لي"
+    },
+    {
+      "original": "वक्त्रं",
+      "transliteration": "وَكْتَرَمْ",
+      "translation": "الفم"
+    },
+    {
+      "original": "पात्विन्दुवदनं",
+      "transliteration": "بَاتْفِندُوَادَنَمْ",
+      "translation": "ليحفظ الفم ذو الوجه القمري"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "سَدَاءُ",
+      "translation": "دائما"
+    },
+    {
+      "original": "प्रह्लादवन्दितः",
+      "transliteration": "بْرَهلَادَفَنْدِتَهُ",
+      "translation": "المبارك من قبل براهلا د"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "نْرُسِنْهُ",
+      "translation": "نريسينغ"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "कण्ठं",
+      "transliteration": "كَنْثَمْ",
+      "translation": "الحنجرة"
+    },
+    {
+      "original": "स्कन्धौ",
+      "transliteration": "سْكَندْهَوْ",
+      "translation": "الأكتاف"
+    },
+    {
+      "original": "भूभरान्तकृत्",
+      "transliteration": "بُهُبَارَانْتَكْرِتْ",
+      "translation": "الذي يرفع عبء الأرض"
+    },
+    {
+      "original": "दिव्यास्त्रशोभितभुजो",
+      "transliteration": "دِيفْيَاستْرَشُوبِتَبُهُجُو",
+      "translation": "الذي يزينه الأسلحة الإلهية"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "نْرُسِنْهُ",
+      "translation": "نريسينغ"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "भुजौ",
+      "transliteration": "بُهُجَوْ",
+      "translation": "الذراعين"
+    },
+    {
+      "original": "करौ",
+      "transliteration": "كَرَاوْ",
+      "translation": "اليدين"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "देववरदो",
+      "transliteration": "دِيفْوَرَادُو",
+      "translation": "الذي يعطي المباركة الإلهية"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "نْرُسِنْهُ",
+      "translation": "نريسينغ"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "सर्वतः",
+      "transliteration": "سَرْفَتَحْ",
+      "translation": "من كل جهة"
+    },
+    {
+      "original": "हृदयं",
+      "transliteration": "حْرَدَايَمْ",
+      "translation": "القلب"
+    },
+    {
+      "original": "योगिसाध्यश्च",
+      "transliteration": "يُوجِسَادْهَيَشْتشَ",
+      "translation": "الذي يمكن الوصول إليه من قبل اليوغيين"
+    },
+    {
+      "original": "निवासं",
+      "transliteration": "نِوَاسَمْ",
+      "translation": "المسكن"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "हरिः",
+      "transliteration": "هَرِيهُ",
+      "translation": "هاري"
+    },
+    {
+      "original": "मध्यं",
+      "transliteration": "مَدْهِيَمْ",
+      "translation": "الوسط"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "हिरण्याक्षवक्षःकुक्षिविदारणः",
+      "transliteration": "هِيرَنْيَاكْشَافَكْشَكُكْشِفِيدَارَنَحْ",
+      "translation": "الذي يمزق صدر وهزيمة العدو"
+    },
+    {
+      "original": "नाभिं",
+      "transliteration": "نَابْهِمْ",
+      "translation": "السرة"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "नृहरिः",
+      "transliteration": "نْرُهَرِهِ",
+      "translation": "نريهاري"
+    },
+    {
+      "original": "स्वनाभि",
+      "transliteration": "سْوَنَابْهِ",
+      "translation": "الذي يستمع إلى صوته"
+    },
+    {
+      "original": "ब्रह्मसंस्तुतः",
+      "transliteration": "بْرَهْمَسَنْسْتُوتَحْ",
+      "translation": "المملوء بالثناء من البراهما"
+    },
+    {
+      "original": "ब्रह्माण्डकोटयः",
+      "transliteration": "بْرَهْمَاندَكُوتَيَحْ",
+      "translation": "الملاك الحامي من الأكوان"
+    },
+    {
+      "original": "कट्यां",
+      "transliteration": "كَتْيَامْ",
+      "translation": "الجانب"
+    },
+    {
+      "original": "यस्यासौ",
+      "transliteration": "يَسْيَاسُو",
+      "translation": "الذي يدير ذلك"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "कटिम्",
+      "transliteration": "كَتِمْ",
+      "translation": "الورك"
+    },
+    {
+      "original": "गुह्यं",
+      "transliteration": "غُهْيَمْ",
+      "translation": "السر"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "गुह्यानां",
+      "transliteration": "غُهْيَانَامْ",
+      "translation": "للأسرار"
+    },
+    {
+      "original": "मन्त्राणां",
+      "transliteration": "مَنْتْرَانَامْ",
+      "translation": "من الترانيم"
+    },
+    {
+      "original": "गुह्यरूपदृक्",
+      "transliteration": "غُهْيَرُوبَدْرِكْ",
+      "translation": "الذي يحمي شكل السر"
+    },
+    {
+      "original": "ऊरु",
+      "transliteration": "أُورُ",
+      "translation": "الفخذ"
+    },
+    {
+      "original": "मनोभवः",
+      "transliteration": "مَنُوبَهُ",
+      "translation": "الذي من أصل العقل"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "जानुनी",
+      "transliteration": "جَانُونِيْ",
+      "translation": "الركبتان"
+    },
+    {
+      "original": "नररूपधृक्",
+      "transliteration": "نَرَارُوبَذْرِكْ",
+      "translation": "الذي يحمل الشكل البشري"
+    },
+    {
+      "original": "जङ्घे",
+      "transliteration": "جَانْغِيْ",
+      "translation": "الفخذ"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "धराभारहर्ता",
+      "transliteration": "دَرَابَهَارَاهَرْتَا",
+      "translation": "الذي يحمل عبء الأرض"
+    },
+    {
+      "original": "योऽसौ",
+      "transliteration": "يُوْسَوْ",
+      "translation": "الذي"
+    },
+    {
+      "original": "नृकेसरी",
+      "transliteration": "نْرِيكِيسَرِي",
+      "translation": "ملك النمر"
+    },
+    {
+      "original": "सुरराज्यप्रदः",
+      "transliteration": "سُورَارَاجْيَبَرَدَحْ",
+      "translation": "الذي يمنح مملكة الآلهة"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "पादौ",
+      "transliteration": "بَادَوْ",
+      "translation": "القدمين"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "नृहरीश्वरः",
+      "transliteration": "نْرُهَرِيشْوَرَحْ",
+      "translation": "الرب الهاري"
+    },
+    {
+      "original": "सहस्रशीर्षा",
+      "transliteration": "سَحَسْرَشِيرْشَاء",
+      "translation": "ذو الألف رأس"
+    },
+    {
+      "original": "पुरुषः",
+      "transliteration": "بُورُوشَحْ",
+      "translation": "الإنسان"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "सर्वशस्तनुम्",
+      "transliteration": "سَرْفَشَسْتَنُومْ",
+      "translation": "الذي يحمل جميع الأسلحة"
+    },
+    {
+      "original": "महोग्रः",
+      "transliteration": "مَاهُوغْرَحْ",
+      "translation": "المتوحش الكبير"
+    },
+    {
+      "original": "पूर्वतः",
+      "transliteration": "بُورْوَتَهَ",
+      "translation": "من الجهة الشرقية"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "महावीराग्रजोऽग्नितः",
+      "transliteration": "مَاهَافِيرَاجْرُوجْنِتَحْ",
+      "translation": "المتشدد في الشجاعة والقدرة"
+    },
+    {
+      "original": "महाविष्णुर्दक्षिणे",
+      "transliteration": "مَاهَافِيشْنُوْرْدَكْشِينَ",
+      "translation": "من فيشنو العظيم في الجهة اليمنى"
+    },
+    {
+      "original": "तु",
+      "transliteration": "تُوْ",
+      "translation": "لكن"
+    },
+    {
+      "original": "महाज्वालस्तु",
+      "transliteration": "مَاهَاجْوَالَسْتُو",
+      "translation": "النار العظيمة في الجهة الجنوبية"
+    },
+    {
+      "original": "नैरृतौ",
+      "transliteration": "نَايَرْرِتَاوْ",
+      "translation": "في الجهة الشمالية الغربية"
+    },
+    {
+      "original": "पश्चिमे",
+      "transliteration": "بَسْتِيمْي",
+      "translation": "في الجهة الغربية"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "सर्वेशो",
+      "transliteration": "سَرْفَشْوْ",
+      "translation": "السيد من كل شيء"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "دِيشِ",
+      "translation": "في الاتجاه"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "सर्वतोमुखः",
+      "transliteration": "سَرْفَاتُومُوخَ",
+      "translation": "الذي يواجه جميع الاتجاهات"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "نْرُسِينْهَ",
+      "translation": "نِرْسِنْهَا"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "वायव्यां",
+      "transliteration": "وَايَافْيَامْ",
+      "translation": "في الجهة الهوائية"
+    },
+    {
+      "original": "सौम्यां",
+      "transliteration": "سَوْمْيَامْ",
+      "translation": "الهادئة"
+    },
+    {
+      "original": "भूषणविग्रहः",
+      "transliteration": "بُهُوشَنَوِغْرَهْ",
+      "translation": "ذو هيئة المجوهرات"
+    },
+    {
+      "original": "ईशान्यां",
+      "transliteration": "إِيشَانْيَامْ",
+      "translation": "في الجهة الشمالية الشرقية"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "भद्रो",
+      "transliteration": "بَذْرُو",
+      "translation": "الوديع"
+    },
+    {
+      "original": "मे",
+      "transliteration": "مَيْ",
+      "translation": "لي"
+    },
+    {
+      "original": "सर्वमङ्गलदायकः",
+      "transliteration": "سَرْفَمَنْغَلَدَايَكَهْ",
+      "translation": "الذي يجلب الخير للجميع"
+    },
+    {
+      "original": "संसारभयतः",
+      "transliteration": "سَنْسَارَبْهَيَتَحْ",
+      "translation": "الذي يزيل الخوف من الحياة"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "بَاتُو",
+      "translation": "ليحفظ"
+    },
+    {
+      "original": "मृत्योर्मृत्युः",
+      "transliteration": "مِرْتْيُورْمِرْتْيُهْ",
+      "translation": "من الموت إلى الموت"
+    },
+    {
+      "original": "नृकेसरी",
+      "transliteration": "نْرِيكِيسَرِي",
+      "translation": "ملك النمر"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "إِدَمْ",
+      "translation": "هذا"
+    },
+    {
+      "original": "नृसिंहकवचं",
+      "transliteration": "نْرُسِينْهَكَوَاتْشَمْ",
+      "translation": "درع نِرْسِنْهَا"
+    },
+    {
+      "original": "प्रह्लादमुखमण्डितम्",
+      "transliteration": "بْرَهْلَادَمُخَمَنْدِيتَمْ",
+      "translation": "المزخرف بفم برهلا"
+    },
+    {
+      "original": "भक्तिमान्",
+      "transliteration": "بَكْتِمَانْ",
+      "translation": "الذي يملك الإيمان"
+    },
+    {
+      "original": "यः",
+      "transliteration": "يَحْ",
+      "translation": "الذي"
+    },
+    {
+      "original": "पठेन्नित्यं",
+      "transliteration": "بَثِيتْ",
+      "translation": "يقرأ"
+    },
+    {
+      "original": "सर्वपापैः",
+      "transliteration": "نِتْيَمْ",
+      "translation": "بانتظام"
+    },
+    {
+      "original": "प्रमुच्यते",
+      "transliteration": "سَرْفَبَابَيْهِ",
+      "translation": "من جميع الذنوب"
+    },
+    {
+      "original": "भक्तिमान्",
+      "transliteration": "بَرَمُوشْيَتْهِ",
+      "translation": "يتحرر"
+    },
+    {
+      "original": "यः",
+      "transliteration": "بُتْرَفَانْ",
+      "translation": "الذي لديه أولاد"
+    },
+    {
+      "original": "पठेन्नित्यं",
+      "transliteration": "دَهْنَفَانْ",
+      "translation": "الذي لديه المال"
+    },
+    {
+      "original": "सर्वपापैः",
+      "transliteration": "لُوكَيْ",
+      "translation": "في هذا العالم"
+    },
+    {
+      "original": "प्रमुच्यते",
+      "transliteration": "دِيرْغَايُرُبَجَايْتِهِ",
+      "translation": "يُمنح حياة طويلة"
+    },
+    {
+      "original": "पुत्रवान्",
+      "transliteration": "يَمْ",
+      "translation": "الذي"
+    },
+    {
+      "original": "धनवान्",
+      "transliteration": "يَمْ",
+      "translation": "الذي"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "كَامَيَتْ",
+      "translation": "يرغب في"
+    },
+    {
+      "original": "दीर्घायुरुपजायते",
+      "transliteration": "كَامَنْ",
+      "translation": "الرغبة"
+    },
+    {
+      "original": "यं",
+      "transliteration": "تَمْ",
+      "translation": "ذلك"
+    },
+    {
+      "original": "यं",
+      "transliteration": "تَمْ",
+      "translation": "ذلك"
+    },
+    {
+      "original": "कामयते",
+      "transliteration": "بْرَابْنُوتِي",
+      "translation": "يحصل على"
+    },
+    {
+      "original": "कामं",
+      "transliteration": "أَسَنْشَيَمْ",
+      "translation": "بلا شك"
+    },
+    {
+      "original": "तं",
+      "transliteration": "سَرْوَتْرَ",
+      "translation": "في كل مكان"
+    },
+    {
+      "original": "तं",
+      "transliteration": "جَيَمَابْنُوتِي",
+      "translation": "يحقق النصر"
+    },
+    {
+      "original": "प्राप्नोति",
+      "transliteration": "سَرْوَتْرَ",
+      "translation": "في كل مكان"
+    },
+    {
+      "original": "असंशयम्",
+      "transliteration": "فِجَيْيِ",
+      "translation": "الفائز"
+    },
+    {
+      "original": "सर्वत्र",
+      "transliteration": "بَهْوَتْ",
+      "translation": "يكون"
+    },
+    {
+      "original": "जयमाप्नोति",
+      "transliteration": "بُهْمْيَانْتَرِيكْشَدِيفْيَانَامْ",
+      "translation": "من النجوم والأجرام السماوية"
+    },
+    {
+      "original": "सर्वत्र",
+      "transliteration": "جَرَاهَانَامْ",
+      "translation": "الكواكب"
+    },
+    {
+      "original": "विजयी",
+      "transliteration": "فِينِيفَارَنَمْ",
+      "translation": "درء المشاكل"
+    },
+    {
+      "original": "भवेत्",
+      "transliteration": "فْرِشِيكُورَاجَسَمْبْهُوتْ",
+      "translation": "من الحشرات والثعابين"
+    },
+    {
+      "original": "भूम्यन्तरीक्षदिव्यानां",
+      "transliteration": "فِيشَابَهَرَنَمْ",
+      "translation": "القضاء على السموم"
+    },
+    {
+      "original": "ग्रहाणां",
+      "transliteration": "بَرَمْ",
+      "translation": "العليا"
+    },
+    {
+      "original": "विनिवारणम्",
+      "transliteration": "بْرَهْمَرَاكْشَسَيَكْشَانَامْ",
+      "translation": "من الأرواح الشريرة"
+    },
+    {
+      "original": "वृश्चिकोरगसम्भूत",
+      "transliteration": "دُورُوتْسَارَنَاكَارَنَمْ",
+      "translation": "سبب إخراجهم"
+    },
+    {
+      "original": "विषापहरणं",
+      "transliteration": "بُهُرْجِ",
+      "translation": "على الأوراق"
+    },
+    {
+      "original": "परम्",
+      "transliteration": "وَا",
+      "translation": "أو"
+    },
+    {
+      "original": "ब्रह्मराक्षसयक्षाणां",
+      "transliteration": "تَالَابَتْرِهْ",
+      "translation": "على الأوراق النخيل"
+    },
+    {
+      "original": "दूरोत्सारणकारणम्",
+      "transliteration": "وَا",
+      "translation": "أو"
+    },
+    {
+      "original": "भूर्जे",
+      "transliteration": "كَوَشَمْ",
+      "translation": "التميمة"
+    },
+    {
+      "original": "वा",
+      "transliteration": "لِكْهِتَمْ",
+      "translation": "مكتوبة"
+    },
+    {
+      "original": "तालपत्रे",
+      "transliteration": "شُبْهَمْ",
+      "translation": "مباركة"
+    },
+    {
+      "original": "वा",
+      "transliteration": "كَرَمُولَ",
+      "translation": "في جذور اليد"
+    },
+    {
+      "original": "कवचं",
+      "transliteration": "دْهِتَمْ",
+      "translation": "يحفظها"
+    },
+    {
+      "original": "लिखितं",
+      "transliteration": "يِنْ",
+      "translation": "بها"
+    },
+    {
+      "original": "शुभम्",
+      "transliteration": "سِدْهِيَيْهُ",
+      "translation": "يحققون"
+    },
+    {
+      "original": "करमूले",
+      "transliteration": "كَرْمَسِدْهَيَهْ",
+      "translation": "النجاح في الأعمال"
+    },
+    {
+      "original": "धृतं",
+      "transliteration": "دِيفَاسُورَمَنُوشْيِشُ",
+      "translation": "بين الآلهة والبشر"
+    },
+    {
+      "original": "येन",
+      "transliteration": "سْوَمْ",
+      "translation": "لنفسه"
+    },
+    {
+      "original": "सिध्येयुः",
+      "transliteration": "سْوَمَيْفْ",
+      "translation": "بنفسه فقط"
+    },
+    {
+      "original": "कर्मसिद्धयः",
+      "transliteration": "جَيَمْ",
+      "translation": "النصر"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "لَبهِتْ",
+      "translation": "يحقق"
+    },
+    {
+      "original": "कार्याणि",
+      "transliteration": "إِكَسَنْدْهْيَمْ",
+      "translation": "صلاة واحدة"
+    },
+    {
+      "original": "देवासुरमनुष्येषु",
+      "transliteration": "تْرِيسَنْدْهْيَمْ",
+      "translation": "ثلاث صلوات"
+    },
+    {
+      "original": "स्वं",
+      "transliteration": "وَا",
+      "translation": "أو"
+    },
+    {
+      "original": "स्वमेव",
+      "transliteration": "يَهْ",
+      "translation": "الذي"
+    },
+    {
+      "original": "जयं",
+      "transliteration": "بَثِنِّيَتْوُ",
+      "translation": "يقرأ"
+    },
+    {
+      "original": "लभेत्",
+      "transliteration": "نَرَحْ",
+      "translation": "الرجل"
+    },
+    {
+      "original": "एकसन्ध्यं",
+      "transliteration": "سَرْفَمَنْجَلَمَانْجَلْيَمْ",
+      "translation": "البركة الكاملة"
+    },
+    {
+      "original": "त्रिसन्ध्यं",
+      "transliteration": "بُهْكْتِمْ",
+      "translation": "النعم"
+    },
+    {
+      "original": "वा",
+      "transliteration": "مُكْتِمْ",
+      "translation": "التحرر"
+    },
+    {
+      "original": "यः",
+      "transliteration": "جَ",
+      "translation": "و"
+    },
+    {
+      "original": "पठेन्नियतो",
+      "transliteration": "فِينْدَتْيِ",
+      "translation": "يجد"
+    },
+    {
+      "original": "नरः",
+      "transliteration": "دْوَاتْرِمْشَتِسَحَسْرَانِي",
+      "translation": "ثلاث وعشرون ألفًا"
+    },
+    {
+      "original": "सर्वमङ्गलमाङ्गल्यं",
+      "transliteration": "بَثِيتْ",
+      "translation": "يقرأ"
+    },
+    {
+      "original": "भुक्तिं",
+      "transliteration": "شُدْهَاتْمَنَامْ",
+      "translation": "الذين لديهم قلوب نقية"
+    },
+    {
+      "original": "मुक्तिं",
+      "transliteration": "نْرُّنَامْ",
+      "translation": "من الناس"
+    },
+    {
+      "original": "च",
+      "transliteration": "كَوَشَسْيَاسْيَ",
+      "translation": "من هذا التميمة"
+    },
+    {
+      "original": "विन्दति",
+      "transliteration": "مَنْتْرَسْيَا",
+      "translation": "من هذا المانترا"
+    },
+    {
+      "original": "द्वात्रिंशतिसहस्राणि",
+      "transliteration": "مَنْتْرَسِدْهِ",
+      "translation": "يظهر الكمال في المانترا"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "بْرَجَايَتْيِ",
+      "translation": "يولد"
+    },
+    {
+      "original": "शुद्धात्मनां",
+      "transliteration": "أَنِينَ",
+      "translation": "بواسطة هذا"
+    },
+    {
+      "original": "नृणाम्",
+      "transliteration": "مَنْتْرَرَاجِنَا",
+      "translation": "بواسطة ملك المانترا"
+    },
+    {
+      "original": "कवचस्यास्य",
+      "transliteration": "كْرِتْوَا",
+      "translation": "بعد أن يؤدي"
+    },
+    {
+      "original": "मन्त्रस्य",
+      "transliteration": "بَسْمَابْهِمَنْتْرَنَمْ",
+      "translation": "تعويذة رمزية"
+    },
+    {
+      "original": "मन्त्रसिद्धिः",
+      "transliteration": "تِلَكْنْ",
+      "translation": "التكتيل"
+    },
+    {
+      "original": "प्रजायते",
+      "transliteration": "فِينَيَسِدْيَسْتُ",
+      "translation": "سيضع"
+    },
+    {
+      "original": "अनेन",
+      "transliteration": "تَسْيَا",
+      "translation": "له"
+    },
+    {
+      "original": "मन्त्रराजेन",
+      "transliteration": "غَرَابَهَيَامْ",
+      "translation": "خوف الكواكب"
+    },
+    {
+      "original": "कृत्वा",
+      "transliteration": "هَرَيْتْ",
+      "translation": "يزيل"
+    },
+    {
+      "original": "भस्माभिमन्त्रणम्",
+      "transliteration": "تْرِوَارَمْ",
+      "translation": "ثلاث مرات"
+    },
+    {
+      "original": "तिलकं",
+      "transliteration": "جَفَمَانَسْتُ",
+      "translation": "عند تكرارها"
+    },
+    {
+      "original": "विन्यसेद्यस्तु",
+      "transliteration": "دَتَّنْ",
+      "translation": "الذي أعطي"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "وَارِيَابِهِمَنْتْرِيَا",
+      "translation": "مع تعويذ الماء"
+    },
+    {
+      "original": "ग्रहभयं",
+      "transliteration": "جَ",
+      "translation": "و"
+    },
+    {
+      "original": "हरेत्",
+      "transliteration": "بْرَاشَيِدْيُو",
+      "translation": "الشخص الذي سيبدأ"
+    },
+    {
+      "original": "त्रिवारं",
+      "transliteration": "نَرُو",
+      "translation": "الرجل"
+    },
+    {
+      "original": "जपमानस्तु",
+      "transliteration": "مَنْتْرَمْ",
+      "translation": "المانترا"
+    },
+    {
+      "original": "दत्तं",
+      "transliteration": "نْرُسِيهْدْهْيَانَمَاكْرِتْ",
+      "translation": "يجب أن يتأمل في نرسينها"
+    },
+    {
+      "original": "वार्यभिमन्त्र्य",
+      "transliteration": "تَسْيَا",
+      "translation": "له"
+    },
+    {
+      "original": "च",
+      "transliteration": "رُوغَاهْ",
+      "translation": "الأمراض"
+    },
+    {
+      "original": "प्राशयेद्यो",
+      "transliteration": "بْرَنَشْيَانْتِي",
+      "translation": "تختفي"
+    },
+    {
+      "original": "नरो",
+      "transliteration": "يَ",
+      "translation": "الذين"
+    },
+    {
+      "original": "मन्त्रं",
+      "transliteration": "جَ",
+      "translation": "و"
+    },
+    {
+      "original": "नृसिंहध्यानमाचरेत्",
+      "transliteration": "سْيُهْ",
+      "translation": "يعانون"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "كُكْشِسَمْبَهَوَاهْ",
+      "translation": "الذين يولدون في البطن"
+    },
+    {
+      "original": "रोगाः",
+      "transliteration": "كِمَتْرَ",
+      "translation": "ما في"
+    },
+    {
+      "original": "प्रणश्यन्ति",
+      "transliteration": "بَهُونُوكْتِنَ",
+      "translation": "بكثرة الكلام"
+    },
+    {
+      "original": "ये",
+      "transliteration": "نْرُسِيهْسَدْرُشُو",
+      "translation": "مثل نرسينها"
+    },
+    {
+      "original": "च",
+      "transliteration": "بَفَيْتْ",
+      "translation": "يكون"
+    },
+    {
+      "original": "स्युः",
+      "transliteration": "مَنَسَا",
+      "translation": "بالقلب"
+    },
+    {
+      "original": "कुक्षिसम्भवाः",
+      "transliteration": "شِنْتِتَمْ",
+      "translation": "تم التفكير فيه"
+    },
+    {
+      "original": "किमत्र",
+      "transliteration": "يَتْتُو",
+      "translation": "الذي"
+    },
+    {
+      "original": "बहुनोक्तेन",
+      "transliteration": "سَ",
+      "translation": "هو"
+    },
+    {
+      "original": "नृसिंहसदृशो",
+      "transliteration": "تَشْتْشَ",
+      "translation": "ذلك"
+    },
+    {
+      "original": "भवेत्",
+      "transliteration": "آبْنُوتِي",
+      "translation": "يحقق"
+    },
+    {
+      "original": "मनसा",
+      "transliteration": "أَسَنْشَيَمْ",
+      "translation": "بلا شك"
+    },
+    {
+      "original": "चिन्तितं",
+      "transliteration": "جَرْجَنْتَمْ",
+      "translation": "الرعد"
+    },
+    {
+      "original": "यत्तु",
+      "transliteration": "جَرْجَيَنْتَمْ",
+      "translation": "يصرخ"
+    },
+    {
+      "original": "स",
+      "transliteration": "نِجَبْهُجَبَتَلَمْ",
+      "translation": "لوحة العضد الخاصة به"
+    },
+    {
+      "original": "तच्चाप्नोत्यसंशयम्",
+      "transliteration": "سْفُوتَيَنْتَمْ",
+      "translation": "الانفجار"
+    },
+    {
+      "original": "गर्जन्तं",
+      "transliteration": "هَتْهَنْتَمْ",
+      "translation": "الإصرار"
+    },
+    {
+      "original": "गर्जयन्तं",
+      "transliteration": "رُوبْيَنْتَمْ",
+      "translation": "التزين بالفضة"
+    },
+    {
+      "original": "निजभुजपटलं",
+      "transliteration": "تَابَايَنْتَمْ",
+      "translation": "يخفف الحرارة"
+    },
+    {
+      "original": "स्फोटयन्तं",
+      "transliteration": "دِيفِي",
+      "translation": "في السماء"
+    },
+    {
+      "original": "हठन्तं",
+      "transliteration": "بُهْوِي",
+      "translation": "على الأرض"
+    },
+    {
+      "original": "रूप्यन्तं",
+      "transliteration": "دِتِيجَمْ",
+      "translation": "ابنه تيتيا"
+    },
+    {
+      "original": "तापयन्तं",
+      "transliteration": "خَشْبَيَنْتَمْ",
+      "translation": "يطير"
+    },
+    {
+      "original": "दिवि",
+      "transliteration": "خِشْبَنْتَمْ",
+      "translation": "يطرد"
+    },
+    {
+      "original": "भुवि",
+      "transliteration": "كْرَنْدَنْتَمْ",
+      "translation": "البكاء"
+    },
+    {
+      "original": "दितिजं",
+      "transliteration": "رُوشَيَنْتَمْ",
+      "translation": "يغضب"
+    },
+    {
+      "original": "क्षेपयन्तं",
+      "transliteration": "دِيشِ",
+      "translation": "في الاتجاهات"
+    },
+    {
+      "original": "क्षिपन्तम्",
+      "transliteration": "دِيشِ",
+      "translation": "في الاتجاهات"
+    },
+    {
+      "original": "क्रन्दन्तं",
+      "transliteration": "سَتَتَمْ",
+      "translation": "دائمًا"
+    },
+    {
+      "original": "रोषयन्तं",
+      "transliteration": "سَنْهَرَنْتَمْ",
+      "translation": "يجمع"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "بَرَنْتَمْ",
+      "translation": "يحمل"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "بْرَهْمَنْتَمْ",
+      "translation": "يتجول"
+    },
+    {
+      "original": "सततं",
+      "transliteration": "فِيكْشَنْتَمْ",
+      "translation": "يراقب"
+    },
+    {
+      "original": "संहरन्तं",
+      "transliteration": "غُورْنَيَنْتَمْ",
+      "translation": "يدور"
+    },
+    {
+      "original": "भरन्तं",
+      "transliteration": "شَرَنِيكَرَشَتَيْهُ",
+      "translation": "مئات من الحوافر"
+    },
+    {
+      "original": "भ्रमन्तं",
+      "transliteration": "دِيفْيَسِينْهَمْ",
+      "translation": "الأسد الإلهي"
+    },
+    {
+      "original": "वीक्षन्तं",
+      "transliteration": "نَمَامِي",
+      "translation": "أنا أقبل"
+    },
+    {
+      "original": "घूर्णयन्तं",
+      "transliteration": "إِتِي",
+      "translation": "هكذا"
+    },
+    {
+      "original": "शरनिकरशतैः",
+      "transliteration": "شْرِيبْرَهْمَانْدَبُورَانِ",
+      "translation": "في براهماكندا بورانا"
+    },
+    {
+      "original": "दिव्यसिंहं",
+      "transliteration": "بْرَحْلَادُوكْتَمْ",
+      "translation": "الذي قاله برهلات"
+    },
+    {
+      "original": "नमामि",
+      "transliteration": "شْرِينْرُسِيهَاكَوَشَمْ",
+      "translation": "درع النرشين الإلهي"
+    },
+    {
+      "original": "इति",
+      "transliteration": "سَمْبُورْنَمْ",
+      "translation": "كامل"
+    },
+    {
+      "original": "श्रीब्रह्माण्डपुराणे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रह्लादोक्तं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीनृसिंहकवचं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सम्पूर्णम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\arabic\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\arabic\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.112Z"
+  }
+}

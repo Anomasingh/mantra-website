@@ -1,0 +1,899 @@
+{
+  "mantra": "astha_laxmi_stotram",
+  "language": "arabic",
+  "type": "word_to_word",
+  "totalWords": 177,
+  "alignedWords": [
+    {
+      "original": "आदिलक्ष्मी",
+      "transliteration": "سُمَنَسَفَنْدِت",
+      "translation": "المتوجة بالأزهار"
+    },
+    {
+      "original": "सुमनस",
+      "transliteration": "سُندَرِي",
+      "translation": "الجميلة"
+    },
+    {
+      "original": "मुनिगणमण्डित",
+      "transliteration": "مَادْهَوِي",
+      "translation": "زهرة اللوتس"
+    },
+    {
+      "original": "पंकजवासिनी",
+      "transliteration": "شَنْدَرْ سَهُودَرِي",
+      "translation": "الأخت التوأم للقمر"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "هِيمَمَايِ",
+      "translation": "الذهبية"
+    },
+    {
+      "original": "धान्यलक्ष्मी",
+      "transliteration": "مُنِيجَانَمَنْدِت",
+      "translation": "المتوجة من قبل حكماء"
+    },
+    {
+      "original": "अहिकलि",
+      "transliteration": "مَوْكْشَبرَدَايِينِي",
+      "translation": "المانحة للتحرر"
+    },
+    {
+      "original": "क्षीरसमुद्भव",
+      "transliteration": "مَنْجُلَابْهَاشِنِي",
+      "translation": "المتكلمة الجميلة"
+    },
+    {
+      "original": "मंगलदायिनी",
+      "transliteration": "فِيدَنُوتِي",
+      "translation": "الموقرة من قبل الفيدا"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "بَنْكْجَاوَاسِينِي",
+      "translation": "المقيمة في الزنبق"
+    },
+    {
+      "original": "धैर्यलक्ष्मी",
+      "transliteration": "دِيفَسُوبُوجِيتِ",
+      "translation": "المعبودة من قبل الآلهة"
+    },
+    {
+      "original": "जयवरवर्णिनि",
+      "transliteration": "سَدْغُونَوَرْشِينِي",
+      "translation": "المنبعثة من الفضائل"
+    },
+    {
+      "original": "सुरगणपूजित",
+      "transliteration": "شَانْتِيُوتِ",
+      "translation": "المنبعثة من السكينة"
+    },
+    {
+      "original": "भवभयहारिणि",
+      "transliteration": "جَي جَي",
+      "translation": "النصر والفرح"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "هِيَ",
+      "translation": "يا"
+    },
+    {
+      "original": "गजलक्ष्मी",
+      "transliteration": "مَادْهُوسُودَنَ",
+      "translation": "اسم الإله كريشنا"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "كَامِينِي",
+      "translation": "المحبوبة، الجميلة"
+    },
+    {
+      "original": "रथगज",
+      "transliteration": "آدِلَكْشْمِي",
+      "translation": "آلهة الثراء الأولية"
+    },
+    {
+      "original": "हरिहर",
+      "transliteration": "رُوبِينِ",
+      "translation": "في الشكل"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "بَالَيِ",
+      "translation": "حماية"
+    },
+    {
+      "original": "सन्तानलक्ष्मी",
+      "transliteration": "مَامْ",
+      "translation": "لي"
+    },
+    {
+      "original": "अहिखग",
+      "transliteration": "أَهِيكَلِي",
+      "translation": "النافية للخطايا"
+    },
+    {
+      "original": "गुणगणवारिधि",
+      "transliteration": "كَلْمَشَنَاشِينِي",
+      "translation": "المدمرة للخطايا"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "كَامِينِي",
+      "translation": "الجميلة، المحبوبة"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "فَايِدِيكَرُوبِينِي",
+      "translation": "ذات الشكل الفيدي"
+    },
+    {
+      "original": "विजयलक्ष्मी",
+      "transliteration": "فِيدَمَايِ",
+      "translation": "التي ترتبط بالفيدا"
+    },
+    {
+      "original": "जय",
+      "transliteration": "خِيرَسَمُودْبَحَفَا",
+      "translation": "المولودة من المحيط اللبن"
+    },
+    {
+      "original": "अनुदिनमर्चित",
+      "transliteration": "مَانْجَلَرُوبِينِي",
+      "translation": "ذات الشكل الميمون"
+    },
+    {
+      "original": "कनकधरास्तुति",
+      "transliteration": "مَنْتْرَنِفَاسِينِي",
+      "translation": "المقيمة في الذكر"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "مَنْتْرَنُوتِ",
+      "translation": "التي يتم تلقي تعاليمها في الذكر"
+    },
+    {
+      "original": "विद्यालक्ष्मी",
+      "transliteration": "مَانْجَلَدَايِينِي",
+      "translation": "المانحة للبركة"
+    },
+    {
+      "original": "प्रणत",
+      "transliteration": "أَمْبُوجَاوَاسِينِي",
+      "translation": "المقيمة في زهرة اللوتس"
+    },
+    {
+      "original": "मणिमयभूषित",
+      "transliteration": "دِيفَجَنَاشْرِتِ",
+      "translation": "المعتمدة من الآلهة"
+    },
+    {
+      "original": "नवनिधिदायिनि",
+      "transliteration": "بَادَيُوتِ",
+      "translation": "عند قدميها"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "جَي جَي",
+      "translation": "النصر والفرح"
+    },
+    {
+      "original": "धनलक्ष्मी",
+      "transliteration": "هِيَ",
+      "translation": "يا"
+    },
+    {
+      "original": "धिमिधिमि",
+      "transliteration": "مَادْهُوسُودَنَ",
+      "translation": "اسم الإله كريشنا"
+    },
+    {
+      "original": "घुमघुम",
+      "transliteration": "كَامِينِي",
+      "translation": "المحبوبة، الجميلة"
+    },
+    {
+      "original": "वेदपुराणेतिहास",
+      "transliteration": "ذَانْيَلَكْشْمِي",
+      "translation": "إلهة الثراء والنماء"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "رُوبِينِ",
+      "translation": "في الشكل"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَالَيِ",
+      "translation": "حماية"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَامْ",
+      "translation": "لي"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَيَّا فَرَفَرْنِينِي",
+      "translation": "التي تُمجد النصر والقوة"
+    },
+    {
+      "original": "---",
+      "transliteration": "فَيْشْنَوِي",
+      "translation": "المنتمية إلى الإله فيشنو"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَارْغَفِي",
+      "translation": "المنتمية إلى الإله بَرْهْسبَتي"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَنْتَرْسْوَرُوبِينِي",
+      "translation": "التي هي في شكل الذكر والتوحيد"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَنْتَرْمَايِ",
+      "translation": "التي تملأ كل شيء بالذكر"
+    },
+    {
+      "original": "---",
+      "transliteration": "سُورَاجَنَبُوجِتْ",
+      "translation": "التي عبدها الآلهة"
+    },
+    {
+      "original": "---",
+      "transliteration": "شِيغْرَفَلَابْرَادَا",
+      "translation": "التي تعطي نتائج سريعة"
+    },
+    {
+      "original": "---",
+      "transliteration": "جْنَافِيكَاسِينِي",
+      "translation": "التي تؤدي إلى النضج والمعرفة"
+    },
+    {
+      "original": "---",
+      "transliteration": "شَاستَرْنُوتِ",
+      "translation": "التي تتبع الكتاب المقدس"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَهْفَبْهَيهَارِينِي",
+      "translation": "التي تزيل المخاوف وتحرر الأرواح"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَابْفِيمُوتْشَانِي",
+      "translation": "التي تخلص من الذنوب"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَادُوْجَنَاشْرِتِ",
+      "translation": "التي تعتمد على الصالحين"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَادَيُوتِ",
+      "translation": "عند قدميها"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَي جَي",
+      "translation": "النصر والفرح"
+    },
+    {
+      "original": "---",
+      "transliteration": "هِيَ",
+      "translation": "يا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَادْهُوسُودَنَ",
+      "translation": "اسم الإله كريشنا"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَامِينِي",
+      "translation": "المحبوبة، الجميلة"
+    },
+    {
+      "original": "---",
+      "transliteration": "دَهَيْرْيَالَكْشْمِي",
+      "translation": "إلهة الثبات والقوة"
+    },
+    {
+      "original": "---",
+      "transliteration": "رُوبِينِ",
+      "translation": "في الشكل"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَالَيِ",
+      "translation": "حماية"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَامْ",
+      "translation": "لي"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَي جَي",
+      "translation": "النصر والفرح"
+    },
+    {
+      "original": "---",
+      "transliteration": "دُرْجَتِينَاشِينِي",
+      "translation": "التي تزيل الصعوبات"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَامِينِي",
+      "translation": "الجميلة، المحبوبة"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَرْفَفَلَابْرَادَا",
+      "translation": "التي تمنح ثمار النجاح"
+    },
+    {
+      "original": "---",
+      "transliteration": "شَاستَرْمَاِي",
+      "translation": "التي ملأت العلم بالحكمة والشرع"
+    },
+    {
+      "original": "---",
+      "transliteration": "رَثَاجَ",
+      "translation": "في طريق النصر والمجد"
+    },
+    {
+      "original": "---",
+      "transliteration": "تُرَجَفَادَادِي",
+      "translation": "التي تطير بالجمال وتبهج العالم"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَمَافْرَتْ",
+      "translation": "التي تحيط بالخير والبركات"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَارِيجَانَمَنْدِتْ",
+      "translation": "التي تسير في رفقة الأصدقاء المخلصين"
+    },
+    {
+      "original": "---",
+      "transliteration": "لُوكَنُوتِ",
+      "translation": "التي يحبها الجميع وتؤثر فيهم"
+    },
+    {
+      "original": "---",
+      "transliteration": "هَرِيهَارْ",
+      "translation": "اسم إلهي مخصص لعبادة الناس"
+    },
+    {
+      "original": "---",
+      "transliteration": "بْرَهْمَا",
+      "translation": "الروح العليا والإبداع"
+    },
+    {
+      "original": "---",
+      "transliteration": "سُبُوجِتْ",
+      "translation": "المعبودة والمكرمة"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَيْفِتْ",
+      "translation": "التي يتم عبادتها"
+    },
+    {
+      "original": "---",
+      "transliteration": "تَابَنِيفَارِينَ",
+      "translation": "التي تزيل الآلام"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَادَيُوتِ",
+      "translation": "عند قدميها"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَي جَي",
+      "translation": "النصر والفرح"
+    },
+    {
+      "original": "---",
+      "transliteration": "هِيَ",
+      "translation": "يا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَادْهُوسُودَنَ",
+      "translation": "اسم الإله كريشنا"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَامِينِي",
+      "translation": "المحبوبة، الجميلة"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَاجَلَكْشْمِي",
+      "translation": "إلهة النصر في معركة الزمان والمكان"
+    },
+    {
+      "original": "---",
+      "transliteration": "رُوبِينِ",
+      "translation": "في الشكل"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَالَيِ",
+      "translation": "حماية"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَامْ",
+      "translation": "لي"
+    },
+    {
+      "original": "---",
+      "transliteration": "أَهِيكَجْ",
+      "translation": "راكبة الثعبان والآلات"
+    },
+    {
+      "original": "---",
+      "transliteration": "وَاهِنِي",
+      "translation": "السارقة والمغوية"
+    },
+    {
+      "original": "---",
+      "transliteration": "مُوهِينِي",
+      "translation": "الساحرة والمغوية"
+    },
+    {
+      "original": "---",
+      "transliteration": "شَكْرِينِي",
+      "translation": "التي تحمل الرفاهية والدور الكبير"
+    },
+    {
+      "original": "---",
+      "transliteration": "رَاغَفِوَرْدِينِي",
+      "translation": "التي تُكثِّف وتنمِّي الإحساس بالحب"
+    },
+    {
+      "original": "---",
+      "transliteration": "جْنَانَمَاِي",
+      "translation": "التي تفيض بالمعرفة والحكمة"
+    },
+    {
+      "original": "---",
+      "transliteration": "غُونَغَنْوَارِذِي",
+      "translation": "المحيط بكل الفضائل التي تمنح النعمة"
+    },
+    {
+      "original": "---",
+      "transliteration": "لُوكَهِيتَايِشِينِ",
+      "translation": "المحبة لجميع المخلوقات"
+    },
+    {
+      "original": "---",
+      "transliteration": "سْوَرَسَبْتَ",
+      "translation": "زينة الصوت في ملائمة العزف الفريد"
+    },
+    {
+      "original": "---",
+      "transliteration": "بُهُوشِتْ",
+      "translation": "زينة الصوت في ملائمة العزف الفريد"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَانَانُوتِ",
+      "translation": "التي يُستمع إليها في قصائد المديح"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَكَلَ",
+      "translation": "جميع الألهة"
+    },
+    {
+      "original": "---",
+      "transliteration": "سُورَاسُورَ",
+      "translation": "جميع الكائنات السماوية والأرضية"
+    },
+    {
+      "original": "---",
+      "transliteration": "دِيْفَمُونِشْوَرْ",
+      "translation": "المعبود في العديد من الأديان"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَانَافَفَنْدِتْ",
+      "translation": "التي يكرمها البشر ويعبدها"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَادَيُوتِ",
+      "translation": "حماية من الأذى"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَي جَي",
+      "translation": "النصر والتوفيق"
+    },
+    {
+      "original": "---",
+      "transliteration": "هِيَ",
+      "translation": "يا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَادْهُوسُودَنَ",
+      "translation": "إسم الإله كريشنا"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَامِينِي",
+      "translation": "المحبوبة، الجميلة"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَنتَانَلَكْشْمِي",
+      "translation": "إلهة الرزق والنماء في الأسرة"
+    },
+    {
+      "original": "---",
+      "transliteration": "تْوَمْ",
+      "translation": "أنت"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَالَيِ",
+      "translation": "حماية"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَامْ",
+      "translation": "لي"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَي",
+      "translation": "النصر"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَمَلَاسَنِي",
+      "translation": "التي تجلس على زهرة اللوتس"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَدْغَتِدَايِينِي",
+      "translation": "التي تعطي السعادة والراحة"
+    },
+    {
+      "original": "---",
+      "transliteration": "جْنَانَفِيكَاسِينِي",
+      "translation": "التي تطور وتنمي المعرفة"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَانَامَاِي",
+      "translation": "التي تحفز وتروج للفن والآداب"
+    },
+    {
+      "original": "---",
+      "transliteration": "أَنُودِينَ أَرْشِتَ",
+      "translation": "المكرمة التي تُقدس وتُعبد يوميًا"
+    },
+    {
+      "original": "---",
+      "transliteration": "كُنكُومَذُوسَر-بُهُوشِتْ",
+      "translation": "التي تزين نفسها بالكركم والعطور"
+    },
+    {
+      "original": "---",
+      "transliteration": "وَاسِتْ",
+      "translation": "التي تملأ الجو برائحة الطيب والعطور"
+    },
+    {
+      "original": "---",
+      "transliteration": "وَادْيَانُوتِ",
+      "translation": "التي تؤدى بآلات موسيقية"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَنَكْدَهَارَاستُوتِي",
+      "translation": "التي يمدحها ويشيد بها الأشخاص الموقرين"
+    },
+    {
+      "original": "---",
+      "transliteration": "فَيْبَفْ وَنْدِتْ",
+      "translation": "التي تُكرم من قبل العالم"
+    },
+    {
+      "original": "---",
+      "transliteration": "شَنْكَر دِيشِكْ",
+      "translation": "التي تُحترم وتُعَبد في العديد من الأماكن"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَانِي فَدِي",
+      "translation": "التي تحترم وتحظى بالتقدير في الأماكن المقدسة"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَي جَي",
+      "translation": "النصر والتوفيق"
+    },
+    {
+      "original": "---",
+      "transliteration": "هِيَ",
+      "translation": "يا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَادْهُوسُودَنَ",
+      "translation": "إسم الإله كريشنا"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَامِينِي",
+      "translation": "المحبوبة، الجميلة"
+    },
+    {
+      "original": "---",
+      "transliteration": "فِيجَيَا لَكْشْمِي",
+      "translation": "إلهة النصر والنجاح"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَدَى",
+      "translation": "دائما"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَالَيِ",
+      "translation": "الحماية"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَامْ",
+      "translation": "لي"
+    },
+    {
+      "original": "---",
+      "transliteration": "بْرَنَتْ",
+      "translation": "التي تُسجد وتُعبَد"
+    },
+    {
+      "original": "---",
+      "transliteration": "سُورِيشْوَرِي",
+      "translation": "إلهة سُريش التي تُعبَد"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَارَتِي",
+      "translation": "إلهة الهند والثقافة"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَارْغَفِي",
+      "translation": "إبنة برهسبتي، إلهة المعرفة"
+    },
+    {
+      "original": "---",
+      "transliteration": "شُوكَفِينَاشِينِي",
+      "translation": "التي تُزيل الحزن والمصائب"
+    },
+    {
+      "original": "---",
+      "transliteration": "رَتْنَمَاِي",
+      "translation": "التي تزينها الجواهر"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَنِيمَايَبُهُوشِتْ",
+      "translation": "التي تلبس الحليّ والمجوهرات"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَرْنَفِبْهُوشَن",
+      "translation": "التي تُزين نفسها بحُليّ الأذنين"
+    },
+    {
+      "original": "---",
+      "transliteration": "شَانْتِسَمَافْرَتْ",
+      "translation": "التي تحيط بها السكينة"
+    },
+    {
+      "original": "---",
+      "transliteration": "هَاسْيَمُخِي",
+      "translation": "ذات الوجه المبتسم"
+    },
+    {
+      "original": "---",
+      "transliteration": "نَوَفِيدِهَدَايِينِي",
+      "translation": "التي تعطي النعم الطيبة"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَلِمَلْهَارِينِ",
+      "translation": "التي تزيل الشرور"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَامِتَفَلَفْرَدْ",
+      "translation": "التي تمنح الثمار المرجوة"
+    },
+    {
+      "original": "---",
+      "transliteration": "هَسْتَيُوتِي",
+      "translation": "التي تحمل في يدها النعم"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَي جَي",
+      "translation": "النصر والتوفيق"
+    },
+    {
+      "original": "---",
+      "transliteration": "هِيَ",
+      "translation": "يا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَادْهُوسُودَنَ",
+      "translation": "إسم الإله كريشنا"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَامِينِي",
+      "translation": "المحبوبة الجميلة"
+    },
+    {
+      "original": "---",
+      "transliteration": "فِيدْيَالَكْشْمِي",
+      "translation": "إلهة المعرفة"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَدَى",
+      "translation": "دائما"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَالَيِ",
+      "translation": "الحماية"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَامْ",
+      "translation": "لي"
+    },
+    {
+      "original": "---",
+      "transliteration": "دِهِمِدْهِمِ",
+      "translation": "الصوت الذي ينجم عن الطبول"
+    },
+    {
+      "original": "---",
+      "transliteration": "دِهِمِدْهِمِ",
+      "translation": "الصوت المتكرر للطبل"
+    },
+    {
+      "original": "---",
+      "transliteration": "دِهِمِدْهِمِ",
+      "translation": "الصوت المتكرر للطبل"
+    },
+    {
+      "original": "---",
+      "transliteration": "دِهِمِدْهِمِ",
+      "translation": "الصوت المتكرر للطبل"
+    },
+    {
+      "original": "---",
+      "transliteration": "دُندُبِه",
+      "translation": "الصوت الناتج عن الطبول المكتملة"
+    },
+    {
+      "original": "---",
+      "transliteration": "نَادْ",
+      "translation": "الصوت"
+    },
+    {
+      "original": "---",
+      "transliteration": "سُبُورْنَمَايِي",
+      "translation": "مكتمل الصوت"
+    },
+    {
+      "original": "---",
+      "transliteration": "غُومْغُومْ",
+      "translation": "الصوت الناتج عن الأجراس أو الآلات"
+    },
+    {
+      "original": "---",
+      "transliteration": "غُغُومْ",
+      "translation": "الصوت الناتج عن الآلات الموسيقية"
+    },
+    {
+      "original": "---",
+      "transliteration": "شَنكَانِنَادْ",
+      "translation": "الصوت الناتج عن البوق"
+    },
+    {
+      "original": "---",
+      "transliteration": "سُوَادْيَنُوتِ",
+      "translation": "الصوت الجميل للبوق"
+    },
+    {
+      "original": "---",
+      "transliteration": "فِيدْبُورَانِتِهَاس",
+      "translation": "الكتب المقدسة والأدب القديم"
+    },
+    {
+      "original": "---",
+      "transliteration": "سُبُوجِتِ",
+      "translation": "المعظمة والمقدسة"
+    },
+    {
+      "original": "---",
+      "transliteration": "فِيدِيكَمَارْغْ",
+      "translation": "الطريق المقدس"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَرَادَرْشَايُوتِ",
+      "translation": "المرشد"
+    },
+    {
+      "original": "---",
+      "transliteration": "جَي جَي",
+      "translation": "النصر"
+    },
+    {
+      "original": "---",
+      "transliteration": "هِيَ",
+      "translation": "يا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَادْهُوسُودَنَ",
+      "translation": "إسم الإله كريشنا"
+    },
+    {
+      "original": "---",
+      "transliteration": "كَامِينِي",
+      "translation": "المحبوبة الجميلة"
+    },
+    {
+      "original": "---",
+      "transliteration": "دَهْنَالاَكْشْمِي",
+      "translation": "إلهة الثروة"
+    },
+    {
+      "original": "---",
+      "transliteration": "رُوبِيَنِ",
+      "translation": "في شكلها"
+    },
+    {
+      "original": "---",
+      "transliteration": "بَالَيِ",
+      "translation": "الحماية"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَامْ",
+      "translation": "لي"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\arabic\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\arabic\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.280Z"
+  }
+}

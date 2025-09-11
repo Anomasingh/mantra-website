@@ -1,0 +1,1534 @@
+{
+  "mantra": "narasimha_kavacham",
+  "language": "hindi",
+  "type": "word_to_word",
+  "totalWords": 304,
+  "alignedWords": [
+    {
+      "original": "नृसिंहकवचं",
+      "transliteration": "नृसिंहकवचं",
+      "translation": "नृसिंह का कवच"
+    },
+    {
+      "original": "वक्ष्ये",
+      "transliteration": "वक्ष्ये",
+      "translation": "मैं बताऊँगा"
+    },
+    {
+      "original": "प्रह्लादेनोदितं",
+      "transliteration": "प्रह्लादेनोदितं",
+      "translation": "प्रह्लाद द्वारा उद्घाटित"
+    },
+    {
+      "original": "पुरा",
+      "transliteration": "पुरा",
+      "translation": "पहले"
+    },
+    {
+      "original": "सर्वरक्षाकरं",
+      "transliteration": "सर्वरक्षाकरं",
+      "translation": "सभी रक्षकों का कारण"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "पुण्यं",
+      "translation": "पुण्य"
+    },
+    {
+      "original": "सर्वोपद्रवनाशनम्",
+      "transliteration": "सर्वोपद्रवनाशनम्",
+      "translation": "सभी उपद्रवों का नाश करने वाला"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "सर्व",
+      "translation": "सभी"
+    },
+    {
+      "original": "सम्पत्करं",
+      "transliteration": "सम्पत्करं",
+      "translation": "समृद्धि देने वाला"
+    },
+    {
+      "original": "चैव",
+      "transliteration": "चैव",
+      "translation": "और"
+    },
+    {
+      "original": "स्वर्गमोक्षप्रदायकम्",
+      "transliteration": "स्वर्गमोक्षप्रदायकम्",
+      "translation": "स्वर्ग और मोक्ष देने वाला"
+    },
+    {
+      "original": "ध्यात्वा",
+      "transliteration": "ध्यात्वा",
+      "translation": "ध्यान करके"
+    },
+    {
+      "original": "नृसिंहं",
+      "transliteration": "नृसिंहं",
+      "translation": "नृसिंह को"
+    },
+    {
+      "original": "देवेशं",
+      "transliteration": "देवेशं",
+      "translation": "देवों के ईश्वर को"
+    },
+    {
+      "original": "हेमसिंहासनस्थितम्",
+      "transliteration": "हेमसिंहासनस्थितम्",
+      "translation": "स्वर्ण सिंहासन पर स्थित"
+    },
+    {
+      "original": "विवृतास्यं",
+      "transliteration": "विवृतास्यं",
+      "translation": "खुला हुआ मुँह"
+    },
+    {
+      "original": "त्रिनयनं",
+      "transliteration": "त्रिनयनं",
+      "translation": "तीन आँखों वाला"
+    },
+    {
+      "original": "शरदिन्दुसमप्रभम्",
+      "transliteration": "शरदिन्दुसमप्रभम्",
+      "translation": "शरद ऋतु के चंद्रमा जैसी प्रभा"
+    },
+    {
+      "original": "लक्ष्म्यालिङ्गितवामाङ्गं",
+      "transliteration": "लक्ष्म्यालिङ्गितवामाङ्गं",
+      "translation": "लक्ष्मी के आलिंगन से लहराता हुआ बायां अंग"
+    },
+    {
+      "original": "विभूतिभिरुपाश्रितम्",
+      "transliteration": "विभूतिभिरुपाश्रितम्",
+      "translation": "विभूतियों से अभिप्रेरित"
+    },
+    {
+      "original": "चतुर्भुजं",
+      "transliteration": "चतुर्भुजं",
+      "translation": "चार भुजाओं वाला"
+    },
+    {
+      "original": "कोमलाङ्गं",
+      "transliteration": "कोमलाङ्गं",
+      "translation": "कोमल शरीर वाला"
+    },
+    {
+      "original": "स्वर्णकुण्डलशोभितम्",
+      "transliteration": "स्वर्णकुण्डलशोभितम्",
+      "translation": "स्वर्णकुण्डल से आभूषित"
+    },
+    {
+      "original": "सरोजशोभितोरस्कं",
+      "transliteration": "सरोजशोभितोरस्कं",
+      "translation": "कमल से आभायुक्त छाती"
+    },
+    {
+      "original": "रत्नकेयूरमुद्रितम्",
+      "transliteration": "रत्नकेयूरमुद्रितम्",
+      "translation": "रत्न और केयूर से मुद्रित"
+    },
+    {
+      "original": "ताप्तकाञ्चनसंकाशं",
+      "transliteration": "ताप्तकाञ्चनसंकाशं",
+      "translation": "तप्त स्वर्ण जैसा"
+    },
+    {
+      "original": "पीतनिर्मलवाससम्",
+      "transliteration": "पीतनिर्मलवाससम्",
+      "translation": "पीला और निर्मल वस्त्रधारी"
+    },
+    {
+      "original": "इन्द्रादिसुरमौलिस्थस्फुरन्माणिक्यदीप्तिभिः",
+      "transliteration": "इन्द्रादिसुरमौलिस्थस्फुरन्माणिक्यदीप्तिभिः",
+      "translation": "इन्द्र और अन्य देवताओं के मुकुट में चमकते रत्नों से दीप्त"
+    },
+    {
+      "original": "विराजितपदद्वन्द्वं",
+      "transliteration": "विराजितपदद्वन्द्वं",
+      "translation": "सम्मानित पैर"
+    },
+    {
+      "original": "शङ्खचक्रादि हेतिभिः",
+      "transliteration": "शङ्खचक्रादि हेतिभिः",
+      "translation": "शंख, चक्र आदि के द्वारा प्रेरित"
+    },
+    {
+      "original": "गरुत्मता च विनयात्",
+      "transliteration": "गरुत्मता च विनयात्",
+      "translation": "गरुड़ की शक्ति से और विनय से"
+    },
+    {
+      "original": "स्तूयमानं",
+      "transliteration": "स्तूयमानं",
+      "translation": "स्तुति किया हुआ"
+    },
+    {
+      "original": "मुदान्वितम्",
+      "transliteration": "मुदान्वितम्",
+      "translation": "आनंद से अभिप्रेरित"
+    },
+    {
+      "original": "स्वहृत्कमलसंवासं",
+      "transliteration": "स्वहृत्कमलसंवासं",
+      "translation": "अपनी हृदय में कमल के समान स्थान बनाने वाला"
+    },
+    {
+      "original": "कृत्वा",
+      "transliteration": "कृत्वा",
+      "translation": "करके"
+    },
+    {
+      "original": "तु",
+      "transliteration": "तु",
+      "translation": "किन्तु"
+    },
+    {
+      "original": "कवचं",
+      "transliteration": "कवचं",
+      "translation": "कवच"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "पठेत्",
+      "translation": "पढ़े"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "नृसिंहो",
+      "translation": "नृसिंह"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "शिरः",
+      "transliteration": "शिरः",
+      "translation": "सिर"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करे"
+    },
+    {
+      "original": "लोकरक्षार्थसम्भवः",
+      "transliteration": "लोकरक्षार्थसम्भवः",
+      "translation": "लोक की रक्षा के लिए उत्पन्न हुआ"
+    },
+    {
+      "original": "सर्वगोऽपि",
+      "transliteration": "सर्वगोऽपि",
+      "translation": "सर्वत्र स्थित"
+    },
+    {
+      "original": "स्तम्भवासः",
+      "transliteration": "स्तम्भवासः",
+      "translation": "स्थिर रहने वाला"
+    },
+    {
+      "original": "भालं",
+      "transliteration": "भालं",
+      "translation": "मस्तक"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "रक्षतु",
+      "transliteration": "रक्षतु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "ध्वनिम्",
+      "transliteration": "ध्वनिम्",
+      "translation": "ध्वनि"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "नृसिंहो",
+      "translation": "नृसिंह"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "दृशौ",
+      "transliteration": "दृशौ",
+      "translation": "आँखें"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "सोमसूर्याग्निलोचनः",
+      "transliteration": "सोमसूर्याग्निलोचनः",
+      "translation": "चंद्र, सूर्य और अग्नि के समान नेत्रों वाला"
+    },
+    {
+      "original": "स्मृतिं",
+      "transliteration": "स्मृतिं",
+      "translation": "स्मृति"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरी"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "नृहरिर्मुनिवर्यस्तुतिप्रियः",
+      "transliteration": "नृहरिर्मुनिवर्यस्तुतिप्रियः",
+      "translation": "नृहरि जो मुनियों के द्वारा स्तुति प्रिय है"
+    },
+    {
+      "original": "नासं",
+      "transliteration": "नासं",
+      "translation": "नाक"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरी"
+    },
+    {
+      "original": "सिंहनासस्तु",
+      "transliteration": "सिंहनासस्तु",
+      "translation": "सिंह की नाक"
+    },
+    {
+      "original": "मुखं",
+      "transliteration": "मुखं",
+      "translation": "मुँह"
+    },
+    {
+      "original": "लक्ष्मीमुखप्रियः",
+      "transliteration": "लक्ष्मीमुखप्रियः",
+      "translation": "लक्ष्मी के मुँह के प्रिय"
+    },
+    {
+      "original": "सर्वविद्याधिपः",
+      "transliteration": "सर्वविद्याधिपः",
+      "translation": "सभी विद्याओं का अधिपति"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "नृसिंहो",
+      "transliteration": "नृसिंहो",
+      "translation": "नृसिंह"
+    },
+    {
+      "original": "रसनां",
+      "transliteration": "रसनां",
+      "translation": "जिव्हा"
+    },
+    {
+      "original": "मम",
+      "transliteration": "मम",
+      "translation": "मेरी"
+    },
+    {
+      "original": "वक्त्रं",
+      "transliteration": "वक्त्रं",
+      "translation": "मुख"
+    },
+    {
+      "original": "पात्विन्दुवदनं",
+      "transliteration": "पात्विन्दुवदनं",
+      "translation": "चंद्रमुख"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "सदा",
+      "translation": "हमेशा"
+    },
+    {
+      "original": "प्रह्लादवन्दितः",
+      "transliteration": "प्रह्लादवन्दितः",
+      "translation": "प्रह्लाद द्वारा पूजित"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "नृसिंहः",
+      "translation": "नृसिंह"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "कण्ठं",
+      "transliteration": "कण्ठं",
+      "translation": "गला"
+    },
+    {
+      "original": "स्कन्धौ",
+      "transliteration": "स्कन्धौ",
+      "translation": "कांधें"
+    },
+    {
+      "original": "भूभरान्तकृत्",
+      "transliteration": "भूभरान्तकृत्",
+      "translation": "पृथ्वी का भार समाप्त करने वाला"
+    },
+    {
+      "original": "दिव्यास्त्रशोभितभुजो",
+      "transliteration": "दिव्यास्त्रशोभितभुजो",
+      "translation": "दिव्य अस्त्रों से शोभित भुजाएँ"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "नृसिंहः",
+      "translation": "नृसिंह"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "भुजौ",
+      "transliteration": "भुजौ",
+      "translation": "बाहु"
+    },
+    {
+      "original": "करौ",
+      "transliteration": "करौ",
+      "translation": "हाथ"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "देववरदो",
+      "transliteration": "देववरदो",
+      "translation": "देवताओं का वरदान देने वाला"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "नृसिंहः",
+      "translation": "नृसिंह"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "सर्वतः",
+      "transliteration": "सर्वतः",
+      "translation": "हर दिशा से"
+    },
+    {
+      "original": "हृदयं",
+      "transliteration": "हृदयं",
+      "translation": "हृदय"
+    },
+    {
+      "original": "योगिसाध्यश्च",
+      "transliteration": "योगिसाध्यश्च",
+      "translation": "योगियों के लिए साध्य"
+    },
+    {
+      "original": "निवासं",
+      "transliteration": "निवासं",
+      "translation": "निवास"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "हरिः",
+      "transliteration": "हरिः",
+      "translation": "हरि"
+    },
+    {
+      "original": "मध्यं",
+      "transliteration": "मध्यं",
+      "translation": "मध्य"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "हिरण्याक्षवक्षःकुक्षिविदारणः",
+      "transliteration": "हिरण्याक्षवक्षःकुक्षिविदारणः",
+      "translation": "हिरण्याक्ष का वक्षस्थल विदारण करने वाला"
+    },
+    {
+      "original": "नाभिं",
+      "transliteration": "नाभिं",
+      "translation": "नाभि"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "नृहरिः",
+      "transliteration": "नृहरिः",
+      "translation": "नृहरि"
+    },
+    {
+      "original": "स्वनाभि",
+      "transliteration": "स्वनाभि",
+      "translation": "स्वनाभि"
+    },
+    {
+      "original": "ब्रह्मसंस्तुतः",
+      "transliteration": "ब्रह्मसंस्तुतः",
+      "translation": "ब्रह्मा द्वारा स्तुत"
+    },
+    {
+      "original": "ब्रह्माण्डकोटयः",
+      "transliteration": "ब्रह्माण्डकोटयः",
+      "translation": "ब्रह्माण्ड के कोने"
+    },
+    {
+      "original": "कट्यां",
+      "transliteration": "कट्यां",
+      "translation": "कमर"
+    },
+    {
+      "original": "यस्यासौ",
+      "transliteration": "यस्यासौ",
+      "translation": "वह जो"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "कटिम्",
+      "transliteration": "कटिम्",
+      "translation": "कमर"
+    },
+    {
+      "original": "गुह्यं",
+      "transliteration": "गुह्यं",
+      "translation": "गुप्त स्थान"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "गुह्यानां",
+      "transliteration": "गुह्यानां",
+      "translation": "गुप्त रहस्यों के"
+    },
+    {
+      "original": "मन्त्राणां",
+      "transliteration": "मन्त्राणां",
+      "translation": "मंत्रों के"
+    },
+    {
+      "original": "गुह्यरूपदृक्",
+      "transliteration": "गुह्यरूपदृक्",
+      "translation": "गुप्त रूप में देखने वाला"
+    },
+    {
+      "original": "ऊरु",
+      "transliteration": "ऊरु",
+      "translation": "जांघ"
+    },
+    {
+      "original": "मनोभवः",
+      "transliteration": "मनोभवः",
+      "translation": "मानसिक उत्पत्ति"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "जानुनी",
+      "transliteration": "जानुनी",
+      "translation": "घुटने"
+    },
+    {
+      "original": "नररूपधृक्",
+      "transliteration": "नररूपधृक्",
+      "translation": "मानव रूप का धारक"
+    },
+    {
+      "original": "जङ्घे",
+      "transliteration": "जङ्घे",
+      "translation": "जांघें"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "धराभारहर्ता",
+      "transliteration": "धराभारहर्ता",
+      "translation": "पृथ्वी का भार उतारने वाला"
+    },
+    {
+      "original": "योऽसौ",
+      "transliteration": "योऽसौ",
+      "translation": "वह जो"
+    },
+    {
+      "original": "नृकेसरी",
+      "transliteration": "नृकेसरी",
+      "translation": "नृसिंह का शेर"
+    },
+    {
+      "original": "सुरराज्यप्रदः",
+      "transliteration": "सुरराज्यप्रदः",
+      "translation": "देवताओं का राज्य देने वाला"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "पादौ",
+      "transliteration": "पादौ",
+      "translation": "पाँव"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "नृहरीश्वरः",
+      "transliteration": "नृहरीश्वरः",
+      "translation": "नृसिंह ईश्वर"
+    },
+    {
+      "original": "सहस्रशीर्षा",
+      "transliteration": "सहस्रशीर्षा",
+      "translation": "सहस्त्र सिर वाला"
+    },
+    {
+      "original": "पुरुषः",
+      "transliteration": "पुरुषः",
+      "translation": "पुरुष"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "सर्वशस्तनुम्",
+      "transliteration": "सर्वशस्तनुम्",
+      "translation": "सर्व शस्त्रों से युक्त"
+    },
+    {
+      "original": "महोग्रः",
+      "transliteration": "महोग्रः",
+      "translation": "महाक्रूर"
+    },
+    {
+      "original": "पूर्वतः",
+      "transliteration": "पूर्वतः",
+      "translation": "पूर्व दिशा से"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "महावीराग्रजोऽग्नितः",
+      "transliteration": "महावीराग्रजोऽग्नितः",
+      "translation": "महावीराग्रज और अग्नि से युक्त"
+    },
+    {
+      "original": "महाविष्णुर्दक्षिणे",
+      "transliteration": "महाविष्णुर्दक्षिणे",
+      "translation": "दक्षिण दिशा में महाविष्णु"
+    },
+    {
+      "original": "तु",
+      "transliteration": "तु",
+      "translation": "और"
+    },
+    {
+      "original": "महाज्वालस्तु",
+      "transliteration": "महाज्वालस्तु",
+      "translation": "महाज्वाला"
+    },
+    {
+      "original": "नैरृतौ",
+      "transliteration": "नैरृतौ",
+      "translation": "नैरृत दिशा में"
+    },
+    {
+      "original": "पश्चिमे",
+      "transliteration": "पश्चिमे",
+      "translation": "पश्चिम दिशा में"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "सर्वेशो",
+      "transliteration": "सर्वेशो",
+      "translation": "सर्वेश्वर"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "दिशि",
+      "translation": "दिशा में"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "सर्वतोमुखः",
+      "transliteration": "सर्वतोमुखः",
+      "translation": "हर दिशा से मुख वाला"
+    },
+    {
+      "original": "नृसिंहः",
+      "transliteration": "नृसिंहः",
+      "translation": "नृसिंह"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "वायव्यां",
+      "transliteration": "वायव्यां",
+      "translation": "वायव्य दिशा में"
+    },
+    {
+      "original": "सौम्यां",
+      "transliteration": "सौम्यां",
+      "translation": "सौम्य"
+    },
+    {
+      "original": "भूषणविग्रहः",
+      "transliteration": "भूषणविग्रहः",
+      "translation": "भूषणों से युक्त"
+    },
+    {
+      "original": "ईशान्यां",
+      "transliteration": "ईशान्यां",
+      "translation": "ईशान्य दिशा में"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "भद्रो",
+      "transliteration": "भद्रो",
+      "translation": "शुभ"
+    },
+    {
+      "original": "मे",
+      "transliteration": "मे",
+      "translation": "मेरा"
+    },
+    {
+      "original": "सर्वमङ्गलदायकः",
+      "transliteration": "सर्वमङ्गलदायकः",
+      "translation": "सर्व मंगल देने वाला"
+    },
+    {
+      "original": "संसारभयतः",
+      "transliteration": "संसारभयतः",
+      "translation": "संसार के भय से"
+    },
+    {
+      "original": "पातु",
+      "transliteration": "पातु",
+      "translation": "रक्षा करें"
+    },
+    {
+      "original": "मृत्योर्मृत्युः",
+      "transliteration": "मृत्योर्मृत्युः",
+      "translation": "मृत्यु से मृत्यु"
+    },
+    {
+      "original": "नृकेसरी",
+      "transliteration": "नृकेसरी",
+      "translation": "नृसिंह का शेर"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "इदं",
+      "translation": "यह"
+    },
+    {
+      "original": "नृसिंहकवचं",
+      "transliteration": "नृसिंहकवचं",
+      "translation": "नृसिंह का कवच"
+    },
+    {
+      "original": "प्रह्लादमुखमण्डितम्",
+      "transliteration": "प्रह्लादमुखमण्डितम्",
+      "translation": "प्रह्लाद के मुख से प्रतिष्ठित"
+    },
+    {
+      "original": "भक्तिमान्",
+      "transliteration": "भक्तिमान्",
+      "translation": "भक्त"
+    },
+    {
+      "original": "यः",
+      "transliteration": "यः",
+      "translation": "जो"
+    },
+    {
+      "original": "पठेन्नित्यं",
+      "transliteration": "पठेन्नित्यं",
+      "translation": "जो प्रतिदिन पढ़े"
+    },
+    {
+      "original": "सर्वपापैः",
+      "transliteration": "सर्वपापैः",
+      "translation": "सभी पापों से"
+    },
+    {
+      "original": "प्रमुच्यते",
+      "transliteration": "प्रमुच्यते",
+      "translation": "मुक्त होता है"
+    },
+    {
+      "original": "भक्तिमान्",
+      "transliteration": "भक्तिमान्",
+      "translation": "भक्त"
+    },
+    {
+      "original": "यः",
+      "transliteration": "यः",
+      "translation": "जो"
+    },
+    {
+      "original": "पठेन्नित्यं",
+      "transliteration": "पठेन्नित्यं",
+      "translation": "जो प्रतिदिन पढ़े"
+    },
+    {
+      "original": "सर्वपापैः",
+      "transliteration": "सर्वपापैः",
+      "translation": "सभी पापों से"
+    },
+    {
+      "original": "प्रमुच्यते",
+      "transliteration": "प्रमुच्यते",
+      "translation": "मुक्त होता है"
+    },
+    {
+      "original": "पुत्रवान्",
+      "transliteration": "पुत्रवान्",
+      "translation": "पुत्र प्राप्त करने वाला"
+    },
+    {
+      "original": "धनवान्",
+      "transliteration": "धनवान्",
+      "translation": "धनवान"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "लोके",
+      "translation": "इस लोक में"
+    },
+    {
+      "original": "दीर्घायुरुपजायते",
+      "transliteration": "दीर्घायुरुपजायते",
+      "translation": "दीर्घायु प्राप्त करता है"
+    },
+    {
+      "original": "यं",
+      "transliteration": "यं",
+      "translation": "जिसको"
+    },
+    {
+      "original": "यं",
+      "transliteration": "यं",
+      "translation": "जिसको"
+    },
+    {
+      "original": "कामयते",
+      "transliteration": "कामयते",
+      "translation": "चाहता है"
+    },
+    {
+      "original": "कामं",
+      "transliteration": "कामं",
+      "translation": "इच्छा"
+    },
+    {
+      "original": "तं",
+      "transliteration": "तं",
+      "translation": "उसे"
+    },
+    {
+      "original": "तं",
+      "transliteration": "तं",
+      "translation": "उसे"
+    },
+    {
+      "original": "प्राप्नोति",
+      "transliteration": "प्राप्नोति",
+      "translation": "प्राप्त करता है"
+    },
+    {
+      "original": "असंशयम्",
+      "transliteration": "असंशयम्",
+      "translation": "संदेह के बिना"
+    },
+    {
+      "original": "सर्वत्र",
+      "transliteration": "सर्वत्र",
+      "translation": "सभी स्थानों में"
+    },
+    {
+      "original": "जयमाप्नोति",
+      "transliteration": "जयमाप्नोति",
+      "translation": "विजय प्राप्त करता है"
+    },
+    {
+      "original": "सर्वत्र",
+      "transliteration": "सर्वत्र",
+      "translation": "सभी स्थानों में"
+    },
+    {
+      "original": "विजयी",
+      "transliteration": "विजयी",
+      "translation": "विजयी"
+    },
+    {
+      "original": "भवेत्",
+      "transliteration": "भवेत्",
+      "translation": "होता है"
+    },
+    {
+      "original": "भूम्यन्तरीक्षदिव्यानां",
+      "transliteration": "भूम्यन्तरीक्षदिव्यानां",
+      "translation": "पृथ्वी और आकाश में दिव्य"
+    },
+    {
+      "original": "ग्रहाणां",
+      "transliteration": "ग्रहाणां",
+      "translation": "ग्रहों के"
+    },
+    {
+      "original": "विनिवारणम्",
+      "transliteration": "विनिवारणम्",
+      "translation": "निवारण"
+    },
+    {
+      "original": "वृश्चिकोरगसम्भूत",
+      "transliteration": "वृश्चिकोरगसम्भूत",
+      "translation": "वृश्चिक और सर्पों से उत्पन्न"
+    },
+    {
+      "original": "विषापहरणं",
+      "transliteration": "विषापहरणं",
+      "translation": "विष का निवारण करने वाला"
+    },
+    {
+      "original": "परम्",
+      "transliteration": "परम्",
+      "translation": "परम"
+    },
+    {
+      "original": "ब्रह्मराक्षसयक्षाणां",
+      "transliteration": "ब्रह्मराक्षसयक्षाणां",
+      "translation": "ब्रह्मराक्षस और यक्षों के"
+    },
+    {
+      "original": "दूरोत्सारणकारणम्",
+      "transliteration": "दूरोत्सारणकारणम्",
+      "translation": "दूर करने का कारण"
+    },
+    {
+      "original": "भूर्जे",
+      "transliteration": "भूर्जे",
+      "translation": "बोरस पेपर पर"
+    },
+    {
+      "original": "वा",
+      "transliteration": "वा",
+      "translation": "या"
+    },
+    {
+      "original": "तालपत्रे",
+      "transliteration": "तालपत्रे",
+      "translation": "ताड़ पत्र पर"
+    },
+    {
+      "original": "वा",
+      "transliteration": "वा",
+      "translation": "या"
+    },
+    {
+      "original": "कवचं",
+      "transliteration": "कवचं",
+      "translation": "कवच"
+    },
+    {
+      "original": "लिखितं",
+      "transliteration": "लिखितं",
+      "translation": "लिखा हुआ"
+    },
+    {
+      "original": "शुभम्",
+      "transliteration": "शुभम्",
+      "translation": "शुभ"
+    },
+    {
+      "original": "करमूले",
+      "transliteration": "करमूले",
+      "translation": "हाथ की जड़ पर"
+    },
+    {
+      "original": "धृतं",
+      "transliteration": "धृतं",
+      "translation": "धारण किया हुआ"
+    },
+    {
+      "original": "येन",
+      "transliteration": "येन",
+      "translation": "जिसके द्वारा"
+    },
+    {
+      "original": "सिध्येयुः",
+      "transliteration": "सिध्येयुः",
+      "translation": "सिद्ध हो सकते हैं"
+    },
+    {
+      "original": "कर्मसिद्धयः",
+      "transliteration": "कर्मसिद्धयः",
+      "translation": "कार्य की सिद्धि"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "तस्य",
+      "translation": "उसका"
+    },
+    {
+      "original": "कार्याणि",
+      "transliteration": "कार्याणि",
+      "translation": "कार्य"
+    },
+    {
+      "original": "देवासुरमनुष्येषु",
+      "transliteration": "देवासुरमनुष्येषु",
+      "translation": "देव, असुर, और मनुष्यों में"
+    },
+    {
+      "original": "स्वं",
+      "transliteration": "स्वं",
+      "translation": "स्वयं"
+    },
+    {
+      "original": "स्वमेव",
+      "transliteration": "स्वमेव",
+      "translation": "स्वयं ही"
+    },
+    {
+      "original": "जयं",
+      "transliteration": "जयं",
+      "translation": "विजय"
+    },
+    {
+      "original": "लभेत्",
+      "transliteration": "लभेत्",
+      "translation": "प्राप्त करता है"
+    },
+    {
+      "original": "एकसन्ध्यं",
+      "transliteration": "एकसन्ध्यं",
+      "translation": "एक संध्या"
+    },
+    {
+      "original": "त्रिसन्ध्यं",
+      "transliteration": "त्रिसन्ध्यं",
+      "translation": "तीन संध्या"
+    },
+    {
+      "original": "वा",
+      "transliteration": "वा",
+      "translation": "या"
+    },
+    {
+      "original": "यः",
+      "transliteration": "यः",
+      "translation": "जो"
+    },
+    {
+      "original": "पठेन्नियतो",
+      "transliteration": "पठेन्नियतो",
+      "translation": "जो नियम से पढ़े"
+    },
+    {
+      "original": "नरः",
+      "transliteration": "नरः",
+      "translation": "मनुष्य"
+    },
+    {
+      "original": "सर्वमङ्गलमाङ्गल्यं",
+      "transliteration": "सर्वमङ्गलमाङ्गल्यं",
+      "translation": "सभी प्रकार की शुभता"
+    },
+    {
+      "original": "भुक्तिं",
+      "transliteration": "भुक्तिं",
+      "translation": "भोग"
+    },
+    {
+      "original": "मुक्तिं",
+      "transliteration": "मुक्तिं",
+      "translation": "मोक्ष"
+    },
+    {
+      "original": "च",
+      "transliteration": "च",
+      "translation": "और"
+    },
+    {
+      "original": "विन्दति",
+      "transliteration": "विन्दति",
+      "translation": "प्राप्त करता है"
+    },
+    {
+      "original": "द्वात्रिंशतिसहस्राणि",
+      "transliteration": "द्वात्रिंशतिसहस्राणि",
+      "translation": "बत्तीस सौ"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "पठेत्",
+      "translation": "पढ़े"
+    },
+    {
+      "original": "शुद्धात्मनां",
+      "transliteration": "शुद्धात्मनां",
+      "translation": "शुद्ध आत्माओं के"
+    },
+    {
+      "original": "नृणाम्",
+      "transliteration": "नृणाम्",
+      "translation": "मनुष्यों के"
+    },
+    {
+      "original": "कवचस्यास्य",
+      "transliteration": "कवचस्यास्य",
+      "translation": "इस कवच का"
+    },
+    {
+      "original": "मन्त्रस्य",
+      "transliteration": "मन्त्रस्य",
+      "translation": "मंत्र का"
+    },
+    {
+      "original": "मन्त्रसिद्धिः",
+      "transliteration": "मन्त्रसिद्धिः",
+      "translation": "मंत्र की सिद्धि"
+    },
+    {
+      "original": "प्रजायते",
+      "transliteration": "प्रजायते",
+      "translation": "उत्पन्न होती है"
+    },
+    {
+      "original": "अनेन",
+      "transliteration": "अनेन",
+      "translation": "इसके द्वारा"
+    },
+    {
+      "original": "मन्त्रराजेन",
+      "transliteration": "मन्त्रराजेन",
+      "translation": "मंत्रों के राजा द्वारा"
+    },
+    {
+      "original": "कृत्वा",
+      "transliteration": "कृत्वा",
+      "translation": "करके"
+    },
+    {
+      "original": "भस्माभिमन्त्रणम्",
+      "transliteration": "भस्माभिमन्त्रणम्",
+      "translation": "भस्म मंत्र"
+    },
+    {
+      "original": "तिलकं",
+      "transliteration": "तिलकं",
+      "translation": "तिलक"
+    },
+    {
+      "original": "विन्यसेद्यस्तु",
+      "transliteration": "विन्यसेद्यस्तु",
+      "translation": "जो तिलक लगाए"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "तस्य",
+      "translation": "उसका"
+    },
+    {
+      "original": "ग्रहभयं",
+      "transliteration": "ग्रहभयं",
+      "translation": "ग्रहों का भय"
+    },
+    {
+      "original": "हरेत्",
+      "transliteration": "हरेत्",
+      "translation": "नष्ट करता है"
+    },
+    {
+      "original": "त्रिवारं",
+      "transliteration": "त्रिवारं",
+      "translation": "तीन बार"
+    },
+    {
+      "original": "जपमानस्तु",
+      "transliteration": "जपमानस्तु",
+      "translation": "जो जाप करता है"
+    },
+    {
+      "original": "दत्तं",
+      "transliteration": "दत्तं",
+      "translation": "दिया हुआ"
+    },
+    {
+      "original": "वार्यभिमन्त्र्य",
+      "transliteration": "वार्यभिमन्त्र्य",
+      "translation": "पानी से मंत्र करना"
+    },
+    {
+      "original": "च",
+      "transliteration": "च",
+      "translation": "और"
+    },
+    {
+      "original": "प्राशयेद्यो",
+      "transliteration": "प्राशयेद्यो",
+      "translation": "जो करें"
+    },
+    {
+      "original": "नरो",
+      "transliteration": "नरो",
+      "translation": "मनुष्य"
+    },
+    {
+      "original": "मन्त्रं",
+      "transliteration": "मन्त्रं",
+      "translation": "मंत्र"
+    },
+    {
+      "original": "नृसिंहध्यानमाचरेत्",
+      "transliteration": "नृसिंहध्यानमाचरेत्",
+      "translation": "नृसिंह ध्यान करे"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "तस्य",
+      "translation": "उसका"
+    },
+    {
+      "original": "रोगाः",
+      "transliteration": "रोगाः",
+      "translation": "रोग"
+    },
+    {
+      "original": "प्रणश्यन्ति",
+      "transliteration": "प्रणश्यन्ति",
+      "translation": "नष्ट हो जाते हैं"
+    },
+    {
+      "original": "ये",
+      "transliteration": "ये",
+      "translation": "जो"
+    },
+    {
+      "original": "च",
+      "transliteration": "च",
+      "translation": "और"
+    },
+    {
+      "original": "स्युः",
+      "transliteration": "स्युः",
+      "translation": "हो सकते हैं"
+    },
+    {
+      "original": "कुक्षिसम्भवाः",
+      "transliteration": "कुक्षिसम्भवाः",
+      "translation": "गर्भ से उत्पन्न होने वाले"
+    },
+    {
+      "original": "किमत्र",
+      "transliteration": "किमत्र",
+      "translation": "यहाँ क्या"
+    },
+    {
+      "original": "बहुनोक्तेन",
+      "transliteration": "बहुनोक्तेन",
+      "translation": "अधिक कहने से"
+    },
+    {
+      "original": "नृसिंहसदृशो",
+      "transliteration": "नृसिंहसदृशो",
+      "translation": "नृसिंह के समान"
+    },
+    {
+      "original": "भवेत्",
+      "transliteration": "भवेत्",
+      "translation": "हो सकता है"
+    },
+    {
+      "original": "मनसा",
+      "transliteration": "मनसा",
+      "translation": "मन से"
+    },
+    {
+      "original": "चिन्तितं",
+      "transliteration": "चिन्तितं",
+      "translation": "चिंतन किया हुआ"
+    },
+    {
+      "original": "यत्तु",
+      "transliteration": "यत्तु",
+      "translation": "जो"
+    },
+    {
+      "original": "स",
+      "transliteration": "स",
+      "translation": "वह"
+    },
+    {
+      "original": "तच्चाप्नोत्यसंशयम्",
+      "transliteration": "तच्चाप्नोत्यसंशयम्",
+      "translation": "वह संदेह के बिना प्राप्त करता है"
+    },
+    {
+      "original": "गर्जन्तं",
+      "transliteration": "गर्जन्तं",
+      "translation": "गर्जना करने वाला"
+    },
+    {
+      "original": "गर्जयन्तं",
+      "transliteration": "गर्जयन्तं",
+      "translation": "गर्जना करने वाला"
+    },
+    {
+      "original": "निजभुजपटलं",
+      "transliteration": "निजभुजपटलं",
+      "translation": "अपनी भुजा का भाग"
+    },
+    {
+      "original": "स्फोटयन्तं",
+      "transliteration": "स्फोटयन्तं",
+      "translation": "फोड़ने वाला"
+    },
+    {
+      "original": "हठन्तं",
+      "transliteration": "हठन्तं",
+      "translation": "हठ करने वाला"
+    },
+    {
+      "original": "रूप्यन्तं",
+      "transliteration": "रूप्यन्तं",
+      "translation": "रूप लेने वाला"
+    },
+    {
+      "original": "तापयन्तं",
+      "transliteration": "तापयन्तं",
+      "translation": "तपाने वाला"
+    },
+    {
+      "original": "दिवि",
+      "transliteration": "दिवि",
+      "translation": "आकाश में"
+    },
+    {
+      "original": "भुवि",
+      "transliteration": "भुवि",
+      "translation": "पृथ्वी पर"
+    },
+    {
+      "original": "दितिजं",
+      "transliteration": "दितिजं",
+      "translation": "दैत्य को"
+    },
+    {
+      "original": "क्षेपयन्तं",
+      "transliteration": "क्षेपयन्तं",
+      "translation": "फेंकने वाला"
+    },
+    {
+      "original": "क्षिपन्तम्",
+      "transliteration": "क्षिपन्तम्",
+      "translation": "फेंकने वाला"
+    },
+    {
+      "original": "क्रन्दन्तं",
+      "transliteration": "क्रन्दन्तं",
+      "translation": "क्रंदन करने वाला"
+    },
+    {
+      "original": "रोषयन्तं",
+      "transliteration": "रोषयन्तं",
+      "translation": "क्रोध में लाने वाला"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "दिशि",
+      "translation": "दिशा में"
+    },
+    {
+      "original": "दिशि",
+      "transliteration": "दिशि",
+      "translation": "दिशा में"
+    },
+    {
+      "original": "सततं",
+      "transliteration": "सततं",
+      "translation": "लगातार"
+    },
+    {
+      "original": "संहरन्तं",
+      "transliteration": "संहरन्तं",
+      "translation": "संहार करने वाला"
+    },
+    {
+      "original": "भरन्तं",
+      "transliteration": "भरन्तं",
+      "translation": "भार ढोने वाला"
+    },
+    {
+      "original": "भ्रमन्तं",
+      "transliteration": "भ्रमन्तं",
+      "translation": "भ्रमण करने वाला"
+    },
+    {
+      "original": "वीक्षन्तं",
+      "transliteration": "वीक्षन्तं",
+      "translation": "देखने वाला"
+    },
+    {
+      "original": "घूर्णयन्तं",
+      "transliteration": "घूर्णयन्तं",
+      "translation": "घुमा देने वाला"
+    },
+    {
+      "original": "शरनिकरशतैः",
+      "transliteration": "शरनिकरशतैः",
+      "translation": "बाणों के समूह से"
+    },
+    {
+      "original": "दिव्यसिंहं",
+      "transliteration": "दिव्यसिंहं",
+      "translation": "दिव्य सिंह"
+    },
+    {
+      "original": "नमामि",
+      "transliteration": "नमामि",
+      "translation": "मैं प्रणाम करता हूँ"
+    },
+    {
+      "original": "इति",
+      "transliteration": "इति",
+      "translation": "इस प्रकार"
+    },
+    {
+      "original": "श्रीब्रह्माण्डपुराणे",
+      "transliteration": "श्रीब्रह्माण्डपुराणे",
+      "translation": "श्रीब्रह्माण्ड पुराण में"
+    },
+    {
+      "original": "प्रह्लादोक्तं",
+      "transliteration": "प्रह्लादोक्तं",
+      "translation": "प्रह्लाद द्वारा कहा गया"
+    },
+    {
+      "original": "श्रीनृसिंहकवचं",
+      "transliteration": "श्रीनृसिंहकवचं",
+      "translation": "श्री नृसिंह कवच"
+    },
+    {
+      "original": "सम्पूर्णम्",
+      "transliteration": "सम्पूर्णम्",
+      "translation": "सम्पूर्ण"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\hindi\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\narasimha_kavacham\\hindi\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.141Z"
+  }
+}

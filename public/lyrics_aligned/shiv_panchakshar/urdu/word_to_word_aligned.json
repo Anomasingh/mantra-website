@@ -1,0 +1,344 @@
+{
+  "mantra": "shiv_panchakshar",
+  "language": "urdu",
+  "type": "word_to_word",
+  "totalWords": 66,
+  "alignedWords": [
+    {
+      "original": "नागेन्द्रहाराय",
+      "transliteration": "ناگندھرہارائے",
+      "translation": "وہ جو نگانگا کے مالک ہیں"
+    },
+    {
+      "original": "त्रिलोचनाय",
+      "transliteration": "تریلوچنائے",
+      "translation": "اور تین آنکھوں والے ہیں"
+    },
+    {
+      "original": "भस्माङ्गरागाय",
+      "transliteration": "بھسمانگراغائے",
+      "translation": "وہ جو بھسم اور سرخ رنگ کے ہیں"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "مہیشورائے",
+      "translation": "اور مہیشور ہیں"
+    },
+    {
+      "original": "नित्याय",
+      "transliteration": "نِتھَے",
+      "translation": "وہ جو ہمیشہ ہیں"
+    },
+    {
+      "original": "शुद्धाय",
+      "transliteration": "شُدھائے",
+      "translation": "وہ جو پاک ہیں"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "دِگَمبَرائے",
+      "translation": "وہ جو آسمان میں لباس پہننے والے ہیں"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "تَسْمَے",
+      "translation": "اس کے لیے"
+    },
+    {
+      "original": "न काराय",
+      "transliteration": "نہ",
+      "translation": "نہیں"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "کا",
+      "translation": "کا"
+    },
+    {
+      "original": "मन्दाकिनी",
+      "transliteration": "رائے",
+      "translation": "رائے"
+    },
+    {
+      "original": "सलीलचन्दन",
+      "transliteration": "نمَہ",
+      "translation": "میں ان کی عبادت کرتا ہوں"
+    },
+    {
+      "original": "चर्चिताय",
+      "transliteration": "شِوائے",
+      "translation": "وہ جو شِو ہیں"
+    },
+    {
+      "original": "नन्दीश्वर",
+      "transliteration": "نندِیِشور",
+      "translation": "نندی کے مالک"
+    },
+    {
+      "original": "प्रमथनाथ",
+      "transliteration": "پرمَتھ ناتھ",
+      "translation": "وہ جو پرمَتھ کے ناتھ ہیں"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "مہیشورائے",
+      "translation": "اور مہیشور ہیں"
+    },
+    {
+      "original": "मन्दारपुष्प",
+      "transliteration": "مندارپُشپ",
+      "translation": "وہ جو ماندار کے پھول سے سجایا گیا"
+    },
+    {
+      "original": "बहुपुष्प",
+      "transliteration": "بہُوپُشپ",
+      "translation": "اور کئی پھولوں سے سجایا گیا"
+    },
+    {
+      "original": "सुपूजिताय",
+      "transliteration": "سپُوجِتائے",
+      "translation": "وہ جو پرستش سے سرفراز ہیں"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "تَسْمَے",
+      "translation": "اس کے لیے"
+    },
+    {
+      "original": "म काराय",
+      "transliteration": "م",
+      "translation": "میں"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "کا",
+      "translation": "کا"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "رائے",
+      "translation": "رائے"
+    },
+    {
+      "original": "गोरिवदनाब्जवृंद",
+      "transliteration": "نمَہ",
+      "translation": "میں ان کی عبادت کرتا ہوں"
+    },
+    {
+      "original": "सूर्याय",
+      "transliteration": "شِوائے",
+      "translation": "وہ جو شِو ہیں"
+    },
+    {
+      "original": "दक्षाध्वरनाशकाय",
+      "transliteration": "شِوائے",
+      "translation": "وہ جو شِو ہیں"
+    },
+    {
+      "original": "श्रीनीलकंठाय",
+      "transliteration": "گوری وَدنَابج وَرِند",
+      "translation": "وہ جو گوری کے چہرے کی مانند ہیں"
+    },
+    {
+      "original": "वृषध्वजाय",
+      "transliteration": "سورِیائے",
+      "translation": "وہ جو سورج کی مانند ہیں"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "دَکشا دھورَنَاشکائے",
+      "translation": "وہ جو دَکش کے یگیہ کے ختم کرنے والے ہیں"
+    },
+    {
+      "original": "शि काराय",
+      "transliteration": "شری نیلکَنٹھائے",
+      "translation": "وہ جو نیلکنٹھ ہیں"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "وِرشَدھواجائے",
+      "translation": "وہ جو وِرش کی چمچماتی چھتری والے ہیں"
+    },
+    {
+      "original": "वसिष्ठ",
+      "transliteration": "تَسْمَے",
+      "translation": "اس کے لیے"
+    },
+    {
+      "original": "कुम्भोद्भव",
+      "transliteration": "شِ",
+      "translation": "میں ان کی عبادت کرتا ہوں"
+    },
+    {
+      "original": "गौतमार्य",
+      "transliteration": "کارائے",
+      "translation": "جو کارا ہے"
+    },
+    {
+      "original": "मुनीन्द्र",
+      "transliteration": "نمَہ",
+      "translation": "میں ان کی عبادت کرتا ہوں"
+    },
+    {
+      "original": "देव",
+      "transliteration": "شِوائے",
+      "translation": "وہ جو شِو ہیں"
+    },
+    {
+      "original": "अर्चित",
+      "transliteration": "وِشِشٹھکُمْبھودبھَوگَوتماری",
+      "translation": "وہ جو وشیٹھ کی گاتھا کا جاننے والا ہے"
+    },
+    {
+      "original": "शेखराय",
+      "transliteration": "مونیندرے دیوارچِت شِکھرائے",
+      "translation": "وہ جو بڑی بڑی ہستیوں کی عبادت کرتے ہیں"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "چندرارک",
+      "translation": "وہ جو چاند اور سورج کی روشنی ہیں"
+    },
+    {
+      "original": "अर्क",
+      "transliteration": "ویشوانر لُوچنائے",
+      "translation": "وہ جو سب کا معائنہ کرنے والا ہے"
+    },
+    {
+      "original": "वैश्वानर",
+      "transliteration": "تَسْمَے",
+      "translation": "اس کے لیے"
+    },
+    {
+      "original": "लोचनाय",
+      "transliteration": "وَ",
+      "translation": "اور"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "کا",
+      "translation": "کا"
+    },
+    {
+      "original": "व काराय",
+      "transliteration": "رائے",
+      "translation": "رائے"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "نمَہ",
+      "translation": "میں ان کی عبادت کرتا ہوں"
+    },
+    {
+      "original": "यक्ष",
+      "transliteration": "شِوائے",
+      "translation": "وہ جو شِو ہیں"
+    },
+    {
+      "original": "स्वरूपाय",
+      "transliteration": "یَکششسورُوپائے",
+      "translation": "وہ جو یکش کی شکل میں ہیں"
+    },
+    {
+      "original": "जटाधराय",
+      "transliteration": "جَٹادھَرائے",
+      "translation": "وہ جو جٹوں والے ہیں"
+    },
+    {
+      "original": "पिनाकहस्ताय",
+      "transliteration": "پِنَاکَہَستَائے",
+      "translation": "وہ جو پِنَاکا کے حامل ہیں"
+    },
+    {
+      "original": "सनातनाय",
+      "transliteration": "سناتنائے",
+      "translation": "وہ جو ازلی ہیں"
+    },
+    {
+      "original": "दिव्याय",
+      "transliteration": "دِوَیائے",
+      "translation": "وہ جو الہٰی ہیں"
+    },
+    {
+      "original": "देवाय",
+      "transliteration": "دیوائے",
+      "translation": "وہ جو دیوتاؤں کے ہیں"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "دِگَمبَرائے",
+      "translation": "وہ جو آسمان میں لباس پہننے والے ہیں"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "تَسْمَے",
+      "translation": "اس کے لیے"
+    },
+    {
+      "original": "य काराय",
+      "transliteration": "ی",
+      "translation": "اور"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "کارائے",
+      "translation": "جو کارا ہے"
+    },
+    {
+      "original": "पञ्चाक्षरमिदं",
+      "transliteration": "نمَہ",
+      "translation": "میں ان کی عبادت کرتا ہوں"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "شِوائے",
+      "translation": "وہ جو شِو ہیں"
+    },
+    {
+      "original": "यः",
+      "transliteration": "پنجاکشرمِدَں",
+      "translation": "یہ پانچ اکشر کا منتر ہے"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "پُنْیَم",
+      "translation": "جو پا کی طاقت سے بھرا ہوا ہے"
+    },
+    {
+      "original": "शिवसन्निधौ",
+      "transliteration": "یَہ",
+      "translation": "جو"
+    },
+    {
+      "original": "शिवलोकं",
+      "transliteration": "پٹھِیچِشِواسَنِدھَو",
+      "translation": "وہ جو اس کو پڑھتا ہے"
+    },
+    {
+      "original": "अवाप्नोति",
+      "transliteration": "شِوَلُوکَمَواپَنوتِی",
+      "translation": "وہ جو شِو کے دنیا کو حاصل کرتا ہے"
+    },
+    {
+      "original": "शिवेन",
+      "transliteration": "شِوَین",
+      "translation": "وہ جو شِو کے ساتھ ہے"
+    },
+    {
+      "original": "सह",
+      "transliteration": "سہ",
+      "translation": "ساتھ"
+    },
+    {
+      "original": "मोदीते",
+      "transliteration": "مَودَتِے",
+      "translation": "خوشی سے لطف اندوز ہوتا ہے"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\urdu\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\urdu\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.649Z"
+  }
+}

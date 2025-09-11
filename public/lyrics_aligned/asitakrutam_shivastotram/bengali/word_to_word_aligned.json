@@ -1,0 +1,624 @@
+{
+  "mantra": "asitakrutam_shivastotram",
+  "language": "bengali",
+  "type": "word_to_word",
+  "totalWords": 122,
+  "alignedWords": [
+    {
+      "original": "असित",
+      "transliteration": "অসিত",
+      "translation": "অসিত"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "কৃতং",
+      "translation": "রচিত"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "শিব",
+      "translation": "শিব"
+    },
+    {
+      "original": "स्तोत्रम्",
+      "transliteration": "স্তোত্রম্",
+      "translation": "স্তোত্র"
+    },
+    {
+      "original": "असित",
+      "transliteration": "উবাচ",
+      "translation": "বললেন"
+    },
+    {
+      "original": "उवाच",
+      "transliteration": "জগদ্গুরো",
+      "translation": "জগৎগুরু"
+    },
+    {
+      "original": "जगद्गुरो",
+      "transliteration": "নমঃ",
+      "translation": "নমস্কার"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "তুভ্যং",
+      "translation": "আপনাকে"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "শিবায়",
+      "translation": "শিবের প্রতি"
+    },
+    {
+      "original": "शिवदाय",
+      "transliteration": "শিবদায়",
+      "translation": "কল্যাণদাতা"
+    },
+    {
+      "original": "च",
+      "transliteration": "চ",
+      "translation": "এবং"
+    },
+    {
+      "original": "योगीन्द्राणां",
+      "transliteration": "যোগীন্দ্রাণাং",
+      "translation": "যোগীদের মধ্যে"
+    },
+    {
+      "original": "च",
+      "transliteration": "চ",
+      "translation": "এবং"
+    },
+    {
+      "original": "योगीन्द्र",
+      "transliteration": "যোগীন্দ্র",
+      "translation": "যোগীদের গুরু"
+    },
+    {
+      "original": "गुरूणां",
+      "transliteration": "গুরুণাং",
+      "translation": "গুরুদের"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "গুরবে",
+      "translation": "গুরুকে"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "নমঃ",
+      "translation": "প্রণাম"
+    },
+    {
+      "original": "मृत्योर",
+      "transliteration": "মৃত্যোঃ",
+      "translation": "মৃত্যুর"
+    },
+    {
+      "original": "मृत्युस्वरूपेण",
+      "transliteration": "মৃত্যুস্বরূপেণ",
+      "translation": "মৃত্যুর রূপে"
+    },
+    {
+      "original": "मृत्युसंसारखण्डन",
+      "transliteration": "মৃত্যুসংসার",
+      "translation": "মৃত্যুর সংসার"
+    },
+    {
+      "original": "मृत्योरीश",
+      "transliteration": "খন্ডন",
+      "translation": "ধ্বংসকারী"
+    },
+    {
+      "original": "मृत्युबीज",
+      "transliteration": "মৃত্যোরীশ",
+      "translation": "মৃত্যুর ঈশ্বর"
+    },
+    {
+      "original": "मृत्युञ्जय",
+      "transliteration": "মৃত্যুবীজ",
+      "translation": "মৃত্যুর বীজ"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "মৃত্যুঞ্জয়",
+      "translation": "মৃত্যুঞ্জয়"
+    },
+    {
+      "original": "ते",
+      "transliteration": "নমঃ",
+      "translation": "প্রণাম"
+    },
+    {
+      "original": "कालरूपं",
+      "transliteration": "অস্তু",
+      "translation": "হোক"
+    },
+    {
+      "original": "कलयतां",
+      "transliteration": "তে",
+      "translation": "তোমাকে"
+    },
+    {
+      "original": "कालकालेश",
+      "transliteration": "কালরূপং",
+      "translation": "কালরূপ"
+    },
+    {
+      "original": "कारण",
+      "transliteration": "কলযতাং",
+      "translation": "নিয়ন্ত্রণকারী"
+    },
+    {
+      "original": "कालादतीत",
+      "transliteration": "কালকালেশ",
+      "translation": "সময়ের প্রভু"
+    },
+    {
+      "original": "कालस्थ",
+      "transliteration": "কারণ",
+      "translation": "কারণ"
+    },
+    {
+      "original": "कालकाल",
+      "transliteration": "কালাদতীত",
+      "translation": "সময়ের অতীত"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "কালস্থ",
+      "translation": "সময়ে অবস্থানকারী"
+    },
+    {
+      "original": "ते",
+      "transliteration": "কালকাল",
+      "translation": "সময়ের প্রভু"
+    },
+    {
+      "original": "गुणातीत",
+      "transliteration": "নমঃ",
+      "translation": "প্রণাম"
+    },
+    {
+      "original": "गुणाधार",
+      "transliteration": "গুণাতীত",
+      "translation": "গুণের অতীত"
+    },
+    {
+      "original": "गुणबीज",
+      "transliteration": "গুণাধার",
+      "translation": "গুণের ভিত্তি"
+    },
+    {
+      "original": "गुणात्मक",
+      "transliteration": "গুণবীজ",
+      "translation": "গুণের বীজ"
+    },
+    {
+      "original": "गुणीश",
+      "transliteration": "গুণাত্মক",
+      "translation": "গুণধর্মী"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "গুণীশ",
+      "translation": "গুণের প্রভু"
+    },
+    {
+      "original": "बीज",
+      "transliteration": "গুণিনাং",
+      "translation": "গুণধারীদের"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "বীজ",
+      "translation": "বীজ"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "গুরবে",
+      "translation": "গুরুকে"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "নমঃ",
+      "translation": "প্রণাম"
+    },
+    {
+      "original": "ब्रह्मस्वरूप",
+      "transliteration": "ব্রহ্মস্বরূপ",
+      "translation": "ব্রহ্মের স্বরূপ"
+    },
+    {
+      "original": "ब्रह्मज्ञ",
+      "transliteration": "ব্রহ্মজ্ঞ",
+      "translation": "ব্রহ্মজ্ঞ"
+    },
+    {
+      "original": "ब्रह्मभावे",
+      "transliteration": "ব্রহ্মভাবে",
+      "translation": "ব্রহ্মভাবনে"
+    },
+    {
+      "original": "च",
+      "transliteration": "চ",
+      "translation": "এবং"
+    },
+    {
+      "original": "तत्पर",
+      "transliteration": "তৎপর",
+      "translation": "নিমগ্ন"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "ব্রহ্মবীজ",
+      "translation": "ব্রহ্মবীজ"
+    },
+    {
+      "original": "स्वरूपेण",
+      "transliteration": "স্বরূপেণ",
+      "translation": "স্বরূপে"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "ব্রহ্মবীজ",
+      "translation": "ব্রহ্মবীজ"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "নমঃ",
+      "translation": "প্রণাম"
+    },
+    {
+      "original": "ते",
+      "transliteration": "অস্তু",
+      "translation": "হোক"
+    },
+    {
+      "original": "इति",
+      "transliteration": "তে",
+      "translation": "তোমাকে"
+    },
+    {
+      "original": "स्तुत्वा",
+      "transliteration": "ইতি",
+      "translation": "এভাবে"
+    },
+    {
+      "original": "शिवं",
+      "transliteration": "স্তুত্বা",
+      "translation": "স্তব করে"
+    },
+    {
+      "original": "नत्वा",
+      "transliteration": "শিবং",
+      "translation": "শিবকে"
+    },
+    {
+      "original": "पुरस्तस्थौ",
+      "transliteration": "নত্বা",
+      "translation": "প্রণাম করে"
+    },
+    {
+      "original": "मुनीश्वरः",
+      "transliteration": "পুরঃ",
+      "translation": "সম্মুখে"
+    },
+    {
+      "original": "दीनवत्साश्रुनेत्रश्च",
+      "transliteration": "তস্থৌ",
+      "translation": "দাঁড়ালেন"
+    },
+    {
+      "original": "पुळकाञ्चितविग्रहः",
+      "transliteration": "মুনীশ্বরঃ",
+      "translation": "ঋষিদের প্রভু"
+    },
+    {
+      "original": "असितेन",
+      "transliteration": "দীনवत্সা",
+      "translation": "দীন ও প্রেমময়"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "অশ্রুনেত্রঃ",
+      "translation": "অশ্রুভরা চোখ"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "চ",
+      "translation": "এবং"
+    },
+    {
+      "original": "भक्तियुक्तश्च",
+      "transliteration": "পুলকাঞ্চিত",
+      "translation": "রোমাঞ্চিত"
+    },
+    {
+      "original": "यः",
+      "transliteration": "বিগ্রহঃ",
+      "translation": "দেহ"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "অসিতেন",
+      "translation": "অসিত দ্বারা"
+    },
+    {
+      "original": "वर्षमेकं",
+      "transliteration": "কৃতং",
+      "translation": "রচিত"
+    },
+    {
+      "original": "हविष्याशी",
+      "transliteration": "স্তোত্রং",
+      "translation": "স্তোত্র"
+    },
+    {
+      "original": "शङ्करस्य",
+      "transliteration": "ভক্তিযুক্তঃ",
+      "translation": "ভক্তি সহকারে"
+    },
+    {
+      "original": "महात्मनः",
+      "transliteration": "চ",
+      "translation": "এবং"
+    },
+    {
+      "original": "स",
+      "transliteration": "যঃ",
+      "translation": "যিনি"
+    },
+    {
+      "original": "लभेद्वैष्णवं",
+      "transliteration": "পাঠেত্",
+      "translation": "পাঠ করেন"
+    },
+    {
+      "original": "पुत्रं",
+      "transliteration": "বর্ষম্",
+      "translation": "বছর"
+    },
+    {
+      "original": "ज्ञानिनं",
+      "transliteration": "একম্",
+      "translation": "এক"
+    },
+    {
+      "original": "चिरजीविनम्",
+      "transliteration": "হবিষ্যাশি",
+      "translation": "হবিষ্য ভোজী"
+    },
+    {
+      "original": "दरिद्रो",
+      "transliteration": "শংকরস্য",
+      "translation": "শংকরের"
+    },
+    {
+      "original": "भवेद्धनाढ्यो",
+      "transliteration": "মহাত্মনঃ",
+      "translation": "মহাত্মার"
+    },
+    {
+      "original": "मूको",
+      "transliteration": "স",
+      "translation": "সে"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "লভেত্",
+      "translation": "লাভ করে"
+    },
+    {
+      "original": "पण्डितः",
+      "transliteration": "বৈষ্ণবম্",
+      "translation": "বৈষ্ণব"
+    },
+    {
+      "original": "अभार्यो",
+      "transliteration": "পুত্রম্",
+      "translation": "পুত্র"
+    },
+    {
+      "original": "लभते",
+      "transliteration": "জ্ঞানিনম্",
+      "translation": "জ্ঞানী"
+    },
+    {
+      "original": "भार्यां",
+      "transliteration": "চ",
+      "translation": "এবং"
+    },
+    {
+      "original": "सुशीलां",
+      "transliteration": "চিরজীবিনম্",
+      "translation": "দীর্ঘায়ু"
+    },
+    {
+      "original": "च",
+      "transliteration": "দরিদ্রঃ",
+      "translation": "দরিদ্র"
+    },
+    {
+      "original": "पतिव्रताम्",
+      "transliteration": "ভবেত্",
+      "translation": "হয়ে ওঠে"
+    },
+    {
+      "original": "इह",
+      "transliteration": "ধনাঢ্যঃ",
+      "translation": "ধনী"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "মূকঃ",
+      "translation": "বোবা"
+    },
+    {
+      "original": "सुखं",
+      "transliteration": "ভবতি",
+      "translation": "হয়ে ওঠে"
+    },
+    {
+      "original": "भुक्त्वा",
+      "transliteration": "পণ্ডিতঃ",
+      "translation": "জ্ঞানী ব্যক্তি"
+    },
+    {
+      "original": "यात्यन्ते",
+      "transliteration": "অভার্যঃ",
+      "translation": "অবিবাহিত"
+    },
+    {
+      "original": "शिवसन्निधिम्",
+      "transliteration": "লভতে",
+      "translation": "লাভ করে"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "ভার্যাং",
+      "translation": "স্ত্রী"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "সুশীলাং",
+      "translation": "সুশীলা"
+    },
+    {
+      "original": "पुरा",
+      "transliteration": "চ",
+      "translation": "এবং"
+    },
+    {
+      "original": "दत्तं",
+      "transliteration": "পতিব্রতাম্",
+      "translation": "পতিব্রতা"
+    },
+    {
+      "original": "ब्रह्मणा",
+      "transliteration": "ইহ",
+      "translation": "এই"
+    },
+    {
+      "original": "च",
+      "transliteration": "লোকে",
+      "translation": "পৃথিবীতে"
+    },
+    {
+      "original": "प्रचेतसे",
+      "transliteration": "সুখম্",
+      "translation": "সুখ"
+    },
+    {
+      "original": "प्रचेतसा",
+      "transliteration": "ভুক্ত্বা",
+      "translation": "ভোগ করার পর"
+    },
+    {
+      "original": "स्वपुत्रायासिताय",
+      "transliteration": "যাতি",
+      "translation": "যায়"
+    },
+    {
+      "original": "दत्तमुत्तमम्",
+      "transliteration": "অন্তে",
+      "translation": "শেষে"
+    },
+    {
+      "original": "इति",
+      "transliteration": "শিবসন্নিধিম্",
+      "translation": "শিবের সান্নিধ্যে"
+    },
+    {
+      "original": "श्रीब्रह्मवैवर्ते",
+      "transliteration": "ইদং",
+      "translation": "এই"
+    },
+    {
+      "original": "महापुराणे",
+      "transliteration": "স্তোত্রম্",
+      "translation": "স্তোত্র"
+    },
+    {
+      "original": "श्रीकृष्णजन्मखण्डे",
+      "transliteration": "পুরা",
+      "translation": "প্রাচীন কালে"
+    },
+    {
+      "original": "असितकृतं",
+      "transliteration": "দত্তম্",
+      "translation": "প্রদান করা হয়েছে"
+    },
+    {
+      "original": "शिवस्तोत्रं",
+      "transliteration": "ব্রহ্মণা",
+      "translation": "ব্রহ্মার দ্বারা"
+    },
+    {
+      "original": "संपूर्णम्",
+      "transliteration": "চ",
+      "translation": "এবং"
+    },
+    {
+      "original": "---",
+      "transliteration": "প্রচেতসে",
+      "translation": "প্রচেতসকে"
+    },
+    {
+      "original": "---",
+      "transliteration": "প্রচেতসা",
+      "translation": "প্রচেতস দ্বারা"
+    },
+    {
+      "original": "---",
+      "transliteration": "স্বপুত্রায়",
+      "translation": "নিজের পুত্রকে"
+    },
+    {
+      "original": "---",
+      "transliteration": "অসিতায়",
+      "translation": "অসিতকে"
+    },
+    {
+      "original": "---",
+      "transliteration": "দত্তম্",
+      "translation": "প্রদান করা হয়েছে"
+    },
+    {
+      "original": "---",
+      "transliteration": "উত্তমম্",
+      "translation": "শ্রেষ্ঠ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ইতি",
+      "translation": "এইভাবে"
+    },
+    {
+      "original": "---",
+      "transliteration": "শ্রীব্রহ্মবৈবর্তে",
+      "translation": "শ্রী ব্রহ্মবৈবর্ত"
+    },
+    {
+      "original": "---",
+      "transliteration": "মহাপুরাণে",
+      "translation": "মহাপুরাণে"
+    },
+    {
+      "original": "---",
+      "transliteration": "শ্রীকৃষ্ণজন্মখণ্ডে",
+      "translation": "শ্রীকৃষ্ণের জন্মখণ্ডে"
+    },
+    {
+      "original": "---",
+      "transliteration": "সম্পূর্ণম্",
+      "translation": "সম্পূর্ণ"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\bengali\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\bengali\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.204Z"
+  }
+}

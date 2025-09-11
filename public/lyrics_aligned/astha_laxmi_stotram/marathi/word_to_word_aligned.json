@@ -1,0 +1,964 @@
+{
+  "mantra": "astha_laxmi_stotram",
+  "language": "marathi",
+  "type": "word_to_word",
+  "totalWords": 190,
+  "alignedWords": [
+    {
+      "original": "आदिलक्ष्मी",
+      "transliteration": "आदिलक्ष्मी",
+      "translation": "आदिम लक्ष्मी"
+    },
+    {
+      "original": "सुमनस",
+      "transliteration": "सुमनसवन्दित",
+      "translation": "फुलांनी पूजलेली"
+    },
+    {
+      "original": "मुनिगणमण्डित",
+      "transliteration": "सुन्दरि",
+      "translation": "सुंदर स्त्री"
+    },
+    {
+      "original": "पंकजवासिनी",
+      "transliteration": "माधवि",
+      "translation": "माधवाची पत्नी"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "चन्द्र",
+      "translation": "चंद्र"
+    },
+    {
+      "original": "धान्यलक्ष्मी",
+      "transliteration": "सहोदरि",
+      "translation": "बहीण"
+    },
+    {
+      "original": "अहिकलि",
+      "transliteration": "हेममये",
+      "translation": "सुवर्णसमान"
+    },
+    {
+      "original": "क्षीरसमुद्भव",
+      "transliteration": "मुनिगणमण्डित",
+      "translation": "ऋषीगणांनी पूजलेली"
+    },
+    {
+      "original": "मंगलदायिनी",
+      "transliteration": "मोक्षप्रदायिनि",
+      "translation": "मोक्ष देणारी"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "मञ्जुळभाषिणि",
+      "translation": "गोड बोलणारी"
+    },
+    {
+      "original": "धैर्यलक्ष्मी",
+      "transliteration": "वेदनुते",
+      "translation": "वेदांनी स्तुती केलेली"
+    },
+    {
+      "original": "जयवरवर्णिनि",
+      "transliteration": "पङ्कजवासिनि",
+      "translation": "कमलात वास करणारी"
+    },
+    {
+      "original": "सुरगणपूजित",
+      "transliteration": "देवसुपूजित",
+      "translation": "देवांनी पूजलेली"
+    },
+    {
+      "original": "भवभयहारिणि",
+      "transliteration": "सद्गुणवर्षिणि",
+      "translation": "सद्गुणांचा वर्षाव करणारी"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "शान्तियुते",
+      "translation": "शांततेने परिपूर्ण"
+    },
+    {
+      "original": "गजलक्ष्मी",
+      "transliteration": "जयजय",
+      "translation": "जयजयकार"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "हे",
+      "translation": "ओ"
+    },
+    {
+      "original": "रथगज",
+      "transliteration": "मधुसूदन",
+      "translation": "मधु राक्षसाचा नाश करणारा"
+    },
+    {
+      "original": "हरिहर",
+      "transliteration": "कामिनि",
+      "translation": "स्त्री"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "आदिलक्ष्मी",
+      "translation": "आदिम लक्ष्मी"
+    },
+    {
+      "original": "सन्तानलक्ष्मी",
+      "transliteration": "सदा",
+      "translation": "नेहमी"
+    },
+    {
+      "original": "अहिखग",
+      "transliteration": "पालय",
+      "translation": "रक्षण कर"
+    },
+    {
+      "original": "गुणगणवारिधि",
+      "transliteration": "माम्",
+      "translation": "मला"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "धान्यलक्ष्मी",
+      "translation": "धान्यांची लक्ष्मी"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "अहिकलि",
+      "translation": "दोषांचा नाश करणारी"
+    },
+    {
+      "original": "विजयलक्ष्मी",
+      "transliteration": "कल्मषनाशिनि",
+      "translation": "पापांचा नाश करणारी"
+    },
+    {
+      "original": "जय",
+      "transliteration": "कामिनि",
+      "translation": "स्त्री"
+    },
+    {
+      "original": "अनुदिनमर्चित",
+      "transliteration": "वैदिकरूपिणि",
+      "translation": "वैदिक रूपाने असलेली"
+    },
+    {
+      "original": "कनकधरास्तुति",
+      "transliteration": "वेदमये",
+      "translation": "वेदांनी संबंधित"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "क्षीरसमुद्भव",
+      "translation": "दूधाने उत्पन्न झालेली"
+    },
+    {
+      "original": "विद्यालक्ष्मी",
+      "transliteration": "मङ्गलरूपिणि",
+      "translation": "शुभ रूप असलेली"
+    },
+    {
+      "original": "प्रणत",
+      "transliteration": "मन्त्रनिवासिनि",
+      "translation": "मंत्रांमध्ये वास करणारी"
+    },
+    {
+      "original": "मणिमयभूषित",
+      "transliteration": "मन्त्रनुते",
+      "translation": "मंत्राने पूजलेली"
+    },
+    {
+      "original": "नवनिधिदायिनि",
+      "transliteration": "मङ्गलदायिनि",
+      "translation": "मंगल देणारी"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "अम्बुजवासिनि",
+      "translation": "कमलात वास करणारी"
+    },
+    {
+      "original": "धनलक्ष्मी",
+      "transliteration": "देवगणाश्रित",
+      "translation": "देवगणांची आश्रय असलेली"
+    },
+    {
+      "original": "धिमिधिमि",
+      "transliteration": "पादयुते",
+      "translation": "पायांनी व्रजलेली"
+    },
+    {
+      "original": "घुमघुम",
+      "transliteration": "जयजय",
+      "translation": "जयजयकार"
+    },
+    {
+      "original": "वेदपुराणेतिहास",
+      "transliteration": "हे",
+      "translation": "ओ"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "मधुसूदन",
+      "translation": "मधु राक्षसाचा नाश करणारा"
+    },
+    {
+      "original": "---",
+      "transliteration": "कामिनि",
+      "translation": "स्त्री"
+    },
+    {
+      "original": "---",
+      "transliteration": "धान्यलक्ष्मी",
+      "translation": "धान्यांची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "सदा",
+      "translation": "नेहमी"
+    },
+    {
+      "original": "---",
+      "transliteration": "पालय",
+      "translation": "रक्षण कर"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम्",
+      "translation": "मला"
+    },
+    {
+      "original": "---",
+      "transliteration": "धैर्यलक्ष्मी",
+      "translation": "धैर्याची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "जयवरवर्णिनि",
+      "translation": "जयच्या वर्णाने असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "वैष्णवि",
+      "translation": "विष्णूची भक्त असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "भार्गवि",
+      "translation": "भार्गववंशातील"
+    },
+    {
+      "original": "---",
+      "transliteration": "मन्त्रस्वरूपिणि",
+      "translation": "मंत्ररूप असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "मन्त्रमये",
+      "translation": "मंत्रांमध्ये असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "सुरगणपूजित",
+      "translation": "देवांच्या आधीपूजित"
+    },
+    {
+      "original": "---",
+      "transliteration": "शीघ्रफलप्रद",
+      "translation": "लवकर परिणाम देणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "ज्ञानविकासिनि",
+      "translation": "ज्ञानविकसीत करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "शास्त्रनुते",
+      "translation": "शास्त्रांनी स्तुती केलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "भवभयहारिणि",
+      "translation": "भवसुख नाश करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "पापविमोचनि",
+      "translation": "पापांचा नाश करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "साधुजनाश्रित",
+      "translation": "साधूंचा आश्रय असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "पादयुते",
+      "translation": "पायांनी व्रजलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "जयजय",
+      "translation": "जयजयकार"
+    },
+    {
+      "original": "---",
+      "transliteration": "हे",
+      "translation": "ओ"
+    },
+    {
+      "original": "---",
+      "transliteration": "मधुसूदन",
+      "translation": "मधु राक्षसाचा नाश करणारा"
+    },
+    {
+      "original": "---",
+      "transliteration": "कामिनि",
+      "translation": "स्त्री"
+    },
+    {
+      "original": "---",
+      "transliteration": "धैर्यलक्ष्मी",
+      "translation": "धैर्याची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "सदा",
+      "translation": "नेहमी"
+    },
+    {
+      "original": "---",
+      "transliteration": "पालय",
+      "translation": "रक्षण कर"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम्",
+      "translation": "मला"
+    },
+    {
+      "original": "---",
+      "transliteration": "गजलक्ष्मी",
+      "translation": "गजांची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "जयजय",
+      "translation": "जयजयकार"
+    },
+    {
+      "original": "---",
+      "transliteration": "दुर्गतिनाशिनि",
+      "translation": "दुर्गती नष्ट करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "कामिनि",
+      "translation": "स्त्री"
+    },
+    {
+      "original": "---",
+      "transliteration": "सर्वफलप्रद",
+      "translation": "सर्व फळे देणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "शास्त्रमये",
+      "translation": "शास्त्रांच्या असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "रथगज",
+      "translation": "रथ आणि गजा"
+    },
+    {
+      "original": "---",
+      "transliteration": "तुरगपदादि",
+      "translation": "घोड्याच्या पायांचा समावेश"
+    },
+    {
+      "original": "---",
+      "transliteration": "समावृत",
+      "translation": "वेढलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "परिजनमण्डित",
+      "translation": "कुटुंबाने पूजित"
+    },
+    {
+      "original": "---",
+      "transliteration": "लोकनुते",
+      "translation": "लोकांमध्ये स्तुती केलीली"
+    },
+    {
+      "original": "---",
+      "transliteration": "हरिहर",
+      "translation": "विष्णू आणि शिव"
+    },
+    {
+      "original": "---",
+      "transliteration": "ब्रह्म",
+      "translation": "ब्रह्मदेव"
+    },
+    {
+      "original": "---",
+      "transliteration": "सुपूजित",
+      "translation": "योग्य पूजा केलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "सेवित",
+      "translation": "सेवा करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "तापनिवारिणि",
+      "translation": "तापांचा नाश करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "पादयुते",
+      "translation": "पायांनी व्रजलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "जयजय",
+      "translation": "जयजयकार"
+    },
+    {
+      "original": "---",
+      "transliteration": "हे",
+      "translation": "ओ"
+    },
+    {
+      "original": "---",
+      "transliteration": "मधुसूदन",
+      "translation": "मधु राक्षसाचा नाश करणारा"
+    },
+    {
+      "original": "---",
+      "transliteration": "कामिनि",
+      "translation": "स्त्री"
+    },
+    {
+      "original": "---",
+      "transliteration": "गजलक्ष्मी",
+      "translation": "गजांची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "रूपेण",
+      "translation": "रूपाने"
+    },
+    {
+      "original": "---",
+      "transliteration": "पालय",
+      "translation": "रक्षण कर"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम्",
+      "translation": "मला"
+    },
+    {
+      "original": "---",
+      "transliteration": "सन्तानलक्ष्मी",
+      "translation": "संतानांची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "अहिखग",
+      "translation": "सर्प आणि कावळ्यांची वाहन"
+    },
+    {
+      "original": "---",
+      "transliteration": "वाहिनि",
+      "translation": "वाहक असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "मोहिनि",
+      "translation": "मोहक असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "चक्रिणि",
+      "translation": "चक्र धारण करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "रागविवर्धिनि",
+      "translation": "राग वाढविणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "ज्ञानमये",
+      "translation": "ज्ञानाने व्यापलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "गुणगणवारिधि",
+      "translation": "गुणांचा सागर"
+    },
+    {
+      "original": "---",
+      "transliteration": "लोकहितैषिणि",
+      "translation": "लोककल्याण करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "स्वरसप्त",
+      "translation": "सात स्वरांनी सजलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "भूषित",
+      "translation": "अलंकरण केलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "गाननुते",
+      "translation": "गाण्यांच्या स्तुती करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "सकल",
+      "translation": "सर्व"
+    },
+    {
+      "original": "---",
+      "transliteration": "सुरासुर",
+      "translation": "देव आणि दैत्य"
+    },
+    {
+      "original": "---",
+      "transliteration": "देवमुनीश्वर",
+      "translation": "देव आणि मुनींच्या ईश्वराचा"
+    },
+    {
+      "original": "---",
+      "transliteration": "मानववन्दित",
+      "translation": "मानवांनी पूजित"
+    },
+    {
+      "original": "---",
+      "transliteration": "पादयुते",
+      "translation": "पायांनी व्रजलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "जयजय",
+      "translation": "जयजयकार"
+    },
+    {
+      "original": "---",
+      "transliteration": "हे",
+      "translation": "ओ"
+    },
+    {
+      "original": "---",
+      "transliteration": "मधुसूदन",
+      "translation": "मधु राक्षसाचा नाश करणारा"
+    },
+    {
+      "original": "---",
+      "transliteration": "कामिनि",
+      "translation": "स्त्री"
+    },
+    {
+      "original": "---",
+      "transliteration": "सन्तानलक्ष्मी",
+      "translation": "संतानांची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "त्वं",
+      "translation": "तू"
+    },
+    {
+      "original": "---",
+      "transliteration": "पालय",
+      "translation": "रक्षण कर"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम्",
+      "translation": "मला"
+    },
+    {
+      "original": "---",
+      "transliteration": "विजयलक्ष्मी",
+      "translation": "विजयाची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "जय",
+      "translation": "विजयकारक"
+    },
+    {
+      "original": "---",
+      "transliteration": "कमलासनि",
+      "translation": "कमळ असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "सद्गतिदायिनि",
+      "translation": "सद्गती देणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "ज्ञानविकासिनि",
+      "translation": "ज्ञानाच्या वाढवणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "गानमये",
+      "translation": "गाण्यांनी व्यापलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "अनुदिनमर्चित",
+      "translation": "रोज पूजा केलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "कुङ्कुमधूसर-भूषित",
+      "translation": "कुंकवाच्या रंगाने अलंकरण केलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "वासित",
+      "translation": "संगीताने भरणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "वाद्यनुते",
+      "translation": "वाद्यांचा आदर करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "कनकधरास्तुति",
+      "translation": "सोने धरून स्तुती करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "वैभव",
+      "translation": "ऐश्वर्य"
+    },
+    {
+      "original": "---",
+      "transliteration": "वन्दित",
+      "translation": "पूजा केलीली"
+    },
+    {
+      "original": "---",
+      "transliteration": "शङ्कर",
+      "translation": "शिव देव"
+    },
+    {
+      "original": "---",
+      "transliteration": "देशिक",
+      "translation": "गुरु"
+    },
+    {
+      "original": "---",
+      "transliteration": "मान्य",
+      "translation": "मान्य असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "पदे",
+      "translation": "पाय"
+    },
+    {
+      "original": "---",
+      "transliteration": "जयजय",
+      "translation": "जयजयकार"
+    },
+    {
+      "original": "---",
+      "transliteration": "हे",
+      "translation": "ओ"
+    },
+    {
+      "original": "---",
+      "transliteration": "मधुसूदन",
+      "translation": "मधु राक्षसाचा नाश करणारा"
+    },
+    {
+      "original": "---",
+      "transliteration": "कामिनि",
+      "translation": "स्त्री"
+    },
+    {
+      "original": "---",
+      "transliteration": "विजयलक्ष्मी",
+      "translation": "विजयाची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "सदा",
+      "translation": "सदैव"
+    },
+    {
+      "original": "---",
+      "transliteration": "पालय",
+      "translation": "रक्षण कर"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम्",
+      "translation": "मला"
+    },
+    {
+      "original": "---",
+      "transliteration": "विद्यालक्ष्मी",
+      "translation": "ज्ञानाची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "प्रणत",
+      "translation": "वंदित असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "सुरेश्वरि",
+      "translation": "देवांचा ईश्वर"
+    },
+    {
+      "original": "---",
+      "transliteration": "भारति",
+      "translation": "सरस्वती"
+    },
+    {
+      "original": "---",
+      "transliteration": "भार्गवि",
+      "translation": "भार्गव कुटुंबाची"
+    },
+    {
+      "original": "---",
+      "transliteration": "शोकविनाशिनि",
+      "translation": "शोक नष्ट करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "रत्नमये",
+      "translation": "रत्नांनी व्यापलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "मणिमयभूषित",
+      "translation": "मणींच्या अलंकरणाने सजलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "कर्णविभूषण",
+      "translation": "कानातील अलंकरण"
+    },
+    {
+      "original": "---",
+      "transliteration": "शान्तिसमावृत",
+      "translation": "शांतीने व्यापलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "हास्यमुखे",
+      "translation": "हसऱ्या मुख असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "नवनिधिदायिनि",
+      "translation": "नव निधी देणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "कलिमलहारिणि",
+      "translation": "कलिमल नष्ट करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "कामित",
+      "translation": "इच्छित"
+    },
+    {
+      "original": "---",
+      "transliteration": "फलप्रद",
+      "translation": "फल देणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "हस्तयुते",
+      "translation": "हातांनी उपकृत केलीली"
+    },
+    {
+      "original": "---",
+      "transliteration": "जयजय",
+      "translation": "जयजयकार"
+    },
+    {
+      "original": "---",
+      "transliteration": "हे",
+      "translation": "ओ"
+    },
+    {
+      "original": "---",
+      "transliteration": "मधुसूदन",
+      "translation": "मधु राक्षसाचा नाश करणारा"
+    },
+    {
+      "original": "---",
+      "transliteration": "कामिनि",
+      "translation": "स्त्री"
+    },
+    {
+      "original": "---",
+      "transliteration": "विद्यालक्ष्मी",
+      "translation": "ज्ञानाची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "सदा",
+      "translation": "सदैव"
+    },
+    {
+      "original": "---",
+      "transliteration": "पालय",
+      "translation": "रक्षण कर"
+    },
+    {
+      "original": "---",
+      "transliteration": "माम्",
+      "translation": "मला"
+    },
+    {
+      "original": "---",
+      "transliteration": "धनलक्ष्मी",
+      "translation": "संपत्तीची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "धिमिधिमि",
+      "translation": "ध्वनिवृद्धि"
+    },
+    {
+      "original": "---",
+      "transliteration": "धिंधिमि",
+      "translation": "ध्वनिवृद्धि"
+    },
+    {
+      "original": "---",
+      "transliteration": "धिंधिमि",
+      "translation": "ध्वनिवृद्धि"
+    },
+    {
+      "original": "---",
+      "transliteration": "धिंधिमि",
+      "translation": "ध्वनिवृद्धि"
+    },
+    {
+      "original": "---",
+      "transliteration": "दुन्दुभि",
+      "translation": "डमणवाजे"
+    },
+    {
+      "original": "---",
+      "transliteration": "नाद",
+      "translation": "ध्वनी"
+    },
+    {
+      "original": "---",
+      "transliteration": "सुपूर्णमये",
+      "translation": "पूर्ण असलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "घुमघुम",
+      "translation": "घुमणे"
+    },
+    {
+      "original": "---",
+      "transliteration": "घुंघुम",
+      "translation": "घुमणे"
+    },
+    {
+      "original": "---",
+      "transliteration": "घुंघुम",
+      "translation": "घुमणे"
+    },
+    {
+      "original": "---",
+      "transliteration": "शङ्खनिनाद",
+      "translation": "शंखध्वनी"
+    },
+    {
+      "original": "---",
+      "transliteration": "सुवाद्यनुते",
+      "translation": "सुरम्य वाद्ये"
+    },
+    {
+      "original": "---",
+      "transliteration": "वेदपुराणेतिहास",
+      "translation": "वेद आणि पुराणांचा इतिहास"
+    },
+    {
+      "original": "---",
+      "transliteration": "सुपूजित",
+      "translation": "पूजा केलेली"
+    },
+    {
+      "original": "---",
+      "transliteration": "वैदिकमार्ग",
+      "translation": "वैदिक मार्ग"
+    },
+    {
+      "original": "---",
+      "transliteration": "प्रदर्शयुते",
+      "translation": "प्रदर्शित करणारी"
+    },
+    {
+      "original": "---",
+      "transliteration": "जयजय",
+      "translation": "जयजयकार"
+    },
+    {
+      "original": "---",
+      "transliteration": "हे",
+      "translation": "ओ"
+    },
+    {
+      "original": "---",
+      "transliteration": "मधुसूदन",
+      "translation": "मधु राक्षसाचा नाश करणारा"
+    },
+    {
+      "original": "---",
+      "transliteration": "कामिनि",
+      "translation": "स्त्री"
+    },
+    {
+      "original": "---",
+      "transliteration": "धनलक्ष्मी",
+      "translation": "संपत्तीची लक्ष्मी"
+    },
+    {
+      "original": "---",
+      "transliteration": "रूपेण",
+      "translation": "रूपाने"
+    },
+    {
+      "original": "---",
+      "transliteration": "पालय",
+      "translation": "रक्षण कर"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\marathi\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\marathi\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.327Z"
+  }
+}

@@ -1,0 +1,3969 @@
+{
+  "mantra": "shiv_mahima_stotra_pushp_dant",
+  "language": "german",
+  "type": "word_to_word",
+  "totalWords": 791,
+  "alignedWords": [
+    {
+      "original": "महिम्नः",
+      "transliteration": "Ruhm",
+      "translation": "Ruhm"
+    },
+    {
+      "original": "पारं",
+      "transliteration": "Grenze",
+      "translation": "Grenze"
+    },
+    {
+      "original": "ते",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "परमविदुषो",
+      "transliteration": "höchst Weise",
+      "translation": "höchst Weise"
+    },
+    {
+      "original": "यद्यसदृशी",
+      "transliteration": "wenn",
+      "translation": "wenn"
+    },
+    {
+      "original": "स्तुतिर्ब्रह्मादीनामपि",
+      "transliteration": "ungleich",
+      "translation": "ungleich"
+    },
+    {
+      "original": "तदवसन्नास्त्वयि",
+      "transliteration": "Lobpreis",
+      "translation": "Lobpreis"
+    },
+    {
+      "original": "गिरः",
+      "transliteration": "von Brahma und anderen",
+      "translation": "von Brahma und anderen"
+    },
+    {
+      "original": "अथाऽवाच्यः",
+      "transliteration": "auch",
+      "translation": "auch"
+    },
+    {
+      "original": "सर्वः",
+      "transliteration": "das",
+      "translation": "das"
+    },
+    {
+      "original": "स्वमतिपरिणामावधि",
+      "transliteration": "überfordert",
+      "translation": "überfordert"
+    },
+    {
+      "original": "गृणन्",
+      "transliteration": "an dir",
+      "translation": "an dir"
+    },
+    {
+      "original": "ममाप्येष",
+      "transliteration": "Worte",
+      "translation": "Worte"
+    },
+    {
+      "original": "स्तोत्रे",
+      "transliteration": "dann",
+      "translation": "dann"
+    },
+    {
+      "original": "हर",
+      "transliteration": "unaussprechlich",
+      "translation": "unaussprechlich"
+    },
+    {
+      "original": "निरपवादः",
+      "transliteration": "alles",
+      "translation": "alles"
+    },
+    {
+      "original": "परिकरः",
+      "transliteration": "entsprechend seiner eigenen Erkenntnisgrenze",
+      "translation": "entsprechend seiner eigenen Erkenntnisgrenze"
+    },
+    {
+      "original": "अतीतः",
+      "transliteration": "lobend",
+      "translation": "lobend"
+    },
+    {
+      "original": "पंथानं",
+      "transliteration": "mein",
+      "translation": "mein"
+    },
+    {
+      "original": "तव",
+      "transliteration": "auch",
+      "translation": "auch"
+    },
+    {
+      "original": "च",
+      "transliteration": "dieser",
+      "translation": "dieser"
+    },
+    {
+      "original": "महिमा",
+      "transliteration": "im Lobpreis",
+      "translation": "im Lobpreis"
+    },
+    {
+      "original": "वाङ्मनसयोः",
+      "transliteration": "Oh Shiva",
+      "translation": "Oh Shiva"
+    },
+    {
+      "original": "अतद्व्यावृत्त्या",
+      "transliteration": "makellos",
+      "translation": "makellos"
+    },
+    {
+      "original": "यं",
+      "transliteration": "Sammlung",
+      "translation": "Sammlung"
+    },
+    {
+      "original": "चकितमभिधत्ते",
+      "transliteration": "jenseits",
+      "translation": "jenseits"
+    },
+    {
+      "original": "श्रुतिरपि",
+      "transliteration": "Weg",
+      "translation": "Weg"
+    },
+    {
+      "original": "स",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "und",
+      "translation": "und"
+    },
+    {
+      "original": "स्तोतव्यः",
+      "transliteration": "Herrlichkeit",
+      "translation": "Herrlichkeit"
+    },
+    {
+      "original": "कतिविधगुणः",
+      "transliteration": "von Sprache und Geist",
+      "translation": "von Sprache und Geist"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "durch das Ausschließen von Nicht-Diesem",
+      "translation": "durch das Ausschließen von Nicht-Diesem"
+    },
+    {
+      "original": "विषयः",
+      "transliteration": "den",
+      "translation": "den"
+    },
+    {
+      "original": "पदे",
+      "transliteration": "erstaunt",
+      "translation": "erstaunt"
+    },
+    {
+      "original": "त्वर्वाचीने",
+      "transliteration": "beschreibt",
+      "translation": "beschreibt"
+    },
+    {
+      "original": "पतति",
+      "transliteration": "die Veden",
+      "translation": "die Veden"
+    },
+    {
+      "original": "न",
+      "transliteration": "auch",
+      "translation": "auch"
+    },
+    {
+      "original": "मनः",
+      "transliteration": "er",
+      "translation": "er"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "von wem",
+      "translation": "von wem"
+    },
+    {
+      "original": "न",
+      "transliteration": "ist zu loben",
+      "translation": "ist zu loben"
+    },
+    {
+      "original": "वचः",
+      "transliteration": "von wie vielen Eigenschaften",
+      "translation": "von wie vielen Eigenschaften"
+    },
+    {
+      "original": "मधुस्फीता",
+      "transliteration": "wessen",
+      "translation": "wessen"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "Gegenstand",
+      "translation": "Gegenstand"
+    },
+    {
+      "original": "परमममृतं",
+      "transliteration": "im Zustand",
+      "translation": "im Zustand"
+    },
+    {
+      "original": "निर्मितवतः",
+      "transliteration": "aber",
+      "translation": "aber"
+    },
+    {
+      "original": "तव",
+      "transliteration": "innerhalb der Reichweite",
+      "translation": "innerhalb der Reichweite"
+    },
+    {
+      "original": "ब्रह्मन्",
+      "transliteration": "fällt",
+      "translation": "fällt"
+    },
+    {
+      "original": "किं",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "वागपि",
+      "transliteration": "der Geist",
+      "translation": "der Geist"
+    },
+    {
+      "original": "सुरगुरोर्विस्मयपदम्",
+      "transliteration": "wessen",
+      "translation": "wessen"
+    },
+    {
+      "original": "मम",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "त्वेतां",
+      "transliteration": "Worte",
+      "translation": "Worte"
+    },
+    {
+      "original": "वाणीं",
+      "transliteration": "honigsüß",
+      "translation": "honigsüß"
+    },
+    {
+      "original": "गुणकथनपुण्येन",
+      "transliteration": "Worte",
+      "translation": "Worte"
+    },
+    {
+      "original": "भवतः",
+      "transliteration": "höchst",
+      "translation": "höchst"
+    },
+    {
+      "original": "पुनामीत्यर्थेऽस्मिन्",
+      "transliteration": "unsterblich",
+      "translation": "unsterblich"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "erschaffen",
+      "translation": "erschaffen"
+    },
+    {
+      "original": "बुद्धिर्व्यवसिता",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "तवैश्वर्यं",
+      "transliteration": "Oh Brahman",
+      "translation": "Oh Brahman"
+    },
+    {
+      "original": "यत्तज्जगदुदयरक्षाप्रलयकृत्",
+      "transliteration": "was",
+      "translation": "was"
+    },
+    {
+      "original": "त्रयीवस्तु",
+      "transliteration": "Sprache",
+      "translation": "Sprache"
+    },
+    {
+      "original": "व्यस्तं",
+      "transliteration": "auch",
+      "translation": "auch"
+    },
+    {
+      "original": "तिस्रुषु",
+      "transliteration": "des Lehrers der Götter",
+      "translation": "des Lehrers der Götter"
+    },
+    {
+      "original": "गुणभिन्नासु",
+      "transliteration": "Erstaunen erregend",
+      "translation": "Erstaunen erregend"
+    },
+    {
+      "original": "तनुषु",
+      "transliteration": "mein",
+      "translation": "mein"
+    },
+    {
+      "original": "अभव्यानामस्मिन्",
+      "transliteration": "aber",
+      "translation": "aber"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "diese",
+      "translation": "diese"
+    },
+    {
+      "original": "रमणीयामरमणीं",
+      "transliteration": "Rede",
+      "translation": "Rede"
+    },
+    {
+      "original": "विहन्तुं",
+      "transliteration": "Lob deiner Tugenden",
+      "translation": "Lob deiner Tugenden"
+    },
+    {
+      "original": "व्याक्रोशीं",
+      "transliteration": "durch Tugend",
+      "translation": "durch Tugend"
+    },
+    {
+      "original": "विदधत",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "इहैके",
+      "transliteration": "reinigt",
+      "translation": "reinigt"
+    },
+    {
+      "original": "जडधियः",
+      "transliteration": "mit der Bedeutung",
+      "translation": "mit der Bedeutung"
+    },
+    {
+      "original": "किमीहः",
+      "transliteration": "in diesem",
+      "translation": "in diesem"
+    },
+    {
+      "original": "किंकायः",
+      "transliteration": "Oh Zerstörer der Städte",
+      "translation": "Oh Zerstörer der Städte"
+    },
+    {
+      "original": "स",
+      "transliteration": "Verstand",
+      "translation": "Verstand"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "entschieden",
+      "translation": "entschieden"
+    },
+    {
+      "original": "किमुपायस्त्रिभुवनं",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "किमाधारो",
+      "transliteration": "Herrschaft",
+      "translation": "Herrschaft"
+    },
+    {
+      "original": "धाता",
+      "transliteration": "welches",
+      "translation": "welches"
+    },
+    {
+      "original": "सृजति",
+      "transliteration": "das",
+      "translation": "das"
+    },
+    {
+      "original": "किमुपादान",
+      "transliteration": "Entstehung der Welt",
+      "translation": "Entstehung der Welt"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Erhaltung",
+      "translation": "Erhaltung"
+    },
+    {
+      "original": "च",
+      "transliteration": "Auflösung",
+      "translation": "Auflösung"
+    },
+    {
+      "original": "अजन्मानो",
+      "transliteration": "bewirkt",
+      "translation": "bewirkt"
+    },
+    {
+      "original": "लोकाः",
+      "transliteration": "die drei",
+      "translation": "die drei"
+    },
+    {
+      "original": "किमवयववन्तोऽपि",
+      "transliteration": "Prinzipien",
+      "translation": "Prinzipien"
+    },
+    {
+      "original": "जगतां",
+      "transliteration": "verteilt",
+      "translation": "verteilt"
+    },
+    {
+      "original": "अधिष्ठातारं",
+      "transliteration": "in drei",
+      "translation": "in drei"
+    },
+    {
+      "original": "किं",
+      "transliteration": "Eigenschaften",
+      "translation": "Eigenschaften"
+    },
+    {
+      "original": "भवविधिरनादृत्य",
+      "transliteration": "getrennt",
+      "translation": "getrennt"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "in Formen",
+      "translation": "in Formen"
+    },
+    {
+      "original": "अनीशो",
+      "transliteration": "der Unwissenden",
+      "translation": "der Unwissenden"
+    },
+    {
+      "original": "वा",
+      "transliteration": "in diesem",
+      "translation": "in diesem"
+    },
+    {
+      "original": "कुर्याद्",
+      "transliteration": "Oh Segenspendender",
+      "translation": "Oh Segenspendender"
+    },
+    {
+      "original": "भुवनजनने",
+      "transliteration": "schön",
+      "translation": "schön"
+    },
+    {
+      "original": "कः",
+      "transliteration": "nicht schön",
+      "translation": "nicht schön"
+    },
+    {
+      "original": "परिकरो",
+      "transliteration": "zu zerstören",
+      "translation": "zu zerstören"
+    },
+    {
+      "original": "यतो",
+      "transliteration": "laut schreiend",
+      "translation": "laut schreiend"
+    },
+    {
+      "original": "मन्दास्त्वां",
+      "transliteration": "ausführend",
+      "translation": "ausführend"
+    },
+    {
+      "original": "प्रत्यमरवर",
+      "transliteration": "hier",
+      "translation": "hier"
+    },
+    {
+      "original": "संशेरत",
+      "transliteration": "einige",
+      "translation": "einige"
+    },
+    {
+      "original": "इमे",
+      "transliteration": "unverständige",
+      "translation": "unverständige"
+    },
+    {
+      "original": "त्रयी",
+      "transliteration": "was ist sein Wunsch",
+      "translation": "was ist sein Wunsch"
+    },
+    {
+      "original": "साङ्ख्यं",
+      "transliteration": "was ist sein Körper",
+      "translation": "was ist sein Körper"
+    },
+    {
+      "original": "योगः",
+      "transliteration": "er",
+      "translation": "er"
+    },
+    {
+      "original": "पशुपतिमतं",
+      "transliteration": "wirklich",
+      "translation": "wirklich"
+    },
+    {
+      "original": "वैष्णवमिति",
+      "transliteration": "was ist sein Mittel",
+      "translation": "was ist sein Mittel"
+    },
+    {
+      "original": "प्रभिन्ने",
+      "transliteration": "die drei Welten",
+      "translation": "die drei Welten"
+    },
+    {
+      "original": "प्रस्थाने",
+      "transliteration": "was ist seine Basis",
+      "translation": "was ist seine Basis"
+    },
+    {
+      "original": "परमिदमदः",
+      "transliteration": "der Schöpfer",
+      "translation": "der Schöpfer"
+    },
+    {
+      "original": "पथ्यमिति",
+      "transliteration": "erschafft",
+      "translation": "erschafft"
+    },
+    {
+      "original": "च",
+      "transliteration": "was ist sein Rohmaterial",
+      "translation": "was ist sein Rohmaterial"
+    },
+    {
+      "original": "रुचीनां",
+      "transliteration": "so",
+      "translation": "so"
+    },
+    {
+      "original": "वैचित्र्यादृजुकुटिल",
+      "transliteration": "und",
+      "translation": "und"
+    },
+    {
+      "original": "नानापथजुषां",
+      "transliteration": "unergründlich",
+      "translation": "unergründlich"
+    },
+    {
+      "original": "नृणामेको",
+      "transliteration": "Herrschaft",
+      "translation": "Herrschaft"
+    },
+    {
+      "original": "गम्यस्त्वमसि",
+      "transliteration": "in dir",
+      "translation": "in dir"
+    },
+    {
+      "original": "पयसामर्णव",
+      "transliteration": "keine Gelegenheit",
+      "translation": "keine Gelegenheit"
+    },
+    {
+      "original": "इव",
+      "transliteration": "unruhig",
+      "translation": "unruhig"
+    },
+    {
+      "original": "महोक्षः",
+      "transliteration": "von schwachem Verstand",
+      "translation": "von schwachem Verstand"
+    },
+    {
+      "original": "खट्वाङ्गं",
+      "transliteration": "falsche Argumentation",
+      "translation": "falsche Argumentation"
+    },
+    {
+      "original": "परशुरजिनं",
+      "transliteration": "dieser",
+      "translation": "dieser"
+    },
+    {
+      "original": "भस्म",
+      "transliteration": "einige",
+      "translation": "einige"
+    },
+    {
+      "original": "फणिनः",
+      "transliteration": "bringt zum Reden",
+      "translation": "bringt zum Reden"
+    },
+    {
+      "original": "कपालं",
+      "transliteration": "zur Verblendung",
+      "translation": "zur Verblendung"
+    },
+    {
+      "original": "चेतीयत्तव",
+      "transliteration": "der Welt",
+      "translation": "der Welt"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "ungeboren",
+      "translation": "ungeboren"
+    },
+    {
+      "original": "तन्त्रोपकरणम्",
+      "transliteration": "Welten",
+      "translation": "Welten"
+    },
+    {
+      "original": "सुरास्तां",
+      "transliteration": "was",
+      "translation": "was"
+    },
+    {
+      "original": "तामृद्धिं",
+      "transliteration": "mit Gliedern",
+      "translation": "mit Gliedern"
+    },
+    {
+      "original": "दधति",
+      "transliteration": "auch",
+      "translation": "auch"
+    },
+    {
+      "original": "तु",
+      "transliteration": "der Welt",
+      "translation": "der Welt"
+    },
+    {
+      "original": "भवद्भूप्रणिहितां",
+      "transliteration": "Herrscher",
+      "translation": "Herrscher"
+    },
+    {
+      "original": "न",
+      "transliteration": "was",
+      "translation": "was"
+    },
+    {
+      "original": "हि",
+      "transliteration": "das Gesetz des Seins",
+      "translation": "das Gesetz des Seins"
+    },
+    {
+      "original": "स्वात्मारामं",
+      "transliteration": "ohne zu achten",
+      "translation": "ohne zu achten"
+    },
+    {
+      "original": "विषयमृगतृष्णा",
+      "transliteration": "die drei Veden",
+      "translation": "die drei Veden"
+    },
+    {
+      "original": "भ्रमयति",
+      "transliteration": "Sāṅkhya-Philosophie",
+      "translation": "Sāṅkhya-Philosophie"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "Yoga-Philosophie",
+      "translation": "Yoga-Philosophie"
+    },
+    {
+      "original": "कश्चित्",
+      "transliteration": "Lehre des Pashupata",
+      "translation": "Lehre des Pashupata"
+    },
+    {
+      "original": "सर्वं",
+      "transliteration": "Vaishnavismus",
+      "translation": "Vaishnavismus"
+    },
+    {
+      "original": "सकलमपरस्त्वध्रुवमिदं",
+      "transliteration": "so",
+      "translation": "so"
+    },
+    {
+      "original": "परो",
+      "transliteration": "unterteilt",
+      "translation": "unterteilt"
+    },
+    {
+      "original": "ध्रौव्याऽध्रौव्ये",
+      "transliteration": "in Lehren",
+      "translation": "in Lehren"
+    },
+    {
+      "original": "जगति",
+      "transliteration": "dieses höchste",
+      "translation": "dieses höchste"
+    },
+    {
+      "original": "गदति",
+      "transliteration": "jenes",
+      "translation": "jenes"
+    },
+    {
+      "original": "व्यस्तविषये",
+      "transliteration": "gesund",
+      "translation": "gesund"
+    },
+    {
+      "original": "समस्तेऽप्येतस्मिन्",
+      "transliteration": "so",
+      "translation": "so"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "und",
+      "translation": "und"
+    },
+    {
+      "original": "तैर्विस्मित",
+      "transliteration": "der Geschmäcker",
+      "translation": "der Geschmäcker"
+    },
+    {
+      "original": "इव",
+      "transliteration": "aufgrund der Vielfalt",
+      "translation": "aufgrund der Vielfalt"
+    },
+    {
+      "original": "स्तुवन्",
+      "transliteration": "gerade",
+      "translation": "gerade"
+    },
+    {
+      "original": "जिह्रेमि",
+      "transliteration": "krumm",
+      "translation": "krumm"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "verschieden",
+      "translation": "verschieden"
+    },
+    {
+      "original": "न",
+      "transliteration": "Wege",
+      "translation": "Wege"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "der Gehenden",
+      "translation": "der Gehenden"
+    },
+    {
+      "original": "ननु",
+      "transliteration": "der Menschen",
+      "translation": "der Menschen"
+    },
+    {
+      "original": "धृष्टा",
+      "transliteration": "einer",
+      "translation": "einer"
+    },
+    {
+      "original": "मुखरता",
+      "transliteration": "erreichbar",
+      "translation": "erreichbar"
+    },
+    {
+      "original": "तवैश्वर्यं",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "यत्नाद्",
+      "transliteration": "bist",
+      "translation": "bist"
+    },
+    {
+      "original": "यदुपरि",
+      "transliteration": "der Wasser",
+      "translation": "der Wasser"
+    },
+    {
+      "original": "विरिञ्चिर्हरिरधः",
+      "transliteration": "Ozean",
+      "translation": "Ozean"
+    },
+    {
+      "original": "परिच्छेतुं",
+      "transliteration": "wie",
+      "translation": "wie"
+    },
+    {
+      "original": "यातावनलमनलस्कन्धवपुषः",
+      "transliteration": "der große Stier",
+      "translation": "der große Stier"
+    },
+    {
+      "original": "ततो",
+      "transliteration": "Keule aus Knochen",
+      "translation": "Keule aus Knochen"
+    },
+    {
+      "original": "भक्तिश्रद्धा-भरगुरु-गृणद्भ्यां",
+      "transliteration": "Axt",
+      "translation": "Axt"
+    },
+    {
+      "original": "गिरिश",
+      "transliteration": "Tierfell",
+      "translation": "Tierfell"
+    },
+    {
+      "original": "यत्",
+      "transliteration": "Asche",
+      "translation": "Asche"
+    },
+    {
+      "original": "स्वयं",
+      "transliteration": "Schlangen",
+      "translation": "Schlangen"
+    },
+    {
+      "original": "तस्थे",
+      "transliteration": "Totenkopf",
+      "translation": "Totenkopf"
+    },
+    {
+      "original": "ताभ्यां",
+      "transliteration": "und",
+      "translation": "und"
+    },
+    {
+      "original": "तव",
+      "transliteration": "so",
+      "translation": "so"
+    },
+    {
+      "original": "किम्",
+      "transliteration": "welches",
+      "translation": "welches"
+    },
+    {
+      "original": "अनुवृत्तिर्न",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "फलति",
+      "transliteration": "Oh Segenspendender",
+      "translation": "Oh Segenspendender"
+    },
+    {
+      "original": "अयत्नादासाद्य",
+      "transliteration": "Rituale",
+      "translation": "Rituale"
+    },
+    {
+      "original": "त्रिभुवनमवैरव्यतिकरं",
+      "transliteration": "Utensilien",
+      "translation": "Utensilien"
+    },
+    {
+      "original": "दशास्यो",
+      "transliteration": "die Götter",
+      "translation": "die Götter"
+    },
+    {
+      "original": "यद्बाहूनभृत",
+      "transliteration": "jenen",
+      "translation": "jenen"
+    },
+    {
+      "original": "रणकण्डू-परवशान्",
+      "transliteration": "Wohlstand",
+      "translation": "Wohlstand"
+    },
+    {
+      "original": "शिरःपद्मश्रेणी-रचितचरणाम्भोरुह-बलेः",
+      "transliteration": "erhalten",
+      "translation": "erhalten"
+    },
+    {
+      "original": "स्थिरायास्त्वद्भक्तेस्त्रिपुरहर",
+      "transliteration": "aber",
+      "translation": "aber"
+    },
+    {
+      "original": "विस्फूर्जितमिदम्",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "अमुष्य",
+      "transliteration": "Erde",
+      "translation": "Erde"
+    },
+    {
+      "original": "त्वत्सेवा-समधिगतसारं",
+      "transliteration": "hingegeben",
+      "translation": "hingegeben"
+    },
+    {
+      "original": "भुजवनं",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "बलात्",
+      "transliteration": "wahrlich",
+      "translation": "wahrlich"
+    },
+    {
+      "original": "कैलासेऽपि",
+      "transliteration": "in sich selbst glückselig",
+      "translation": "in sich selbst glückselig"
+    },
+    {
+      "original": "त्वदधिवसतौ",
+      "transliteration": "Objekte",
+      "translation": "Objekte"
+    },
+    {
+      "original": "विक्रमयतः",
+      "transliteration": "Illusion",
+      "translation": "Illusion"
+    },
+    {
+      "original": "अलभ्या",
+      "transliteration": "verwirrt",
+      "translation": "verwirrt"
+    },
+    {
+      "original": "पातालेऽपि",
+      "transliteration": "beständig",
+      "translation": "beständig"
+    },
+    {
+      "original": "अलसचलितांगुष्ठशिरसि",
+      "transliteration": "jemand",
+      "translation": "jemand"
+    },
+    {
+      "original": "प्रतिष्ठा",
+      "transliteration": "alles",
+      "translation": "alles"
+    },
+    {
+      "original": "त्वय्यासीद्",
+      "transliteration": "vollständig",
+      "translation": "vollständig"
+    },
+    {
+      "original": "ध्रुवमुपचितो",
+      "transliteration": "ein anderer",
+      "translation": "ein anderer"
+    },
+    {
+      "original": "मुह्यति",
+      "transliteration": "aber",
+      "translation": "aber"
+    },
+    {
+      "original": "खलः",
+      "transliteration": "unbeständig",
+      "translation": "unbeständig"
+    },
+    {
+      "original": "यदृद्धिं",
+      "transliteration": "dieses",
+      "translation": "dieses"
+    },
+    {
+      "original": "सुत्राम्णो",
+      "transliteration": "der Höchste",
+      "translation": "der Höchste"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "Beständigkeit",
+      "translation": "Beständigkeit"
+    },
+    {
+      "original": "परमोच्चैरपि",
+      "transliteration": "Unbeständigkeit",
+      "translation": "Unbeständigkeit"
+    },
+    {
+      "original": "सतीं",
+      "transliteration": "in der Welt",
+      "translation": "in der Welt"
+    },
+    {
+      "original": "अधश्चक्रे",
+      "transliteration": "spricht",
+      "translation": "spricht"
+    },
+    {
+      "original": "बाणः",
+      "transliteration": "verwirrt",
+      "translation": "verwirrt"
+    },
+    {
+      "original": "परिजनविधेयत्रिभुवनः",
+      "transliteration": "Themen",
+      "translation": "Themen"
+    },
+    {
+      "original": "न",
+      "transliteration": "in allem",
+      "translation": "in allem"
+    },
+    {
+      "original": "तच्चित्रं",
+      "transliteration": "in diesem",
+      "translation": "in diesem"
+    },
+    {
+      "original": "तस्मिन्",
+      "transliteration": "Oh Zerstörer der Städte",
+      "translation": "Oh Zerstörer der Städte"
+    },
+    {
+      "original": "वरिवसितरि",
+      "transliteration": "von ihnen",
+      "translation": "von ihnen"
+    },
+    {
+      "original": "त्वच्चरणयोः",
+      "transliteration": "erstaunt",
+      "translation": "erstaunt"
+    },
+    {
+      "original": "न",
+      "transliteration": "wie",
+      "translation": "wie"
+    },
+    {
+      "original": "कस्याप्युन्नत्यै",
+      "transliteration": "lobend",
+      "translation": "lobend"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "erröte",
+      "translation": "erröte"
+    },
+    {
+      "original": "शिरसस्त्वय्यवनतिः",
+      "transliteration": "dich",
+      "translation": "dich"
+    },
+    {
+      "original": "अकाण्ड-ब्रह्माण्ड-क्षयचकित-देवासुरकृपा",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "विधेयस्याऽऽसीद्",
+      "transliteration": "wirklich",
+      "translation": "wirklich"
+    },
+    {
+      "original": "यस्त्रिनयन",
+      "transliteration": "nicht wahr",
+      "translation": "nicht wahr"
+    },
+    {
+      "original": "विषं",
+      "transliteration": "mutig",
+      "translation": "mutig"
+    },
+    {
+      "original": "संहृतवतः",
+      "transliteration": "Redseligkeit",
+      "translation": "Redseligkeit"
+    },
+    {
+      "original": "स",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "कल्माषः",
+      "transliteration": "Herrlichkeit",
+      "translation": "Herrlichkeit"
+    },
+    {
+      "original": "कण्ठे",
+      "transliteration": "mit Mühe",
+      "translation": "mit Mühe"
+    },
+    {
+      "original": "तव",
+      "transliteration": "über das",
+      "translation": "über das"
+    },
+    {
+      "original": "न",
+      "transliteration": "Brahma",
+      "translation": "Brahma"
+    },
+    {
+      "original": "कुरुते",
+      "transliteration": "Vishnu",
+      "translation": "Vishnu"
+    },
+    {
+      "original": "न",
+      "transliteration": "mühelos",
+      "translation": "mühelos"
+    },
+    {
+      "original": "श्रियमहो",
+      "transliteration": "erreichend",
+      "translation": "erreichend"
+    },
+    {
+      "original": "विकारोऽपि",
+      "transliteration": "die drei Welten",
+      "translation": "die drei Welten"
+    },
+    {
+      "original": "श्लाघ्यो",
+      "transliteration": "ohne Feindseligkeit",
+      "translation": "ohne Feindseligkeit"
+    },
+    {
+      "original": "भुवन-भय-",
+      "transliteration": "Zerstörung",
+      "translation": "Zerstörung"
+    },
+    {
+      "original": "भङ्ग-",
+      "transliteration": "der Zehnköpfige (Ravana)",
+      "translation": "der Zehnköpfige (Ravana)"
+    },
+    {
+      "original": "व्यसनिनः",
+      "transliteration": "welches",
+      "translation": "welches"
+    },
+    {
+      "original": "असिद्धार्था",
+      "transliteration": "Arme",
+      "translation": "Arme"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "erhoben",
+      "translation": "erhoben"
+    },
+    {
+      "original": "क्वचिदपि",
+      "transliteration": "Schlacht",
+      "translation": "Schlacht"
+    },
+    {
+      "original": "सदेवासुरनरे",
+      "transliteration": "Juckreiz",
+      "translation": "Juckreiz"
+    },
+    {
+      "original": "निवर्तन्ते",
+      "transliteration": "unter Kontrolle",
+      "translation": "unter Kontrolle"
+    },
+    {
+      "original": "नित्यं",
+      "transliteration": "Köpfe",
+      "translation": "Köpfe"
+    },
+    {
+      "original": "जगति",
+      "transliteration": "Lotus",
+      "translation": "Lotus"
+    },
+    {
+      "original": "जयिनो",
+      "transliteration": "Reihe",
+      "translation": "Reihe"
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "gemacht",
+      "translation": "gemacht"
+    },
+    {
+      "original": "विशिखाः",
+      "transliteration": "Füße",
+      "translation": "Füße"
+    },
+    {
+      "original": "स",
+      "transliteration": "Lotus",
+      "translation": "Lotus"
+    },
+    {
+      "original": "पश्यन्नीश",
+      "transliteration": "Kraft",
+      "translation": "Kraft"
+    },
+    {
+      "original": "त्वामितरसुरसाधारणमभूत्",
+      "transliteration": "standhaft",
+      "translation": "standhaft"
+    },
+    {
+      "original": "स्मरः",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "स्मर्तव्यात्मा",
+      "transliteration": "Hingabe",
+      "translation": "Hingabe"
+    },
+    {
+      "original": "न",
+      "transliteration": "Oh Zerstörer von Tripura",
+      "translation": "Oh Zerstörer von Tripura"
+    },
+    {
+      "original": "हि",
+      "transliteration": "Donner",
+      "translation": "Donner"
+    },
+    {
+      "original": "वशिषु",
+      "transliteration": "dieses",
+      "translation": "dieses"
+    },
+    {
+      "original": "पथ्यः",
+      "transliteration": "von ihm",
+      "translation": "von ihm"
+    },
+    {
+      "original": "मही",
+      "transliteration": "dein Dienst",
+      "translation": "dein Dienst"
+    },
+    {
+      "original": "पादाघाताद्",
+      "transliteration": "erlangt",
+      "translation": "erlangt"
+    },
+    {
+      "original": "व्रजति",
+      "transliteration": "Essenz",
+      "translation": "Essenz"
+    },
+    {
+      "original": "सहसा",
+      "transliteration": "Arme",
+      "translation": "Arme"
+    },
+    {
+      "original": "संशयपदं",
+      "transliteration": "durch Kraft",
+      "translation": "durch Kraft"
+    },
+    {
+      "original": "पदं",
+      "transliteration": "selbst auf Kailash",
+      "translation": "selbst auf Kailash"
+    },
+    {
+      "original": "विष्णोर्भ्राम्यद्",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "भुज-परिघ-रुग्ण-ग्रह-गणम्",
+      "transliteration": "Wohnort",
+      "translation": "Wohnort"
+    },
+    {
+      "original": "मुहुर्द्यौर्दौस्थ्यं",
+      "transliteration": "sich anmaßend",
+      "translation": "sich anmaßend"
+    },
+    {
+      "original": "यात्यनिभृत-जटा-ताडित-तटा",
+      "transliteration": "unerreichbar",
+      "translation": "unerreichbar"
+    },
+    {
+      "original": "जगद्रक्षायै",
+      "transliteration": "selbst in der Unterwelt",
+      "translation": "selbst in der Unterwelt"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "langsam",
+      "translation": "langsam"
+    },
+    {
+      "original": "नटसि",
+      "transliteration": "bewegt",
+      "translation": "bewegt"
+    },
+    {
+      "original": "ननु",
+      "transliteration": "Daumen",
+      "translation": "Daumen"
+    },
+    {
+      "original": "वामैव",
+      "transliteration": "auf dem Kopf",
+      "translation": "auf dem Kopf"
+    },
+    {
+      "original": "विभुता",
+      "transliteration": "Ehre",
+      "translation": "Ehre"
+    },
+    {
+      "original": "वियद्व्यापी",
+      "transliteration": "war in dir",
+      "translation": "war in dir"
+    },
+    {
+      "original": "तारा-गण-गुणित-फेनोद्गम-रुचिः",
+      "transliteration": "gewiss",
+      "translation": "gewiss"
+    },
+    {
+      "original": "प्रवाहो",
+      "transliteration": "angesammelt",
+      "translation": "angesammelt"
+    },
+    {
+      "original": "वारां",
+      "transliteration": "verwirrt",
+      "translation": "verwirrt"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Bösewicht",
+      "translation": "Bösewicht"
+    },
+    {
+      "original": "पृषतलघुदृष्टः",
+      "transliteration": "diesen Reichtum",
+      "translation": "diesen Reichtum"
+    },
+    {
+      "original": "शिरसि",
+      "transliteration": "von Brahma",
+      "translation": "von Brahma"
+    },
+    {
+      "original": "ते",
+      "transliteration": "Oh Segenspendender",
+      "translation": "Oh Segenspendender"
+    },
+    {
+      "original": "जगद्-द्वीपाकारं",
+      "transliteration": "höchster",
+      "translation": "höchster"
+    },
+    {
+      "original": "जलधिवलयं",
+      "transliteration": "höchster",
+      "translation": "höchster"
+    },
+    {
+      "original": "तेन",
+      "transliteration": "selbst",
+      "translation": "selbst"
+    },
+    {
+      "original": "कृतमिति",
+      "transliteration": "bestehend",
+      "translation": "bestehend"
+    },
+    {
+      "original": "अनेनैव",
+      "transliteration": "unter",
+      "translation": "unter"
+    },
+    {
+      "original": "ऊन्नेयं",
+      "transliteration": "machte",
+      "translation": "machte"
+    },
+    {
+      "original": "धृतमहिम",
+      "transliteration": "Banasura",
+      "translation": "Banasura"
+    },
+    {
+      "original": "दिव्यं",
+      "transliteration": "Gefolge",
+      "translation": "Gefolge"
+    },
+    {
+      "original": "तव",
+      "transliteration": "unterworfen",
+      "translation": "unterworfen"
+    },
+    {
+      "original": "वपुः",
+      "transliteration": "der drei Welten",
+      "translation": "der drei Welten"
+    },
+    {
+      "original": "रथः",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "क्षोणी",
+      "transliteration": "das",
+      "translation": "das"
+    },
+    {
+      "original": "यन्ता",
+      "transliteration": "erstaunlich",
+      "translation": "erstaunlich"
+    },
+    {
+      "original": "शतधृतिरगेन्द्रो",
+      "transliteration": "in ihm",
+      "translation": "in ihm"
+    },
+    {
+      "original": "धनुरथो",
+      "transliteration": "sich bewegend",
+      "translation": "sich bewegend"
+    },
+    {
+      "original": "रथाङ्गे",
+      "transliteration": "O Herr",
+      "translation": "O Herr"
+    },
+    {
+      "original": "चन्द्रार्कौ",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "रथ-चरण-पाणिः",
+      "transliteration": "Füßen",
+      "translation": "Füßen"
+    },
+    {
+      "original": "शर",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "इति",
+      "transliteration": "wessen",
+      "translation": "wessen"
+    },
+    {
+      "original": "दिधक्षोस्ते",
+      "transliteration": "auch",
+      "translation": "auch"
+    },
+    {
+      "original": "कोऽयं",
+      "transliteration": "Erhebung",
+      "translation": "Erhebung"
+    },
+    {
+      "original": "त्रिपुरतृणमाडम्बर-विधिः",
+      "transliteration": "geschieht",
+      "translation": "geschieht"
+    },
+    {
+      "original": "विधेयैः",
+      "transliteration": "des Kopfes",
+      "translation": "des Kopfes"
+    },
+    {
+      "original": "क्रीडन्त्यो",
+      "transliteration": "in dir",
+      "translation": "in dir"
+    },
+    {
+      "original": "न",
+      "transliteration": "Verbeugung",
+      "translation": "Verbeugung"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "plötzlich",
+      "translation": "plötzlich"
+    },
+    {
+      "original": "परतन्त्राः",
+      "transliteration": "Universum",
+      "translation": "Universum"
+    },
+    {
+      "original": "प्रभुधियः",
+      "transliteration": "Zerstörung",
+      "translation": "Zerstörung"
+    },
+    {
+      "original": "हरिस्ते",
+      "transliteration": "erschrocken",
+      "translation": "erschrocken"
+    },
+    {
+      "original": "साहस्रं",
+      "transliteration": "Götter und Dämonen",
+      "translation": "Götter und Dämonen"
+    },
+    {
+      "original": "कमल",
+      "transliteration": "Mitgefühl",
+      "translation": "Mitgefühl"
+    },
+    {
+      "original": "बलिमाधाय",
+      "transliteration": "von dem Gehorchenden",
+      "translation": "von dem Gehorchenden"
+    },
+    {
+      "original": "पदयोः",
+      "transliteration": "war",
+      "translation": "war"
+    },
+    {
+      "original": "यदेक",
+      "transliteration": "welcher",
+      "translation": "welcher"
+    },
+    {
+      "original": "ओने",
+      "transliteration": "Oh Dreiäugiger",
+      "translation": "Oh Dreiäugiger"
+    },
+    {
+      "original": "तस्मिन्",
+      "transliteration": "Gift",
+      "translation": "Gift"
+    },
+    {
+      "original": "निजमुदहरन्",
+      "transliteration": "aufnehmend",
+      "translation": "aufnehmend"
+    },
+    {
+      "original": "नेत्रकमलम्",
+      "transliteration": "unerfüllte Wünsche",
+      "translation": "unerfüllte Wünsche"
+    },
+    {
+      "original": "गतो",
+      "transliteration": "niemals",
+      "translation": "niemals"
+    },
+    {
+      "original": "भक्त्युद्रेकः",
+      "transliteration": "irgendwo",
+      "translation": "irgendwo"
+    },
+    {
+      "original": "परिणतिमसौ",
+      "transliteration": "sogar",
+      "translation": "sogar"
+    },
+    {
+      "original": "चक्रवपुषः",
+      "transliteration": "unter Göttern, Dämonen und Menschen",
+      "translation": "unter Göttern, Dämonen und Menschen"
+    },
+    {
+      "original": "त्रयाणां",
+      "transliteration": "kehren zurück",
+      "translation": "kehren zurück"
+    },
+    {
+      "original": "रक्षायै",
+      "transliteration": "immer",
+      "translation": "immer"
+    },
+    {
+      "original": "त्रिपुरहर",
+      "transliteration": "in der Welt",
+      "translation": "in der Welt"
+    },
+    {
+      "original": "जागर्ति",
+      "transliteration": "siegreich",
+      "translation": "siegreich"
+    },
+    {
+      "original": "जगताम्",
+      "transliteration": "dessen",
+      "translation": "dessen"
+    },
+    {
+      "original": "क्रतौ",
+      "transliteration": "Pfeile",
+      "translation": "Pfeile"
+    },
+    {
+      "original": "सुप्ते",
+      "transliteration": "jener",
+      "translation": "jener"
+    },
+    {
+      "original": "जाग्रत्",
+      "transliteration": "sehend",
+      "translation": "sehend"
+    },
+    {
+      "original": "त्वमसि",
+      "transliteration": "Oh Herr",
+      "translation": "Oh Herr"
+    },
+    {
+      "original": "फलयोगे",
+      "transliteration": "dich",
+      "translation": "dich"
+    },
+    {
+      "original": "क्रतुमतां",
+      "transliteration": "andere",
+      "translation": "andere"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "Dämonen",
+      "translation": "Dämonen"
+    },
+    {
+      "original": "कर्म",
+      "transliteration": "gewöhnlich",
+      "translation": "gewöhnlich"
+    },
+    {
+      "original": "प्रध्वस्तं",
+      "transliteration": "wurde",
+      "translation": "wurde"
+    },
+    {
+      "original": "फलति",
+      "transliteration": "Kamadeva",
+      "translation": "Kamadeva"
+    },
+    {
+      "original": "पुरुषाराधनमृते",
+      "transliteration": "erinnerungswürdig",
+      "translation": "erinnerungswürdig"
+    },
+    {
+      "original": "अतस्त्वां",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "सम्प्रेक्ष्य",
+      "transliteration": "wahrlich",
+      "translation": "wahrlich"
+    },
+    {
+      "original": "क्रतुषु",
+      "transliteration": "gegenüber Weisen",
+      "translation": "gegenüber Weisen"
+    },
+    {
+      "original": "फलदान-प्रतिभुवं",
+      "transliteration": "angebracht",
+      "translation": "angebracht"
+    },
+    {
+      "original": "श्रुतौ",
+      "transliteration": "Erniedrigung",
+      "translation": "Erniedrigung"
+    },
+    {
+      "original": "श्रद्धां",
+      "transliteration": "Erde",
+      "translation": "Erde"
+    },
+    {
+      "original": "बध्वा",
+      "transliteration": "durch den Fußtritt",
+      "translation": "durch den Fußtritt"
+    },
+    {
+      "original": "दृढपरिकरः",
+      "transliteration": "geht",
+      "translation": "geht"
+    },
+    {
+      "original": "कर्मसु",
+      "transliteration": "plötzlich",
+      "translation": "plötzlich"
+    },
+    {
+      "original": "जनः",
+      "transliteration": "Zweifel",
+      "translation": "Zweifel"
+    },
+    {
+      "original": "क्रियादक्षो",
+      "transliteration": "Zustand",
+      "translation": "Zustand"
+    },
+    {
+      "original": "दक्षः",
+      "transliteration": "von Vishnu",
+      "translation": "von Vishnu"
+    },
+    {
+      "original": "क्रतुपतिरधीश",
+      "transliteration": "drehend",
+      "translation": "drehend"
+    },
+    {
+      "original": "तनुभृतां",
+      "transliteration": "Arm",
+      "translation": "Arm"
+    },
+    {
+      "original": "ऋषीणाम्",
+      "transliteration": "Keule",
+      "translation": "Keule"
+    },
+    {
+      "original": "आर्त्विज्यं",
+      "transliteration": "zerbrochen",
+      "translation": "zerbrochen"
+    },
+    {
+      "original": "शरणद",
+      "transliteration": "Planeten",
+      "translation": "Planeten"
+    },
+    {
+      "original": "सदस्याः",
+      "transliteration": "Gruppe",
+      "translation": "Gruppe"
+    },
+    {
+      "original": "सुर-गणाः",
+      "transliteration": "oft",
+      "translation": "oft"
+    },
+    {
+      "original": "क्रतुभ्रंशस्त्वत्तः",
+      "transliteration": "Himmel",
+      "translation": "Himmel"
+    },
+    {
+      "original": "क्रतुफल-विधान-व्यसनिनः",
+      "transliteration": "Unruhe",
+      "translation": "Unruhe"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "erfährt",
+      "translation": "erfährt"
+    },
+    {
+      "original": "कर्तुः",
+      "transliteration": "unkontrolliert",
+      "translation": "unkontrolliert"
+    },
+    {
+      "original": "श्रद्धा-विधुरम्",
+      "transliteration": "verfilztes Haar",
+      "translation": "verfilztes Haar"
+    },
+    {
+      "original": "अभिचाराय",
+      "transliteration": "geschlagen",
+      "translation": "geschlagen"
+    },
+    {
+      "original": "हि",
+      "transliteration": "Ufer",
+      "translation": "Ufer"
+    },
+    {
+      "original": "मखाः",
+      "transliteration": "zum Schutz der Welt",
+      "translation": "zum Schutz der Welt"
+    },
+    {
+      "original": "प्रजानाथं",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "नाथ",
+      "transliteration": "tanzt",
+      "translation": "tanzt"
+    },
+    {
+      "original": "प्रसभमभिकं",
+      "transliteration": "wahrlich",
+      "translation": "wahrlich"
+    },
+    {
+      "original": "स्वां",
+      "transliteration": "paradox",
+      "translation": "paradox"
+    },
+    {
+      "original": "दुहितरं",
+      "transliteration": "Größe",
+      "translation": "Größe"
+    },
+    {
+      "original": "गतं",
+      "transliteration": "den Himmel durchdringend",
+      "translation": "den Himmel durchdringend"
+    },
+    {
+      "original": "रोहिद्",
+      "transliteration": "Sterne",
+      "translation": "Sterne"
+    },
+    {
+      "original": "भूतां",
+      "transliteration": "Gruppe",
+      "translation": "Gruppe"
+    },
+    {
+      "original": "रिरमयिषुमृष्यस्य",
+      "transliteration": "voller",
+      "translation": "voller"
+    },
+    {
+      "original": "वपुषा",
+      "transliteration": "schäumend",
+      "translation": "schäumend"
+    },
+    {
+      "original": "धनुष्पाणेर्यातं",
+      "transliteration": "leuchtend",
+      "translation": "leuchtend"
+    },
+    {
+      "original": "दिवमपि",
+      "transliteration": "Strömung",
+      "translation": "Strömung"
+    },
+    {
+      "original": "सपत्राकृतममुं",
+      "transliteration": "des Wassers",
+      "translation": "des Wassers"
+    },
+    {
+      "original": "त्रसन्तं",
+      "transliteration": "welcher",
+      "translation": "welcher"
+    },
+    {
+      "original": "तेऽद्यापि",
+      "transliteration": "Wassertropfen",
+      "translation": "Wassertropfen"
+    },
+    {
+      "original": "त्यजति",
+      "transliteration": "klein",
+      "translation": "klein"
+    },
+    {
+      "original": "न",
+      "transliteration": "erscheint",
+      "translation": "erscheint"
+    },
+    {
+      "original": "मृगव्याधरभसः",
+      "transliteration": "auf dem Kopf",
+      "translation": "auf dem Kopf"
+    },
+    {
+      "original": "स्वलावण्याशंसा",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "धृतधनुषमह्नाय",
+      "transliteration": "weltumspannend",
+      "translation": "weltumspannend"
+    },
+    {
+      "original": "तृणवत्",
+      "transliteration": "Form",
+      "translation": "Form"
+    },
+    {
+      "original": "पुरः",
+      "transliteration": "Ozean",
+      "translation": "Ozean"
+    },
+    {
+      "original": "प्लुष्टं",
+      "transliteration": "umgeben",
+      "translation": "umgeben"
+    },
+    {
+      "original": "दृष्ट्वा",
+      "transliteration": "dadurch",
+      "translation": "dadurch"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "gemacht",
+      "translation": "gemacht"
+    },
+    {
+      "original": "पुष्पायुधमपि",
+      "transliteration": "so",
+      "translation": "so"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "dadurch",
+      "translation": "dadurch"
+    },
+    {
+      "original": "स्त्रैणं",
+      "transliteration": "wahrlich",
+      "translation": "wahrlich"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "erkannt",
+      "translation": "erkannt"
+    },
+    {
+      "original": "यमनिरत-देहार्ध-घटनात्",
+      "transliteration": "von großer Herrlichkeit",
+      "translation": "von großer Herrlichkeit"
+    },
+    {
+      "original": "अवैति",
+      "transliteration": "göttlich",
+      "translation": "göttlich"
+    },
+    {
+      "original": "त्वामद्धा",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "बत",
+      "transliteration": "Körper",
+      "translation": "Körper"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "Wagen",
+      "translation": "Wagen"
+    },
+    {
+      "original": "मुग्धा",
+      "transliteration": "Erde",
+      "translation": "Erde"
+    },
+    {
+      "original": "युवतयः",
+      "transliteration": "Lenker",
+      "translation": "Lenker"
+    },
+    {
+      "original": "श्मशानेष्वाक्रीडा",
+      "transliteration": "Indra",
+      "translation": "Indra"
+    },
+    {
+      "original": "स्मरहर",
+      "transliteration": "Bergkönig",
+      "translation": "Bergkönig"
+    },
+    {
+      "original": "पिशाचाः",
+      "transliteration": "Bogen",
+      "translation": "Bogen"
+    },
+    {
+      "original": "सहचराः",
+      "transliteration": "Wagen",
+      "translation": "Wagen"
+    },
+    {
+      "original": "चिता-भस्मालेपः",
+      "transliteration": "Teil",
+      "translation": "Teil"
+    },
+    {
+      "original": "स्रगपि",
+      "transliteration": "Mond und Sonne",
+      "translation": "Mond und Sonne"
+    },
+    {
+      "original": "नृकरोटी-परिकरः",
+      "transliteration": "Wagen",
+      "translation": "Wagen"
+    },
+    {
+      "original": "अमङ्गल्यं",
+      "transliteration": "Fuß",
+      "translation": "Fuß"
+    },
+    {
+      "original": "शीलं",
+      "transliteration": "Hand",
+      "translation": "Hand"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Pfeil",
+      "translation": "Pfeil"
+    },
+    {
+      "original": "भवतु",
+      "transliteration": "so",
+      "translation": "so"
+    },
+    {
+      "original": "नामैवम्",
+      "transliteration": "der verbrennen will",
+      "translation": "der verbrennen will"
+    },
+    {
+      "original": "अखिलं",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "तथापि",
+      "transliteration": "welcher",
+      "translation": "welcher"
+    },
+    {
+      "original": "स्मर्तॄणां",
+      "transliteration": "dieser",
+      "translation": "dieser"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "dreifache Stadt",
+      "translation": "dreifache Stadt"
+    },
+    {
+      "original": "परमं",
+      "transliteration": "Gras",
+      "translation": "Gras"
+    },
+    {
+      "original": "मङ्गलमसि",
+      "transliteration": "Aufwand",
+      "translation": "Aufwand"
+    },
+    {
+      "original": "मनः",
+      "transliteration": "Methode",
+      "translation": "Methode"
+    },
+    {
+      "original": "प्रत्यक्चित्ते",
+      "transliteration": "durch Diener",
+      "translation": "durch Diener"
+    },
+    {
+      "original": "सविधमविधायात्त-मरुतः",
+      "transliteration": "spielend",
+      "translation": "spielend"
+    },
+    {
+      "original": "प्रहृष्यद्रोमाणः",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "प्रमद-सलिलोत्सङ्गति-दृशः",
+      "transliteration": "wahrlich",
+      "translation": "wahrlich"
+    },
+    {
+      "original": "यदालोक्याह्लादं",
+      "transliteration": "abhängig",
+      "translation": "abhängig"
+    },
+    {
+      "original": "ह्रद",
+      "transliteration": "Herrscher",
+      "translation": "Herrscher"
+    },
+    {
+      "original": "इव",
+      "transliteration": "Vishnu",
+      "translation": "Vishnu"
+    },
+    {
+      "original": "निमज्यामृतमये",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "दधत्यन्तस्तत्त्वं",
+      "transliteration": "tausend",
+      "translation": "tausend"
+    },
+    {
+      "original": "किमपि",
+      "transliteration": "Lotos",
+      "translation": "Lotos"
+    },
+    {
+      "original": "यमिनस्तत्",
+      "transliteration": "Opfergabe",
+      "translation": "Opfergabe"
+    },
+    {
+      "original": "किल",
+      "transliteration": "darbringend",
+      "translation": "darbringend"
+    },
+    {
+      "original": "भवान्",
+      "transliteration": "an den Füßen",
+      "translation": "an den Füßen"
+    },
+    {
+      "original": "त्वमर्कस्त्वं",
+      "transliteration": "welches",
+      "translation": "welches"
+    },
+    {
+      "original": "सोमस्त्वमसि",
+      "transliteration": "eines weniger",
+      "translation": "eines weniger"
+    },
+    {
+      "original": "पवनस्त्वं",
+      "transliteration": "in jenem",
+      "translation": "in jenem"
+    },
+    {
+      "original": "हुतवहः",
+      "transliteration": "eigenes",
+      "translation": "eigenes"
+    },
+    {
+      "original": "त्वमापस्त्वं",
+      "transliteration": "opferte",
+      "translation": "opferte"
+    },
+    {
+      "original": "व्योम",
+      "transliteration": "Auge",
+      "translation": "Auge"
+    },
+    {
+      "original": "त्वमु",
+      "transliteration": "Lotos",
+      "translation": "Lotos"
+    },
+    {
+      "original": "धरणिरात्मा",
+      "transliteration": "wurde",
+      "translation": "wurde"
+    },
+    {
+      "original": "त्वमिति",
+      "transliteration": "von intensiver Hingabe",
+      "translation": "von intensiver Hingabe"
+    },
+    {
+      "original": "च",
+      "transliteration": "Umwandlung",
+      "translation": "Umwandlung"
+    },
+    {
+      "original": "परिच्छिन्नामेवं",
+      "transliteration": "dieser",
+      "translation": "dieser"
+    },
+    {
+      "original": "त्वयि",
+      "transliteration": "Diskus",
+      "translation": "Diskus"
+    },
+    {
+      "original": "परिणता",
+      "transliteration": "von der Gestalt",
+      "translation": "von der Gestalt"
+    },
+    {
+      "original": "बिभ्रति",
+      "transliteration": "der drei",
+      "translation": "der drei"
+    },
+    {
+      "original": "गिरं",
+      "transliteration": "zum Schutz",
+      "translation": "zum Schutz"
+    },
+    {
+      "original": "न",
+      "transliteration": "Zerstörer der drei Städte",
+      "translation": "Zerstörer der drei Städte"
+    },
+    {
+      "original": "विद्मस्तत्तत्त्वं",
+      "transliteration": "wacht",
+      "translation": "wacht"
+    },
+    {
+      "original": "वयमिह",
+      "transliteration": "der Welten",
+      "translation": "der Welten"
+    },
+    {
+      "original": "तु",
+      "transliteration": "Opfer",
+      "translation": "Opfer"
+    },
+    {
+      "original": "यत्",
+      "transliteration": "schlafend",
+      "translation": "schlafend"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "wachend",
+      "translation": "wachend"
+    },
+    {
+      "original": "न",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "भवसि",
+      "transliteration": "bist",
+      "translation": "bist"
+    },
+    {
+      "original": "त्रयीं",
+      "transliteration": "bei der Fruchtverwirklichung",
+      "translation": "bei der Fruchtverwirklichung"
+    },
+    {
+      "original": "तिस्रो",
+      "transliteration": "der Opfernden",
+      "translation": "der Opfernden"
+    },
+    {
+      "original": "वृत्तीस्त्रिभुवनमथो",
+      "transliteration": "wo",
+      "translation": "wo"
+    },
+    {
+      "original": "त्रीनपि",
+      "transliteration": "Handlung",
+      "translation": "Handlung"
+    },
+    {
+      "original": "सुरान्",
+      "transliteration": "zerstört",
+      "translation": "zerstört"
+    },
+    {
+      "original": "अकाराद्यैर्वर्णैस्त्रिभिरभिदधत्",
+      "transliteration": "trägt Frucht",
+      "translation": "trägt Frucht"
+    },
+    {
+      "original": "तीर्णविकृति",
+      "transliteration": "Mensch",
+      "translation": "Mensch"
+    },
+    {
+      "original": "तुरीयं",
+      "transliteration": "Verehrung",
+      "translation": "Verehrung"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ohne",
+      "translation": "ohne"
+    },
+    {
+      "original": "धाम",
+      "transliteration": "daher",
+      "translation": "daher"
+    },
+    {
+      "original": "ध्वनिभिरवरुन्धानमणुभिः",
+      "transliteration": "dich",
+      "translation": "dich"
+    },
+    {
+      "original": "समस्तं",
+      "transliteration": "betrachtend",
+      "translation": "betrachtend"
+    },
+    {
+      "original": "व्यस्तं",
+      "transliteration": "in den Opfern",
+      "translation": "in den Opfern"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "Fruchtvergabe",
+      "translation": "Fruchtvergabe"
+    },
+    {
+      "original": "शरणद",
+      "transliteration": "als Garant",
+      "translation": "als Garant"
+    },
+    {
+      "original": "गृणात्योमिति",
+      "transliteration": "in der Schrift",
+      "translation": "in der Schrift"
+    },
+    {
+      "original": "पदम्",
+      "transliteration": "Glauben",
+      "translation": "Glauben"
+    },
+    {
+      "original": "भवः",
+      "transliteration": "bindend",
+      "translation": "bindend"
+    },
+    {
+      "original": "शर्वो",
+      "transliteration": "fest",
+      "translation": "fest"
+    },
+    {
+      "original": "रुद्रः",
+      "transliteration": "mit Entschlossenheit",
+      "translation": "mit Entschlossenheit"
+    },
+    {
+      "original": "पशुपतिरथो",
+      "transliteration": "in den Handlungen",
+      "translation": "in den Handlungen"
+    },
+    {
+      "original": "ग्रः",
+      "transliteration": "Mensch",
+      "translation": "Mensch"
+    },
+    {
+      "original": "सहमहान्",
+      "transliteration": "Handlung",
+      "translation": "Handlung"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "Daksha (ein Weiser)",
+      "translation": "Daksha"
+    },
+    {
+      "original": "भीमेशानाविति",
+      "transliteration": "geschickt",
+      "translation": "geschickt"
+    },
+    {
+      "original": "यदभिधानाष्टकमिदम्",
+      "transliteration": "Herr der Opfer",
+      "translation": "Herr der Opfer"
+    },
+    {
+      "original": "अमुष्मिन्",
+      "transliteration": "Herrscher",
+      "translation": "Herrscher"
+    },
+    {
+      "original": "प्रत्येकं",
+      "transliteration": "der Lebewesen",
+      "translation": "der Lebewesen"
+    },
+    {
+      "original": "प्रविचरति",
+      "transliteration": "der Weisen",
+      "translation": "der Weisen"
+    },
+    {
+      "original": "देव",
+      "transliteration": "Priesteramt",
+      "translation": "Priesteramt"
+    },
+    {
+      "original": "श्रुतिरपि",
+      "transliteration": "Schutzgebender",
+      "translation": "Schutzgebender"
+    },
+    {
+      "original": "प्रियायास्मैधाम्ने",
+      "transliteration": "Mitglieder",
+      "translation": "Mitglieder"
+    },
+    {
+      "original": "प्रणिहित-नमस्योऽस्मि",
+      "transliteration": "Scharen der Götter",
+      "translation": "Scharen der Götter"
+    },
+    {
+      "original": "भवते",
+      "transliteration": "Opfer",
+      "translation": "Opfer"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "Verlust",
+      "translation": "Verlust"
+    },
+    {
+      "original": "नेदिष्ठाय",
+      "transliteration": "von dir",
+      "translation": "von dir"
+    },
+    {
+      "original": "प्रियदव",
+      "transliteration": "Opferfrucht",
+      "translation": "Opferfrucht"
+    },
+    {
+      "original": "दविष्ठाय",
+      "transliteration": "Zuweisung",
+      "translation": "Zuweisung"
+    },
+    {
+      "original": "च",
+      "transliteration": "davon abhängige",
+      "translation": "davon abhängige"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "gewiss",
+      "translation": "gewiss"
+    },
+    {
+      "original": "क्षोदिष्ठाय",
+      "transliteration": "des Ausführenden",
+      "translation": "des Ausführenden"
+    },
+    {
+      "original": "स्मरहर",
+      "transliteration": "Hingabe",
+      "translation": "Hingabe"
+    },
+    {
+      "original": "महिष्ठाय",
+      "transliteration": "fehlerhaft",
+      "translation": "fehlerhaft"
+    },
+    {
+      "original": "च",
+      "transliteration": "für Schwarzmagie",
+      "translation": "für Schwarzmagie"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "wahrlich",
+      "translation": "wahrlich"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "Opfer",
+      "translation": "Opfer"
+    },
+    {
+      "original": "वर्षिष्ठाय",
+      "transliteration": "Herrn der Geschöpfe",
+      "translation": "Herrn der Geschöpfe"
+    },
+    {
+      "original": "त्रिनयन",
+      "transliteration": "Herr",
+      "translation": "Herr"
+    },
+    {
+      "original": "यविष्ठाय",
+      "transliteration": "gewaltsam",
+      "translation": "gewaltsam"
+    },
+    {
+      "original": "च",
+      "transliteration": "begehren",
+      "translation": "begehren"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "eigene",
+      "translation": "eigene"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "Tochter",
+      "translation": "Tochter"
+    },
+    {
+      "original": "सर्वस्मै",
+      "transliteration": "gegangen",
+      "translation": "gegangen"
+    },
+    {
+      "original": "ते",
+      "transliteration": "Rotwild",
+      "translation": "Rotwild"
+    },
+    {
+      "original": "तदिदमतिसर्वाय",
+      "transliteration": "geworden",
+      "translation": "geworden"
+    },
+    {
+      "original": "च",
+      "transliteration": "sich erfreuen wollend",
+      "translation": "sich erfreuen wollend"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "des Weisen",
+      "translation": "des Weisen"
+    },
+    {
+      "original": "बहुल-रजसे",
+      "transliteration": "mit Gestalt",
+      "translation": "mit Gestalt"
+    },
+    {
+      "original": "विश्वोत्पत्तौ",
+      "transliteration": "des Bogenhalters",
+      "translation": "des Bogenhalters"
+    },
+    {
+      "original": "भवाय",
+      "transliteration": "gegangen",
+      "translation": "gegangen"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "Himmel",
+      "translation": "Himmel"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "sogar",
+      "translation": "sogar"
+    },
+    {
+      "original": "प्रबल-तमसे",
+      "transliteration": "mit Gefolge",
+      "translation": "mit Gefolge"
+    },
+    {
+      "original": "तत्",
+      "transliteration": "wurde gemacht",
+      "translation": "wurde gemacht"
+    },
+    {
+      "original": "संहारे",
+      "transliteration": "jenen",
+      "translation": "jenen"
+    },
+    {
+      "original": "हराय",
+      "transliteration": "zitternd",
+      "translation": "zitternd"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "selbst heute",
+      "translation": "selbst heute"
+    },
+    {
+      "original": "जन-सुखकृते",
+      "transliteration": "verlässt",
+      "translation": "verlässt"
+    },
+    {
+      "original": "सत्त्वोद्रिक्तौ",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "मृडाय",
+      "transliteration": "Jäger",
+      "translation": "Jäger"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "voller Eifer",
+      "translation": "voller Eifer"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "eigene Schönheit",
+      "translation": "eigene Schönheit"
+    },
+    {
+      "original": "प्रमहसि",
+      "transliteration": "Erwartung",
+      "translation": "Erwartung"
+    },
+    {
+      "original": "पदे",
+      "transliteration": "gehalten",
+      "translation": "gehalten"
+    },
+    {
+      "original": "निस्त्रैगुण्ये",
+      "transliteration": "den Bogen",
+      "translation": "den Bogen"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "für einen Moment",
+      "translation": "für einen Moment"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "wie Gras",
+      "translation": "wie Gras"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "vor",
+      "translation": "vor"
+    },
+    {
+      "original": "कृश-परिणति-चेतः",
+      "transliteration": "verbrannt",
+      "translation": "verbrannt"
+    },
+    {
+      "original": "क्लेशवश्यं",
+      "transliteration": "gesehen habend",
+      "translation": "gesehen habend"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "Zerstörer der Städte",
+      "translation": "Zerstörer der Städte"
+    },
+    {
+      "original": "चेदं",
+      "transliteration": "Blumengewaffneter (Kama)",
+      "translation": "Blumengewaffneter (Kama)"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "sogar",
+      "translation": "sogar"
+    },
+    {
+      "original": "च",
+      "transliteration": "wenn",
+      "translation": "wenn"
+    },
+    {
+      "original": "तव",
+      "transliteration": "feminin",
+      "translation": "feminin"
+    },
+    {
+      "original": "गुण-सीमोल्लङ्घिनी",
+      "transliteration": "Göttin",
+      "translation": "Göttin"
+    },
+    {
+      "original": "शश्वदृद्धिः",
+      "transliteration": "dem Yama ergeben",
+      "translation": "dem Yama ergeben"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Körper",
+      "translation": "Körper"
+    },
+    {
+      "original": "चकितममन्दीकृत्य",
+      "transliteration": "Hälfte",
+      "translation": "Hälfte"
+    },
+    {
+      "original": "मां",
+      "transliteration": "wegen Vereinigung",
+      "translation": "wegen Vereinigung"
+    },
+    {
+      "original": "भक्तिराधाद्",
+      "transliteration": "hält für",
+      "translation": "hält für"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "dich",
+      "translation": "dich"
+    },
+    {
+      "original": "चरणयोस्ते",
+      "transliteration": "wahrlich",
+      "translation": "wahrlich"
+    },
+    {
+      "original": "वाक्य-पुष्पोपहारम्",
+      "transliteration": "ach!",
+      "translation": "ach!"
+    },
+    {
+      "original": "असित-गिरि-समं",
+      "transliteration": "Segensspender",
+      "translation": "Segensspender"
+    },
+    {
+      "original": "स्यात्",
+      "transliteration": "törichte",
+      "translation": "törichte"
+    },
+    {
+      "original": "कज्जलं",
+      "transliteration": "junge Frauen",
+      "translation": "junge Frauen"
+    },
+    {
+      "original": "सिन्धु-पात्रे",
+      "transliteration": "auf den Verbrennungsstätten",
+      "translation": "auf den Verbrennungsstätten"
+    },
+    {
+      "original": "सुर-तरुवर-शाखा",
+      "transliteration": "das Spielen",
+      "translation": "das Spielen"
+    },
+    {
+      "original": "लेखनी",
+      "transliteration": "O Zerstörer des Kama",
+      "translation": "O Zerstörer des Kama"
+    },
+    {
+      "original": "पत्रमुर्वी",
+      "transliteration": "Geister",
+      "translation": "Geister"
+    },
+    {
+      "original": "लिखति",
+      "transliteration": "Gefährten",
+      "translation": "Gefährten"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "Scheiterhaufen",
+      "translation": "Scheiterhaufen"
+    },
+    {
+      "original": "गृहीत्वा",
+      "transliteration": "Asche",
+      "translation": "Asche"
+    },
+    {
+      "original": "शारदा",
+      "transliteration": "Anstrich",
+      "translation": "Anstrich"
+    },
+    {
+      "original": "सर्वकालं",
+      "transliteration": "Girlande",
+      "translation": "Girlande"
+    },
+    {
+      "original": "तदपि",
+      "transliteration": "sogar",
+      "translation": "sogar"
+    },
+    {
+      "original": "तव",
+      "transliteration": "Mensch",
+      "translation": "Mensch"
+    },
+    {
+      "original": "गुणानामीश",
+      "transliteration": "Schädel",
+      "translation": "Schädel"
+    },
+    {
+      "original": "पारं",
+      "transliteration": "Schmuck",
+      "translation": "Schmuck"
+    },
+    {
+      "original": "न",
+      "transliteration": "Unheilbringend",
+      "translation": "Unheilbringend"
+    },
+    {
+      "original": "याति",
+      "transliteration": "Natur",
+      "translation": "Natur"
+    },
+    {
+      "original": "असुर-सुर-मुनीन्द्रैरर्चितस्येन्दु-मौलेः",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "ग्रथित-गुणमहिम्नो",
+      "transliteration": "möge sein",
+      "translation": "möge sein"
+    },
+    {
+      "original": "निर्गुणस्येश्वरस्य",
+      "transliteration": "Name",
+      "translation": "Name"
+    },
+    {
+      "original": "सकल-गण-वरिष्ठः",
+      "transliteration": "so",
+      "translation": "so"
+    },
+    {
+      "original": "पुष्पदन्ताभिधानः",
+      "transliteration": "völlig",
+      "translation": "völlig"
+    },
+    {
+      "original": "रुचिरमलघुवृत्तैः",
+      "transliteration": "dennoch",
+      "translation": "dennoch"
+    },
+    {
+      "original": "स्तोत्रमेतच्चकार",
+      "transliteration": "für die Meditierenden",
+      "translation": "für die Meditierenden"
+    },
+    {
+      "original": "अहरहरनवद्यं",
+      "transliteration": "Segensspender",
+      "translation": "Segensspender"
+    },
+    {
+      "original": "धूर्जटेः",
+      "transliteration": "höchstes",
+      "translation": "höchstes"
+    },
+    {
+      "original": "स्तोत्रमेतत्",
+      "transliteration": "Glück",
+      "translation": "Glück"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "du bist",
+      "translation": "du bist"
+    },
+    {
+      "original": "परमभक्त्या",
+      "transliteration": "Geist",
+      "translation": "Geist"
+    },
+    {
+      "original": "शुद्ध-चित्तः",
+      "transliteration": "nach innen",
+      "translation": "nach innen"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "im Bewusstsein",
+      "translation": "im Bewusstsein"
+    },
+    {
+      "original": "यः",
+      "transliteration": "nahe",
+      "translation": "nahe"
+    },
+    {
+      "original": "स",
+      "transliteration": "fixierend",
+      "translation": "fixierend"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "genommen",
+      "translation": "genommen"
+    },
+    {
+      "original": "शिवलोके",
+      "transliteration": "der Atem",
+      "translation": "der Atem"
+    },
+    {
+      "original": "रुद्रतुल्यस्तथाऽत्र",
+      "transliteration": "sich freuend",
+      "translation": "sich freuend"
+    },
+    {
+      "original": "प्रचुरतर-धनायुः",
+      "transliteration": "mit gesträubten Haaren",
+      "translation": "mit gesträubten Haaren"
+    },
+    {
+      "original": "पुत्रवान्",
+      "transliteration": "Glückseligkeit",
+      "translation": "Glückseligkeit"
+    },
+    {
+      "original": "कीर्तिमांश्च",
+      "transliteration": "Wasser",
+      "translation": "Wasser"
+    },
+    {
+      "original": "महेशान्नापरो",
+      "transliteration": "überströmend",
+      "translation": "überströmend"
+    },
+    {
+      "original": "देवो",
+      "transliteration": "die Augen",
+      "translation": "die Augen"
+    },
+    {
+      "original": "महिम्नो",
+      "transliteration": "was",
+      "translation": "was"
+    },
+    {
+      "original": "नापरा",
+      "transliteration": "schauend",
+      "translation": "schauend"
+    },
+    {
+      "original": "स्तुतिः",
+      "transliteration": "Freude",
+      "translation": "Freude"
+    },
+    {
+      "original": "अघोरान्नापरो",
+      "transliteration": "See",
+      "translation": "See"
+    },
+    {
+      "original": "मन्त्रो",
+      "transliteration": "wie",
+      "translation": "wie"
+    },
+    {
+      "original": "नास्ति",
+      "transliteration": "eintauchend",
+      "translation": "eintauchend"
+    },
+    {
+      "original": "तत्त्वं",
+      "transliteration": "im Nektar",
+      "translation": "im Nektar"
+    },
+    {
+      "original": "गुरोः",
+      "transliteration": "halten",
+      "translation": "halten"
+    },
+    {
+      "original": "परम्",
+      "transliteration": "im Inneren",
+      "translation": "im Inneren"
+    },
+    {
+      "original": "दीक्षा",
+      "transliteration": "die Wahrheit",
+      "translation": "die Wahrheit"
+    },
+    {
+      "original": "दानं",
+      "transliteration": "etwas",
+      "translation": "etwas"
+    },
+    {
+      "original": "तपस्तीर्थं",
+      "transliteration": "der Yogis",
+      "translation": "der Yogis"
+    },
+    {
+      "original": "ज्ञानं",
+      "transliteration": "das",
+      "translation": "das"
+    },
+    {
+      "original": "यागादिकाः",
+      "transliteration": "wahrlich",
+      "translation": "wahrlich"
+    },
+    {
+      "original": "क्रियाः",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "महिम्नस्तव",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "पाठस्य",
+      "transliteration": "die Sonne",
+      "translation": "die Sonne"
+    },
+    {
+      "original": "कलां",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "नार्हन्ति",
+      "transliteration": "der Mond",
+      "translation": "der Mond"
+    },
+    {
+      "original": "षोडशीम्",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "कुसुमदशन-नामा",
+      "transliteration": "bist",
+      "translation": "bist"
+    },
+    {
+      "original": "सर्व-गन्धर्व-राजः",
+      "transliteration": "der Wind",
+      "translation": "der Wind"
+    },
+    {
+      "original": "शशिधरवर-मौलेः",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "देवदेवस्य",
+      "transliteration": "das Feuer",
+      "translation": "das Feuer"
+    },
+    {
+      "original": "दासः",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "स",
+      "transliteration": "das Wasser",
+      "translation": "das Wasser"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "निज-महिम्नो",
+      "transliteration": "der Himmel",
+      "translation": "der Himmel"
+    },
+    {
+      "original": "भ्रष्ट",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "एवास्य",
+      "transliteration": "auch",
+      "translation": "auch"
+    },
+    {
+      "original": "रोषात्",
+      "transliteration": "die Erde",
+      "translation": "die Erde"
+    },
+    {
+      "original": "स्तवनमिदम्",
+      "transliteration": "das Selbst",
+      "translation": "das Selbst"
+    },
+    {
+      "original": "आकाशीद्",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "दिव्य-दिव्यं",
+      "transliteration": "so",
+      "translation": "so"
+    },
+    {
+      "original": "महिम्नः",
+      "transliteration": "und",
+      "translation": "und"
+    },
+    {
+      "original": "सुरगुरुम्",
+      "transliteration": "begrenzt",
+      "translation": "begrenzt"
+    },
+    {
+      "original": "अभिपूज्य",
+      "transliteration": "so",
+      "translation": "so"
+    },
+    {
+      "original": "स्वर्ग-मोक्षैक-हेतुं",
+      "transliteration": "in dir",
+      "translation": "in dir"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "angenommen",
+      "translation": "angenommen"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "tragen",
+      "translation": "tragen"
+    },
+    {
+      "original": "मनुष्यः",
+      "transliteration": "Worte",
+      "translation": "Worte"
+    },
+    {
+      "original": "प्राञ्जलिर्",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "नान्य-चेताः",
+      "transliteration": "wissen wir",
+      "translation": "wissen wir"
+    },
+    {
+      "original": "व्रजति",
+      "transliteration": "das",
+      "translation": "das"
+    },
+    {
+      "original": "शिव-समीपं",
+      "transliteration": "die Wahrheit",
+      "translation": "die Wahrheit"
+    },
+    {
+      "original": "किन्नरैः",
+      "transliteration": "wir",
+      "translation": "wir"
+    },
+    {
+      "original": "स्तूयमानः",
+      "transliteration": "hier",
+      "translation": "hier"
+    },
+    {
+      "original": "स्तवनमिदम्",
+      "transliteration": "aber",
+      "translation": "aber"
+    },
+    {
+      "original": "अमोघं",
+      "transliteration": "was",
+      "translation": "was"
+    },
+    {
+      "original": "पुष्पदन्तप्रणीतम्",
+      "transliteration": "du",
+      "translation": "du"
+    },
+    {
+      "original": "आसमाप्तमिदं",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "bist",
+      "translation": "bist"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "Bhava (Shiva)",
+      "translation": "Bhava (Shiva)"
+    },
+    {
+      "original": "गन्धर्व-भाषितम्",
+      "transliteration": "Sharva (Zerstörer)",
+      "translation": "Sharva (Zerstörer)"
+    },
+    {
+      "original": "अनौपम्यं",
+      "transliteration": "Rudra",
+      "translation": "Rudra"
+    },
+    {
+      "original": "मनोहारि",
+      "transliteration": "Herr der Wesen",
+      "translation": "Herr der Wesen"
+    },
+    {
+      "original": "सर्वमीश्वरवर्णनम्",
+      "transliteration": "und",
+      "translation": "und"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Der Furchteinflößende",
+      "translation": "Der Furchteinflößende"
+    },
+    {
+      "original": "एषा",
+      "transliteration": "zusammen mit",
+      "translation": "zusammen mit"
+    },
+    {
+      "original": "वाङ्मयी",
+      "transliteration": "Der Große",
+      "translation": "Der Große"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "ebenso",
+      "translation": "ebenso"
+    },
+    {
+      "original": "श्रीमच्छङ्कर-पादयोः",
+      "transliteration": "Der Furchtbare",
+      "translation": "Der Furchtbare"
+    },
+    {
+      "original": "अर्पिता",
+      "transliteration": "Ishana (Herrscher)",
+      "translation": "Ishana (Herrscher)"
+    },
+    {
+      "original": "तेन",
+      "transliteration": "so",
+      "translation": "so"
+    },
+    {
+      "original": "देवेशः",
+      "transliteration": "was",
+      "translation": "was"
+    },
+    {
+      "original": "प्रीयतां",
+      "transliteration": "Namen",
+      "translation": "Namen"
+    },
+    {
+      "original": "मे",
+      "transliteration": "achtfach",
+      "translation": "achtfach"
+    },
+    {
+      "original": "सदाशिवः",
+      "transliteration": "dieses",
+      "translation": "dieses"
+    },
+    {
+      "original": "तव",
+      "transliteration": "in diesem",
+      "translation": "in diesem"
+    },
+    {
+      "original": "तत्त्वं",
+      "transliteration": "einzeln",
+      "translation": "einzeln"
+    },
+    {
+      "original": "न",
+      "transliteration": "analysiert",
+      "translation": "analysiert"
+    },
+    {
+      "original": "जानामि",
+      "transliteration": "O Gott",
+      "translation": "O Gott"
+    },
+    {
+      "original": "कीदृशोऽसि",
+      "transliteration": "die Veden",
+      "translation": "die Veden"
+    },
+    {
+      "original": "महेश्वर",
+      "transliteration": "auch",
+      "translation": "auch"
+    },
+    {
+      "original": "यादृशोऽसि",
+      "transliteration": "dem Geliebten",
+      "translation": "dem Geliebten"
+    },
+    {
+      "original": "महादेव",
+      "transliteration": "diesem",
+      "translation": "diesem"
+    },
+    {
+      "original": "तादृशाय",
+      "transliteration": "Bereich",
+      "translation": "Bereich"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "gewidmet",
+      "translation": "gewidmet"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "der Verehrungswürdige",
+      "translation": "der Verehrungswürdige"
+    },
+    {
+      "original": "एककालं",
+      "transliteration": "ich bin",
+      "translation": "ich bin"
+    },
+    {
+      "original": "द्विकालं",
+      "transliteration": "dir",
+      "translation": "dir"
+    },
+    {
+      "original": "वा",
+      "transliteration": "Blume",
+      "translation": "Blume"
+    },
+    {
+      "original": "त्रिकालं",
+      "transliteration": "Zähne",
+      "translation": "Zähne"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Name",
+      "translation": "Name"
+    },
+    {
+      "original": "पठेन्नरः",
+      "transliteration": "alle",
+      "translation": "alle"
+    },
+    {
+      "original": "सर्वपाप-विनिर्मुक्तः",
+      "transliteration": "Gandharva (himmlische Sänger)",
+      "translation": "Gandharva (himmlische Sänger)"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "König",
+      "translation": "König"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "Mondtragender",
+      "translation": "Mondtragender"
+    },
+    {
+      "original": "महीयते",
+      "transliteration": "erhaben",
+      "translation": "erhaben"
+    },
+    {
+      "original": "श्री",
+      "transliteration": "mit einer Krone",
+      "translation": "mit einer Krone"
+    },
+    {
+      "original": "पुष्पदन्त-मुख-पङ्कज-निर्गतेन",
+      "transliteration": "Gott",
+      "translation": "Gott"
+    },
+    {
+      "original": "स्तोत्रेण",
+      "transliteration": "des höchsten Gottes",
+      "translation": "des höchsten Gottes"
+    },
+    {
+      "original": "किल्बिष-हरेण",
+      "transliteration": "Diener",
+      "translation": "Diener"
+    },
+    {
+      "original": "हर-प्रियेण",
+      "transliteration": "er",
+      "translation": "er"
+    },
+    {
+      "original": "कण्ठस्थितेन",
+      "transliteration": "tatsächlich",
+      "translation": "tatsächlich"
+    },
+    {
+      "original": "पठितेन",
+      "transliteration": "eigener",
+      "translation": "eigener"
+    },
+    {
+      "original": "समाहितेन",
+      "transliteration": "Größe",
+      "translation": "Größe"
+    },
+    {
+      "original": "सुप्रीणितो",
+      "transliteration": "gefallen",
+      "translation": "gefallen"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "tatsächlich",
+      "translation": "tatsächlich"
+    },
+    {
+      "original": "भूतपतिर्महेशः",
+      "transliteration": "dessen",
+      "translation": "dessen"
+    },
+    {
+      "original": "इति",
+      "transliteration": "aus Zorn",
+      "translation": "aus Zorn"
+    },
+    {
+      "original": "श्री",
+      "transliteration": "Lobpreisung",
+      "translation": "Lobpreisung"
+    },
+    {
+      "original": "पुष्पदन्त",
+      "transliteration": "dieses",
+      "translation": "dieses"
+    },
+    {
+      "original": "विरचितं",
+      "transliteration": "verfasste",
+      "translation": "verfasste"
+    },
+    {
+      "original": "शिवमहिम्नः",
+      "transliteration": "göttlich",
+      "translation": "göttlich"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "höchst göttlich",
+      "translation": "höchst göttlich"
+    },
+    {
+      "original": "समाप्तम्",
+      "transliteration": "Größe",
+      "translation": "Größe"
+    },
+    {
+      "original": "---",
+      "transliteration": "Götter",
+      "translation": "Götter"
+    },
+    {
+      "original": "---",
+      "transliteration": "Lehrer",
+      "translation": "Lehrer"
+    },
+    {
+      "original": "---",
+      "transliteration": "verehrend",
+      "translation": "verehrend"
+    },
+    {
+      "original": "---",
+      "transliteration": "Himmel",
+      "translation": "Himmel"
+    },
+    {
+      "original": "---",
+      "transliteration": "Erlösung",
+      "translation": "Erlösung"
+    },
+    {
+      "original": "---",
+      "transliteration": "einzig",
+      "translation": "einzig"
+    },
+    {
+      "original": "---",
+      "transliteration": "Zweck",
+      "translation": "Zweck"
+    },
+    {
+      "original": "---",
+      "transliteration": "rezitiert",
+      "translation": "rezitiert"
+    },
+    {
+      "original": "---",
+      "transliteration": "wenn",
+      "translation": "wenn"
+    },
+    {
+      "original": "---",
+      "transliteration": "Mensch",
+      "translation": "Mensch"
+    },
+    {
+      "original": "---",
+      "transliteration": "mit gefalteten Händen",
+      "translation": "mit gefalteten Händen"
+    },
+    {
+      "original": "---",
+      "transliteration": "nicht an anderes denkend",
+      "translation": "nicht an anderes denkend"
+    },
+    {
+      "original": "---",
+      "transliteration": "Geist",
+      "translation": "Geist"
+    },
+    {
+      "original": "---",
+      "transliteration": "erreicht",
+      "translation": "erreicht"
+    },
+    {
+      "original": "---",
+      "transliteration": "Shiva",
+      "translation": "Shiva"
+    },
+    {
+      "original": "---",
+      "transliteration": "Nähe",
+      "translation": "Nähe"
+    },
+    {
+      "original": "---",
+      "transliteration": "verfasst",
+      "translation": "verfasst"
+    },
+    {
+      "original": "---",
+      "transliteration": "vollständig",
+      "translation": "vollständig"
+    },
+    {
+      "original": "---",
+      "transliteration": "dieses",
+      "translation": "dieses"
+    },
+    {
+      "original": "---",
+      "transliteration": "Hymne",
+      "translation": "Hymne"
+    },
+    {
+      "original": "---",
+      "transliteration": "heilig",
+      "translation": "heilig"
+    },
+    {
+      "original": "---",
+      "transliteration": "Gandharva (himmlische Sänger)",
+      "translation": "Gandharva (himmlische Sänger)"
+    },
+    {
+      "original": "---",
+      "transliteration": "gesprochen",
+      "translation": "gesprochen"
+    },
+    {
+      "original": "---",
+      "transliteration": "unvergleichlich",
+      "translation": "unvergleichlich"
+    },
+    {
+      "original": "---",
+      "transliteration": "bezaubernd",
+      "translation": "bezaubernd"
+    },
+    {
+      "original": "---",
+      "transliteration": "alles",
+      "translation": "alles"
+    },
+    {
+      "original": "---",
+      "transliteration": "Herr",
+      "translation": "Herr"
+    },
+    {
+      "original": "---",
+      "transliteration": "Beschreibung",
+      "translation": "Beschreibung"
+    },
+    {
+      "original": "---",
+      "transliteration": "so",
+      "translation": "so"
+    },
+    {
+      "original": "---",
+      "transliteration": "diese",
+      "translation": "diese"
+    },
+    {
+      "original": "---",
+      "transliteration": "sprachliche",
+      "translation": "sprachliche"
+    },
+    {
+      "original": "---",
+      "transliteration": "Verehrung",
+      "translation": "Verehrung"
+    },
+    {
+      "original": "---",
+      "transliteration": "ehrwürdiger",
+      "translation": "ehrwürdiger"
+    },
+    {
+      "original": "---",
+      "transliteration": "Shankara (Shiva)",
+      "translation": "Shankara (Shiva)"
+    },
+    {
+      "original": "---",
+      "transliteration": "zu den Füßen",
+      "translation": "zu den Füßen"
+    },
+    {
+      "original": "---",
+      "transliteration": "dargebracht",
+      "translation": "dargebracht"
+    },
+    {
+      "original": "---",
+      "transliteration": "von ihm",
+      "translation": "von ihm"
+    },
+    {
+      "original": "---",
+      "transliteration": "Herr der Götter",
+      "translation": "Herr der Götter"
+    },
+    {
+      "original": "---",
+      "transliteration": "möge erfreut sein",
+      "translation": "möge erfreut sein"
+    },
+    {
+      "original": "---",
+      "transliteration": "mich",
+      "translation": "mich"
+    },
+    {
+      "original": "---",
+      "transliteration": "ewiger Shiva",
+      "translation": "ewiger Shiva"
+    },
+    {
+      "original": "---",
+      "transliteration": "dein",
+      "translation": "dein"
+    },
+    {
+      "original": "---",
+      "transliteration": "Wesen",
+      "translation": "Wesen"
+    },
+    {
+      "original": "---",
+      "transliteration": "nicht",
+      "translation": "nicht"
+    },
+    {
+      "original": "---",
+      "transliteration": "kenne ich",
+      "translation": "kenne ich"
+    },
+    {
+      "original": "---",
+      "transliteration": "wie",
+      "translation": "wie"
+    },
+    {
+      "original": "---",
+      "transliteration": "bist du",
+      "translation": "bist du"
+    },
+    {
+      "original": "---",
+      "transliteration": "großer Herr (Shiva)",
+      "translation": "großer Herr (Shiva)"
+    },
+    {
+      "original": "---",
+      "transliteration": "wie auch immer",
+      "translation": "wie auch immer"
+    },
+    {
+      "original": "---",
+      "transliteration": "bist du",
+      "translation": "bist du"
+    },
+    {
+      "original": "---",
+      "transliteration": "großer Gott (Shiva)",
+      "translation": "großer Gott (Shiva)"
+    },
+    {
+      "original": "---",
+      "transliteration": "so sei gepriesen",
+      "translation": "so sei gepriesen"
+    },
+    {
+      "original": "---",
+      "transliteration": "Ehrerbietung",
+      "translation": "Ehrerbietung"
+    },
+    {
+      "original": "---",
+      "transliteration": "Ehrerbietung",
+      "translation": "Ehrerbietung"
+    },
+    {
+      "original": "---",
+      "transliteration": "einmal täglich",
+      "translation": "einmal täglich"
+    },
+    {
+      "original": "---",
+      "transliteration": "zweimal täglich",
+      "translation": "zweimal täglich"
+    },
+    {
+      "original": "---",
+      "transliteration": "oder",
+      "translation": "oder"
+    },
+    {
+      "original": "---",
+      "transliteration": "dreimal täglich",
+      "translation": "dreimal täglich"
+    },
+    {
+      "original": "---",
+      "transliteration": "wer",
+      "translation": "wer"
+    },
+    {
+      "original": "---",
+      "transliteration": "rezitiert",
+      "translation": "rezitiert"
+    },
+    {
+      "original": "---",
+      "transliteration": "Mensch",
+      "translation": "Mensch"
+    },
+    {
+      "original": "---",
+      "transliteration": "alle",
+      "translation": "alle"
+    },
+    {
+      "original": "---",
+      "transliteration": "Sünden",
+      "translation": "Sünden"
+    },
+    {
+      "original": "---",
+      "transliteration": "völlig befreit",
+      "translation": "völlig befreit"
+    },
+    {
+      "original": "---",
+      "transliteration": "Shiva",
+      "translation": "Shiva"
+    },
+    {
+      "original": "---",
+      "transliteration": "in der Welt",
+      "translation": "in der Welt"
+    },
+    {
+      "original": "---",
+      "transliteration": "wird gepriesen",
+      "translation": "wird gepriesen"
+    },
+    {
+      "original": "---",
+      "transliteration": "geehrt",
+      "translation": "geehrt"
+    },
+    {
+      "original": "---",
+      "transliteration": "Pushpadanta (Name des Dichters)",
+      "translation": "Pushpadanta (Name des Dichters)"
+    },
+    {
+      "original": "---",
+      "transliteration": "Mund",
+      "translation": "Mund"
+    },
+    {
+      "original": "---",
+      "transliteration": "Lotus (Mund-Lotus)",
+      "translation": "Lotus (Mund-Lotus)"
+    },
+    {
+      "original": "---",
+      "transliteration": "entsprungen",
+      "translation": "entsprungen"
+    },
+    {
+      "original": "---",
+      "transliteration": "mit der Hymne",
+      "translation": "mit der Hymne"
+    },
+    {
+      "original": "---",
+      "transliteration": "Sünde",
+      "translation": "Sünde"
+    },
+    {
+      "original": "---",
+      "transliteration": "beseitigend",
+      "translation": "beseitigend"
+    },
+    {
+      "original": "---",
+      "transliteration": "Shiva (Zerstörer)",
+      "translation": "Shiva (Zerstörer)"
+    },
+    {
+      "original": "---",
+      "transliteration": "geliebtem",
+      "translation": "geliebtem"
+    },
+    {
+      "original": "---",
+      "transliteration": "Hals",
+      "translation": "Hals"
+    },
+    {
+      "original": "---",
+      "transliteration": "verweilend",
+      "translation": "verweilend"
+    },
+    {
+      "original": "---",
+      "transliteration": "rezitiert",
+      "translation": "rezitiert"
+    },
+    {
+      "original": "---",
+      "transliteration": "mit Hingabe",
+      "translation": "mit Hingabe"
+    },
+    {
+      "original": "---",
+      "transliteration": "völlig erfreut",
+      "translation": "völlig erfreut"
+    },
+    {
+      "original": "---",
+      "transliteration": "wird",
+      "translation": "wird"
+    },
+    {
+      "original": "---",
+      "transliteration": "Herr der Wesen (Shiva)",
+      "translation": "Herr der Wesen (Shiva)"
+    },
+    {
+      "original": "---",
+      "transliteration": "großer Herr (Shiva)",
+      "translation": "großer Herr (Shiva)"
+    },
+    {
+      "original": "---",
+      "transliteration": "so endet",
+      "translation": "so endet"
+    },
+    {
+      "original": "---",
+      "transliteration": "geehrt",
+      "translation": "geehrt"
+    },
+    {
+      "original": "---",
+      "transliteration": "Pushpadanta (der Dichter)",
+      "translation": "Pushpadanta (der Dichter)"
+    },
+    {
+      "original": "---",
+      "transliteration": "verfasst",
+      "translation": "verfasst"
+    },
+    {
+      "original": "---",
+      "transliteration": "Lobpreisung des Shiva",
+      "translation": "Lobpreisung des Shiva"
+    },
+    {
+      "original": "---",
+      "transliteration": "Hymne",
+      "translation": "Hymne"
+    },
+    {
+      "original": "---",
+      "transliteration": "ist abgeschlossen",
+      "translation": "ist abgeschlossen"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\german\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\german\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.478Z"
+  }
+}

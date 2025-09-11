@@ -1,0 +1,3784 @@
+{
+  "mantra": "shiv_mahima_stotra_pushp_dant",
+  "language": "urdu",
+  "type": "word_to_word",
+  "totalWords": 754,
+  "alignedWords": [
+    {
+      "original": "महिम्नः",
+      "transliteration": "مہمنہ",
+      "translation": "عظمت"
+    },
+    {
+      "original": "पारं",
+      "transliteration": "پارم",
+      "translation": "کنارہ"
+    },
+    {
+      "original": "ते",
+      "transliteration": "تے",
+      "translation": "تیرا"
+    },
+    {
+      "original": "परमविदुषो",
+      "transliteration": "پرم",
+      "translation": "اعلیٰ"
+    },
+    {
+      "original": "यद्यसदृशी",
+      "transliteration": "ودوشہ",
+      "translation": "عالم کا"
+    },
+    {
+      "original": "स्तुतिर्ब्रह्मादीनामपि",
+      "transliteration": "یدیہ",
+      "translation": "اگر"
+    },
+    {
+      "original": "तदवसन्नास्त्वयि",
+      "transliteration": "اسدرشی",
+      "translation": "بے مثال"
+    },
+    {
+      "original": "गिरः",
+      "transliteration": "ستوتیہ",
+      "translation": "تعریف"
+    },
+    {
+      "original": "अथाऽवाच्यः",
+      "transliteration": "برہما دینام",
+      "translation": "برہما اور دیگر"
+    },
+    {
+      "original": "सर्वः",
+      "transliteration": "اپی",
+      "translation": "بھی"
+    },
+    {
+      "original": "स्वमतिपरिणामावधि",
+      "transliteration": "تد",
+      "translation": "وہ"
+    },
+    {
+      "original": "गृणन्",
+      "transliteration": "اوسنا",
+      "translation": "مایوس"
+    },
+    {
+      "original": "ममाप्येष",
+      "transliteration": "تویی",
+      "translation": "تجھ میں"
+    },
+    {
+      "original": "स्तोत्रे",
+      "transliteration": "گرہ",
+      "translation": "الفاظ"
+    },
+    {
+      "original": "हर",
+      "transliteration": "اتھا",
+      "translation": "تب"
+    },
+    {
+      "original": "निरपवादः",
+      "transliteration": "اوواچیہ",
+      "translation": "ناقابل بیان"
+    },
+    {
+      "original": "परिकरः",
+      "transliteration": "ساروہ",
+      "translation": "سب"
+    },
+    {
+      "original": "अतीतः",
+      "transliteration": "سوامتی",
+      "translation": "اپنی رائے"
+    },
+    {
+      "original": "पंथानं",
+      "transliteration": "پرنام",
+      "translation": "نتیجہ"
+    },
+    {
+      "original": "तव",
+      "transliteration": "اوادھی",
+      "translation": "حد"
+    },
+    {
+      "original": "च",
+      "transliteration": "گرنن",
+      "translation": "بیان کرنے والا"
+    },
+    {
+      "original": "महिमा",
+      "transliteration": "ماما",
+      "translation": "میرا"
+    },
+    {
+      "original": "वाङ्मनसयोः",
+      "transliteration": "ایشا",
+      "translation": "یہ"
+    },
+    {
+      "original": "अतद्व्यावृत्त्या",
+      "transliteration": "ستوترے",
+      "translation": "تعریف میں"
+    },
+    {
+      "original": "यं",
+      "transliteration": "ہرا",
+      "translation": "ہری"
+    },
+    {
+      "original": "चकितमभिधत्ते",
+      "transliteration": "نرپوادہ",
+      "translation": "بے عیب"
+    },
+    {
+      "original": "श्रुतिरपि",
+      "transliteration": "پارکرا",
+      "translation": "ساز و سامان"
+    },
+    {
+      "original": "स",
+      "transliteration": "اتی تہا",
+      "translation": "ماوراء"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "پنتھانم",
+      "translation": "راستہ"
+    },
+    {
+      "original": "स्तोतव्यः",
+      "transliteration": "واک",
+      "translation": "زبان"
+    },
+    {
+      "original": "कतिविधगुणः",
+      "transliteration": "منسیوہ",
+      "translation": "دماغ اور زبان"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "اتدویاورتیا",
+      "translation": "ناقابل وضاحت"
+    },
+    {
+      "original": "विषयः",
+      "transliteration": "چکتم",
+      "translation": "حیران"
+    },
+    {
+      "original": "पदे",
+      "transliteration": "ابھی دتے",
+      "translation": "بیان کرتا ہے"
+    },
+    {
+      "original": "त्वर्वाचीने",
+      "transliteration": "شروتہ",
+      "translation": "وید"
+    },
+    {
+      "original": "पतति",
+      "transliteration": "سہا",
+      "translation": "وہ"
+    },
+    {
+      "original": "न",
+      "transliteration": "کسیا",
+      "translation": "کس کا"
+    },
+    {
+      "original": "मनः",
+      "transliteration": "ستوتویہ",
+      "translation": "تعریف کے قابل"
+    },
+    {
+      "original": "कस्य",
+      "transliteration": "کتی",
+      "translation": "کتنے"
+    },
+    {
+      "original": "न",
+      "transliteration": "ودھا",
+      "translation": "طریقے"
+    },
+    {
+      "original": "वचः",
+      "transliteration": "گونہ",
+      "translation": "صفات"
+    },
+    {
+      "original": "मधुस्फीता",
+      "transliteration": "وشیہ",
+      "translation": "موضوع"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "پدے",
+      "translation": "الفاظ میں"
+    },
+    {
+      "original": "परमममृतं",
+      "transliteration": "ارویچینے",
+      "translation": "جدید"
+    },
+    {
+      "original": "निर्मितवतः",
+      "transliteration": "پاتتی",
+      "translation": "گرتا ہے"
+    },
+    {
+      "original": "तव",
+      "transliteration": "نہ",
+      "translation": "نہیں"
+    },
+    {
+      "original": "ब्रह्मन्",
+      "transliteration": "منہ",
+      "translation": "دماغ"
+    },
+    {
+      "original": "किं",
+      "transliteration": "وچا",
+      "translation": "الفاظ"
+    },
+    {
+      "original": "वागपि",
+      "transliteration": "مدھو",
+      "translation": "شہد"
+    },
+    {
+      "original": "सुरगुरोर्विस्मयपदम्",
+      "transliteration": "سفیتا",
+      "translation": "بھرپور"
+    },
+    {
+      "original": "मम",
+      "transliteration": "واکا",
+      "translation": "الفاظ"
+    },
+    {
+      "original": "त्वेतां",
+      "transliteration": "پرمم",
+      "translation": "اعلیٰ"
+    },
+    {
+      "original": "वाणीं",
+      "transliteration": "امرتم",
+      "translation": "امرت"
+    },
+    {
+      "original": "गुणकथनपुण्येन",
+      "transliteration": "نرمت",
+      "translation": "بنایا ہوا"
+    },
+    {
+      "original": "भवतः",
+      "transliteration": "وتاہ",
+      "translation": "رکھنے والا"
+    },
+    {
+      "original": "पुनामीत्यर्थेऽस्मिन्",
+      "transliteration": "برہمن",
+      "translation": "برہمن"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "کم",
+      "translation": "کیا"
+    },
+    {
+      "original": "बुद्धिर्व्यवसिता",
+      "transliteration": "واگ",
+      "translation": "زبان"
+    },
+    {
+      "original": "तवैश्वर्यं",
+      "transliteration": "سوراگوروہ",
+      "translation": "دیوتاؤں کے گرو کی"
+    },
+    {
+      "original": "यत्तज्जगदुदयरक्षाप्रलयकृत्",
+      "transliteration": "وسمیہ",
+      "translation": "حیرت"
+    },
+    {
+      "original": "त्रयीवस्तु",
+      "transliteration": "پدم",
+      "translation": "مقام"
+    },
+    {
+      "original": "व्यस्तं",
+      "transliteration": "ایٹام",
+      "translation": "اس"
+    },
+    {
+      "original": "तिस्रुषु",
+      "transliteration": "وانی",
+      "translation": "آواز"
+    },
+    {
+      "original": "गुणभिन्नासु",
+      "transliteration": "گونا",
+      "translation": "خوبی"
+    },
+    {
+      "original": "तनुषु",
+      "transliteration": "کٹھن",
+      "translation": "بیان"
+    },
+    {
+      "original": "अभव्यानामस्मिन्",
+      "transliteration": "پنیہن",
+      "translation": "نیکی سے"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "بھوتاہ",
+      "translation": "آپ کی"
+    },
+    {
+      "original": "रमणीयामरमणीं",
+      "transliteration": "پنامی",
+      "translation": "پاک کرتا ہوں"
+    },
+    {
+      "original": "विहन्तुं",
+      "transliteration": "ارتھے",
+      "translation": "مقصد کے لیے"
+    },
+    {
+      "original": "व्याक्रोशीं",
+      "transliteration": "اسمن",
+      "translation": "اس میں"
+    },
+    {
+      "original": "विदधत",
+      "transliteration": "پورمتھن",
+      "translation": "شہر کو تباہ کرنے والے"
+    },
+    {
+      "original": "इहैके",
+      "transliteration": "بدھی",
+      "translation": "عقل"
+    },
+    {
+      "original": "जडधियः",
+      "transliteration": "ویوسیتا",
+      "translation": "مستحکم ہے"
+    },
+    {
+      "original": "किमीहः",
+      "transliteration": "ایشوریم",
+      "translation": "اختیار"
+    },
+    {
+      "original": "किंकायः",
+      "transliteration": "جگت",
+      "translation": "دنیا"
+    },
+    {
+      "original": "स",
+      "transliteration": "اُدایہ",
+      "translation": "عروج"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "رکشا",
+      "translation": "حفاظت"
+    },
+    {
+      "original": "किमुपायस्त्रिभुवनं",
+      "transliteration": "پرلے",
+      "translation": "تباہی"
+    },
+    {
+      "original": "किमाधारो",
+      "transliteration": "کرت",
+      "translation": "کرنے والا"
+    },
+    {
+      "original": "धाता",
+      "transliteration": "ترئی",
+      "translation": "تینوں وید"
+    },
+    {
+      "original": "सृजति",
+      "transliteration": "وستو",
+      "translation": "شے"
+    },
+    {
+      "original": "किमुपादान",
+      "transliteration": "ویستام",
+      "translation": "بکھرا ہوا"
+    },
+    {
+      "original": "इति",
+      "transliteration": "تسرشو",
+      "translation": "تینوں میں"
+    },
+    {
+      "original": "च",
+      "transliteration": "بھناسو",
+      "translation": "مختلف"
+    },
+    {
+      "original": "अजन्मानो",
+      "transliteration": "تنوشو",
+      "translation": "جسموں میں"
+    },
+    {
+      "original": "लोकाः",
+      "transliteration": "ابھیانام",
+      "translation": "ناگوار"
+    },
+    {
+      "original": "किमवयववन्तोऽपि",
+      "transliteration": "وردا",
+      "translation": "نعمت دینے والا"
+    },
+    {
+      "original": "जगतां",
+      "transliteration": "رمنیہام",
+      "translation": "خوشنما"
+    },
+    {
+      "original": "अधिष्ठातारं",
+      "transliteration": "ارمنیم",
+      "translation": "ناپسندیدہ"
+    },
+    {
+      "original": "किं",
+      "transliteration": "وہنتم",
+      "translation": "ختم کرنے کے لیے"
+    },
+    {
+      "original": "भवविधिरनादृत्य",
+      "transliteration": "ویاکروشم",
+      "translation": "زور سے بولنے والا"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "وددتھے",
+      "translation": "کرتے ہیں"
+    },
+    {
+      "original": "अनीशो",
+      "transliteration": "ایہا",
+      "translation": "یہاں"
+    },
+    {
+      "original": "वा",
+      "transliteration": "ایکے",
+      "translation": "کچھ"
+    },
+    {
+      "original": "कुर्याद्",
+      "transliteration": "جڈدھییہ",
+      "translation": "بے وقوف"
+    },
+    {
+      "original": "भुवनजनने",
+      "transliteration": "کم",
+      "translation": "کیا"
+    },
+    {
+      "original": "कः",
+      "transliteration": "ایہہ",
+      "translation": "کوشش"
+    },
+    {
+      "original": "परिकरो",
+      "transliteration": "کایہ",
+      "translation": "جسم"
+    },
+    {
+      "original": "यतो",
+      "transliteration": "کھلو",
+      "translation": "بے شک"
+    },
+    {
+      "original": "मन्दास्त्वां",
+      "transliteration": "اپایہ",
+      "translation": "طریقہ"
+    },
+    {
+      "original": "प्रत्यमरवर",
+      "transliteration": "تری بھونم",
+      "translation": "تینوں دنیا"
+    },
+    {
+      "original": "संशेरत",
+      "transliteration": "آدھارہ",
+      "translation": "سہارا"
+    },
+    {
+      "original": "इमे",
+      "transliteration": "دھاتا",
+      "translation": "تخلیق کرنے والا"
+    },
+    {
+      "original": "त्रयी",
+      "transliteration": "سرجتی",
+      "translation": "پیدا کرتا ہے"
+    },
+    {
+      "original": "साङ्ख्यं",
+      "transliteration": "اپادان",
+      "translation": "ذریعہ"
+    },
+    {
+      "original": "योगः",
+      "transliteration": "ایتی",
+      "translation": "اس طرح"
+    },
+    {
+      "original": "पशुपतिमतं",
+      "transliteration": "اترکیا",
+      "translation": "ناقابل فہم"
+    },
+    {
+      "original": "वैष्णवमिति",
+      "transliteration": "انوسر",
+      "translation": "غلط وقت"
+    },
+    {
+      "original": "प्रभिन्ने",
+      "transliteration": "دُستہ",
+      "translation": "بدحالی میں"
+    },
+    {
+      "original": "प्रस्थाने",
+      "transliteration": "ہتدھییہ",
+      "translation": "کم عقل"
+    },
+    {
+      "original": "परमिदमदः",
+      "transliteration": "کُتَرکَہ",
+      "translation": "بے بنیاد دلیل"
+    },
+    {
+      "original": "पथ्यमिति",
+      "transliteration": "کانشچت",
+      "translation": "کچھ"
+    },
+    {
+      "original": "च",
+      "transliteration": "مکھریتی",
+      "translation": "بکواس کرتا ہے"
+    },
+    {
+      "original": "रुचीनां",
+      "transliteration": "موہایا",
+      "translation": "دھوکہ دینے کے لیے"
+    },
+    {
+      "original": "वैचित्र्यादृजुकुटिल",
+      "transliteration": "اجنما نہ",
+      "translation": "بغیر پیدائش کے"
+    },
+    {
+      "original": "नानापथजुषां",
+      "transliteration": "لوکہ",
+      "translation": "دنیا کے لوگ"
+    },
+    {
+      "original": "नृणामेको",
+      "transliteration": "اوایواونتہ",
+      "translation": "اعضاء رکھنے والے"
+    },
+    {
+      "original": "गम्यस्त्वमसि",
+      "transliteration": "ادھیٹھاتارم",
+      "translation": "حاکم"
+    },
+    {
+      "original": "पयसामर्णव",
+      "transliteration": "بھوویدھیہ",
+      "translation": "تخلیق کا قانون"
+    },
+    {
+      "original": "इव",
+      "transliteration": "انادریتہ",
+      "translation": "نظر انداز کرکے"
+    },
+    {
+      "original": "महोक्षः",
+      "transliteration": "بھوتی",
+      "translation": "ہوتا ہے"
+    },
+    {
+      "original": "खट्वाङ्गं",
+      "transliteration": "انیشہ",
+      "translation": "بے اختیار"
+    },
+    {
+      "original": "परशुरजिनं",
+      "transliteration": "کریات",
+      "translation": "کر سکتا ہے"
+    },
+    {
+      "original": "भस्म",
+      "transliteration": "بھون",
+      "translation": "دنیا"
+    },
+    {
+      "original": "फणिनः",
+      "transliteration": "جننے",
+      "translation": "پیدا کرنے میں"
+    },
+    {
+      "original": "कपालं",
+      "transliteration": "یتہ",
+      "translation": "جہاں سے"
+    },
+    {
+      "original": "चेतीयत्तव",
+      "transliteration": "منداہ",
+      "translation": "ناسمجھ لوگ"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "پرتی",
+      "translation": "کے خلاف"
+    },
+    {
+      "original": "तन्त्रोपकरणम्",
+      "transliteration": "امر",
+      "translation": "امر"
+    },
+    {
+      "original": "सुरास्तां",
+      "transliteration": "ور",
+      "translation": "سب سے اچھا"
+    },
+    {
+      "original": "तामृद्धिं",
+      "transliteration": "سمشیرتے",
+      "translation": "جھگڑتے ہیں"
+    },
+    {
+      "original": "दधति",
+      "transliteration": "ایما",
+      "translation": "یہ"
+    },
+    {
+      "original": "तु",
+      "transliteration": "سانکھیہ",
+      "translation": "سانکھیہ فلسفہ"
+    },
+    {
+      "original": "भवद्भूप्रणिहितां",
+      "transliteration": "یوگہ",
+      "translation": "یوگا"
+    },
+    {
+      "original": "न",
+      "transliteration": "پشوپتی",
+      "translation": "شیو (جانوروں کے مالک)"
+    },
+    {
+      "original": "हि",
+      "transliteration": "متم",
+      "translation": "نظریہ"
+    },
+    {
+      "original": "स्वात्मारामं",
+      "transliteration": "ویشنوَم",
+      "translation": "ویشنو مت"
+    },
+    {
+      "original": "विषयमृगतृष्णा",
+      "transliteration": "پربھننے",
+      "translation": "تقسیم شدہ"
+    },
+    {
+      "original": "भ्रमयति",
+      "transliteration": "پرستھانے",
+      "translation": "راستوں میں"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "ادَم",
+      "translation": "یہ"
+    },
+    {
+      "original": "कश्चित्",
+      "transliteration": "ادہ",
+      "translation": "وہ"
+    },
+    {
+      "original": "सर्वं",
+      "transliteration": "پتھیم",
+      "translation": "مناسب"
+    },
+    {
+      "original": "सकलमपरस्त्वध्रुवमिदं",
+      "transliteration": "رُچینام",
+      "translation": "پسندوں کی"
+    },
+    {
+      "original": "परो",
+      "transliteration": "وائچتریات",
+      "translation": "مختلف ہونے کی وجہ سے"
+    },
+    {
+      "original": "ध्रौव्याऽध्रौव्ये",
+      "transliteration": "رجُ",
+      "translation": "سیدھا"
+    },
+    {
+      "original": "जगति",
+      "transliteration": "کُٹِل",
+      "translation": "ٹیڑھا"
+    },
+    {
+      "original": "गदति",
+      "transliteration": "نانا",
+      "translation": "مختلف"
+    },
+    {
+      "original": "व्यस्तविषये",
+      "transliteration": "پتھ",
+      "translation": "راستے"
+    },
+    {
+      "original": "समस्तेऽप्येतस्मिन्",
+      "transliteration": "جُشام",
+      "translation": "اختیار کرنے والوں کے"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "نرنم",
+      "translation": "انسانوں کے"
+    },
+    {
+      "original": "तैर्विस्मित",
+      "transliteration": "ایکہ",
+      "translation": "ایک"
+    },
+    {
+      "original": "इव",
+      "transliteration": "گمیہ",
+      "translation": "پہنچنے کے لائق"
+    },
+    {
+      "original": "स्तुवन्",
+      "transliteration": "اسی",
+      "translation": "ہے"
+    },
+    {
+      "original": "जिह्रेमि",
+      "transliteration": "پایسام",
+      "translation": "پانیوں کا"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "ارنوہ",
+      "translation": "سمندر"
+    },
+    {
+      "original": "न",
+      "transliteration": "مہوکشہ",
+      "translation": "عظیم بیل"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "کھٹوانگم",
+      "translation": "کھٹوانگا (ایک قسم کا ہتھیار)"
+    },
+    {
+      "original": "ननु",
+      "transliteration": "پرشوہ",
+      "translation": "کلہاڑی"
+    },
+    {
+      "original": "धृष्टा",
+      "transliteration": "اجنم",
+      "translation": "ہرن کی کھال"
+    },
+    {
+      "original": "मुखरता",
+      "transliteration": "بھسم",
+      "translation": "راکھ"
+    },
+    {
+      "original": "तवैश्वर्यं",
+      "transliteration": "پھننہ",
+      "translation": "سانپ"
+    },
+    {
+      "original": "यत्नाद्",
+      "transliteration": "کپالم",
+      "translation": "کھوپڑی"
+    },
+    {
+      "original": "यदुपरि",
+      "transliteration": "تنتر",
+      "translation": "تنتر (رسوماتی سائنس)"
+    },
+    {
+      "original": "विरिञ्चिर्हरिरधः",
+      "transliteration": "اپکرنم",
+      "translation": "اوزار"
+    },
+    {
+      "original": "परिच्छेतुं",
+      "transliteration": "سوراہ",
+      "translation": "دیوتا"
+    },
+    {
+      "original": "यातावनलमनलस्कन्धवपुषः",
+      "transliteration": "تام",
+      "translation": "اسے"
+    },
+    {
+      "original": "ततो",
+      "transliteration": "ردھیم",
+      "translation": "خوشحالی"
+    },
+    {
+      "original": "भक्तिश्रद्धा-भरगुरु-गृणद्भ्यां",
+      "transliteration": "ددھتی",
+      "translation": "رکھتے ہیں"
+    },
+    {
+      "original": "गिरिश",
+      "transliteration": "تُو",
+      "translation": "مگر"
+    },
+    {
+      "original": "यत्",
+      "transliteration": "بھوت",
+      "translation": "آپ کا"
+    },
+    {
+      "original": "स्वयं",
+      "transliteration": "بھو",
+      "translation": "زمین"
+    },
+    {
+      "original": "तस्थे",
+      "transliteration": "پرنیہتام",
+      "translation": "رکھی ہوئی"
+    },
+    {
+      "original": "ताभ्यां",
+      "transliteration": "ہی",
+      "translation": "یقیناً"
+    },
+    {
+      "original": "तव",
+      "transliteration": "سواتمارامم",
+      "translation": "جو اپنے نفس میں مست ہو"
+    },
+    {
+      "original": "किम्",
+      "transliteration": "مرگ",
+      "translation": "ہرن"
+    },
+    {
+      "original": "अनुवृत्तिर्न",
+      "transliteration": "ترشنا",
+      "translation": "پیاس"
+    },
+    {
+      "original": "फलति",
+      "transliteration": "بھرمایتی",
+      "translation": "بھٹکاتا ہے"
+    },
+    {
+      "original": "अयत्नादासाद्य",
+      "transliteration": "دھروَم",
+      "translation": "یقینی"
+    },
+    {
+      "original": "त्रिभुवनमवैरव्यतिकरं",
+      "transliteration": "کشچت",
+      "translation": "کوئی"
+    },
+    {
+      "original": "दशास्यो",
+      "transliteration": "سکلَم",
+      "translation": "سارا"
+    },
+    {
+      "original": "यद्बाहूनभृत",
+      "transliteration": "اپرہ",
+      "translation": "دوسرا"
+    },
+    {
+      "original": "रणकण्डू-परवशान्",
+      "transliteration": "ادھروَم",
+      "translation": "غیر یقینی"
+    },
+    {
+      "original": "शिरःपद्मश्रेणी-रचितचरणाम्भोरुह-बलेः",
+      "transliteration": "دھرویہ",
+      "translation": "دوام"
+    },
+    {
+      "original": "स्थिरायास्त्वद्भक्तेस्त्रिपुरहर",
+      "transliteration": "ادھرویہ",
+      "translation": "فنا"
+    },
+    {
+      "original": "विस्फूर्जितमिदम्",
+      "transliteration": "گدتی",
+      "translation": "بیان کرتا ہے"
+    },
+    {
+      "original": "अमुष्य",
+      "transliteration": "سمستے",
+      "translation": "تمام میں"
+    },
+    {
+      "original": "त्वत्सेवा-समधिगतसारं",
+      "transliteration": "وسمیتہ",
+      "translation": "حیران"
+    },
+    {
+      "original": "भुजवनं",
+      "transliteration": "ستوون",
+      "translation": "تعریف کرتا ہوا"
+    },
+    {
+      "original": "बलात्",
+      "transliteration": "جہرےمی",
+      "translation": "شرمندہ ہوتا ہوں"
+    },
+    {
+      "original": "कैलासेऽपि",
+      "transliteration": "ننو",
+      "translation": "کیا واقعی"
+    },
+    {
+      "original": "त्वदधिवसतौ",
+      "transliteration": "دھرشٹا",
+      "translation": "گستاخ"
+    },
+    {
+      "original": "विक्रमयतः",
+      "transliteration": "مکھرتا",
+      "translation": "چرب زبانی"
+    },
+    {
+      "original": "अलभ्या",
+      "transliteration": "یتنات",
+      "translation": "کوشش سے"
+    },
+    {
+      "original": "पातालेऽपि",
+      "transliteration": "اوپری",
+      "translation": "اوپر"
+    },
+    {
+      "original": "अलसचलितांगुष्ठशिरसि",
+      "transliteration": "ورنچیہ",
+      "translation": "برہما"
+    },
+    {
+      "original": "प्रतिष्ठा",
+      "transliteration": "ہریہ",
+      "translation": "وشنو"
+    },
+    {
+      "original": "त्वय्यासीद्",
+      "transliteration": "ادہ",
+      "translation": "نیچے"
+    },
+    {
+      "original": "ध्रुवमुपचितो",
+      "transliteration": "پریچھیتُم",
+      "translation": "حد مقرر کرنے کے لیے"
+    },
+    {
+      "original": "मुह्यति",
+      "transliteration": "یاتو",
+      "translation": "گئے"
+    },
+    {
+      "original": "खलः",
+      "transliteration": "انلم",
+      "translation": "آگ"
+    },
+    {
+      "original": "यदृद्धिं",
+      "transliteration": "انل",
+      "translation": "آگ"
+    },
+    {
+      "original": "सुत्राम्णो",
+      "transliteration": "سکندہ",
+      "translation": "کندھا"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "وپوشہ",
+      "translation": "جسم"
+    },
+    {
+      "original": "परमोच्चैरपि",
+      "transliteration": "تتہ",
+      "translation": "تب"
+    },
+    {
+      "original": "सतीं",
+      "transliteration": "بھکتی",
+      "translation": "عقیدت"
+    },
+    {
+      "original": "अधश्चक्रे",
+      "transliteration": "شرَدھا",
+      "translation": "ایمان"
+    },
+    {
+      "original": "बाणः",
+      "transliteration": "بھرَ",
+      "translation": "بوجھ"
+    },
+    {
+      "original": "परिजनविधेयत्रिभुवनः",
+      "transliteration": "گرو",
+      "translation": "عظیم"
+    },
+    {
+      "original": "न",
+      "transliteration": "گِریش",
+      "translation": "پہاڑوں کے مالک (شیو)"
+    },
+    {
+      "original": "तच्चित्रं",
+      "transliteration": "سویم",
+      "translation": "خود"
+    },
+    {
+      "original": "तस्मिन्",
+      "transliteration": "تستھے",
+      "translation": "کھڑے رہے"
+    },
+    {
+      "original": "वरिवसितरि",
+      "transliteration": "تابھیام",
+      "translation": "ان دونوں کے ذریعے"
+    },
+    {
+      "original": "त्वच्चरणयोः",
+      "transliteration": "کم",
+      "translation": "کیا"
+    },
+    {
+      "original": "न",
+      "transliteration": "انوروِتتیہ",
+      "translation": "پیروی"
+    },
+    {
+      "original": "कस्याप्युन्नत्यै",
+      "transliteration": "پھلتی",
+      "translation": "نتیجہ دیتی ہے"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "ایتنات",
+      "translation": "بغیر کوشش کے"
+    },
+    {
+      "original": "शिरसस्त्वय्यवनतिः",
+      "transliteration": "آسادیہ",
+      "translation": "حاصل کرکے"
+    },
+    {
+      "original": "अकाण्ड-ब्रह्माण्ड-क्षयचकित-देवासुरकृपा",
+      "transliteration": "اویر",
+      "translation": "بے دشمنی"
+    },
+    {
+      "original": "विधेयस्याऽऽसीद्",
+      "transliteration": "ویتِکرم",
+      "translation": "ٹکراؤ"
+    },
+    {
+      "original": "यस्त्रिनयन",
+      "transliteration": "دشاسیہ",
+      "translation": "دس سروں والا (راون)"
+    },
+    {
+      "original": "विषं",
+      "transliteration": "باہون",
+      "translation": "بازو"
+    },
+    {
+      "original": "संहृतवतः",
+      "transliteration": "اَبھرِت",
+      "translation": "رکھے ہوئے"
+    },
+    {
+      "original": "स",
+      "transliteration": "رن",
+      "translation": "جنگ"
+    },
+    {
+      "original": "कल्माषः",
+      "transliteration": "کنڈو",
+      "translation": "خارش"
+    },
+    {
+      "original": "कण्ठे",
+      "transliteration": "پروشَان",
+      "translation": "دوسرے کے قابو میں"
+    },
+    {
+      "original": "तव",
+      "transliteration": "شِرَہ",
+      "translation": "سر"
+    },
+    {
+      "original": "न",
+      "transliteration": "پدم",
+      "translation": "کنول"
+    },
+    {
+      "original": "कुरुते",
+      "transliteration": "شرینی",
+      "translation": "قطار"
+    },
+    {
+      "original": "न",
+      "transliteration": "رچِت",
+      "translation": "ترتیب دیا ہوا"
+    },
+    {
+      "original": "श्रियमहो",
+      "transliteration": "چرَن",
+      "translation": "پاؤں"
+    },
+    {
+      "original": "विकारोऽपि",
+      "transliteration": "امبھو روہ",
+      "translation": "کمل"
+    },
+    {
+      "original": "श्लाघ्यो",
+      "transliteration": "بَلَے",
+      "translation": "بل (دیو)"
+    },
+    {
+      "original": "भुवन-भय-",
+      "transliteration": "استھیریاہ",
+      "translation": "مضبوط"
+    },
+    {
+      "original": "भङ्ग-",
+      "transliteration": "وسفورجتم",
+      "translation": "دھماکہ"
+    },
+    {
+      "original": "व्यसनिनः",
+      "transliteration": "اَمُشْیہ",
+      "translation": "اس کا"
+    },
+    {
+      "original": "असिद्धार्था",
+      "transliteration": "سیوا",
+      "translation": "خدمت"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "سمدھیگت",
+      "translation": "مکمل حاصل کی گئی"
+    },
+    {
+      "original": "क्वचिदपि",
+      "transliteration": "سارَم",
+      "translation": "جوہر"
+    },
+    {
+      "original": "सदेवासुरनरे",
+      "transliteration": "بھوجا",
+      "translation": "بازو"
+    },
+    {
+      "original": "निवर्तन्ते",
+      "transliteration": "ونم",
+      "translation": "جنگل"
+    },
+    {
+      "original": "नित्यं",
+      "transliteration": "بلات",
+      "translation": "زبردستی"
+    },
+    {
+      "original": "जगति",
+      "transliteration": "کیلاسے",
+      "translation": "کیلاش میں"
+    },
+    {
+      "original": "जयिनो",
+      "transliteration": "اَدھیوساتو",
+      "translation": "رہنے والے"
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "وکرم یتہ",
+      "translation": "بہادری دکھانے والا"
+    },
+    {
+      "original": "विशिखाः",
+      "transliteration": "الا بھیا",
+      "translation": "ناقابلِ حصول"
+    },
+    {
+      "original": "स",
+      "transliteration": "پاتالے",
+      "translation": "زیر زمین"
+    },
+    {
+      "original": "पश्यन्नीश",
+      "transliteration": "اَلَسَ",
+      "translation": "سست"
+    },
+    {
+      "original": "त्वामितरसुरसाधारणमभूत्",
+      "transliteration": "چلِت",
+      "translation": "ہلا ہوا"
+    },
+    {
+      "original": "स्मरः",
+      "transliteration": "انگشتھ",
+      "translation": "انگوٹھا"
+    },
+    {
+      "original": "स्मर्तव्यात्मा",
+      "transliteration": "پرتیستھا",
+      "translation": "مقام"
+    },
+    {
+      "original": "न",
+      "transliteration": "آ سیت",
+      "translation": "تھا"
+    },
+    {
+      "original": "हि",
+      "transliteration": "اپچِتہ",
+      "translation": "بھرا ہوا"
+    },
+    {
+      "original": "वशिषु",
+      "transliteration": "مُہْیَتی",
+      "translation": "حیران ہوتا ہے"
+    },
+    {
+      "original": "पथ्यः",
+      "transliteration": "ردھیم",
+      "translation": "خوشحالی"
+    },
+    {
+      "original": "मही",
+      "transliteration": "سُترامنہ",
+      "translation": "برہما"
+    },
+    {
+      "original": "पादाघाताद्",
+      "transliteration": "پرَم",
+      "translation": "اعلیٰ"
+    },
+    {
+      "original": "व्रजति",
+      "transliteration": "اچَیہ",
+      "translation": "بلند"
+    },
+    {
+      "original": "सहसा",
+      "transliteration": "سَتیم",
+      "translation": "پاکدامن"
+    },
+    {
+      "original": "संशयपदं",
+      "transliteration": "چکرے",
+      "translation": "بنایا"
+    },
+    {
+      "original": "पदं",
+      "transliteration": "بانہ",
+      "translation": "تیر"
+    },
+    {
+      "original": "विष्णोर्भ्राम्यद्",
+      "transliteration": "پرجن",
+      "translation": "ساتھی"
+    },
+    {
+      "original": "भुज-परिघ-रुग्ण-ग्रह-गणम्",
+      "transliteration": "ودھیہ",
+      "translation": "تابع"
+    },
+    {
+      "original": "मुहुर्द्यौर्दौस्थ्यं",
+      "transliteration": "چترَم",
+      "translation": "حیرت انگیز"
+    },
+    {
+      "original": "यात्यनिभृत-जटा-ताडित-तटा",
+      "transliteration": "تسمِن",
+      "translation": "اس میں"
+    },
+    {
+      "original": "जगद्रक्षायै",
+      "transliteration": "وریوسِتَری",
+      "translation": "جو سب سے زیادہ شان والا ہے"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "اُنَّتیہ",
+      "translation": "بلندی کے لیے"
+    },
+    {
+      "original": "नटसि",
+      "transliteration": "شِرَسَہ",
+      "translation": "سر کا"
+    },
+    {
+      "original": "ननु",
+      "transliteration": "اَوَنَتِہ",
+      "translation": "جھکنا"
+    },
+    {
+      "original": "वामैव",
+      "transliteration": "اَکَانڈ",
+      "translation": "بغیر کسی وقفے کے"
+    },
+    {
+      "original": "विभुता",
+      "transliteration": "برہمَانڈ",
+      "translation": "کائنات"
+    },
+    {
+      "original": "वियद्व्यापी",
+      "transliteration": "کشَی",
+      "translation": "تباہی"
+    },
+    {
+      "original": "तारा-गण-गुणित-फेनोद्गम-रुचिः",
+      "transliteration": "دیو",
+      "translation": "دیوتا"
+    },
+    {
+      "original": "प्रवाहो",
+      "transliteration": "اسُر",
+      "translation": "راکشس"
+    },
+    {
+      "original": "वारां",
+      "transliteration": "کرپا",
+      "translation": "رحم"
+    },
+    {
+      "original": "यः",
+      "transliteration": "وِدھیےَسیا",
+      "translation": "جس کے تابع"
+    },
+    {
+      "original": "पृषतलघुदृष्टः",
+      "transliteration": "تِرِنَیَن",
+      "translation": "تین آنکھوں والا (شیو)"
+    },
+    {
+      "original": "शिरसि",
+      "transliteration": "وِشَم",
+      "translation": "زہر"
+    },
+    {
+      "original": "ते",
+      "transliteration": "سنہرتوَتَہ",
+      "translation": "جس نے نگل لیا"
+    },
+    {
+      "original": "जगद्-द्वीपाकारं",
+      "transliteration": "کلماشَہ",
+      "translation": "دھبہ"
+    },
+    {
+      "original": "जलधिवलयं",
+      "transliteration": "کنٹھے",
+      "translation": "گلے میں"
+    },
+    {
+      "original": "तेन",
+      "transliteration": "کُرُتے",
+      "translation": "بنا دیتا ہے"
+    },
+    {
+      "original": "कृतमिति",
+      "transliteration": "شریَم",
+      "translation": "خوشحالی"
+    },
+    {
+      "original": "अनेनैव",
+      "transliteration": "اَہو",
+      "translation": "حیرانی!"
+    },
+    {
+      "original": "ऊन्नेयं",
+      "transliteration": "وِکارَہ",
+      "translation": "تغیر"
+    },
+    {
+      "original": "धृतमहिम",
+      "transliteration": "بھَنگَ",
+      "translation": "ٹوٹ پھوٹ"
+    },
+    {
+      "original": "दिव्यं",
+      "transliteration": "ویاسَنِناہ",
+      "translation": "مصیبت میں ڈالنے والا"
+    },
+    {
+      "original": "तव",
+      "transliteration": "اسِدّھارتھا",
+      "translation": "جو مقصد حاصل نہ کر سکے"
+    },
+    {
+      "original": "वपुः",
+      "transliteration": "کْوچِت",
+      "translation": "کہیں پر"
+    },
+    {
+      "original": "रथः",
+      "transliteration": "ست",
+      "translation": "سچائی"
+    },
+    {
+      "original": "क्षोणी",
+      "transliteration": "نِوَرتَنٹے",
+      "translation": "پلٹ آتے ہیں"
+    },
+    {
+      "original": "यन्ता",
+      "transliteration": "نِتیم",
+      "translation": "ہمیشہ"
+    },
+    {
+      "original": "शतधृतिरगेन्द्रो",
+      "transliteration": "جَیِنَہ",
+      "translation": "جیتنے والے"
+    },
+    {
+      "original": "धनुरथो",
+      "transliteration": "یَسْیَہ",
+      "translation": "جس کا"
+    },
+    {
+      "original": "रथाङ्गे",
+      "transliteration": "وِشِکھاہ",
+      "translation": "تیر"
+    },
+    {
+      "original": "चन्द्रार्कौ",
+      "transliteration": "پَشْیَن",
+      "translation": "دیکھنے والا"
+    },
+    {
+      "original": "रथ-चरण-पाणिः",
+      "transliteration": "ایش",
+      "translation": "بھگوان (شیو)"
+    },
+    {
+      "original": "शर",
+      "transliteration": "اَیْتَرَ",
+      "translation": "دیگر"
+    },
+    {
+      "original": "इति",
+      "transliteration": "سادھارنَم",
+      "translation": "عام"
+    },
+    {
+      "original": "दिधक्षोस्ते",
+      "transliteration": "اَبھُوت",
+      "translation": "بن گیا"
+    },
+    {
+      "original": "कोऽयं",
+      "transliteration": "سمرَہ",
+      "translation": "کام دیو (محبت کا دیوتا)"
+    },
+    {
+      "original": "त्रिपुरतृणमाडम्बर-विधिः",
+      "transliteration": "سمرتَوْیَہ",
+      "translation": "یاد رکھنے کے لائق"
+    },
+    {
+      "original": "विधेयैः",
+      "transliteration": "آتما",
+      "translation": "روح"
+    },
+    {
+      "original": "क्रीडन्त्यो",
+      "transliteration": "وَشِشو",
+      "translation": "قابو پانے والوں میں"
+    },
+    {
+      "original": "न",
+      "transliteration": "پادَگھا تات",
+      "translation": "پاؤں کی ضرب سے"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "وْرَجَتِی",
+      "translation": "چلا جاتا ہے"
+    },
+    {
+      "original": "परतन्त्राः",
+      "transliteration": "سہسا",
+      "translation": "اچانک"
+    },
+    {
+      "original": "प्रभुधियः",
+      "transliteration": "سنشَیَ",
+      "translation": "شک"
+    },
+    {
+      "original": "हरिस्ते",
+      "transliteration": "وِشْنُوْہ",
+      "translation": "وشنو (بھگوان)"
+    },
+    {
+      "original": "साहस्रं",
+      "transliteration": "بھرَامْیَت",
+      "translation": "گھوم رہا ہے"
+    },
+    {
+      "original": "कमल",
+      "transliteration": "رْگْنَ",
+      "translation": "بیمار"
+    },
+    {
+      "original": "बलिमाधाय",
+      "transliteration": "گْرَہ",
+      "translation": "سیارہ"
+    },
+    {
+      "original": "पदयोः",
+      "transliteration": "گَنَم",
+      "translation": "گروہ"
+    },
+    {
+      "original": "यदेक",
+      "transliteration": "مُہُوْہ",
+      "translation": "بار بار"
+    },
+    {
+      "original": "ओने",
+      "transliteration": "دْیَوْہ",
+      "translation": "آسمان"
+    },
+    {
+      "original": "तस्मिन्",
+      "transliteration": "دَوسْتھْیَم",
+      "translation": "پریشانی"
+    },
+    {
+      "original": "निजमुदहरन्",
+      "transliteration": "یاتی",
+      "translation": "پہنچتا ہے"
+    },
+    {
+      "original": "नेत्रकमलम्",
+      "transliteration": "انیبھرت",
+      "translation": "جو قابو میں نہ ہو"
+    },
+    {
+      "original": "गतो",
+      "transliteration": "جَٹَا",
+      "translation": "مatted بال"
+    },
+    {
+      "original": "भक्त्युद्रेकः",
+      "transliteration": "تاڈِت",
+      "translation": "مارا گیا"
+    },
+    {
+      "original": "परिणतिमसौ",
+      "transliteration": "تٹا",
+      "translation": "کنارہ"
+    },
+    {
+      "original": "चक्रवपुषः",
+      "transliteration": "رکشایے",
+      "translation": "حفاظت کے لیے"
+    },
+    {
+      "original": "त्रयाणां",
+      "transliteration": "نٹسی",
+      "translation": "ناچتے ہو"
+    },
+    {
+      "original": "रक्षायै",
+      "transliteration": "وامَ",
+      "translation": "بائیں"
+    },
+    {
+      "original": "त्रिपुरहर",
+      "transliteration": "وبھوتا",
+      "translation": "عظمت"
+    },
+    {
+      "original": "जागर्ति",
+      "transliteration": "وِیَت",
+      "translation": "آسمان"
+    },
+    {
+      "original": "जगताम्",
+      "transliteration": "ویَاپِی",
+      "translation": "پھیلنے والا"
+    },
+    {
+      "original": "क्रतौ",
+      "transliteration": "تَارَا",
+      "translation": "ستارہ"
+    },
+    {
+      "original": "सुप्ते",
+      "transliteration": "گُṇِت",
+      "translation": "شمار کیا گیا"
+    },
+    {
+      "original": "जाग्रत्",
+      "transliteration": "فینَ",
+      "translation": "جھاگ"
+    },
+    {
+      "original": "त्वमसि",
+      "transliteration": "اُدگَم",
+      "translation": "آغاز"
+    },
+    {
+      "original": "फलयोगे",
+      "transliteration": "رُچِہ",
+      "translation": "چمک"
+    },
+    {
+      "original": "क्रतुमतां",
+      "transliteration": "پْرَوَاہَہ",
+      "translation": "بہاؤ"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "واراَم",
+      "translation": "پانی کا"
+    },
+    {
+      "original": "कर्म",
+      "transliteration": "پْرِشَت",
+      "translation": "ہرن"
+    },
+    {
+      "original": "प्रध्वस्तं",
+      "transliteration": "لَغُو",
+      "translation": "ہلکا، چھوٹا"
+    },
+    {
+      "original": "फलति",
+      "transliteration": "دْرِشْٹَہ",
+      "translation": "دیکھا ہوا"
+    },
+    {
+      "original": "पुरुषाराधनमृते",
+      "transliteration": "دْویپ",
+      "translation": "جزیرہ"
+    },
+    {
+      "original": "अतस्त्वां",
+      "transliteration": "آکَارَم",
+      "translation": "شکل، صورت"
+    },
+    {
+      "original": "सम्प्रेक्ष्य",
+      "transliteration": "جَلَدھِی",
+      "translation": "سمندر"
+    },
+    {
+      "original": "क्रतुषु",
+      "transliteration": "وَلَیَم",
+      "translation": "حلقہ، دائرہ"
+    },
+    {
+      "original": "फलदान-प्रतिभुवं",
+      "transliteration": "تَینَ",
+      "translation": "اس کے ذریعے"
+    },
+    {
+      "original": "श्रुतौ",
+      "transliteration": "کرتم",
+      "translation": "کیا گیا"
+    },
+    {
+      "original": "श्रद्धां",
+      "transliteration": "اَنَینَ",
+      "translation": "اس کے ذریعے"
+    },
+    {
+      "original": "बध्वा",
+      "transliteration": "ایوَ",
+      "translation": "ہی، فقط"
+    },
+    {
+      "original": "दृढपरिकरः",
+      "transliteration": "اْنْنےیَم",
+      "translation": "بلند کرنے کے لائق"
+    },
+    {
+      "original": "कर्मसु",
+      "transliteration": "دْھرِت",
+      "translation": "پکڑا ہوا، سنبھالا ہوا"
+    },
+    {
+      "original": "जनः",
+      "transliteration": "مہِم",
+      "translation": "عظمت"
+    },
+    {
+      "original": "क्रियादक्षो",
+      "transliteration": "دِوْیَم",
+      "translation": "آسمانی، مقدس"
+    },
+    {
+      "original": "दक्षः",
+      "transliteration": "وپُہ",
+      "translation": "جسم"
+    },
+    {
+      "original": "क्रतुपतिरधीश",
+      "transliteration": "رَتْھَہ",
+      "translation": "رتھ"
+    },
+    {
+      "original": "तनुभृतां",
+      "transliteration": "کشوْنی",
+      "translation": "زمین"
+    },
+    {
+      "original": "ऋषीणाम्",
+      "transliteration": "یَنّتَا",
+      "translation": "گاڑی چلانے والا"
+    },
+    {
+      "original": "आर्त्विज्यं",
+      "transliteration": "شَتَدھْرِتِہ",
+      "translation": "سو بازوؤں والا (اندرا)"
+    },
+    {
+      "original": "शरणद",
+      "transliteration": "اَگندْرَہ",
+      "translation": "پہاڑوں کا بادشاہ (ہمالیہ)"
+    },
+    {
+      "original": "सदस्याः",
+      "transliteration": "دھنُہ",
+      "translation": "کمان"
+    },
+    {
+      "original": "सुर-गणाः",
+      "transliteration": "رَتھَانْگے",
+      "translation": "رتھ کا پہیہ"
+    },
+    {
+      "original": "क्रतुभ्रंशस्त्वत्तः",
+      "transliteration": "چَندْر",
+      "translation": "چاند"
+    },
+    {
+      "original": "क्रतुफल-विधान-व्यसनिनः",
+      "transliteration": "اَرْکَو",
+      "translation": "سورج"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "پانیہ",
+      "translation": "ہاتھ"
+    },
+    {
+      "original": "कर्तुः",
+      "transliteration": "شَرَہ",
+      "translation": "تیر"
+    },
+    {
+      "original": "श्रद्धा-विधुरम्",
+      "transliteration": "دِدھَکشوَہ",
+      "translation": "جلانے کی خواہش والا"
+    },
+    {
+      "original": "अभिचाराय",
+      "transliteration": "کَہ",
+      "translation": "کون"
+    },
+    {
+      "original": "हि",
+      "transliteration": "تْرِپُرَ",
+      "translation": "تین شہروں والا (راکشس)"
+    },
+    {
+      "original": "मखाः",
+      "transliteration": "تْرنَم",
+      "translation": "تنکا"
+    },
+    {
+      "original": "प्रजानाथं",
+      "transliteration": "آڈَمْبَرَ",
+      "translation": "دھوم دھام"
+    },
+    {
+      "original": "नाथ",
+      "transliteration": "وِدھِہ",
+      "translation": "قانون، ضابطہ"
+    },
+    {
+      "original": "प्रसभमभिकं",
+      "transliteration": "کریڈَنّتِی",
+      "translation": "کھیلتے ہیں"
+    },
+    {
+      "original": "स्वां",
+      "transliteration": "پَرَتَنترَاہ",
+      "translation": "دوسرے کے تابع"
+    },
+    {
+      "original": "दुहितरं",
+      "transliteration": "پْرَبھُ",
+      "translation": "مالک، خدا"
+    },
+    {
+      "original": "गतं",
+      "transliteration": "دھیَہ",
+      "translation": "عقلیں"
+    },
+    {
+      "original": "रोहिद्",
+      "transliteration": "ہَرِہ",
+      "translation": "وشنو"
+    },
+    {
+      "original": "भूतां",
+      "transliteration": "ساہسْرَم",
+      "translation": "ہزاروں"
+    },
+    {
+      "original": "रिरमयिषुमृष्यस्य",
+      "transliteration": "کَمَلَ",
+      "translation": "کنول کا پھول"
+    },
+    {
+      "original": "वपुषा",
+      "transliteration": "بَلِم",
+      "translation": "نذرانہ"
+    },
+    {
+      "original": "धनुष्पाणेर्यातं",
+      "transliteration": "آدھایَ",
+      "translation": "رکھ کر"
+    },
+    {
+      "original": "दिवमपि",
+      "transliteration": "ایکوْنے",
+      "translation": "ایک سے کم"
+    },
+    {
+      "original": "सपत्राकृतममुं",
+      "transliteration": "نِجَم",
+      "translation": "اپنا"
+    },
+    {
+      "original": "त्रसन्तं",
+      "transliteration": "اودَہَرَن",
+      "translation": "پیش کرنے والا"
+    },
+    {
+      "original": "तेऽद्यापि",
+      "transliteration": "نیتْر",
+      "translation": "آنکھ"
+    },
+    {
+      "original": "त्यजति",
+      "transliteration": "گَتَہ",
+      "translation": "چلا گیا"
+    },
+    {
+      "original": "न",
+      "transliteration": "بھَکتی اُدریكَہ",
+      "translation": "عقیدت کا عروج"
+    },
+    {
+      "original": "मृगव्याधरभसः",
+      "transliteration": "پَریṇَتِم",
+      "translation": "نتیجہ، انجام"
+    },
+    {
+      "original": "स्वलावण्याशंसा",
+      "transliteration": "اَسَو",
+      "translation": "وہ (دور والا)"
+    },
+    {
+      "original": "धृतधनुषमह्नाय",
+      "transliteration": "چَکرَ",
+      "translation": "چکر، پہیہ"
+    },
+    {
+      "original": "तृणवत्",
+      "transliteration": "وَپُشَہ",
+      "translation": "جسم کا"
+    },
+    {
+      "original": "पुरः",
+      "transliteration": "تْرَیانام",
+      "translation": "تین کا"
+    },
+    {
+      "original": "प्लुष्टं",
+      "transliteration": "رَکْشایَی",
+      "translation": "حفاظت کے لیے"
+    },
+    {
+      "original": "दृष्ट्वा",
+      "transliteration": "جاگرتی",
+      "translation": "جاگتا ہے"
+    },
+    {
+      "original": "पुरमथन",
+      "transliteration": "جگتام",
+      "translation": "دنیا کا"
+    },
+    {
+      "original": "पुष्पायुधमपि",
+      "transliteration": "کرتو",
+      "translation": "یگیہ (قربانی) میں"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "سْپتَے",
+      "translation": "سونے کے بعد"
+    },
+    {
+      "original": "स्त्रैणं",
+      "transliteration": "جاگرَت",
+      "translation": "بیدار"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "پھَلَ",
+      "translation": "پھل، نتیجہ"
+    },
+    {
+      "original": "यमनिरत-देहार्ध-घटनात्",
+      "transliteration": "یوگے",
+      "translation": "یوگ میں"
+    },
+    {
+      "original": "अवैति",
+      "transliteration": "کرتُمَتام",
+      "translation": "یگیہ کرنے والوں کا"
+    },
+    {
+      "original": "त्वामद्धा",
+      "transliteration": "کرْم",
+      "translation": "عمل"
+    },
+    {
+      "original": "बत",
+      "transliteration": "پردھوَسْتم",
+      "translation": "برباد"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "پھَلَتِی",
+      "translation": "نتیجہ دیتا ہے"
+    },
+    {
+      "original": "मुग्धा",
+      "transliteration": "پُرُش",
+      "translation": "انسان"
+    },
+    {
+      "original": "युवतयः",
+      "transliteration": "آراڌَنَم",
+      "translation": "عبادت، پوجا"
+    },
+    {
+      "original": "श्मशानेष्वाक्रीडा",
+      "transliteration": "رِتے",
+      "translation": "کے بغیر"
+    },
+    {
+      "original": "स्मरहर",
+      "transliteration": "سمپریکشیا",
+      "translation": "دیکھ کر"
+    },
+    {
+      "original": "पिशाचाः",
+      "transliteration": "کرتوشُ",
+      "translation": "یگیوں میں"
+    },
+    {
+      "original": "सहचराः",
+      "transliteration": "دانَ",
+      "translation": "عطیہ، صدقہ"
+    },
+    {
+      "original": "चिता-भस्मालेपः",
+      "transliteration": "پْرتیْبھوَں",
+      "translation": "ضمانت"
+    },
+    {
+      "original": "स्रगपि",
+      "transliteration": "شْرُتَو",
+      "translation": "سننے میں، وید میں"
+    },
+    {
+      "original": "नृकरोटी-परिकरः",
+      "transliteration": "شرَدْھاَم",
+      "translation": "عقیدت، ایمان"
+    },
+    {
+      "original": "अमङ्गल्यं",
+      "transliteration": "بَڌْوَا",
+      "translation": "باندھ کر"
+    },
+    {
+      "original": "शीलं",
+      "transliteration": "دْرِڑھَ",
+      "translation": "مضبوط"
+    },
+    {
+      "original": "तव",
+      "transliteration": "پرِکَرَہ",
+      "translation": "ساز و سامان"
+    },
+    {
+      "original": "भवतु",
+      "transliteration": "کرْمَسُو",
+      "translation": "اعمال میں"
+    },
+    {
+      "original": "नामैवम्",
+      "transliteration": "جَنَہ",
+      "translation": "انسان، لوگ"
+    },
+    {
+      "original": "अखिलं",
+      "transliteration": "کرِیا",
+      "translation": "عمل، فعل"
+    },
+    {
+      "original": "तथापि",
+      "transliteration": "دَکْشَہ",
+      "translation": "ماہر، قابل"
+    },
+    {
+      "original": "स्मर्तॄणां",
+      "transliteration": "کرَتو",
+      "translation": "یگیہ، قربانی"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "پَتِہ",
+      "translation": "مالک، حاکم"
+    },
+    {
+      "original": "परमं",
+      "transliteration": "اَڌِیشَہ",
+      "translation": "اعلیٰ حاکم"
+    },
+    {
+      "original": "मङ्गलमसि",
+      "transliteration": "تَنوُبھْرِتاَم",
+      "translation": "جسم رکھنے والوں کا"
+    },
+    {
+      "original": "मनः",
+      "transliteration": "رشی نام",
+      "translation": "رشیوں (سادھوؤں) کا"
+    },
+    {
+      "original": "प्रत्यक्चित्ते",
+      "transliteration": "آرتوِجْیَم",
+      "translation": "قربانی کی رسم"
+    },
+    {
+      "original": "सविधमविधायात्त-मरुतः",
+      "transliteration": "شرَنَدَ",
+      "translation": "پناہ دینے والا"
+    },
+    {
+      "original": "प्रहृष्यद्रोमाणः",
+      "transliteration": "سَدَسْیَاہ",
+      "translation": "ممبران، شرکاء"
+    },
+    {
+      "original": "प्रमद-सलिलोत्सङ्गति-दृशः",
+      "transliteration": "سُرَگَنَاہ",
+      "translation": "دیوتاؤں کا گروہ"
+    },
+    {
+      "original": "यदालोक्याह्लादं",
+      "transliteration": "بھْرَمشَہ",
+      "translation": "زوال، نقصان"
+    },
+    {
+      "original": "ह्रद",
+      "transliteration": "وِڌانَ",
+      "translation": "طریقہ، اصول"
+    },
+    {
+      "original": "इव",
+      "transliteration": "وْیَسَنِنَہ",
+      "translation": "بری عادتوں والے"
+    },
+    {
+      "original": "निमज्यामृतमये",
+      "transliteration": "کَرتُہ",
+      "translation": "کرنے والے کا"
+    },
+    {
+      "original": "दधत्यन्तस्तत्त्वं",
+      "transliteration": "وِڌُرَم",
+      "translation": "بے سہارا، افسوسناک"
+    },
+    {
+      "original": "किमपि",
+      "transliteration": "اَبھِچارَایَ",
+      "translation": "کالا جادو، برے عمل کے لیے"
+    },
+    {
+      "original": "यमिनस्तत्",
+      "transliteration": "مَخَاہ",
+      "translation": "یگیہ، قربانیاں"
+    },
+    {
+      "original": "किल",
+      "transliteration": "پْرَجَا",
+      "translation": "رعایا، اولاد"
+    },
+    {
+      "original": "भवान्",
+      "transliteration": "ناتھَم",
+      "translation": "حاکم، مالک"
+    },
+    {
+      "original": "त्वमर्कस्त्वं",
+      "transliteration": "پْرَسَبھَم",
+      "translation": "زبردستی، جبر سے"
+    },
+    {
+      "original": "सोमस्त्वमसि",
+      "transliteration": "اَبھِکَم",
+      "translation": "مکمل طور پر، شدت سے"
+    },
+    {
+      "original": "पवनस्त्वं",
+      "transliteration": "سْوَام",
+      "translation": "اپنی"
+    },
+    {
+      "original": "हुतवहः",
+      "transliteration": "دُہِتَرَم",
+      "translation": "بیٹی کو"
+    },
+    {
+      "original": "त्वमापस्त्वं",
+      "transliteration": "روہِت",
+      "translation": "سرخی مائل، ہرن"
+    },
+    {
+      "original": "व्योम",
+      "transliteration": "بھُوتَام",
+      "translation": "وجود رکھنے والی، تبدیل شدہ"
+    },
+    {
+      "original": "त्वमु",
+      "transliteration": "رِرَمَیِشُم",
+      "translation": "لطف اندوز ہونے کا خواہاں"
+    },
+    {
+      "original": "धरणिरात्मा",
+      "transliteration": "رِشْیَسْیَ",
+      "translation": "رشی کا"
+    },
+    {
+      "original": "त्वमिति",
+      "transliteration": "دھنُشْپانیش",
+      "translation": "کمان ہاتھ میں رکھنے والا"
+    },
+    {
+      "original": "च",
+      "transliteration": "دِوَم",
+      "translation": "جنت، آسمان"
+    },
+    {
+      "original": "परिच्छिन्नामेवं",
+      "transliteration": "سَپَتْرَ",
+      "translation": "پر سمیت، پنکھوں والا"
+    },
+    {
+      "original": "त्वयि",
+      "transliteration": "اَکْرتَم",
+      "translation": "نہ کیا گیا، نامکمل"
+    },
+    {
+      "original": "परिणता",
+      "transliteration": "تْرَسَنتَم",
+      "translation": "کانپنے والا، خوفزدہ"
+    },
+    {
+      "original": "बिभ्रति",
+      "transliteration": "کرْمَسُو",
+      "translation": "اعمال میں"
+    },
+    {
+      "original": "गिरं",
+      "transliteration": "جَنَہ",
+      "translation": "انسان، لوگ"
+    },
+    {
+      "original": "न",
+      "transliteration": "کرِیا",
+      "translation": "عمل، فعل"
+    },
+    {
+      "original": "विद्मस्तत्तत्त्वं",
+      "transliteration": "دَکْشَہ",
+      "translation": "ماہر، قابل"
+    },
+    {
+      "original": "वयमिह",
+      "transliteration": "کرَتو",
+      "translation": "یگیہ، قربانی"
+    },
+    {
+      "original": "तु",
+      "transliteration": "پَتِہ",
+      "translation": "مالک، حاکم"
+    },
+    {
+      "original": "यत्",
+      "transliteration": "اَڌِیشَہ",
+      "translation": "اعلیٰ حاکم"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "تَنوُبھْرِتاَم",
+      "translation": "جسم رکھنے والوں کا"
+    },
+    {
+      "original": "न",
+      "transliteration": "رشی نام",
+      "translation": "رشیوں (سادھوؤں) کا"
+    },
+    {
+      "original": "भवसि",
+      "transliteration": "آرتوِجْیَم",
+      "translation": "قربانی کی رسم"
+    },
+    {
+      "original": "त्रयीं",
+      "transliteration": "شرَنَدَ",
+      "translation": "پناہ دینے والا"
+    },
+    {
+      "original": "तिस्रो",
+      "transliteration": "سَدَسْیَاہ",
+      "translation": "ممبران، شرکاء"
+    },
+    {
+      "original": "वृत्तीस्त्रिभुवनमथो",
+      "transliteration": "سُرَگَنَاہ",
+      "translation": "دیوتاؤں کا گروہ"
+    },
+    {
+      "original": "त्रीनपि",
+      "transliteration": "بھْرَمشَہ",
+      "translation": "زوال، نقصان"
+    },
+    {
+      "original": "सुरान्",
+      "transliteration": "وِڌانَ",
+      "translation": "طریقہ، اصول"
+    },
+    {
+      "original": "अकाराद्यैर्वर्णैस्त्रिभिरभिदधत्",
+      "transliteration": "وْیَسَنِنَہ",
+      "translation": "بری عادتوں والے"
+    },
+    {
+      "original": "तीर्णविकृति",
+      "transliteration": "کَرتُہ",
+      "translation": "کرنے والے کا"
+    },
+    {
+      "original": "तुरीयं",
+      "transliteration": "وِڌُرَم",
+      "translation": "بے سہارا، افسوسناک"
+    },
+    {
+      "original": "ते",
+      "transliteration": "اَبھِچارَایَ",
+      "translation": "کالا جادو، برے عمل کے لیے"
+    },
+    {
+      "original": "धाम",
+      "transliteration": "مَخَاہ",
+      "translation": "یگیہ، قربانیاں"
+    },
+    {
+      "original": "ध्वनिभिरवरुन्धानमणुभिः",
+      "transliteration": "پْرَجَا",
+      "translation": "رعایا، اولاد"
+    },
+    {
+      "original": "समस्तं",
+      "transliteration": "ناتھَم",
+      "translation": "حاکم، مالک"
+    },
+    {
+      "original": "व्यस्तं",
+      "transliteration": "پْرَسَبھَم",
+      "translation": "زبردستی، جبر سے"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "اَبھِکَم",
+      "translation": "مکمل طور پر، شدت سے"
+    },
+    {
+      "original": "शरणद",
+      "transliteration": "سْوَام",
+      "translation": "اپنی"
+    },
+    {
+      "original": "गृणात्योमिति",
+      "transliteration": "دُہِتَرَم",
+      "translation": "بیٹی کو"
+    },
+    {
+      "original": "पदम्",
+      "transliteration": "روہِت",
+      "translation": "سرخی مائل، ہرن"
+    },
+    {
+      "original": "भवः",
+      "transliteration": "بھُوتَام",
+      "translation": "وجود رکھنے والی، تبدیل شدہ"
+    },
+    {
+      "original": "शर्वो",
+      "transliteration": "رِرَمَیِشُم",
+      "translation": "لطف اندوز ہونے کا خواہاں"
+    },
+    {
+      "original": "रुद्रः",
+      "transliteration": "رِشْیَسْیَ",
+      "translation": "رشی کا"
+    },
+    {
+      "original": "पशुपतिरथो",
+      "transliteration": "دھنُشْپانیش",
+      "translation": "کمان ہاتھ میں رکھنے والا"
+    },
+    {
+      "original": "ग्रः",
+      "transliteration": "دِوَم",
+      "translation": "جنت، آسمان"
+    },
+    {
+      "original": "सहमहान्",
+      "transliteration": "سَپَتْرَ",
+      "translation": "پر سمیت، پنکھوں والا"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "اَکْرتَم",
+      "translation": "نہ کیا گیا، نامکمل"
+    },
+    {
+      "original": "भीमेशानाविति",
+      "transliteration": "تْرَسَنتَم",
+      "translation": "کانپنے والا، خوفزدہ"
+    },
+    {
+      "original": "यदभिधानाष्टकमिदम्",
+      "transliteration": "اَدیَاپِ",
+      "translation": "آج بھی، اب تک"
+    },
+    {
+      "original": "अमुष्मिन्",
+      "transliteration": "تْیَجَتِ",
+      "translation": "چھوڑ دیتا ہے"
+    },
+    {
+      "original": "प्रत्येकं",
+      "transliteration": "مْرِگَ",
+      "translation": "ہرن، جانور"
+    },
+    {
+      "original": "प्रविचरति",
+      "transliteration": "وْیَادھَ",
+      "translation": "شکاری، صیاد"
+    },
+    {
+      "original": "देव",
+      "transliteration": "رَبَسَہ",
+      "translation": "شدید، بے قابو"
+    },
+    {
+      "original": "श्रुतिरपि",
+      "transliteration": "لاَوَڻْیَ",
+      "translation": "خوبصورتی، دلکشی"
+    },
+    {
+      "original": "प्रियायास्मैधाम्ने",
+      "transliteration": "آشنسَا",
+      "translation": "امید، خواہش"
+    },
+    {
+      "original": "प्रणिहित-नमस्योऽस्मि",
+      "transliteration": "دْھرِتَ",
+      "translation": "پکڑا ہوا، تھاما گیا"
+    },
+    {
+      "original": "भवते",
+      "transliteration": "دھنُشَم",
+      "translation": "کمان"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "اَہْنَایَ",
+      "translation": "دن کے لیے، سورج کی روشنی کے لیے"
+    },
+    {
+      "original": "नेदिष्ठाय",
+      "transliteration": "تْرِنوَتْ",
+      "translation": "تنکے کی مانند، معمولی"
+    },
+    {
+      "original": "प्रियदव",
+      "transliteration": "پُرَہ",
+      "translation": "سامنے، آگے"
+    },
+    {
+      "original": "दविष्ठाय",
+      "transliteration": "پْلُشٹَم",
+      "translation": "جلا ہوا، بھسم"
+    },
+    {
+      "original": "च",
+      "transliteration": "دْرِشٹْوَا",
+      "translation": "دیکھ کر"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "پُشپَ",
+      "translation": "پھول"
+    },
+    {
+      "original": "क्षोदिष्ठाय",
+      "transliteration": "آیوُدھَم",
+      "translation": "ہتھیار"
+    },
+    {
+      "original": "स्मरहर",
+      "transliteration": "سْترَیْنَم",
+      "translation": "زنانہ، کمزور"
+    },
+    {
+      "original": "महिष्ठाय",
+      "transliteration": "دیوِی",
+      "translation": "دیوی، مقدس خاتون"
+    },
+    {
+      "original": "च",
+      "transliteration": "یَمَ",
+      "translation": "یم، موت کا دیوتا"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "نِرَت",
+      "translation": "مشغول، مگن"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "دےہ",
+      "translation": "جسم"
+    },
+    {
+      "original": "वर्षिष्ठाय",
+      "transliteration": "اَرْدھَ",
+      "translation": "نصف، آدھا"
+    },
+    {
+      "original": "त्रिनयन",
+      "transliteration": "گھٹَنَاتْ",
+      "translation": "واقعہ، ترتیب سے"
+    },
+    {
+      "original": "यविष्ठाय",
+      "transliteration": "اَوَیتِ",
+      "translation": "جانتا ہے، سمجھتا ہے"
+    },
+    {
+      "original": "च",
+      "transliteration": "اَدھَا",
+      "translation": "بلاواسطہ، یقینی طور پر"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "بَتَ",
+      "translation": "افسوس، حیرت"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "مْگدھَا",
+      "translation": "معصوم، نادان"
+    },
+    {
+      "original": "सर्वस्मै",
+      "transliteration": "یُوْوَتَیَہ",
+      "translation": "نوجوان عورتیں"
+    },
+    {
+      "original": "ते",
+      "transliteration": "شْمَشَانیشُ",
+      "translation": "شمشان میں، قبرستان میں"
+    },
+    {
+      "original": "तदिदमतिसर्वाय",
+      "transliteration": "آکْریڈَا",
+      "translation": "کھیل، مشغلہ"
+    },
+    {
+      "original": "च",
+      "transliteration": "سْمَرَ",
+      "translation": "کام دیو، محبت کا دیوتا"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "ہَرَ",
+      "translation": "شیو، تباہ کرنے والا"
+    },
+    {
+      "original": "बहुल-रजसे",
+      "transliteration": "پِشَچَاہ",
+      "translation": "بھوت، شیطانی روحیں"
+    },
+    {
+      "original": "विश्वोत्पत्तौ",
+      "transliteration": "سَہَچَرَاہ",
+      "translation": "ساتھی، ہمراہی"
+    },
+    {
+      "original": "भवाय",
+      "transliteration": "چِتَا",
+      "translation": "چتا، ارتھی"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "بھَسْمَ",
+      "translation": "راکھ"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "آلےپَہ",
+      "translation": "لیپ، ملنا"
+    },
+    {
+      "original": "प्रबल-तमसे",
+      "transliteration": "سْرَگ",
+      "translation": "ہار، مالا"
+    },
+    {
+      "original": "तत्",
+      "transliteration": "نْرِ",
+      "translation": "انسان، مرد"
+    },
+    {
+      "original": "संहारे",
+      "transliteration": "کَروٹِی",
+      "translation": "کھوپڑی، سر"
+    },
+    {
+      "original": "हराय",
+      "transliteration": "اَمَنگَلْیَم",
+      "translation": "بدشگونی، منحوس"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "شِیلَم",
+      "translation": "عادت، فطرت"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "نامَ",
+      "translation": "نام"
+    },
+    {
+      "original": "जन-सुखकृते",
+      "transliteration": "ایوَم",
+      "translation": "اسی طرح، یوں"
+    },
+    {
+      "original": "सत्त्वोद्रिक्तौ",
+      "transliteration": "اَخِلَم",
+      "translation": "سارا، مکمل"
+    },
+    {
+      "original": "मृडाय",
+      "transliteration": "سْمَرتْرِیْنَام",
+      "translation": "یاد کرنے والوں کا"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "پَرمَم",
+      "translation": "اعلیٰ، سب سے بڑا"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "مَنگَلَم",
+      "translation": "مبارک، بابرکت"
+    },
+    {
+      "original": "प्रमहसि",
+      "transliteration": "پرَتْیَک",
+      "translation": "سامنے، براہ راست"
+    },
+    {
+      "original": "पदे",
+      "transliteration": "چِتّے",
+      "translation": "دل میں، ذہن میں"
+    },
+    {
+      "original": "निस्त्रैगुण्ये",
+      "transliteration": "سَوِدھَم",
+      "translation": "قریب، پاس"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "اَوَدھَاَیَ",
+      "translation": "سمجھ کر، توجہ دے کر"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "آتّ",
+      "translation": "پکڑا ہوا، تھاما گیا"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "مَرُتَہ",
+      "translation": "ہوائیں، دیوتا"
+    },
+    {
+      "original": "कृश-परिणति-चेतः",
+      "transliteration": "پْرَہْرِشْیَت",
+      "translation": "خوش ہونا، مسرور ہونا"
+    },
+    {
+      "original": "क्लेशवश्यं",
+      "transliteration": "رُوْمَانَہ",
+      "translation": "بال، جسم کے بال"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "پْرَمَدَ",
+      "translation": "خوشی، مستی"
+    },
+    {
+      "original": "चेदं",
+      "transliteration": "سَلِلَ",
+      "translation": "پانی"
+    },
+    {
+      "original": "क्व",
+      "transliteration": "اُتْسَنگَتِ",
+      "translation": "بغل، گود میں"
+    },
+    {
+      "original": "च",
+      "transliteration": "دْرِشَہ",
+      "translation": "آنکھ، نظر"
+    },
+    {
+      "original": "तव",
+      "transliteration": "آلوکْیَ",
+      "translation": "دیکھ کر، مشاہدہ کر کے"
+    },
+    {
+      "original": "गुण-सीमोल्लङ्घिनी",
+      "transliteration": "آہْلَادَم",
+      "translation": "خوشی، مسرت"
+    },
+    {
+      "original": "शश्वदृद्धिः",
+      "transliteration": "ہْرَدَ",
+      "translation": "جھیل، تالاب"
+    },
+    {
+      "original": "इति",
+      "transliteration": "نِمَجْیَ",
+      "translation": "ڈوب کر، غوطہ لگا کر"
+    },
+    {
+      "original": "चकितममन्दीकृत्य",
+      "transliteration": "اَمْرِتَمَے",
+      "translation": "امرت سے بھرا ہوا، لافانی"
+    },
+    {
+      "original": "मां",
+      "transliteration": "دَدْھَتِ",
+      "translation": "رکھتے ہیں، عطا کرتے ہیں"
+    },
+    {
+      "original": "भक्तिराधाद्",
+      "transliteration": "اَنْتَہ",
+      "translation": "اندر، باطن میں"
+    },
+    {
+      "original": "वरद",
+      "transliteration": "تَتْوَم",
+      "translation": "حقیقت، اصول"
+    },
+    {
+      "original": "चरणयोस्ते",
+      "transliteration": "یَمِنَہ",
+      "translation": "یوگی، ضبط والے"
+    },
+    {
+      "original": "वाक्य-पुष्पोपहारम्",
+      "transliteration": "کِلَ",
+      "translation": "واقعی، بلا شبہ"
+    },
+    {
+      "original": "असित-गिरि-समं",
+      "transliteration": "اَرْکَہ",
+      "translation": "سورج"
+    },
+    {
+      "original": "स्यात्",
+      "transliteration": "سَوْمَہ",
+      "translation": "چاند"
+    },
+    {
+      "original": "कज्जलं",
+      "transliteration": "پَوَنَہ",
+      "translation": "ہوا، وायु"
+    },
+    {
+      "original": "सिन्धु-पात्रे",
+      "transliteration": "ہُتَوَہَہ",
+      "translation": "آگ، اگنی"
+    },
+    {
+      "original": "सुर-तरुवर-शाखा",
+      "transliteration": "آپَہ",
+      "translation": "پانی"
+    },
+    {
+      "original": "लेखनी",
+      "transliteration": "وَیوم",
+      "translation": "آکاش، آسمان"
+    },
+    {
+      "original": "पत्रमुर्वी",
+      "transliteration": "دَھرَنِہ",
+      "translation": "زمین"
+    },
+    {
+      "original": "लिखति",
+      "transliteration": "آتْمَا",
+      "translation": "روح، ذات"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "پَرِچّھِنْنَام",
+      "translation": "محدود، منقسم"
+    },
+    {
+      "original": "गृहीत्वा",
+      "transliteration": "پَرِنتا",
+      "translation": "بدلنا، تبدیل ہونا"
+    },
+    {
+      "original": "शारदा",
+      "transliteration": "بِبْھرَتِ",
+      "translation": "رکھنا، سنبھالنا"
+    },
+    {
+      "original": "सर्वकालं",
+      "transliteration": "وِدْمَہ",
+      "translation": "جانتے ہیں"
+    },
+    {
+      "original": "तदपि",
+      "transliteration": "وْرِتّیْہ",
+      "translation": "حالتیں، رجحانات"
+    },
+    {
+      "original": "तव",
+      "transliteration": "اَتْھو",
+      "translation": "پھر بھی، مزید"
+    },
+    {
+      "original": "गुणानामीश",
+      "transliteration": "تْرِین",
+      "translation": "تین"
+    },
+    {
+      "original": "पारं",
+      "transliteration": "وَرْنَیْہ",
+      "translation": "رنگوں سے، حروف سے"
+    },
+    {
+      "original": "न",
+      "transliteration": "اَبھِدَدھَت",
+      "translation": "ظاہر کرتا ہے، بیان کرتا ہے"
+    },
+    {
+      "original": "याति",
+      "transliteration": "تِیرْنَ",
+      "translation": "پار ہونا، گزر جانا"
+    },
+    {
+      "original": "असुर-सुर-मुनीन्द्रैरर्चितस्येन्दु-मौलेः",
+      "transliteration": "وِکْرِتِ",
+      "translation": "بگاڑ، تبدیلی"
+    },
+    {
+      "original": "ग्रथित-गुणमहिम्नो",
+      "transliteration": "تُرِیْیَم",
+      "translation": "چوتھا، سب سے اعلیٰ درجہ"
+    },
+    {
+      "original": "निर्गुणस्येश्वरस्य",
+      "transliteration": "دھَام",
+      "translation": "مقام، مسکن"
+    },
+    {
+      "original": "सकल-गण-वरिष्ठः",
+      "transliteration": "دْھْوَنِبْھِہ",
+      "translation": "آوازوں سے، دھونی سے"
+    },
+    {
+      "original": "पुष्पदन्ताभिधानः",
+      "transliteration": "اَوَرُنْدھانَم",
+      "translation": "محدود کرنا، قابو پانا"
+    },
+    {
+      "original": "रुचिरमलघुवृत्तैः",
+      "transliteration": "اَنوُبْھِہ",
+      "translation": "ذرّات سے، باریک عناصر سے"
+    },
+    {
+      "original": "स्तोत्रमेतच्चकार",
+      "transliteration": "گْرِناَتِی",
+      "translation": "تعریف کرتا ہے، ذکر کرتا ہے"
+    },
+    {
+      "original": "अहरहरनवद्यं",
+      "transliteration": "اوم",
+      "translation": "مقدس لفظ، سناتن منتر"
+    },
+    {
+      "original": "धूर्जटेः",
+      "transliteration": "بھَوَہ",
+      "translation": "پیدا ہونے والا، وجود"
+    },
+    {
+      "original": "स्तोत्रमेतत्",
+      "transliteration": "شَرْوَہ",
+      "translation": "شیوا کا ایک نام، تباہ کرنے والا"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "رُدْرَہ",
+      "translation": "شیوا کا ایک اور نام، زور آور"
+    },
+    {
+      "original": "परमभक्त्या",
+      "transliteration": "پَشُپَتِہ",
+      "translation": "سب جانداروں کے مالک"
+    },
+    {
+      "original": "शुद्ध-चित्तः",
+      "transliteration": "اُگْرَہ",
+      "translation": "شدید، خوفناک"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "سَہَ",
+      "translation": "ساتھ، ہمراہ"
+    },
+    {
+      "original": "यः",
+      "transliteration": "مَہَان",
+      "translation": "عظیم، بڑا"
+    },
+    {
+      "original": "स",
+      "transliteration": "بھیْمیشَانَو",
+      "translation": "بھیانک اور مالک"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "اَبھِدھانَ",
+      "translation": "نام، خطاب"
+    },
+    {
+      "original": "शिवलोके",
+      "transliteration": "اَشْٹَکَم",
+      "translation": "آٹھ کا مجموعہ"
+    },
+    {
+      "original": "रुद्रतुल्यस्तथाऽत्र",
+      "transliteration": "پْرتَییکَم",
+      "translation": "ہر ایک"
+    },
+    {
+      "original": "प्रचुरतर-धनायुः",
+      "transliteration": "پْرَوِچَرَتِی",
+      "translation": "غور و فکر کرتا ہے"
+    },
+    {
+      "original": "पुत्रवान्",
+      "transliteration": "پْرِیَا",
+      "translation": "محبوب، پسندیدہ"
+    },
+    {
+      "original": "कीर्तिमांश्च",
+      "transliteration": "دھَامْنَے",
+      "translation": "روشنی، مقام"
+    },
+    {
+      "original": "महेशान्नापरो",
+      "transliteration": "پْرنِہِتَ",
+      "translation": "نچھاور کرنا، دھیان دینا"
+    },
+    {
+      "original": "देवो",
+      "transliteration": "نَمَسْیَہ",
+      "translation": "قابلِ تعظیم"
+    },
+    {
+      "original": "महिम्नो",
+      "transliteration": "نیدِشٹھَایَ",
+      "translation": "قریب ترین"
+    },
+    {
+      "original": "नापरा",
+      "transliteration": "دَوِشٹھَایَ",
+      "translation": "دور ترین"
+    },
+    {
+      "original": "स्तुतिः",
+      "transliteration": "کْشودِشٹھَایَ",
+      "translation": "سب سے چھوٹے"
+    },
+    {
+      "original": "अघोरान्नापरो",
+      "transliteration": "مہِشٹھَایَ",
+      "translation": "سب سے بڑے"
+    },
+    {
+      "original": "मन्त्रो",
+      "transliteration": "وَرْشِشٹھَایَ",
+      "translation": "سب سے برکت والے"
+    },
+    {
+      "original": "नास्ति",
+      "transliteration": "یَوِشٹھَایَ",
+      "translation": "سب سے کم عمر والے"
+    },
+    {
+      "original": "तत्त्वं",
+      "transliteration": "سَروَسْمَے",
+      "translation": "سب کو، سب کے لیے"
+    },
+    {
+      "original": "गुरोः",
+      "transliteration": "اَتِسَروَایَ",
+      "translation": "سب سے زیادہ برتر"
+    },
+    {
+      "original": "परम्",
+      "transliteration": "بَهُلا",
+      "translation": "وسیع، کثیر"
+    },
+    {
+      "original": "दीक्षा",
+      "transliteration": "رَجَسَے",
+      "translation": "سرخ یا جذباتی مادہ"
+    },
+    {
+      "original": "दानं",
+      "transliteration": "وِشْوَ",
+      "translation": "دنیا، کائنات"
+    },
+    {
+      "original": "तपस्तीर्थं",
+      "transliteration": "اُتْپَتْتَو",
+      "translation": "پیدا ہونے میں"
+    },
+    {
+      "original": "ज्ञानं",
+      "transliteration": "پْرَبَلَ",
+      "translation": "طاقتور، مضبوط"
+    },
+    {
+      "original": "यागादिकाः",
+      "transliteration": "تَمَسَے",
+      "translation": "تاریکی، اندھیرا"
+    },
+    {
+      "original": "क्रियाः",
+      "transliteration": "سَمہارَے",
+      "translation": "تباہی میں، خاتمے میں"
+    },
+    {
+      "original": "महिम्नस्तव",
+      "transliteration": "جَن",
+      "translation": "لوگ، مخلوق"
+    },
+    {
+      "original": "पाठस्य",
+      "transliteration": "سْکھَ",
+      "translation": "خوشی، مسرت"
+    },
+    {
+      "original": "कलां",
+      "transliteration": "کْرتے",
+      "translation": "بنانے کے لیے"
+    },
+    {
+      "original": "नार्हन्ति",
+      "transliteration": "سَتْتْوَ",
+      "translation": "نیکی، اچھائی"
+    },
+    {
+      "original": "षोडशीम्",
+      "transliteration": "اُدرِکتَو",
+      "translation": "شدت، ابھار"
+    },
+    {
+      "original": "कुसुमदशन-नामा",
+      "transliteration": "مْرِڈَایَ",
+      "translation": "مہربان بننے کے لیے"
+    },
+    {
+      "original": "सर्व-गन्धर्व-राजः",
+      "transliteration": "پْرَمَہَسِ",
+      "translation": "اعلیٰ روشنی میں"
+    },
+    {
+      "original": "शशिधरवर-मौलेः",
+      "transliteration": "نِسْترَیْگُنیے",
+      "translation": "تینوں گنوں (صفات) سے پرے"
+    },
+    {
+      "original": "देवदेवस्य",
+      "transliteration": "کْرِشَ",
+      "translation": "نحیف، کمزور"
+    },
+    {
+      "original": "दासः",
+      "transliteration": "چَیتَہ",
+      "translation": "دل، شعور"
+    },
+    {
+      "original": "स",
+      "transliteration": "کْلیشَوَشْیَم",
+      "translation": "دکھوں کا محکوم"
+    },
+    {
+      "original": "खलु",
+      "transliteration": "سِیمَا",
+      "translation": "حد، سرحد"
+    },
+    {
+      "original": "निज-महिम्नो",
+      "transliteration": "اُلّنگھِنِی",
+      "translation": "حد سے تجاوز کرنے والی"
+    },
+    {
+      "original": "भ्रष्ट",
+      "transliteration": "شَشْوَت",
+      "translation": "دائمی، ہمیشہ"
+    },
+    {
+      "original": "एवास्य",
+      "transliteration": "چَکِتَم",
+      "translation": "حیران، خوفزدہ"
+    },
+    {
+      "original": "रोषात्",
+      "transliteration": "اَمَنْدِی",
+      "translation": "بےحد تیز، شدید"
+    },
+    {
+      "original": "स्तवनमिदम्",
+      "transliteration": "کْرِتْیَ",
+      "translation": "فرض، عمل"
+    },
+    {
+      "original": "आकाशीद्",
+      "transliteration": "آدھات",
+      "translation": "رکھا، نافذ کیا"
+    },
+    {
+      "original": "दिव्य-दिव्यं",
+      "transliteration": "واکْیَ",
+      "translation": "جملہ، بات"
+    },
+    {
+      "original": "महिम्नः",
+      "transliteration": "پُشْپَ",
+      "translation": "پھول"
+    },
+    {
+      "original": "सुरगुरुम्",
+      "transliteration": "اُپَہارَم",
+      "translation": "نذرانہ، تحفہ"
+    },
+    {
+      "original": "अभिपूज्य",
+      "transliteration": "اَسِتَ",
+      "translation": "کالا، سیاہ"
+    },
+    {
+      "original": "स्वर्ग-मोक्षैक-हेतुं",
+      "transliteration": "گِرِی",
+      "translation": "پہاڑ"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "سَمَم",
+      "translation": "برابر، مساوی"
+    },
+    {
+      "original": "यदि",
+      "transliteration": "کَجْجَلَم",
+      "translation": "سیاہی، کاجل"
+    },
+    {
+      "original": "मनुष्यः",
+      "transliteration": "سِنْدھُ",
+      "translation": "دریا، سمندر"
+    },
+    {
+      "original": "प्राञ्जलिर्",
+      "transliteration": "پَاتْرَے",
+      "translation": "برتن، ظرف"
+    },
+    {
+      "original": "नान्य-चेताः",
+      "transliteration": "تَرو",
+      "translation": "درخت"
+    },
+    {
+      "original": "व्रजति",
+      "transliteration": "وَرَ",
+      "translation": "بہترین، انتخاب"
+    },
+    {
+      "original": "शिव-समीपं",
+      "transliteration": "شاخا",
+      "translation": "شاخ، ٹہنی"
+    },
+    {
+      "original": "किन्नरैः",
+      "transliteration": "لِیکھَنِی",
+      "translation": "قلم"
+    },
+    {
+      "original": "स्तूयमानः",
+      "transliteration": "پَتْرَم",
+      "translation": "پتہ، کاغذ"
+    },
+    {
+      "original": "स्तवनमिदम्",
+      "transliteration": "اُروِی",
+      "translation": "زمین"
+    },
+    {
+      "original": "अमोघं",
+      "transliteration": "گْرِہِیتْوَا",
+      "translation": "پکڑ کر، لے کر"
+    },
+    {
+      "original": "पुष्पदन्तप्रणीतम्",
+      "transliteration": "شارَدَا",
+      "translation": "سرسوتی دیوی"
+    },
+    {
+      "original": "आसमाप्तमिदं",
+      "transliteration": "سَروَ",
+      "translation": "سب، سارا"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "کالَم",
+      "translation": "وقت، زمانہ"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "اَسُرَ",
+      "translation": "دیو دشمن، شیطان"
+    },
+    {
+      "original": "गन्धर्व-भाषितम्",
+      "transliteration": "مُنِی",
+      "translation": "رشی، سنت"
+    },
+    {
+      "original": "अनौपम्यं",
+      "transliteration": "اِنْدرَیْہ",
+      "translation": "دیوتاؤں کے بادشاہ کے ذریعے"
+    },
+    {
+      "original": "मनोहारि",
+      "transliteration": "اَرْچِتَسْیَ",
+      "translation": "پوجا گیا، سجدہ کیا گیا"
+    },
+    {
+      "original": "सर्वमीश्वरवर्णनम्",
+      "transliteration": "اِنْدُو",
+      "translation": "چاند"
+    },
+    {
+      "original": "इति",
+      "transliteration": "مَولے",
+      "translation": "سر کا تاج، تاجدار"
+    },
+    {
+      "original": "एषा",
+      "transliteration": "گْرتھِتَ",
+      "translation": "باندھا گیا، جڑا ہوا"
+    },
+    {
+      "original": "वाङ्मयी",
+      "transliteration": "نِرْگُڻَسْیَ",
+      "translation": "بے صفات، اعلیٰ"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "ایشْوَرَسْیَ",
+      "translation": "خدا، مالک"
+    },
+    {
+      "original": "श्रीमच्छङ्कर-पादयोः",
+      "transliteration": "گَڻَ",
+      "translation": "گروہ، لشکر"
+    },
+    {
+      "original": "अर्पिता",
+      "transliteration": "وَرِشٹھَہ",
+      "translation": "سب سے اعلیٰ"
+    },
+    {
+      "original": "तेन",
+      "transliteration": "پُشْپَدَنْت",
+      "translation": "پھول جیسے دانت والا، ایک گندھرو کا نام"
+    },
+    {
+      "original": "देवेशः",
+      "transliteration": "اَبھِدھانَہ",
+      "translation": "نام، خطاب"
+    },
+    {
+      "original": "प्रीयतां",
+      "transliteration": "رُچِرَم",
+      "translation": "دلکش، خوبصورت"
+    },
+    {
+      "original": "मे",
+      "transliteration": "اَلَغُ",
+      "translation": "بھاری، غیر معمولی"
+    },
+    {
+      "original": "सदाशिवः",
+      "transliteration": "وْرتتَیْہ",
+      "translation": "اشعار، نظمیں"
+    },
+    {
+      "original": "तव",
+      "transliteration": "چَکارَ",
+      "translation": "کیا، بنایا"
+    },
+    {
+      "original": "तत्त्वं",
+      "transliteration": "اَہَہ",
+      "translation": "دن"
+    },
+    {
+      "original": "न",
+      "transliteration": "اَہَہ",
+      "translation": "دن"
+    },
+    {
+      "original": "जानामि",
+      "transliteration": "اَنَوَدْیَم",
+      "translation": "بے عیب، کامل"
+    },
+    {
+      "original": "कीदृशोऽसि",
+      "transliteration": "دھُورْجَٹَیہ",
+      "translation": "شیو جی، جن کے بال جٹے دار ہیں"
+    },
+    {
+      "original": "महेश्वर",
+      "transliteration": "پَٹھَتِ",
+      "translation": "پڑھتا ہے، تلاوت کرتا ہے"
+    },
+    {
+      "original": "यादृशोऽसि",
+      "transliteration": "شُدھَ",
+      "translation": "پاک، صاف"
+    },
+    {
+      "original": "महादेव",
+      "transliteration": "پُمانْ",
+      "translation": "مرد، انسان"
+    },
+    {
+      "original": "तादृशाय",
+      "transliteration": "لوکَے",
+      "translation": "دنیا میں"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "تُلْیَہ",
+      "translation": "برابر، مساوی"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "پْرَچُرَتَرَ",
+      "translation": "بہت زیادہ، وافر مقدار میں"
+    },
+    {
+      "original": "एककालं",
+      "transliteration": "دھنَ",
+      "translation": "دولت، مال"
+    },
+    {
+      "original": "द्विकालं",
+      "transliteration": "آیوہ",
+      "translation": "عمر، حیات"
+    },
+    {
+      "original": "वा",
+      "transliteration": "پُتْرَوانْ",
+      "translation": "اولاد والا، صاحبِ بیٹا"
+    },
+    {
+      "original": "त्रिकालं",
+      "transliteration": "کیرتِمانْ",
+      "translation": "مشہور، نامور"
+    },
+    {
+      "original": "यः",
+      "transliteration": "مَہیشات",
+      "translation": "مہادیو (شیو جی) سے"
+    },
+    {
+      "original": "पठेन्नरः",
+      "transliteration": "اَپَرَہ",
+      "translation": "دوسرا، اضافی"
+    },
+    {
+      "original": "सर्वपाप-विनिर्मुक्तः",
+      "transliteration": "دیوَہ",
+      "translation": "دیوتا، خدا"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "اَگھورات",
+      "translation": "خوفناک نہ ہونے والا"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "مَنْتْرَہ",
+      "translation": "مقدس منتر"
+    },
+    {
+      "original": "महीयते",
+      "transliteration": "گُرَوْہ",
+      "translation": "استاد، مرشد"
+    },
+    {
+      "original": "श्री",
+      "transliteration": "دِیکشا",
+      "translation": "دیوتا کا عطا کردہ روحانی علم"
+    },
+    {
+      "original": "पुष्पदन्त-मुख-पङ्कज-निर्गतेन",
+      "transliteration": "دانَم",
+      "translation": "خیرات، دان"
+    },
+    {
+      "original": "स्तोत्रेण",
+      "transliteration": "تپَہ",
+      "translation": "تپسیا، ریاضت"
+    },
+    {
+      "original": "किल्बिष-हरेण",
+      "transliteration": "تیرتھَم",
+      "translation": "مقدس زیارت کا مقام"
+    },
+    {
+      "original": "हर-प्रियेण",
+      "transliteration": "گیانَم",
+      "translation": "علم، دانائی"
+    },
+    {
+      "original": "कण्ठस्थितेन",
+      "transliteration": "یاگَ",
+      "translation": "قربانی، ہون"
+    },
+    {
+      "original": "पठितेन",
+      "transliteration": "آدِکاہ",
+      "translation": "ابتدا والے، شروعات کرنے والے"
+    },
+    {
+      "original": "समाहितेन",
+      "transliteration": "کْریَاہ",
+      "translation": "اعمال، رسمیں"
+    },
+    {
+      "original": "सुप्रीणितो",
+      "transliteration": "پاٹھَسْیَ",
+      "translation": "تلاوت، پڑھائی"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "کَلاَمْ",
+      "translation": "حصہ، جزو"
+    },
+    {
+      "original": "भूतपतिर्महेशः",
+      "transliteration": "اَرْہَنْتِ",
+      "translation": "قابل ہیں، مستحق ہیں"
+    },
+    {
+      "original": "इति",
+      "transliteration": "شوڈشیَم",
+      "translation": "سولہویں، مکمل"
+    },
+    {
+      "original": "श्री",
+      "transliteration": "کُسُما",
+      "translation": "پھول"
+    },
+    {
+      "original": "पुष्पदन्त",
+      "transliteration": "دَشَن",
+      "translation": "دانت"
+    },
+    {
+      "original": "विरचितं",
+      "transliteration": "ناما",
+      "translation": "نام والا، مشہور"
+    },
+    {
+      "original": "शिवमहिम्नः",
+      "transliteration": "گندھرو",
+      "translation": "ایک آسمانی موسیقار"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "راجَہ",
+      "translation": "بادشاہ"
+    },
+    {
+      "original": "समाप्तम्",
+      "transliteration": "داسَہ",
+      "translation": "غلام، خادم"
+    },
+    {
+      "original": "---",
+      "transliteration": "رُوشَات",
+      "translation": "غصے کی وجہ سے"
+    },
+    {
+      "original": "---",
+      "transliteration": "اَکارشِیت",
+      "translation": "کھینچا، انجام دیا"
+    },
+    {
+      "original": "---",
+      "transliteration": "دِویَ",
+      "translation": "الہی، آسمانی"
+    },
+    {
+      "original": "---",
+      "transliteration": "گُرُم",
+      "translation": "گرو، مرشد"
+    },
+    {
+      "original": "---",
+      "transliteration": "اَبھِپُوجْیَ",
+      "translation": "بڑی عقیدت سے پوجا کرنے کے لائق"
+    },
+    {
+      "original": "---",
+      "transliteration": "سْوَرْگ",
+      "translation": "جنت"
+    },
+    {
+      "original": "---",
+      "transliteration": "موکشَ",
+      "translation": "نجات، مکتی"
+    },
+    {
+      "original": "---",
+      "transliteration": "ایکَ",
+      "translation": "ایک"
+    },
+    {
+      "original": "---",
+      "transliteration": "ہیْتُہ",
+      "translation": "سبب، وجہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "پْراَنجَلِہ",
+      "translation": "عاجزی سے ہاتھ جوڑنے والا"
+    },
+    {
+      "original": "---",
+      "transliteration": "اَنیا",
+      "translation": "دوسرا"
+    },
+    {
+      "original": "---",
+      "transliteration": "چیتاہ",
+      "translation": "ذہن، دماغ"
+    },
+    {
+      "original": "---",
+      "transliteration": "سمیپَم",
+      "translation": "قریب، پاس"
+    },
+    {
+      "original": "---",
+      "transliteration": "کِنَّرَیہ",
+      "translation": "گانے والے آسمانی وجود"
+    },
+    {
+      "original": "---",
+      "transliteration": "سْتُویامانَہ",
+      "translation": "تعریف کی جا رہی ہو"
+    },
+    {
+      "original": "---",
+      "transliteration": "اَمُوگھَم",
+      "translation": "خطا سے پاک، کارگر"
+    },
+    {
+      "original": "---",
+      "transliteration": "پرَنِیتَم",
+      "translation": "مرتب شدہ، ترتیب دیا گیا"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَمَاپْتَم",
+      "translation": "مکمل، ختم شدہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "بھاشِتَم",
+      "translation": "کہا ہوا، بیان کردہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "اَنَؤپَمْیَم",
+      "translation": "بے مثال"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَنُوہاری",
+      "translation": "دلکش، دل کو لبھانے والا"
+    },
+    {
+      "original": "---",
+      "transliteration": "ورْنَنام",
+      "translation": "بیان، وضاحت"
+    },
+    {
+      "original": "---",
+      "transliteration": "اَیشا",
+      "translation": "یہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "واں مَیِی",
+      "translation": "کلام سے متعلق، زبانی"
+    },
+    {
+      "original": "---",
+      "transliteration": "پُوجا",
+      "translation": "عبادت، پرستش"
+    },
+    {
+      "original": "---",
+      "transliteration": "شْری مَتْ",
+      "translation": "معزز، محترم"
+    },
+    {
+      "original": "---",
+      "transliteration": "شنْکرَ",
+      "translation": "شیو جی کا نام"
+    },
+    {
+      "original": "---",
+      "transliteration": "پادَیوہ",
+      "translation": "پاؤں میں"
+    },
+    {
+      "original": "---",
+      "transliteration": "اَرپِتا",
+      "translation": "پیش کی گئی، نذر کی گئی"
+    },
+    {
+      "original": "---",
+      "transliteration": "دیویشَہ",
+      "translation": "دیوتاؤں کے مالک"
+    },
+    {
+      "original": "---",
+      "transliteration": "پریْیَتامْ",
+      "translation": "خوش ہو، راضی ہو"
+    },
+    {
+      "original": "---",
+      "transliteration": "سداشیوَہ",
+      "translation": "ہمیشہ بھلا کرنے والا، شیو جی کا نام"
+    },
+    {
+      "original": "---",
+      "transliteration": "کِیدْرِشَہ",
+      "translation": "کیسا، کس قسم کا"
+    },
+    {
+      "original": "---",
+      "transliteration": "یَادْرِشَہ",
+      "translation": "جس قسم کا"
+    },
+    {
+      "original": "---",
+      "transliteration": "مَہا دیوَ",
+      "translation": "عظیم دیوتا، شیو جی"
+    },
+    {
+      "original": "---",
+      "transliteration": "تادْرِشَایَ",
+      "translation": "اسی قسم کے لیے"
+    },
+    {
+      "original": "---",
+      "transliteration": "ایکَ",
+      "translation": "ایک"
+    },
+    {
+      "original": "---",
+      "transliteration": "کالَم",
+      "translation": "وقت، لمحہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "دْوی",
+      "translation": "دو"
+    },
+    {
+      "original": "---",
+      "transliteration": "تْری",
+      "translation": "تین"
+    },
+    {
+      "original": "---",
+      "transliteration": "نَرَہ",
+      "translation": "انسان، مرد"
+    },
+    {
+      "original": "---",
+      "transliteration": "پاپَ",
+      "translation": "گناہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "وِنِرْمُکْتَہ",
+      "translation": "گناہ سے پاک"
+    },
+    {
+      "original": "---",
+      "transliteration": "مہیَتَے",
+      "translation": "عزت پاتا ہے"
+    },
+    {
+      "original": "---",
+      "transliteration": "مُکھَ",
+      "translation": "منہ، چہرہ"
+    },
+    {
+      "original": "---",
+      "transliteration": "پَنْکَجَ",
+      "translation": "کنول کا پھول"
+    },
+    {
+      "original": "---",
+      "transliteration": "نِرگَتَینَ",
+      "translation": "نکلا ہوا"
+    },
+    {
+      "original": "---",
+      "transliteration": "کِلْبِشَ",
+      "translation": "گناہ، آلودگی"
+    },
+    {
+      "original": "---",
+      "transliteration": "ہَرینَ",
+      "translation": "دور کرنے والا"
+    },
+    {
+      "original": "---",
+      "transliteration": "کنْٹھَ",
+      "translation": "گلا"
+    },
+    {
+      "original": "---",
+      "transliteration": "سْتھِتَینَ",
+      "translation": "موجود"
+    },
+    {
+      "original": "---",
+      "transliteration": "سَمَاہِتَینَ",
+      "translation": "یکسو، دھیان لگا ہوا"
+    },
+    {
+      "original": "---",
+      "transliteration": "سُپْرِینِتَہ",
+      "translation": "انتہائی خوش"
+    },
+    {
+      "original": "---",
+      "transliteration": "بْھُوتَپَتِہ",
+      "translation": "بھوتوں کا مالک، شیو جی"
+    },
+    {
+      "original": "---",
+      "transliteration": "وِرَچِتَم",
+      "translation": "بنایا ہوا، تصنیف شدہ"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\urdu\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_mahima_stotra_pushp_dant\\urdu\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.561Z"
+  }
+}

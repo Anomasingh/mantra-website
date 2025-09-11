@@ -1,0 +1,1089 @@
+{
+  "mantra": "daxinmurti_stotram",
+  "language": "russian",
+  "type": "word_to_word",
+  "totalWords": 215,
+  "alignedWords": [
+    {
+      "original": "ध्यानम्",
+      "transliteration": "Дхьянам",
+      "translation": "Медитация"
+    },
+    {
+      "original": "मौनव्याख्या",
+      "transliteration": "Маунвьякхъя",
+      "translation": "Безмолвное объяснение"
+    },
+    {
+      "original": "प्रकटित",
+      "transliteration": "Прокатита",
+      "translation": "Проявленный"
+    },
+    {
+      "original": "परब्रह्मतत्त्वं",
+      "transliteration": "Парабрахмататтвам",
+      "translation": "Суть верховного Брахмана"
+    },
+    {
+      "original": "युवानं",
+      "transliteration": "Юванам",
+      "translation": "Молодой"
+    },
+    {
+      "original": "वर्षिष्ठांते",
+      "transliteration": "Варшищтханте",
+      "translation": "В конце веков"
+    },
+    {
+      "original": "वसद्",
+      "transliteration": "Васад",
+      "translation": "Обитающий"
+    },
+    {
+      "original": "ऋषिगणौः",
+      "transliteration": "Ршиганоух",
+      "translation": "В обществе мудрецов"
+    },
+    {
+      "original": "आवृतं",
+      "transliteration": "Авритам",
+      "translation": "Окружённый"
+    },
+    {
+      "original": "ब्रह्मनिष्ठैः",
+      "transliteration": "Брахмаништхаи",
+      "translation": "Посвящённые Брахману"
+    },
+    {
+      "original": "आचार्येन्द्रं",
+      "transliteration": "Ачаръендрам",
+      "translation": "Главный учитель"
+    },
+    {
+      "original": "करकलित",
+      "transliteration": "Каркалит",
+      "translation": "Держащий в руке"
+    },
+    {
+      "original": "चिन्मुद्रमानंदमूर्तिं",
+      "transliteration": "Чинмудраманандамуртинг",
+      "translation": "Образ блаженства в жесте"
+    },
+    {
+      "original": "स्वात्मारामं",
+      "transliteration": "Сватмарэмам",
+      "translation": "Обрадованный внутренней радостью"
+    },
+    {
+      "original": "मुदितवदनं",
+      "transliteration": "Мудитаваднам",
+      "translation": "С радостным лицом"
+    },
+    {
+      "original": "दक्षिणामूर्तिमीडे",
+      "transliteration": "Дакшинамуртимиде",
+      "translation": "Я поклоняюсь этому образу"
+    },
+    {
+      "original": "विश्वं",
+      "transliteration": "Вишвам",
+      "translation": "Мир"
+    },
+    {
+      "original": "दर्पणदृश्यमान",
+      "transliteration": "Дарпанадришяманнагаритульям",
+      "translation": "Подобен миру в зеркале"
+    },
+    {
+      "original": "नगरीतुल्यं",
+      "transliteration": "Ниджантаргатам",
+      "translation": "Содержащий в себе"
+    },
+    {
+      "original": "निजान्तर्गतं",
+      "transliteration": "Пашяннатмани",
+      "translation": "Видящий внутри себя"
+    },
+    {
+      "original": "पश्यन्नात्मनि",
+      "transliteration": "Майяйа",
+      "translation": "Иллюзия"
+    },
+    {
+      "original": "मायया",
+      "transliteration": "Бахириводбхутам",
+      "translation": "Возникающее извне"
+    },
+    {
+      "original": "बहिरिवोद्भूतं",
+      "transliteration": "Йатха",
+      "translation": "Как"
+    },
+    {
+      "original": "यथा निद्रया",
+      "transliteration": "Нидряйя",
+      "translation": "Сном"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Ях",
+      "translation": "Тот, кто"
+    },
+    {
+      "original": "साक्षात्कुरुते",
+      "transliteration": "Сакшаткуруте",
+      "translation": "Является"
+    },
+    {
+      "original": "प्रबोधसमये",
+      "transliteration": "Прабодхасамайе",
+      "translation": "В момент пробуждения"
+    },
+    {
+      "original": "स्वात्मानमेवाद्वयं",
+      "transliteration": "Сватманамевадвйям",
+      "translation": "Единство с собой"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Тасмай",
+      "translation": "Ему"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Шригурумуртэ",
+      "translation": "Воплощение Господа Гуру"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Нама",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Идам",
+      "translation": "Это"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Шридакшинамуртэ",
+      "translation": "Шри Дакшинамурти"
+    },
+    {
+      "original": "बीजस्य",
+      "transliteration": "Биджасья'нтариванкуро",
+      "translation": "Семя, внутреннее прорастание"
+    },
+    {
+      "original": "अन्तरिवाङ्कुरो",
+      "transliteration": "Джагадидам",
+      "translation": "Этот мир"
+    },
+    {
+      "original": "जगदिदं",
+      "transliteration": "Пра́нганирвикалпам",
+      "translation": "Безмысленное, неразделённое"
+    },
+    {
+      "original": "प्राङ्गनिर्विकल्पं",
+      "transliteration": "Пунах",
+      "translation": "Снова"
+    },
+    {
+      "original": "पुनः",
+      "transliteration": "Майякалпитадешакалакалана",
+      "translation": "Иллюзорное восприятие пространства и времени"
+    },
+    {
+      "original": "मायाकल्पित",
+      "transliteration": "Вайчитрячитрийкритам",
+      "translation": "Преобразованное многообразие"
+    },
+    {
+      "original": "देशकालकलना",
+      "transliteration": "Майявива",
+      "translation": "Подобно иллюзии"
+    },
+    {
+      "original": "वैचित्र्यचित्रीकृतम्",
+      "transliteration": "Виджрымбхатйапи",
+      "translation": "Возбуждает, разворачивает"
+    },
+    {
+      "original": "मायावीव",
+      "transliteration": "Махайогива",
+      "translation": "Подобно великому йогу"
+    },
+    {
+      "original": "विजृम्भयत्यपि",
+      "transliteration": "Ях",
+      "translation": "Кто"
+    },
+    {
+      "original": "महायोगीव",
+      "transliteration": "Свеччая",
+      "translation": "По своему желанию"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Тасмай",
+      "translation": "Ему"
+    },
+    {
+      "original": "स्वेच्छया",
+      "transliteration": "Шригурумуртэ",
+      "translation": "Воплощению Господа Гуру"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Нама",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Идам",
+      "translation": "Это"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Шридакшинамуртэ",
+      "translation": "Воплощение Господа Дакшинамурти"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Ясйа́ива",
+      "translation": "Чье именно"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Сфуранам",
+      "translation": "Явление, сияние"
+    },
+    {
+      "original": "यस्यैव",
+      "transliteration": "Садатмакамасаткалпартика",
+      "translation": "Суть вечного, временная иллюзия"
+    },
+    {
+      "original": "स्फुरणं",
+      "transliteration": "Бхасате",
+      "translation": "Проявляется"
+    },
+    {
+      "original": "सदात्मकम्",
+      "transliteration": "Сакшаттаттвамасити",
+      "translation": "Это сущность, прямое познание"
+    },
+    {
+      "original": "असत्कल्पार्थकं",
+      "transliteration": "Ведавачаса",
+      "translation": "Слово Вед"
+    },
+    {
+      "original": "भासते",
+      "transliteration": "Ё",
+      "translation": "Который"
+    },
+    {
+      "original": "साक्षात्तत्त्वमसीति",
+      "transliteration": "Бодхатятяшритан",
+      "translation": "Просвещает преданных"
+    },
+    {
+      "original": "वेदवचसा",
+      "transliteration": "Ятсакшаткеранадбхавен",
+      "translation": "То, что из прямого осознания не возвращается"
+    },
+    {
+      "original": "यो",
+      "transliteration": "Пунаравриттирбхавамбхонедхау",
+      "translation": "Не возникает повторно в океане рождения"
+    },
+    {
+      "original": "बोधयत्याश्रितान्",
+      "transliteration": "Тасмай",
+      "translation": "Ему"
+    },
+    {
+      "original": "यत्साक्षात्करणाद्भवेन्न",
+      "transliteration": "Шригурумуртэ",
+      "translation": "Воплощению Господа Гуру"
+    },
+    {
+      "original": "पुनरावृत्तिर्भवाम्भोनिधौ",
+      "transliteration": "Нама",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Идам",
+      "translation": "Это"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Шридакшинамуртэ",
+      "translation": "Воплощение Господа Дакшинамурти"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Наначчидрагхатодарасфитамахадипапрабха",
+      "translation": "Яркий свет, исходящий из многослойной сосудистой структуры"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Бхасварам",
+      "translation": "Сияющий"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Джньянам",
+      "translation": "Знание"
+    },
+    {
+      "original": "नानाच्छिद्रघटोदरस्थितमहादीपप्रभा",
+      "transliteration": "Ясйа",
+      "translation": "Которого"
+    },
+    {
+      "original": "भास्वरं",
+      "transliteration": "Ту",
+      "translation": "Однако"
+    },
+    {
+      "original": "ज्ञानं",
+      "transliteration": "Чакшурадикарандвара",
+      "translation": "Через органы восприятия"
+    },
+    {
+      "original": "यस्य",
+      "transliteration": "Вахих",
+      "translation": "Внешний"
+    },
+    {
+      "original": "तु",
+      "transliteration": "Спандатэ",
+      "translation": "Колеблется"
+    },
+    {
+      "original": "चक्षुरादिकरणद्वारा",
+      "transliteration": "Джанамити",
+      "translation": "Я знаю"
+    },
+    {
+      "original": "वहिः",
+      "transliteration": "Тамев",
+      "translation": "То же"
+    },
+    {
+      "original": "स्पन्दते",
+      "transliteration": "Бхантаанубхатйетатсамастам",
+      "translation": "Всё это становится проявлением света"
+    },
+    {
+      "original": "जानामीति",
+      "transliteration": "Джагат",
+      "translation": "Мир"
+    },
+    {
+      "original": "तमेव",
+      "transliteration": "Тасмай",
+      "translation": "Ему"
+    },
+    {
+      "original": "भान्तम्",
+      "transliteration": "Шригурумуртэ",
+      "translation": "Воплощению Господа Гуру"
+    },
+    {
+      "original": "अनुभवात्येतत्समस्तं",
+      "transliteration": "Нама",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "जगत्",
+      "transliteration": "Идам",
+      "translation": "Это"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Шридакшинамуртэ",
+      "translation": "Воплощение Господа Дакшинамурти"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Дехам",
+      "translation": "Тело"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Пранмапииндриаанйапи",
+      "translation": "Также прана и чувства"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Чалам",
+      "translation": "Двигающееся"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Буддхим",
+      "translation": "Разум"
+    },
+    {
+      "original": "देहं",
+      "transliteration": "Ч",
+      "translation": "И"
+    },
+    {
+      "original": "प्राणम्",
+      "transliteration": "Шуньям",
+      "translation": "Пустота"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "Видух",
+      "translation": "Знают"
+    },
+    {
+      "original": "इन्द्रियाणि",
+      "transliteration": "Стрибалаандхаджадопамаствахамити",
+      "translation": "Женщина, ребенок, слепой, подобный глупому, я — так говорят"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "Бхранта",
+      "translation": "Заблуждающиеся"
+    },
+    {
+      "original": "चलां",
+      "transliteration": "Бхрышам",
+      "translation": "Сильно"
+    },
+    {
+      "original": "बुद्धिं",
+      "transliteration": "Вадинах",
+      "translation": "Спорящие"
+    },
+    {
+      "original": "च",
+      "transliteration": "Майяшактивиласкалпитамахавьяамохасамхарино",
+      "translation": "Тому, кто разрушает великий обман, созданный могущественной силой иллюзии"
+    },
+    {
+      "original": "शून्यं",
+      "transliteration": "Тасмай",
+      "translation": "Ему"
+    },
+    {
+      "original": "विदुः",
+      "transliteration": "Шригурумуртэ",
+      "translation": "Воплощению Господа Гуру"
+    },
+    {
+      "original": "स्त्री",
+      "transliteration": "Нама",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "बाल",
+      "transliteration": "Идам",
+      "translation": "Это"
+    },
+    {
+      "original": "अन्ध",
+      "transliteration": "Шридакшинамуртэ",
+      "translation": "Воплощение Господа Дакшинамурти"
+    },
+    {
+      "original": "जड",
+      "transliteration": "Рауграстадивакарендусадрышо",
+      "translation": "Подобно затмению солнца и луны Раху"
+    },
+    {
+      "original": "उपमाः",
+      "transliteration": "Майасамаччхаданат",
+      "translation": "От покрытия иллюзией"
+    },
+    {
+      "original": "त्वम्",
+      "transliteration": "Санматрах",
+      "translation": "Только истинное"
+    },
+    {
+      "original": "अहम्",
+      "transliteration": "Каранопасамхаранато",
+      "translation": "Из-за прекращения органов восприятия"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Йо'бху́тсушуптах пума́н",
+      "translation": "Кто был в глубоком сне"
+    },
+    {
+      "original": "भ्रान्ताः",
+      "transliteration": "Прагсваапсамити",
+      "translation": "Это было до сна"
+    },
+    {
+      "original": "भृशम्",
+      "transliteration": "Прабодхасамайе",
+      "translation": "В момент пробуждения"
+    },
+    {
+      "original": "वादिनः",
+      "transliteration": "Ях",
+      "translation": "Кто"
+    },
+    {
+      "original": "मायाशक्तिविलासकल्पितमहाव्यामोहसंहारिणो",
+      "transliteration": "Пратйабиджняйтэ",
+      "translation": "Узнаётся"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Тасмай",
+      "translation": "Ему"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Шригурумуртэ",
+      "translation": "Воплощению Господа Гуру"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Нама",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Идам",
+      "translation": "Это"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Шридакшинамуртэ",
+      "translation": "Воплощение Господа Дакшинамурти"
+    },
+    {
+      "original": "राहुग्रस्त",
+      "transliteration": "Бальядишвапи",
+      "translation": "В детстве и других состояниях"
+    },
+    {
+      "original": "दिवाकरेन्दुसदृशो",
+      "transliteration": "Джаґра́дадишу",
+      "translation": "В состоянии бодрствования"
+    },
+    {
+      "original": "मायासमाच्छादनात्",
+      "transliteration": "Татха",
+      "translation": "Также"
+    },
+    {
+      "original": "सन्मात्रः",
+      "transliteration": "Сарвасвавастхасви",
+      "translation": "Во всех состояниях"
+    },
+    {
+      "original": "करणोपसंहरणतो",
+      "transliteration": "Вья́вриттасванувартамахамитянтах",
+      "translation": "Я всегда проявляюсь как \"я\", который сопровождает происходящее"
+    },
+    {
+      "original": "यो",
+      "transliteration": "Сфурантам",
+      "translation": "Являющегося"
+    },
+    {
+      "original": "अभूत्",
+      "transliteration": "Сада",
+      "translation": "Вечно"
+    },
+    {
+      "original": "सुषुप्तः",
+      "transliteration": "Сватманам",
+      "translation": "Себя"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "Пракатикароти",
+      "translation": "Открывает"
+    },
+    {
+      "original": "प्रागस्वाप्समिति",
+      "transliteration": "Бхаджатам",
+      "translation": "Преданных"
+    },
+    {
+      "original": "प्रबोधसमये",
+      "transliteration": "Ё",
+      "translation": "Кто"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Мудраябхадрая",
+      "translation": "С помощью благоприятной печати"
+    },
+    {
+      "original": "प्रत्यभिज्ञायते",
+      "transliteration": "Тасмай",
+      "translation": "Ему"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Шригурумуртэ",
+      "translation": "Воплощению Господа Гуру"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Нама",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Идам",
+      "translation": "Это"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Вишвам",
+      "translation": "Вселенная"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Пашяти",
+      "translation": "Видит"
+    },
+    {
+      "original": "बाल्यादिष्वपि",
+      "transliteration": "Карьякараṇатайя",
+      "translation": "Как причина и следствие"
+    },
+    {
+      "original": "जाग्रदादिषु",
+      "transliteration": "Свасвамисамбандхатах",
+      "translation": "От связи с собственным хозяином"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "Шишьяачарьятая",
+      "translation": "Как ученик и учитель"
+    },
+    {
+      "original": "सर्वास्ववस्थास्वपि",
+      "transliteration": "Татхаива",
+      "translation": "Так же"
+    },
+    {
+      "original": "व्यावृत्तास्वनुवर्तमानमहमित्यन्तः",
+      "transliteration": "Питрупутраадьяатмана",
+      "translation": "Как отец и сын, через дух"
+    },
+    {
+      "original": "स्फुरन्तं",
+      "transliteration": "Бхедатах",
+      "translation": "Как различие"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "Свапне",
+      "translation": "Во сне"
+    },
+    {
+      "original": "स्वात्मानं",
+      "transliteration": "Джаґрати",
+      "translation": "В бодрствовании"
+    },
+    {
+      "original": "प्रकटीकरोति",
+      "transliteration": "Ва",
+      "translation": "Или"
+    },
+    {
+      "original": "भजतां",
+      "transliteration": "Я",
+      "translation": "Кто"
+    },
+    {
+      "original": "यो",
+      "transliteration": "Эша",
+      "translation": "Этот"
+    },
+    {
+      "original": "मुद्रया",
+      "transliteration": "Пурушо",
+      "translation": "Человек"
+    },
+    {
+      "original": "अभद्रया",
+      "transliteration": "Майапарибхрамитах",
+      "translation": "Обманутый иллюзией"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Тасмай",
+      "translation": "Ему"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Шригурумуртэ",
+      "translation": "Воплощению Господа Гуру"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Нама",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Идам",
+      "translation": "Это"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Шридакшинамуртэ",
+      "translation": "Воплощение Господа Дакшинамурти"
+    },
+    {
+      "original": "विश्वं",
+      "transliteration": "Бхура́мбхамсянало'анило'амбермахарнaтхо хима́ншу пума́н",
+      "translation": "Солнце, огонь, воздух, небеса, ночь и луна, мужчина"
+    },
+    {
+      "original": "पश्यति",
+      "transliteration": "Итья́бхати",
+      "translation": "Таким образом проявляется"
+    },
+    {
+      "original": "कार्यकारणतया",
+      "transliteration": "Чараачаратмакамидaм",
+      "translation": "Это сущее, включающее в себя движущиеся и неподвижные"
+    },
+    {
+      "original": "स्वस्वामिसम्बन्धतः",
+      "transliteration": "Ясъяйва",
+      "translation": "Которое"
+    },
+    {
+      "original": "शिष्याचार्यतया",
+      "transliteration": "Муртъяштакам",
+      "translation": "Восьмеричное воплощение"
+    },
+    {
+      "original": "तथैव",
+      "transliteration": "Нанят",
+      "translation": "Нет другого"
+    },
+    {
+      "original": "पितृपुत्राद्यात्मना",
+      "transliteration": "Кинчана",
+      "translation": "Ничего"
+    },
+    {
+      "original": "भेदतः",
+      "transliteration": "Видьяте",
+      "translation": "Существует"
+    },
+    {
+      "original": "स्वप्ने",
+      "transliteration": "Вимришатам",
+      "translation": "Обдумывающим"
+    },
+    {
+      "original": "जाग्रति",
+      "transliteration": "Ясматпарасмаадвибо́х",
+      "translation": "Из-за различия от Верховного"
+    },
+    {
+      "original": "वा",
+      "transliteration": "Тасмай",
+      "translation": "Ему"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Шригурумуртэ",
+      "translation": "Воплощению Господа Гуру"
+    },
+    {
+      "original": "एष",
+      "transliteration": "Нама",
+      "translation": "Поклонение"
+    },
+    {
+      "original": "पुरुषः",
+      "transliteration": "Идам",
+      "translation": "Это"
+    },
+    {
+      "original": "मायापरिभ्रामितः",
+      "transliteration": "Шридакшинамуртэ",
+      "translation": "Воплощение Господа Дакшинамурти"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Сарваатматтвамити",
+      "translation": "Ибо это является целостностью"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "Сфути́критамидaм",
+      "translation": "Это ясно выражено"
+    },
+    {
+      "original": "नम",
+      "transliteration": "Ясма́дамушмин стaве",
+      "translation": "В этом стихе"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "Тенасья",
+      "translation": "Через это"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "Шраванаттадармананаддхьяна́тча санки́ртана́т",
+      "translation": "Слушание, размышление и воспевание"
+    },
+    {
+      "original": "भूरम्",
+      "transliteration": "Сарваатматтвамахавибху́тисахитам",
+      "translation": "Величие, включающее целостность"
+    },
+    {
+      "original": "भास्य",
+      "transliteration": "Сядиишварaтвам свaтах",
+      "translation": "Природа Господа"
+    },
+    {
+      "original": "अनलः",
+      "transliteration": "Сиддьеттатпунарштaдха",
+      "translation": "Он достигает этого снова в восьмеричной форме"
+    },
+    {
+      "original": "अनिलः",
+      "transliteration": "Паринатам",
+      "translation": "Преобразуется"
+    },
+    {
+      "original": "आम्बर",
+      "transliteration": "Чайшварйамавьяхатам",
+      "translation": "Без помех, неисчерпаемое богатство"
+    },
+    {
+      "original": "महर्",
+      "transliteration": "Ити",
+      "translation": "Так"
+    },
+    {
+      "original": "नाथः",
+      "transliteration": "Шримаччханкара́чарьяви́рачита",
+      "translation": "Составленное Шри Шанкарой"
+    },
+    {
+      "original": "हिमांशु",
+      "transliteration": "Дакшинамуртистотрaм",
+      "translation": "Стотра о Дакшинамурти"
+    },
+    {
+      "original": "पुमान्",
+      "transliteration": "Сaмпурнaм",
+      "translation": "Полностью"
+    },
+    {
+      "original": "इति",
+      "transliteration": "Ити",
+      "translation": "Так"
+    },
+    {
+      "original": "अभाति",
+      "transliteration": "Шримаччханкара́чарьяви́рачита",
+      "translation": "Составленное Шри Шанкарой"
+    },
+    {
+      "original": "चराचर",
+      "transliteration": "Дакшинамуртистотрaм",
+      "translation": "Стотра о Дакшинамурти"
+    },
+    {
+      "original": "आत्मकम्",
+      "transliteration": "Сaмпурнaм",
+      "translation": "Полностью"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यस्यैव",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मूर्त्यष्टकम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नान्यत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "किञ्चन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विद्यते",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विमृशतां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यस्मात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परस्मात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "विभोः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीगुरुमूर्तये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीदक्षिणामूर्तये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वात्मत्वमिति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्फुटीकृतम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यस्माद्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अमुष्मिन्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्तवे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तेनास्य",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रवणात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तदर्थम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अननाद्ध्यानाच्च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संकीर्तनात्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वात्मत्वमहाविभूतिसहितं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्यादीश्वरत्वं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वतः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सिद्ध्येत्तत्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पुनरष्टधा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "परिणतं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चैश्वर्यम्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अव्याहतम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\russian\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\daxinmurti_stotram\\russian\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.440Z"
+  }
+}

@@ -1,0 +1,1264 @@
+{
+  "mantra": "shri_haygriv_stotra",
+  "language": "punjabi",
+  "type": "word_to_word",
+  "totalWords": 250,
+  "alignedWords": [
+    {
+      "original": "श्रीमान्",
+      "transliteration": "ਸ਼੍ਰੀਮਾਨ्",
+      "translation": "ਜੋ ਮਹਾਨ ਅਤੇ ਆਦਰਸ਼ ਹੈ।"
+    },
+    {
+      "original": "वेङ्कटनाथार्यः",
+      "transliteration": "ਵੇਂਕਟਨਾਥਾਰ੍ਯਹ੍",
+      "translation": "ਜੋ ਭਗਵਾਨ ਵੇਂਕਟੇਸ਼ਵਰ ਦੇ ਪੂਜੀ ਹੈ।"
+    },
+    {
+      "original": "कवितार्किककेसरी",
+      "transliteration": "ਕਵਿਤਾਰਕਿਕਕੇਸਰੀ",
+      "translation": "ਜੋ ਕਵਿਤਾ ਅਤੇ ਤਰਕ ਦਾ ਮਹਾਰਥੀ ਹੈ।"
+    },
+    {
+      "original": "वेदान्ताचार्यवर्यो",
+      "transliteration": "ਵੇਦਾਂਤਾਚਾਰ੍ਯਵਰ੍ਯੋ",
+      "translation": "ਜੋ ਵੇਦਾਂਤ ਦੇ ਪ੍ਰਧਾਨ ਅਧਿਆਪਕ ਹਨ।"
+    },
+    {
+      "original": "मे",
+      "transliteration": "ਮੇ",
+      "translation": "ਮੇਰੇ ਲਈ"
+    },
+    {
+      "original": "सन्निधत्तां",
+      "transliteration": "ਸਨਿੱਧਤ੍ਤਾਂ",
+      "translation": "ਉਹ ਸਦਾ ਮੇਰੇ ਹ੍ਰਿਦ ਵਿੱਚ ਰਹੇ।"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "ਸਦਾ",
+      "translation": "ਸਦਾ"
+    },
+    {
+      "original": "हृदि",
+      "transliteration": "ਹ੍ਰਿਦੀ",
+      "translation": "ਮੇਰੇ ਦਿਲ ਵਿੱਚ"
+    },
+    {
+      "original": "ज्ञानानन्द",
+      "transliteration": "ਗਿਆਨਾਨੰਦ",
+      "translation": "ਗਿਆਨ ਅਤੇ ਆਨੰਦ ਦਾ ਮਿਲਾਪ"
+    },
+    {
+      "original": "मयं",
+      "transliteration": "ਮਯੰ",
+      "translation": "ਜੋ ਸਾਰਥਕ ਅਤੇ ਆਤਮਿਕ ਹੈ।"
+    },
+    {
+      "original": "देवं",
+      "transliteration": "ਦੇਵੰ",
+      "translation": "ਉਹ ਜਿਸ ਨੂੰ ਅਰਧ ਕਰਦੇ ਹਨ"
+    },
+    {
+      "original": "निर्मलस्फटिकाकृतिम्",
+      "transliteration": "ਨਿਰਮਲਸਫਟਿਕਾਕ੍ਰਿਤਿਮ੍",
+      "translation": "ਜਿਸ ਦੀ ਆਕਾਰ ਅਤੇ ਰੂਪ ਸਾਫ ਅਤੇ ਨਿਰਮਲ ਹਨ।"
+    },
+    {
+      "original": "आधारं",
+      "transliteration": "ਆਧਾਰੰ",
+      "translation": "ਜਿਨ੍ਹਾਂ ਤੋਂ ਸਾਰੀਆਂ ਵਿਦਿਆਵਾਂ ਨਿੱਕਲਦੀਆਂ ਹਨ।"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "ਸਾਰਵ",
+      "translation": "ਸਾਰੀਆਂ"
+    },
+    {
+      "original": "विद्यानां",
+      "transliteration": "ਵਿਦਿਆਨੰ",
+      "translation": "ਵਿਦਿਆ ਦੀਆਂ ਸਭ ਸਮੂਹਾਂ।"
+    },
+    {
+      "original": "हयग्रीवम्",
+      "transliteration": "ਹਯਗ੍ਰੀਵਮ੍",
+      "translation": "ਜੋ ਹਯਗ੍ਰੀਵ ਦੀ ਪੁਜਾ ਕਰਨ ਵਾਲਾ ਹੈ।"
+    },
+    {
+      "original": "उपास्महे",
+      "transliteration": "ਉਪਾਸਮਹੇ",
+      "translation": "ਅਸੀਂ ਉਸ ਦੀ ਪੂਜਾ ਕਰਦੇ ਹਾਂ।"
+    },
+    {
+      "original": "स्वतस्सिद्धं",
+      "transliteration": "ਸਵਤੱਸਿੱਧਂ",
+      "translation": "ਜੋ ਆਪਣੇ ਆਪ ਹੀ ਪਰਫੈਕਟ ਹੈ।"
+    },
+    {
+      "original": "शुद्धस्फटिकमणि",
+      "transliteration": "ਸ਼ੁੱਧਸਫ਼ਟਿਕਮਣਿ",
+      "translation": "ਜੋ ਪਵਿਤ੍ਰ ਅਤੇ ਸਾਫ ਸਫ਼ਟਿਕ ਜੈਸਾ ਹੈ।"
+    },
+    {
+      "original": "भूभृत्प्रतिभटं",
+      "transliteration": "ਭੂਭ੍ਰਿਤਪ੍ਰਤਿਭਟੰ",
+      "translation": "ਜੋ ਧਰਤੀ ਨੂੰ ਸਮਰਥਿਤ ਕਰਨ ਵਾਲਾ ਹੈ।"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "ਸੁਧਾ",
+      "translation": "ਜੋ ਮਿੱਠਾ ਅਤੇ ਸੁਰਭੀ ਹੈ।"
+    },
+    {
+      "original": "सध्रीचीभिर्",
+      "transliteration": "ਸਧਰੀਚੀਭਿਰ੍",
+      "translation": "ਜੋ ਸਾਰਥਕ ਅਤੇ ਸਾਫ਼ ਹੈ।"
+    },
+    {
+      "original": "धुतिभिर्",
+      "transliteration": "ਧੁਤਿਭਿਰ੍",
+      "translation": "ਜੋ ਨਿਰਦੋਸ਼ ਅਤੇ ਸੁਧਾਰਿਤ ਹੈ।"
+    },
+    {
+      "original": "अवदातत्रिभुवनम्",
+      "transliteration": "ਅਵਦਾਤਤ੍ਰਿਭੁਵਨਮ੍",
+      "translation": "ਜੋ ਸਾਫ ਅਤੇ ਸ਼ੁੱਧ ਹੈ ਅਤੇ ਤਿੰਨ ਲੋਕਾਂ ਨੂੰ ਕਵਰ ਕਰਦਾ ਹੈ।"
+    },
+    {
+      "original": "समाहारस्साम्नां",
+      "transliteration": "ਅਨੰਤੈਸ੍ਤ੍ਰਯ੍ਯੰਤੈः",
+      "translation": "ਜੋ ਅਨੰਤ ਅਤੇ ਅਬਿਆਨਤ ਹੈ।"
+    },
+    {
+      "original": "प्रतिपदमृचां",
+      "transliteration": "ਅਨੁਵਿਹਿਤ",
+      "translation": "ਜੋ ਨਿਰਦੇਸ਼ਿਤ ਅਤੇ ਮਾਰਗਦਰਸ਼ਿਤ ਹੈ।"
+    },
+    {
+      "original": "धाम यजुषां",
+      "transliteration": "ਹੇਸ਼ਾ",
+      "translation": "ਜੋ ਉੱਚੀ ਅਵਾਜ਼ ਨਾਲ ਬੋਲਦੀ ਹੈ।"
+    },
+    {
+      "original": "लयः",
+      "transliteration": "ਹਲਹਲੰ",
+      "translation": "ਜੋ ਭਾਰੀ ਆਵਾਜ਼ ਨਾਲ ਗੂੰਜਦਾ ਹੈ।"
+    },
+    {
+      "original": "प्रत्यूहानां",
+      "transliteration": "ਹਤਾਸ਼ੇਸ਼ਾਵਦ੍ਯੰ",
+      "translation": "ਜੋ ਸਾਰੀਆਂ ਖਾਮੀਆਂ ਨੂੰ ਮਿਟਾਉਂਦਾ ਹੈ।"
+    },
+    {
+      "original": "लहरि",
+      "transliteration": "ਹਯਵਦਨ",
+      "translation": "ਜੋ ਹਯਗ੍ਰੀਵ ਦਾ ਮੂਰਤਿ ਹੈ।"
+    },
+    {
+      "original": "विततिर्बोधजलधेः",
+      "transliteration": "ਮੀਡੀ",
+      "translation": "ਜੋ ਮਹਿਲ ਅਤੇ ਮਹਾਨ ਹੈ।"
+    },
+    {
+      "original": "कथा",
+      "transliteration": "ਮਹਿ",
+      "translation": "ਜੋ ਮਹਾਨ ਅਤੇ ਸਭ ਤੋਂ ਉੱਚਾ ਹੈ।"
+    },
+    {
+      "original": "दर्पक्षुभ्यत्",
+      "transliteration": "ਮਹਿ",
+      "translation": "ਜੋ ਪੂਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਪ੍ਰਧਾਨ ਹੈ।"
+    },
+    {
+      "original": "कथककुल",
+      "transliteration": "ਸਮਾਹਾਰਸਸਾਮ੍ਨਾਂ",
+      "translation": "ਸਮੂਹ ਦੀ ਪੂਰੀ ਸੰਕਲਪਨਾ।"
+    },
+    {
+      "original": "कोलाहलभवं",
+      "transliteration": "ਪ੍ਰਤਿਪਦਮ੍ਰਚਾਂ",
+      "translation": "ਪ੍ਰਤਿਪਦਾਂ ਦੇ ਰੂਪਾਂ ਜੋ ਸ਼ਕਤੀ ਦਾ ਪ੍ਰਦਾਨ ਹੈ।"
+    },
+    {
+      "original": "प्राची",
+      "transliteration": "ਧਾਮ ਯਜੁਸ਼ਾਂ",
+      "translation": "ਜਿਸ ਦਾ ਉਦੇਸ਼ ਧਾਰ्मिक ਹੈ ਅਤੇ ਉਸ ਦਾ ਰੂਪ ਯਾਜਨਿਕ ਹੈ।"
+    },
+    {
+      "original": "सन्ध्या",
+      "transliteration": "ਲਯਹ",
+      "translation": "ਸਮਾਧੀ ਦਾ ਪ੍ਰਕਾਰ, ਜੋ ਸ਼ਾਂਤੀ ਦਾ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ।"
+    },
+    {
+      "original": "काचिदन्तर्",
+      "transliteration": "ਪ੍ਰਤਯੂਹਾਨਾਂ",
+      "translation": "ਜੇੜਾ ਅਲੋਚਨਾ ਨੂੰ ਖਤਮ ਕਰਦਾ ਹੈ ਅਤੇ ਖੁੱਲੇ ਜਲ ਨੂੰ ਪਸਾਰਦਾ ਹੈ।"
+    },
+    {
+      "original": "निशायाः",
+      "transliteration": "ਲਹਰੀ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਹਰ ਇੱਕ ਲਹਿਰ ਦੀ ਜਵਾਬ ਦੇ ਸਕਦੀ ਹੈ।"
+    },
+    {
+      "original": "प्रज्ञादृष्टेरञ्जन",
+      "transliteration": "ਵਿਤਤਿਰਬੋਧਜਲਧੇ਼",
+      "translation": "ਜੋ ਪਾਣੀ ਦੇ ਸੰਚਾਰ ਨਾਲ ਬੋਧ ਕਰਦਾ ਹੈ ਅਤੇ ਉਸ ਨੂੰ ਪਸਾਰਦਾ ਹੈ।"
+    },
+    {
+      "original": "श्रीरपूर्वा",
+      "transliteration": "ਕਥਾ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਸਮੂਹਾਂ ਦੇ ਵਿਚਾਰਾਂ ਨੂੰ ਬਿਆਨ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "original": "वक्त्री",
+      "transliteration": "ਦਰਪਕਸ਼ੁਭ੍ਯਤ੍",
+      "translation": "ਜਿਸ ਨਾਲ ਗਰੁਬਤਾ ਅਤੇ ਧੁੰਦਲੇ ਵਿਸ਼ਾ ਭਰ ਜਾਂਦੇ ਹਨ।"
+    },
+    {
+      "original": "वेदान्",
+      "transliteration": "ਕਥਕਕੁਲ",
+      "translation": "ਜਿੱਥੇ ਕਥਾ ਵਿਚਾਰ ਹੁੰਦੀ ਹੈ ਅਤੇ ਸਿੱਖਿਆ ਨੂੰ ਸੰਪੂਰਨ ਕਰਦੀ ਹੈ।"
+    },
+    {
+      "original": "भातु",
+      "transliteration": "ਕੋਲਾਹਲਭਵੰ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਹਲਚਲ ਅਤੇ ਭਗਦੜ ਹੋ ਜਾਂਦੀ ਹੈ।"
+    },
+    {
+      "original": "मे",
+      "transliteration": "ਹਰਤਵੰਤਰਧ੍ਵਾਂਤੰ",
+      "translation": "ਜਿਸ ਨਾਲ ਹਨੇਰੇ ਦੂਰੀ ਵਿੱਚ ਦੁਹਾਈ ਜਾ ਰਹੀ ਹੈ।"
+    },
+    {
+      "original": "वाजि",
+      "transliteration": "ਹਯਵਦਨ",
+      "translation": "ਜੋ ਹਯਗ੍ਰੀਵ ਦਾ ਮੂਰਤਿ ਹੈ।"
+    },
+    {
+      "original": "वक्त्रा",
+      "transliteration": "ਹੇਸ਼ਾ",
+      "translation": "ਜਿਸ ਵਿਚ ਇੱਕ ਆਵਾਜ਼ ਗੂੰਜ ਰਹੀ ਹੈ।"
+    },
+    {
+      "original": "वागीशाख्या",
+      "transliteration": "ਹਲਹਲਹ",
+      "translation": "ਜੋ ਭਾਰੀ ਆਵਾਜ਼ ਨਾਲ ਗੂੰਜਦਾ ਹੈ।"
+    },
+    {
+      "original": "वासुदेवस्य",
+      "transliteration": "ਪ੍ਰਾਚੀ",
+      "translation": "ਜਿਸ ਨੂੰ ਪ੍ਰਾਚੀਕ ਰੂਪ ਦਾ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "original": "मूर्तिः",
+      "transliteration": "ਸੰਧਿਆ",
+      "translation": "ਰਾਤ ਦੀ ਸ਼ਾਂਤੀ ਅਤੇ ਠੰਡਕ ਦਾ ਪ੍ਰਤੀਕ।"
+    },
+    {
+      "original": "विशुद्ध",
+      "transliteration": "ਕਾਚਿਦੰਤਰ੍",
+      "translation": "ਜਿੱਥੇ ਰਾਤ ਅਤੇ ਦਿਨ ਵਿੱਚ ਹੱਦਾਂ ਬਦਲ ਰਹੀਆਂ ਹਨ।"
+    },
+    {
+      "original": "विज्ञान",
+      "transliteration": "ਨਿਸ਼ਾਯਾਹ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਰਾਤ ਦੇ ਅੰਤਰਗਤ ਹਨ।"
+    },
+    {
+      "original": "घन",
+      "transliteration": "ਪ੍ਰਜ্ঞਾਦ੍ਰਿਸ਼੍ਟੇਰੰਝਨ",
+      "translation": "ਜਿਸ ਨਾਲ ਬੋਧ ਅਤੇ ਅਰਥ ਦਾ ਪ੍ਰਭਾਵ ਹੁੰਦਾ ਹੈ।"
+    },
+    {
+      "original": "स्वरूपं",
+      "transliteration": "ਸ਼੍ਰੀਰਪੂਰ੍ਵਾ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਉੱਤਮ ਅਤੇ ਅਦ्भੁਤ ਸ਼ਕਤੀ ਰੂਪ ਵਿੱਚ ਪ੍ਰਗਟ ਹੁੰਦੀ ਹੈ।"
+    },
+    {
+      "original": "विज्ञान",
+      "transliteration": "ਵਕ੍ਤ੍ਰੀ",
+      "translation": "ਜਿਸ ਦਾ ਬੋਲਣਾ ਅਤੇ ਉਚਾਰਣਾ ਹੈ।"
+    },
+    {
+      "original": "विश्राणन",
+      "transliteration": "ਵੇਦਾਂ",
+      "translation": "ਜੋ ਗੁਰੂ ਦਿਆਂ ਸਮੁੱਚੇ ਸ਼ਾਸਤਰਾਂ ਨਾਲ ਸਿੱਖਦਾ ਹੈ।"
+    },
+    {
+      "original": "बद्ध",
+      "transliteration": "ਭਾਤੂ",
+      "translation": "ਜਿਸ ਨਾਲ ਹੇਠਾਂ ਦਿੱਤੇ ਪ੍ਰਮਾਣਿਕਤਾ ਦੇ ਨਾਲ ਹੁੰਦਾ ਹੈ।"
+    },
+    {
+      "original": "दीक्षम्",
+      "transliteration": "ਮੇ",
+      "translation": "ਜਿਸ ਦਾ ਪ੍ਰਧਾਨ ਦਰਸ਼ਨ ਹੈ।"
+    },
+    {
+      "original": "दयानिधिं",
+      "transliteration": "ਵਾਜੀ ਵਕ੍ਤ੍ਰਾ",
+      "translation": "ਜੋ ਸਪਸ਼ਟ ਬੋਲਦਾ ਹੈ ਅਤੇ ਉਸ ਨੂੰ ਸਮਝਦਾ ਹੈ।"
+    },
+    {
+      "original": "देहभृतां",
+      "transliteration": "ਵਾਗੀਸ਼ਾਖ੍ਯਾ",
+      "translation": "ਜਿਸ ਦਾ ਨਾਮ ਗੂੜ੍ਹਾ ਅਤੇ ਸੰਪੂਰਨ ਹੈ।"
+    },
+    {
+      "original": "शरण्यं",
+      "transliteration": "ਵਾਸੁਦੇਵਸ੍ਯ",
+      "translation": "ਜਿਸ ਨੂੰ ਰਿਸ਼ੀ ਅਤੇ ਸਰਵਰ ਦਿਓਹ ਦਾ ਮੂਲ ਪ੍ਰਸੰਗ ਹੈ।"
+    },
+    {
+      "original": "देवम्",
+      "transliteration": "ਮੂਰਤਿ",
+      "translation": "ਜਿਸ ਦਾ ਰੂਪ ਅਤੇ ਰੰਗ ਹੈ।"
+    },
+    {
+      "original": "हयग्रीवम्",
+      "transliteration": "ਵਿਸ਼ੁੱਧ",
+      "translation": "ਜੋ ਪਵਿਤ੍ਰਤਾ ਅਤੇ ਸ਼ੁੱਧਤਾ ਨਾਲ ਭਰਪੂਰ ਹੈ।"
+    },
+    {
+      "original": "अहं",
+      "transliteration": "ਵਿਗਿਆਨ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਸਮੂਹੀ ਗਿਆਨ ਅਤੇ ਤਜ਼ਰਬਾ ਹੁੰਦਾ ਹੈ।"
+    },
+    {
+      "original": "प्रपद्ये",
+      "transliteration": "ਘਨ",
+      "translation": "ਜੋ ਗਹਿਰਾਈ ਅਤੇ ਮਜ਼ਬੂਤੀ ਨਾਲ ਭਰਪੂਰ ਹੁੰਦਾ ਹੈ।"
+    },
+    {
+      "original": "अपौरुषेयैर्",
+      "transliteration": "ਸਵਰੂਪੰ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਰੂਪ ਅਤੇ ਅਵਸਤਾਵਾਂ ਦਾ ਪ੍ਰਭਾਵ ਹੁੰਦਾ ਹੈ।"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "ਵਿਗਿਆਨ",
+      "translation": "ਜਿਸ ਨਾਲ ਸਮਝ ਅਤੇ ਬੋਧ ਦੀ ਸ਼ਕਤੀ ਬਣਦੀ ਹੈ।"
+    },
+    {
+      "original": "वाक्प्रपञ्चैः",
+      "transliteration": "ਵਿਸ਼ਰਾਣਨ",
+      "translation": "ਜੋ ਬਰਕਤ ਅਤੇ ਸ਼ਾਂਤੀ ਦਿੜ੍ਹਾਵੇ ਦਾ ਕਾਰਣ ਹੈ।"
+    },
+    {
+      "original": "अद्यापि",
+      "transliteration": "ਬੱਧ",
+      "translation": "ਜੋ ਬੰਧਨ ਅਤੇ ਰੋਕਾਵਟ ਨਾਲ ਜੁੜਿਆ ਹੈ।"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ਦੀਕ੍ਸ਼ਮ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਅਦਾਰ ਅਤੇ ਪ੍ਰਧਾਨ ਦੀ ਸ਼ੁਰੂਆਤ ਹੁੰਦੀ ਹੈ।"
+    },
+    {
+      "original": "भूति",
+      "transliteration": "ਦਯਾਨਿਧਿੰ",
+      "translation": "ਜਿਸ ਨੂੰ ਹਮਿਸ਼ਾ ਦਿਆਲੂ ਅਤੇ ਸ਼ਰਣਯ ਵਾਲਾ ਸਮਝਿਆ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "original": "मदृष्ट",
+      "transliteration": "ਦੇਹਭ੍ਰਿਤਾਂ",
+      "translation": "ਜਿਵੇਂ ਜ਼ਿੰਦਗੀ ਦੇ ਮੂਲਾਂਕਣ ਅਤੇ ਸਹਿਯੋਗ ਦਾ ਸੰਕੇਤ ਹੈ।"
+    },
+    {
+      "original": "पाराम्",
+      "transliteration": "ਸ਼ਰਣ੍ਯੰ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਸਾਰਥਕ ਰੱਖਿਆ ਅਤੇ ਸਹਾਰਾ ਮਿਲਦਾ ਹੈ।"
+    },
+    {
+      "original": "स्तुवन्नहं",
+      "transliteration": "ਦੇਵਮ",
+      "translation": "ਜਿਸ ਦਾ ਧਾਰਮਿਕ ਅਤੇ ਉੱਚ ਸ਼ਕਤੀ ਦਾ ਸਥਾਨ ਹੁੰਦਾ ਹੈ।"
+    },
+    {
+      "original": "मुग्ध",
+      "transliteration": "ਹਯਗਰੀਵਮ",
+      "translation": "ਜਿਸ ਦਾ ਸਥਾਨ ਅਤੇ ਮੂਰਤਿ ਗਹਿਰਾ ਅਤੇ ਮਹਾਨ ਹੈ।"
+    },
+    {
+      "original": "इति",
+      "transliteration": "ਅਹਮ",
+      "translation": "ਜਿਸ ਨੂੰ ਮੈਂ ਅਤੇ ਮੇਰੀ ਸ਼ਕਤੀ ਦੇ ਰੂਪ ਵਿੱਚ ਪਛਾਣਿਆ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "original": "त्वयैव",
+      "transliteration": "ਪ੍ਰਪੱਦ੍ਯੇ",
+      "translation": "ਜਿਸ ਦੀ ਸ਼ਰਣਾਗਤੀ ਅਤੇ ਮਨੋਭਾਵ ਨਾ ਰਹਿਣ ਵਾਲੀ ਹੈ।"
+    },
+    {
+      "original": "कारुण्यतो",
+      "transliteration": "ਅਪੌਰੁਸ਼ੇਯੈਰ੍",
+      "translation": "ਜੋ ਬੇਮਿਸਾਲ ਅਤੇ ਅਪੂਰਵ ਹੈ।"
+    },
+    {
+      "original": "नाथ",
+      "transliteration": "ਅਪੀ",
+      "translation": "ਜਿਸ ਦੀ ਪ੍ਰਤੀਕਿਰਿਆ ਅਤੇ ਸਰਗਰਮੀ ਹੈ।"
+    },
+    {
+      "original": "कटाक्षणीयः",
+      "transliteration": "ਵਾਕਪ੍ਰਪੰਚੈ:",
+      "translation": "ਜਿਸ ਨਾਲ ਸੰਗਠਨ ਅਤੇ ਆਧਾਰ ਸ਼ਕਤੀ ਨੂੰ ਬੜ੍ਹਾਉਂਦਾ ਹੈ।"
+    },
+    {
+      "original": "दाक्षिण्य",
+      "transliteration": "ਅਦ੍ਯਾਪਿ",
+      "translation": "ਜਿਸ ਨਾਲ ਅੱਜ ਵੀ ਦ੍ਰਿਸ਼ਟਿਕੋਣ ਅਨੁਕੂਲ ਹੈ।"
+    },
+    {
+      "original": "रम्या",
+      "transliteration": "ਤੇ",
+      "translation": "ਜਿਸ ਦਾ ਹਿੱਸਾ ਬਨਾਇਆ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "original": "गिरिशस्य",
+      "transliteration": "ਭੂਤੀ",
+      "translation": "ਜਿਸ ਦੀ ਸੰਪੂਰਨਤਾ ਅਤੇ ਸਮਝ ਹੁੰਦੀ ਹੈ।"
+    },
+    {
+      "original": "मूर्तिः",
+      "transliteration": "ਮਦ੍ਰਿਸ਼ਟ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਸ਼ਕਤੀ ਅਤੇ ਪ੍ਰਭਾਵ ਹੈ।"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "ਪਾਰਾਮ",
+      "translation": "ਜੋ ਆਤਮਿਕ ਅਵਸਥਾ ਅਤੇ ਸਰਗਰਮੀ ਨਾਲ ਸੰਬੰਧਿਤ ਹੈ।"
+    },
+    {
+      "original": "सरोजासन",
+      "transliteration": "ਸਤੁਵੰਨਹੰ",
+      "translation": "ਜਿਸ ਨੂੰ ਪ੍ਰਸ਼ੰਸਾ ਅਤੇ ਅਦਾਰ ਨਾਲ ਸਨਮਾਨਿਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "original": "धर्मपत्नी",
+      "transliteration": "ਮੁਗਧ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਮੋਹ ਅਤੇ ਆਕਰਸ਼ਣ ਹੈ।"
+    },
+    {
+      "original": "व्यासादयोऽपि",
+      "transliteration": "ਇਤੀ",
+      "translation": "ਜਿਸ ਨਾਲ ਗੁਣਵੱਤਾ ਅਤੇ ਸਮਝਦਾਰੀ ਹੈ।"
+    },
+    {
+      "original": "व्यपदेश्य",
+      "transliteration": "ਤੁਵੈਐਵ",
+      "translation": "ਜੋ ਸਿਰਫ਼ ਤੂੰ ਹੀ ਕਰ ਸਕਦਾ ਹੈ।"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "ਕਾਰੁਣ੍ਯਤੋ",
+      "translation": "ਜਿਸ ਨਾਲ ਸਹਿਯੋਗ ਅਤੇ ਦਿਆਲਤਾ ਨਾਲ ਗਹਿਰਾਈ ਪ੍ਰਗਟ ਹੁੰਦੀ ਹੈ।"
+    },
+    {
+      "original": "स्फुरन्ति",
+      "transliteration": "ਨਾਥ",
+      "translation": "ਜਿਸ ਨਾਲ ਭਗਵਾਨ ਦੀ ਓਹਦੀ ਅਤੇ ਸ਼ਕਤੀ ਦਾ ਭਾਵ ਹੈ।"
+    },
+    {
+      "original": "सर्वे",
+      "transliteration": "ਕਟਾਕਸ਼ਣੀਯਹ",
+      "translation": "ਜੋ ਉਸਦਾ ਕਟਾਕਸ਼ ਅਤੇ ਸਨਮਾਨ ਹੈ।"
+    },
+    {
+      "original": "तव",
+      "transliteration": "ਦਾਖਸ਼ਿਣ੍ਯ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਸਾਧਾਰਣਤਾ ਅਤੇ ਕਿਰਪਾ ਦਾ ਰੂਪ ਹੁੰਦਾ ਹੈ।"
+    },
+    {
+      "original": "शक्ति",
+      "transliteration": "ਰਮ੍ਯਾ",
+      "translation": "ਜੋ ਸੁੰਦਰਤਾ ਅਤੇ ਆਨੰਦ ਨਾਲ ਭਰਪੂਰ ਹੈ।"
+    },
+    {
+      "original": "लेशैः",
+      "transliteration": "ਗਿਰੀਸ਼ਸ੍ਯ",
+      "translation": "ਜੋ ਪਰਬਤ ਦੇ ਪ੍ਰਭੁ ਅਤੇ ਰੱਖਵਾਲੇ ਦਾ ਰੂਪ ਹੈ।"
+    },
+    {
+      "original": "मन्दोऽभविष्यन्",
+      "transliteration": "ਮੂਰਤਿ",
+      "translation": "ਜਿਸ ਦਾ ਰੂਪ ਅਤੇ ਅਵਤਾਰ ਸਦਾ ਮਹਾਨ ਅਤੇ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਹੈ।"
+    },
+    {
+      "original": "नियतं",
+      "transliteration": "ਦੇਵੀ",
+      "translation": "ਜੋ ਸ਼ਕਤੀ ਅਤੇ ਧਾਰਮਿਕ ਤੱਤਾਂ ਨਾਲ ਸੰਬੰਧਿਤ ਹੈ।"
+    },
+    {
+      "original": "विरिञ्चो",
+      "transliteration": "ਸਰੋਜਾਸਨ",
+      "translation": "ਜਿਸ ਦੇ ਅੱਡੇ 'ਚ ਸਰੋਜ (ਕਮਲ) ਅਤੇ ਧਰਮ ਦੀ ਅਸਥਿਤੀ ਹੁੰਦੀ ਹੈ।"
+    },
+    {
+      "original": "वाचां",
+      "transliteration": "ਧਰ੍ਮਪਤਨੀ",
+      "translation": "ਜੋ ਧਰਮ ਨੂੰ ਅਪਣਾਉਂਦੀ ਹੈ ਅਤੇ ਸੰਸਾਰ ਵਿੱਚ ਸਹਿਯੋਗੀ ਬਣਦੀ ਹੈ।"
+    },
+    {
+      "original": "निधे",
+      "transliteration": "ਵਿਆਸਾਦਯੋऽਪਿ",
+      "translation": "ਜਿਸ ਵਿੱਚ ਪੁਰਾਣੇ ਤੇ ਪ੍ਰਾਚੀਨ ਗਿਆਨ ਦੇ ਸਾਰਥਕ ਅਧਿਐਨ ਦਾ ਪ੍ਰਯੋਗ ਹੁੰਦਾ ਹੈ।"
+    },
+    {
+      "original": "वञ्चित",
+      "transliteration": "ਵ੍ਯਪਦੇਸ਼੍ਯ",
+      "translation": "ਜੋ ਵਿਸ਼ੇਸ਼ ਅਨੁਸਾਰ ਅਤੇ ਬ੍ਰਹਮਿਕਤਾ ਨਾਲ ਪ੍ਰੇਰਿਤ ਹੈ।"
+    },
+    {
+      "original": "भाग",
+      "transliteration": "ਵਾਚਹ",
+      "translation": "ਜੋ ਭਾਸ਼ਾ ਅਤੇ ਬੋਲਣ ਦਾ ਰੂਪ ਹੈ।"
+    },
+    {
+      "original": "धेयः",
+      "transliteration": "ਸਫੁਰੰਤੀ",
+      "translation": "ਜੋ ਪ੍ਰਗਟ ਹੁੰਦੀ ਹੈ ਅਤੇ ਜਨਮ ਲੈਂਦੀ ਹੈ।"
+    },
+    {
+      "original": "दैत्यापनीतान्",
+      "transliteration": "ਸਰਵੇ",
+      "translation": "ਜਿਸ ਨਾਲ ਸਾਰੇ ਜਗਤ ਦਾ ਵਿਆਪਕਤਾ ਅਤੇ ਪਸਾਰਾ ਹੈ।"
+    },
+    {
+      "original": "दययैव",
+      "transliteration": "ਤਵ",
+      "translation": "ਜੋ ਤੇਰੇ ਦ੍ਵਾਰਾ ਅਤੇ ਰੱਬ ਦੀ ਇੱਛਾ ਨਾਲ ਹੁੰਦਾ ਹੈ।"
+    },
+    {
+      "original": "भूयोऽपि",
+      "transliteration": "ਸ਼ਕਤੀ",
+      "translation": "ਜਿਸ ਨਾਲ ਤਾਕਤ ਅਤੇ ਸ਼ਕਤੀ ਦਾ ਸੰਕੇਤ ਮਿਲਦਾ ਹੈ।"
+    },
+    {
+      "original": "अध्यापयिष्यो",
+      "transliteration": "ਲੇਸ਼ੈः",
+      "translation": "ਜੋ ਥੋੜ੍ਹੀ ਜਿਹੀ ਹੋਣੀ ਹੈ।"
+    },
+    {
+      "original": "निगमान्",
+      "transliteration": "ਮੰਢੋ'ਭਵਿਸ਼੍ਯਨ",
+      "translation": "ਜਿਹੜਾ ਅਸਲ ਵਿੱਚ ਧੀਮੀ ਰੂਪ ਵਿੱਚ ਹੋਵੇਗਾ।"
+    },
+    {
+      "original": "न",
+      "transliteration": "ਨਿਯਤੰ",
+      "translation": "ਜੋ ਨਿਰਧਾਰਿਤ ਅਤੇ ਸਥਿਰ ਹੈ।"
+    },
+    {
+      "original": "चेत्",
+      "transliteration": "ਵਿਰਿਚ੍ਛੋ",
+      "translation": "ਜੋ ਬ੍ਰਹਮਾ ਦੇ ਰੂਪ ਵਿੱਚ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਹੈ।"
+    },
+    {
+      "original": "त्वम्",
+      "transliteration": "ਵਾਚਾਂ",
+      "translation": "ਜੋ ਬੋਲਣ ਅਤੇ ਭਾਸ਼ਾ ਦੇ ਰੂਪ ਵਿੱਚ ਹੈ।"
+    },
+    {
+      "original": "वितर्क",
+      "transliteration": "ਨਿਧੇ",
+      "translation": "ਜੋ ਭੰਡਾਰ ਵਿੱਚ ਹੈ ਅਤੇ ਸੰਭਾਲਿਆ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "original": "डोलां",
+      "transliteration": "ਵੰਛਿਤ",
+      "translation": "ਜੋ ਠੱਗਿਆ ਗਿਆ ਅਤੇ ਠਗਿਆ ਜਾਵੇਗਾ।"
+    },
+    {
+      "original": "व्यवधूय",
+      "transliteration": "ਭਾਗ",
+      "translation": "ਜੋ ਕਿਸੇ ਬਾਗ ਦਾ ਹਿੱਸਾ ਹੈ।"
+    },
+    {
+      "original": "सत्वे",
+      "transliteration": "ਧੇਯਹ",
+      "translation": "ਜਿਸ ਨੂੰ ਨਿਸ਼ਾਨਾ ਬਣਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ।"
+    },
+    {
+      "original": "बृहस्पतिं",
+      "transliteration": "ਦੈਤ੍ਯਾਪਨੀਤਾਨ੍",
+      "translation": "ਜਿਨ੍ਹਾਂ ਨੂੰ ਰਾਸ਼ਟਰ ਦਵਾਰਾ ਜ਼ਬਰਦਸਤ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।"
+    },
+    {
+      "original": "वर्तयसे",
+      "transliteration": "ਦਯਯੈਵ",
+      "translation": "ਸਿਰਫ ਉਨ੍ਹਾਂ ਦੀ ਦਇਆ ਨਾਲ।"
+    },
+    {
+      "original": "यतस्त्वम्",
+      "transliteration": "ਭੂਯੋ'ਪਿ",
+      "translation": "ਫਿਰ ਵੀ ਹੋਣਾ।"
+    },
+    {
+      "original": "तेनैव",
+      "transliteration": "ਅਧ੍ਯਾਪਯਿ੍ਯੋ",
+      "translation": "ਜੋ ਆਖ਼ਰੀ ਸਿੱਖਿਆ ਦਿੱਤੀ ਜਾ ਰਹੀ ਹੈ।"
+    },
+    {
+      "original": "देव",
+      "transliteration": "ਨਿਗਮਾਨ੍",
+      "translation": "ਜੇ ਸਿੱਖਿਆ ਨਾ ਮਿਲੇ ਤਾਂ ਇੱਕ ਪਾਰਾਮਾਰਥਿਕ ਸਥਾਨ ਹੈ।"
+    },
+    {
+      "original": "त्रिदशेश्वराणाम्",
+      "transliteration": "ਨ",
+      "translation": "ਨਾ"
+    },
+    {
+      "original": "अस्पृष्ट",
+      "transliteration": "ਚੇਤ",
+      "translation": "ਜੇ"
+    },
+    {
+      "original": "डोलायित",
+      "transliteration": "ਤ੍ਵਮ",
+      "translation": "ਤੁਸੀਂ"
+    },
+    {
+      "original": "माधिराज्यम्",
+      "transliteration": "ਵਿਤਰਕ",
+      "translation": "ਜਿਥੇ ਸੰਦੇਹ ਅਤੇ ਸੋਚ ਵਿਚਾਰ ਦੇ ਰੂਪ ਹਨ।"
+    },
+    {
+      "original": "अग्नोउ",
+      "transliteration": "ਡੋਲਾਂ",
+      "translation": "ਜੋ ਹਿਲਦਾ ਅਤੇ ਘੁੰਮਦਾ ਹੈ।"
+    },
+    {
+      "original": "समिद्धार्चिषि",
+      "transliteration": "ਵ੍ਯਵਧੂਯ",
+      "translation": "ਜੋ ਰੁਕਾਵਟ ਪੈਦਾ ਕਰਦਾ ਹੈ।"
+    },
+    {
+      "original": "सप्ततन्तोः",
+      "transliteration": "ਸਤ੍ਵੇ",
+      "translation": "ਜੋ ਜਿਵੇਂ ਰੂਹ ਅਤੇ ਜੀਵਨ ਰੂਪ ਵਿੱਚ ਤਕਰੀਬਨ ਹੋਵੇਗਾ।"
+    },
+    {
+      "original": "आतस्थिवान्",
+      "transliteration": "ਬ੍ਰਹਸਪਤਿਂ",
+      "translation": "ਜੋ ਪੁਰਾਣੀ ਅਤੇ ਗੁਰੂਤਮ ਬੋਧੀ ਦਿਸ਼ਾ ਦੇ ਰੂਪ ਵਿੱਚ ਹੈ।"
+    },
+    {
+      "original": "मन्त्रमयं",
+      "transliteration": "ਵਰਤਯਸੇ",
+      "translation": "ਤੁਸੀਂ ਅਜੇ ਵੀ ਜੀਵਤ ਅਤੇ ਪੂਰਨ ਰੂਪ ਵਿੱਚ ਹਾਂ।"
+    },
+    {
+      "original": "शरीरम्",
+      "transliteration": "ਯਤਸਤ੍ਵਮ",
+      "translation": "ਜਿੱਥੇ ਤੁਸੀਂ ਹੋ ਜਾਂਦੇ ਹੋ।"
+    },
+    {
+      "original": "अखण्ड",
+      "transliteration": "ਤੇਨੈਵ",
+      "translation": "ਉਸੀ ਤੋਂ।"
+    },
+    {
+      "original": "सारैर्",
+      "transliteration": "ਦੇਵ",
+      "translation": "ਦੇਵਤਾ ਜਾਂ ਪੁਰਾਣੇ ਦਾ ਰੂਪ।"
+    },
+    {
+      "original": "हविषां",
+      "transliteration": "ਤ੍ਰਿਦਸ਼ੇਸ਼ਵਰਾਣਾਮ੍",
+      "translation": "ਜੋ ਤਿੰਨ ਦਿਵਿਆਂ ਦੀ ਭਰਪੂਰਤਾ ਹੈ।"
+    },
+    {
+      "original": "प्रदानैः",
+      "transliteration": "ਅਸ੍ਪ੍ਰੁਸ਼ਟ",
+      "translation": "ਜੋ ਸੰਬੰਧਿਤ ਅਤੇ ਸ਼ੁੱਧ ਰੂਪ ਨਾਲ ਹੋਵੇਗਾ।"
+    },
+    {
+      "original": "आप्यायनं",
+      "transliteration": "ਡੋਲਾਇਤ",
+      "translation": "ਜੋ ਘੁੰਮਦਾ ਜਾਂ ਇਨਕਲਾਬ ਕਰਦਾ ਹੈ।"
+    },
+    {
+      "original": "व्योम",
+      "transliteration": "ਮਾਧਿਰਾਜ੍ਯਮ",
+      "translation": "ਰਾਜ ਦੇ ਪ੍ਰਬੰਧ ਅਤੇ ਵਿਵਸਥਾ ਦਾ ਰੂਪ।"
+    },
+    {
+      "original": "सदां",
+      "transliteration": "ਅਗ੍ਨੌ",
+      "translation": "ਜੋ ਅਗਨੀ ਦੇ ਰੂਪ ਵਿੱਚ ਪ੍ਰਗਟ ਹੁੰਦਾ ਹੈ"
+    },
+    {
+      "original": "विधत्से",
+      "transliteration": "ਸਮਿੱਧਾਰਚਿਸ਼ੀ",
+      "translation": "ਜੋ ਸਚੇ ਅਰਚਨਿਆਂ ਨਾਲ ਆਗਨ ਨੂੰ ਪ੍ਰਗਟ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "यन्मूलमीदृक्",
+      "transliteration": "ਸਪ੍ਤਤੰਤੋਹ",
+      "translation": "ਜੋ ਸੱਤਰ ਤੰਤੁ ਨਾਲ ਜੁੜਿਆ ਹੁੰਦਾ ਹੈ"
+    },
+    {
+      "original": "प्रतिभाति",
+      "transliteration": "ਆਤਸਥਿਵਾਨ",
+      "translation": "ਜੋ ਮਨੁੱਖੀ ਕਿਰਿਆ ਦੇ ਰੂਪ ਵਿੱਚ ਪ੍ਰਗਟ ਹੁੰਦਾ ਹੈ"
+    },
+    {
+      "original": "तत्वं",
+      "transliteration": "ਮੰਤ੍ਰਮਯਂ",
+      "translation": "ਜੋ ਹਰ ਸ਼ਬਦ ਨਾਲ ਸੰਬੰਧਿਤ ਹੋਣ ਵਾਲਾ ਹੈ"
+    },
+    {
+      "original": "या",
+      "transliteration": "ਸ਼ਰੀਰਮ",
+      "translation": "ਜੋ ਸ਼ਰੀਰ ਦਾ ਰੂਪ ਹੈ"
+    },
+    {
+      "original": "मूलमाम्नाय",
+      "transliteration": "ਅਖੰਡ ਸਾਰੈਰ੍",
+      "translation": "ਜੋ ਸਾਰਥਕ ਰੂਪ ਵਿੱਚ ਦ੍ਰਿਸ਼ਟੀਕੋਣ ਦਾ ਪ੍ਰਗਟ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "महाद्रुमाणाम्",
+      "transliteration": "ਹਵਿਸ਼ਾਂ",
+      "translation": "ਜੋ ਧਿਆਨ ਦੀ ਜੱਗ੍ਹੀ ਨੂੰ ਸੇਵਾ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "तत्वेन",
+      "transliteration": "ਪ੍ਰਦਾਨੈਃ",
+      "translation": "ਜੋ ਸੇਵਾ ਅਤੇ ਸ਼ੇਅਰਿੰਗ ਦੇ ਰੂਪ ਵਿੱਚ ਹੋਣ ਵਾਲਾ ਹੈ"
+    },
+    {
+      "original": "जानन्ति",
+      "transliteration": "ਆਪ੍ਯਾਯਨਂ",
+      "translation": "ਜੋ ਦੁਨੀਆਂ ਦੀਆਂ ਜਰੂਰਤਾਂ ਦੇ ਅਨੁਸਾਰ ਜਨਮ ਲੈਂਦਾ ਹੈ"
+    },
+    {
+      "original": "विशुद्ध",
+      "transliteration": "ਵਿਓਮ",
+      "translation": "ਜੋ ਆਕਾਸ਼ ਦਾ ਰੂਪ ਹੈ"
+    },
+    {
+      "original": "सत्वाः",
+      "transliteration": "ਸਦਾ",
+      "translation": "ਜੋ ਸਦਾ ਵਰਤਦਾ ਹੈ"
+    },
+    {
+      "original": "त्वाम्",
+      "transliteration": "ਵਿਧਤਸੇ",
+      "translation": "ਜੋ ਰਚਨਾ ਅਤੇ ਰੂਪਾਂ ਨੂੰ ਠੀਕ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "अक्षराम्",
+      "transliteration": "ਯਨਮੂਲਮੀਦ੍ਰਿਕ੍",
+      "translation": "ਜਿਸ ਤਰ੍ਹਾਂ ਮੂਲ ਵਿਚ ਸਮਝਦਾ ਹੈ"
+    },
+    {
+      "original": "अक्षर",
+      "transliteration": "ਪ੍ਰਤਿਭਾਤਿ",
+      "translation": "ਜੋ ਪ੍ਰਗਟ ਹੁੰਦਾ ਹੈ"
+    },
+    {
+      "original": "मातृकां",
+      "transliteration": "ਤਤ੍ਵੰ",
+      "translation": "ਜੋ ਅਸਲੀਅਤ ਹੈ"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ਯਾ",
+      "translation": "ਜੋ"
+    },
+    {
+      "original": "अव्याकृताद्",
+      "transliteration": "ਮੂਲਮਾਮ੍ਨਾਯ",
+      "translation": "ਜਿਹੜਾ ਮੂਲ ਹੈ ਜੋ ਸੰਸਾਰ ਦੀਆਂ ਸਿੱਖਿਆਵਾਂ ਦਾ ਗਹਿਰਾ ਰੂਪ ਹੈ"
+    },
+    {
+      "original": "व्याकृत",
+      "transliteration": "ਮਹਾਦ੍ਰੁਮਾਣਾਮ੍",
+      "translation": "ਜੋ ਮਹਾਨ ਦਰੱਖਤਾਂ ਦੇ ਰੂਪ ਵਿੱਚ ਹੈ"
+    },
+    {
+      "original": "वानसि",
+      "transliteration": "ਤਤ੍ਵੈਨ",
+      "translation": "ਜਿਸ ਤੱਤ ਨਾਲ"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "ਜਾਣੰਤੀ",
+      "translation": "ਜੋ ਜਾਣਦਾ ਹੈ"
+    },
+    {
+      "original": "नामानि",
+      "transliteration": "ਵਿਸ਼ੁੱਧ",
+      "translation": "ਜੋ ਪਵਿਤ੍ਰ ਹੈ"
+    },
+    {
+      "original": "रूपाणि",
+      "transliteration": "ਸਤ੍ਵਾਃ",
+      "translation": "ਜੋ ਆਤਮਾ ਦਾ ਧਾਰਕ ਹੈ"
+    },
+    {
+      "original": "च",
+      "transliteration": "ਤਵਾਮ्",
+      "translation": "ਤੈਨੂੰ"
+    },
+    {
+      "original": "यानि",
+      "transliteration": "ਅਖ਼ਸ਼ਰਾਮ੍",
+      "translation": "ਜੋ ਅਪਰਿਵਰਤਨੀ ਹੈ"
+    },
+    {
+      "original": "पूर्वम्",
+      "transliteration": "ਅਖ਼ਸ਼ਰ",
+      "translation": "ਜਿਸਦਾ ਕੋਈ ਅੰਤ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "original": "शंसन्ति",
+      "transliteration": "ਮਾਤ੍ਰਿਕਾਂ",
+      "translation": "ਜਿਸਦਾ ਮੂਲ ਕ੍ਰਿਆ ਹੈ"
+    },
+    {
+      "original": "तेषां",
+      "transliteration": "ਤੇ",
+      "translation": "ਤੇਰਾ"
+    },
+    {
+      "original": "चरमां",
+      "transliteration": "ਅਵਿਆਕ੍ਰਿਤਾਦ੍",
+      "translation": "ਜਿਸਦਾ ਅਪਰਿਭਾਸ਼ਿਤ ਰੂਪ ਹੈ"
+    },
+    {
+      "original": "प्रतिष्टां",
+      "transliteration": "ਵਿਯਾਕ੍ਰਿਤ",
+      "translation": "ਜਿਸਦਾ ਪਰਿਭਾਸ਼ਿਤ ਰੂਪ ਹੈ"
+    },
+    {
+      "original": "वागीश्वर",
+      "transliteration": "ਵਾਨਸਿ",
+      "translation": "ਜੋ ਸਾਰਥਕ ਰੂਪ ਵਿਚ ਹੈ"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "ਤਵੰ",
+      "translation": "ਤੂੰ"
+    },
+    {
+      "original": "त्वदुपज्ञ",
+      "transliteration": "ਨਾਮਾਨਿ",
+      "translation": "ਜੋ ਨਾਮ ਹਨ"
+    },
+    {
+      "original": "वाचः",
+      "transliteration": "ਰੂਪਾਣਿ",
+      "translation": "ਜੋ ਰੂਪ ਹਨ"
+    },
+    {
+      "original": "मुग्धेन्दु",
+      "transliteration": "ਚ",
+      "translation": "ਅਤੇ"
+    },
+    {
+      "original": "निष्यन्द",
+      "transliteration": "ਯਾਨਿ",
+      "translation": "ਜੋ"
+    },
+    {
+      "original": "विलोभ",
+      "transliteration": "ਪੂਰਵਮ",
+      "translation": "ਜੋ ਪਹਿਲਾਂ ਸੀ"
+    },
+    {
+      "original": "नीयां",
+      "transliteration": "ਸ਼ੰਸੰਤੀ",
+      "translation": "ਜੋ ਸ਼ਰਮਾਂ ਅਤੇ ਸਮਰਥਨ ਕਰਦੇ ਹਨ"
+    },
+    {
+      "original": "मूर्तिं",
+      "transliteration": "ਤੇਸ਼ਾਂ",
+      "translation": "ਉਨ੍ਹਾਂ ਦੇ"
+    },
+    {
+      "original": "तवानन्द",
+      "transliteration": "ਚਰਮਾਂ",
+      "translation": "ਅੰਤਿਮ ਸਥਿਤੀ"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "ਪ੍ਰਤਿਸ਼ਟਾਂ",
+      "translation": "ਸਥਿਰਤਾ"
+    },
+    {
+      "original": "प्रसूतिम्",
+      "transliteration": "ਵਾਗੀਸ਼ਵਰ",
+      "translation": "ਵਾਕ ਦੇ ਭਗਵਾਨ"
+    },
+    {
+      "original": "विपश्चितश्चेतसि",
+      "transliteration": "ਤਵਾਂ",
+      "translation": "ਤੈਨੂੰ"
+    },
+    {
+      "original": "भावयन्ते",
+      "transliteration": "ਤਵਦੁਪਜ੍ਞਾ",
+      "translation": "ਤੇਰੇ ਸਿੱਖਿਆਕਾਰ"
+    },
+    {
+      "original": "वेला",
+      "transliteration": "ਵਾਚ੍ਹ",
+      "translation": "ਬੋਲਾਂ"
+    },
+    {
+      "original": "मुदारामिव",
+      "transliteration": "ਮੁਗਧੇੰਦੁ",
+      "translation": "ਮਨਮੋਹਕ ਚੰਦ੍ਰਮਾ"
+    },
+    {
+      "original": "दुग्ध",
+      "transliteration": "ਨਿਸ਼੍ਯੰਦਾ",
+      "translation": "ਜੋ ਚਮਕ ਰਹੀ ਹੈ"
+    },
+    {
+      "original": "सिन्धोः",
+      "transliteration": "ਵਿਲੋਭ",
+      "translation": "ਜੋ ਮੋਹ ਰਚਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "original": "मनोगतं",
+      "transliteration": "ਨੀਯਾਂ",
+      "translation": "ਜਿਸਦੇ ਨਾਲ"
+    },
+    {
+      "original": "पश्यति",
+      "transliteration": "ਮੂਰਤਿੰ",
+      "translation": "ਰੂਪ"
+    },
+    {
+      "original": "यः",
+      "transliteration": "ਤਵਾਨੰਦ",
+      "translation": "ਤੇਰੇ ਆਨੰਦ"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "ਸੁਧਾ",
+      "translation": "ਜੋ ਅਮ੍ਰਿਤ"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "ਪ੍ਰਸੂਤਿਮ੍",
+      "translation": "ਜੇਹੜੀ ਉਤਪੰਨ ਹੁੰਦੀ ਹੈ"
+    },
+    {
+      "original": "मनीषिणां",
+      "transliteration": "ਵਿਪਸ਼ਚਿਤ",
+      "translation": "ਜੋ ਗਿਆਨਵਾਨ"
+    },
+    {
+      "original": "मानस",
+      "transliteration": "ਸ਼ਚੇਤਸਿ",
+      "translation": "ਦੇ ਮਨ ਵਿੱਚ"
+    },
+    {
+      "original": "राज",
+      "transliteration": "ਭਾਵਯੰਤੇ",
+      "translation": "ਜੋ ਧਿਆਨ ਵਿੱਚ ਲੈਂਦੇ ਹਨ"
+    },
+    {
+      "original": "हंसम्",
+      "transliteration": "ਵੇਲਾ",
+      "translation": "ਜੋ ਸਮੇਂ ਦੇ ਨਾਲ"
+    },
+    {
+      "original": "स्वयं",
+      "transliteration": "ਮੁਦਾਰਾਮਿਵ",
+      "translation": "ਪ੍ਰਸੰਨਤਾ ਦੇ ਤੌਰ 'ਤੇ"
+    },
+    {
+      "original": "पुरोभाव",
+      "transliteration": "ਦੁਗਧ",
+      "translation": "ਦੁੱਧ"
+    },
+    {
+      "original": "विवादभाजः",
+      "transliteration": "ਸਿੰਧੋਃ",
+      "translation": "ਸਿੰਧੂ ਵਿਚ"
+    },
+    {
+      "original": "किंकुर्वते",
+      "transliteration": "ਮਨੋਗਤੰ",
+      "translation": "ਜਿਸਨੇ ਮਨ ਵਿੱਚ ਪਾਇਆ ਹੈ"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "ਪਸ਼੍ਯਤਿ",
+      "translation": "ਉਹ ਵੇਖਦਾ ਹੈ"
+    },
+    {
+      "original": "गिरो",
+      "transliteration": "ਯ:",
+      "translation": "ਜੋ"
+    },
+    {
+      "original": "यथार्हम्",
+      "transliteration": "ਸਦਾ",
+      "translation": "ਸਦਾ"
+    },
+    {
+      "original": "अपि",
+      "transliteration": "ਤ੍ਵਾਂ",
+      "translation": "ਤੈਨੂੰ"
+    },
+    {
+      "original": "क्षणार्धं",
+      "transliteration": "ਮਨਿਸ਼ਿਣਾਂ",
+      "translation": "ਗਿਆਨਵਾਨਾਂ ਦੀਆਂ"
+    },
+    {
+      "original": "कलयन्ति",
+      "transliteration": "ਮਾਨਸ",
+      "translation": "ਮਨ"
+    },
+    {
+      "original": "ये",
+      "transliteration": "ਰਾਜ",
+      "translation": "ਰਾਜਾ"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "ਹਂਸਮ",
+      "translation": "ਹੰਸ"
+    },
+    {
+      "original": "आप्लावयन्तं",
+      "transliteration": "ਸਵਯੰ",
+      "translation": "ਖੁਦ"
+    },
+    {
+      "original": "विशदैर्",
+      "transliteration": "ਪੁਰੋਭਾਵ",
+      "translation": "ਅਤੀਤ ਅਵਸਥਾ"
+    },
+    {
+      "original": "मयूखैः",
+      "transliteration": "ਵਿਵਾਦਭਾਜ਼",
+      "translation": "ਵਿਵਾਦ ਦੀ ਪ੍ਰਵਿਰਤੀ"
+    },
+    {
+      "original": "वाचां",
+      "transliteration": "ਕਿੰਕੁर्वਤੇ",
+      "translation": "ਕਿਵੇਂ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "प्रवाहैर्",
+      "transliteration": "ਤਸ੍ਯ",
+      "translation": "ਉਸਦਾ"
+    },
+    {
+      "original": "अनिवारितैस्ते",
+      "transliteration": "ਗਿ੍ਰੋ",
+      "translation": "ਉਚਾਰਨ"
+    },
+    {
+      "original": "मन्दाकिनीं",
+      "transliteration": "ਯਥਾਰ੍ਹਮ",
+      "translation": "ਯਥਾਰਥ"
+    },
+    {
+      "original": "मन्दयितुं",
+      "transliteration": "ਅਪਿ",
+      "translation": "ਕੀ"
+    },
+    {
+      "original": "क्षमन्ते",
+      "transliteration": "ਕ੍ਸ਼ਣਾਰਧੰ",
+      "translation": "ਅਰਧ ਸਮਯ"
+    },
+    {
+      "original": "स्वामिन्",
+      "transliteration": "ਕਲਯੰਤੀ",
+      "translation": "ਜੋ ਆਦਾਇਗੀ"
+    },
+    {
+      "original": "भवद्ध्यान",
+      "transliteration": "ਯੇ",
+      "translation": "ਜੋ"
+    },
+    {
+      "original": "सुधाभिषेकात्",
+      "transliteration": "ਤ੍ਵਾਂ",
+      "translation": "ਤੈਨੂੰ"
+    },
+    {
+      "original": "वहन्ति",
+      "transliteration": "ਆਪਲਾਵਯੰਤੰ",
+      "translation": "ਜਿਸ ਨੂੰ ਪਾਣੀ ਨਾਲ ਭਰਦੇ ਹਨ"
+    },
+    {
+      "original": "धन्याः",
+      "transliteration": "ਵਿਸ਼ਦੈਰ੍",
+      "translation": "ਸਾਫ਼ ਰੇਸ਼ਮ ਦੀਆਂ ਕਿਰਣਾਂ"
+    },
+    {
+      "original": "पुलकानुबन्धम्",
+      "transliteration": "ਮਯੂਖੈः",
+      "translation": "ਪ੍ਰਕਾਸ਼ ਦੀਆਂ ਕਿਰਣਾਂ"
+    },
+    {
+      "original": "अलक्षिते",
+      "transliteration": "ਵਾਚਾਂ",
+      "translation": "ਬੋਲੀਆਂ"
+    },
+    {
+      "original": "क्वापि",
+      "transliteration": "ਪ੍ਰਵਾਹੈਰ੍",
+      "translation": "ਧਾਰਿਆਂ"
+    },
+    {
+      "original": "निरूढ",
+      "transliteration": "ਅਨਿਵਾਰਿਤੈਸਤੈ",
+      "translation": "ਜਿਨ੍ਹਾਂ ਨੂੰ ਬਿਨਾ ਰੋਕਟੋਕ ਦੇ ਪਾਣੀ ਨੂੰ ਸਮਰੱਥਾ ਨਾਲ ਲੁਬਾਇਆ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "original": "मूलं",
+      "transliteration": "ਮੰਦਾਕੀਨੀਮ",
+      "translation": "ਮੰਦਾਕਿਨੀ (ਪਵਿੱਤਰ ਨਦੀ)"
+    },
+    {
+      "original": "अङ्गेष्विवानन्दथुम्",
+      "transliteration": "ਮੰਦੇਤੁੰ",
+      "translation": "ਜਿਨ੍ਹਾਂ ਨੂੰ ਮੂੜਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "original": "अङ्कुरन्तम्",
+      "transliteration": "ਖਮੰਤੈ",
+      "translation": "ਸਹੀ ਕਰਨ ਵਾਲੇ ਹਨ"
+    },
+    {
+      "original": "स्वामिन्",
+      "transliteration": "ਸਵਾਮਿਨ",
+      "translation": "ਪ੍ਰਭੁ"
+    },
+    {
+      "original": "प्रतीचा",
+      "transliteration": "ਭਵੱਦ੍ਧਿਆਨ",
+      "translation": "ਤੇਰੀ ਸਿਮਰਨ"
+    },
+    {
+      "original": "हृदयेन",
+      "transliteration": "ਸੁਧਾਭਿਸ਼ੇਕਾਤ्",
+      "translation": "ਸੋਹਣੀ ਜਲ ਰਿਸ਼ੀ ਅਤੇ ਪਵਿੱਤਰ ਅਰਧ"
+    },
+    {
+      "original": "धन्याः",
+      "transliteration": "ਵਹੰਤੀ",
+      "translation": "ਸਹੀਤੇ ਖੁਸ਼ੀ ਨਾਲ ਭਾਗੀਦਾਰਾਂ ਨੂੰ ਸੰਚਾਲਿਤ ਕਰਦੀਆਂ ਹਨ"
+    },
+    {
+      "original": "त्वद्ध्यान",
+      "transliteration": "ਧੰਨਯਾਃ",
+      "translation": "ਧੰਨਵਾਦੀ"
+    },
+    {
+      "original": "चन्द्रोदय",
+      "transliteration": "ਪੁਲਕਾਨੁਬੰਧਮ",
+      "translation": "ਤੀਵਰ ਭਾਵਨਾਵਾਂ ਵਿੱਚ ਲਗਾਇਆ ਜਾਣਾ"
+    },
+    {
+      "original": "वर्धमानम्",
+      "transliteration": "ਅਲਕਸ਼ਿਤੇ",
+      "translation": "ਪ੍ਰਕਾਸ਼ ਰੁਪ ਕੈਥਾ"
+    },
+    {
+      "original": "अमान्त",
+      "transliteration": "ਕ੍ਵਾਪਿ",
+      "translation": "ਕਿੱਥੇ ਵੀ"
+    },
+    {
+      "original": "मानन्द",
+      "transliteration": "ਨਿਰੂਢ",
+      "translation": "ਕਿਵੇਂ ਸੁਧਾਰੀ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "original": "पयोधिमन्तः",
+      "transliteration": "ਮੂਲੰ",
+      "translation": "ਬਿਨਾਂ ਰੂਟ"
+    },
+    {
+      "original": "पयोभिरक्ष्णां",
+      "transliteration": "ਅੰਗੇਸ਼ਵਿਵਾਨੰਦਥੁੰ",
+      "translation": "ਇਹ ਦੁੱਖ ਅਤੇ ਖ਼ੁਸ਼ੀ ਦੀ ਖੁਸ਼ੀ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "original": "परिवाहयन्ति",
+      "transliteration": "ਅੰਕੁਰੰਤਮ",
+      "translation": "ਕਿਰਣਾਂ ਦਾ ਇੱਕ ਰੁਹਾਨੀ ਬਿਨਾਂ ਹਰ ਇਕ ਵਿਚਾਰਾਂ ਵਿੱਚ ਤੱਤ ਪ੍ਰਧਾਨਗੀ ਹੋਵੇਗਾ।"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸਵਾਮਿਨ",
+      "translation": "ਪ੍ਰਭੁ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪ੍ਰਤੀਚਾ",
+      "translation": "ਦਿਸ਼ਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹṛਦਯੇਨ",
+      "translation": "ਮਨ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਧੰਨਯਾਃ",
+      "translation": "ਧੰਨਵਾਦੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਤਵੱਧਿਆਨ",
+      "translation": "ਤੇਰੀ ਸਿਮਰਨ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਚੰਦਰੋਦਯ",
+      "translation": "ਚੰਨ੍ਹ ਦੀ ਉਭੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਵਰਧਮਾਨੰ",
+      "translation": "ਵਧਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਅਮਾਂਤ",
+      "translation": "ਨੀਵਾਂ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਾਨੰਨਦ",
+      "translation": "ਖੁਸ਼ੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਯੋਧਿਮੰਨਤ",
+      "translation": "ਉਹ ਖੁਸ਼ਹਾਲ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਯੋਭਿਰਕਸ਼੍ਣਾਂ",
+      "translation": "ਪਾਣੀ ਦੁਆਰਾ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਪਰਿਵਾਹਯੰਤੀ",
+      "translation": "ਅਰਥ ਤੇ ਪ੍ਰੇਮ ਦੀ ਸਮੱਗਰੀ ਰਾਹੀਂ ਲੰਘਦੇ ਹਨ"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\punjabi\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_haygriv_stotra\\punjabi\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.926Z"
+  }
+}

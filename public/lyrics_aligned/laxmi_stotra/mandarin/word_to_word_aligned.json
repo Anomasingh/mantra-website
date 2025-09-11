@@ -1,0 +1,1594 @@
+{
+  "mantra": "laxmi_stotra",
+  "language": "mandarin",
+  "type": "word_to_word",
+  "totalWords": 316,
+  "alignedWords": [
+    {
+      "original": "जय",
+      "transliteration": "诶",
+      "translation": "胜利"
+    },
+    {
+      "original": "पद्मपलाशाक्षि",
+      "transliteration": "莲花瞳",
+      "translation": "莲花眼睛"
+    },
+    {
+      "original": "जय",
+      "transliteration": "诶",
+      "translation": "胜利"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "你",
+      "translation": "你"
+    },
+    {
+      "original": "श्रीपतिप्रिये",
+      "transliteration": "神主爱的",
+      "translation": "神主之爱"
+    },
+    {
+      "original": "जय",
+      "transliteration": "诶",
+      "translation": "胜利"
+    },
+    {
+      "original": "मातर्",
+      "transliteration": "母亲",
+      "translation": "母亲"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "大拉克什米",
+      "translation": "大福神"
+    },
+    {
+      "original": "संसारार्णवतारिणि",
+      "transliteration": "世间之海",
+      "translation": "解救苦海"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "大拉克什米",
+      "translation": "大福神"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "सुरेश्वरि",
+      "transliteration": "神王的女神",
+      "translation": "神王的女神"
+    },
+    {
+      "original": "हरिप्रिये",
+      "transliteration": "哈里之爱",
+      "translation": "哈里之爱"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "दयानिधे",
+      "transliteration": "慈悲之源",
+      "translation": "慈悲的宝藏"
+    },
+    {
+      "original": "पद्मालये",
+      "transliteration": "莲花之府",
+      "translation": "莲花之家"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "च",
+      "transliteration": "和",
+      "translation": "和"
+    },
+    {
+      "original": "सर्वदे",
+      "transliteration": "万物之主",
+      "translation": "万物之主"
+    },
+    {
+      "original": "सर्वभूतहितार्थाय",
+      "transliteration": "所有生物福祉",
+      "translation": "为了所有生物的利益"
+    },
+    {
+      "original": "वसुवृष्टिं",
+      "transliteration": "丰富降临",
+      "translation": "丰富降临"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "永远",
+      "translation": "永远"
+    },
+    {
+      "original": "कुरु",
+      "transliteration": "使",
+      "translation": "做"
+    },
+    {
+      "original": "जगन्मातर्द",
+      "transliteration": "世界的母亲",
+      "translation": "世界的母亲"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "दयानिधे",
+      "transliteration": "慈悲之源",
+      "translation": "慈悲的宝藏"
+    },
+    {
+      "original": "दयावति",
+      "transliteration": "慈悲的",
+      "translation": "慈悲的"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "विश्वेश्वरि",
+      "transliteration": "宇宙之神",
+      "translation": "宇宙女神"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "ते",
+      "transliteration": "你",
+      "translation": "你"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "祈祷",
+      "translation": "祈祷"
+    },
+    {
+      "original": "क्षीरार्णवसुते",
+      "transliteration": "奶海之女",
+      "translation": "奶海女神"
+    },
+    {
+      "original": "नमस्त्रैलोक्यधारिणि",
+      "transliteration": "三界支撑者",
+      "translation": "支撑三界的女神"
+    },
+    {
+      "original": "वसुवृष्टे",
+      "transliteration": "丰富降临",
+      "translation": "丰富降临"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "रक्ष",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "मां",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "शरणागतं",
+      "transliteration": "求助之人",
+      "translation": "寻求保护者"
+    },
+    {
+      "original": "रक्ष",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "你",
+      "translation": "你"
+    },
+    {
+      "original": "देवदेवेशि",
+      "transliteration": "神王的女神",
+      "translation": "神王的女神"
+    },
+    {
+      "original": "देवदेवस्य",
+      "transliteration": "神王之爱",
+      "translation": "神王的爱"
+    },
+    {
+      "original": "वल्लभे",
+      "transliteration": "喜爱者",
+      "translation": "爱人的"
+    },
+    {
+      "original": "दरिद्रात्त्राहि",
+      "transliteration": "贫困之人救助",
+      "translation": "救助贫困的人"
+    },
+    {
+      "original": "मां",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "लक्ष्मि",
+      "transliteration": "拉克什米",
+      "translation": "拉克什米"
+    },
+    {
+      "original": "कृपां",
+      "transliteration": "恩慈",
+      "translation": "恩典"
+    },
+    {
+      "original": "कुरु",
+      "transliteration": "做",
+      "translation": "做"
+    },
+    {
+      "original": "ममोपरि",
+      "transliteration": "我的上面",
+      "translation": "在我之上"
+    },
+    {
+      "original": "नमस्त्रैलोक्यजननि",
+      "transliteration": "三界之母",
+      "translation": "三界之母"
+    },
+    {
+      "original": "नमस्त्रैलोक्यपावनि",
+      "transliteration": "三界清净者",
+      "translation": "三界的净化者"
+    },
+    {
+      "original": "ब्रह्मादयो",
+      "transliteration": "梵天及诸神",
+      "translation": "梵天和其他神明"
+    },
+    {
+      "original": "नमस्ते",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "你",
+      "translation": "你"
+    },
+    {
+      "original": "जगदानन्ददायिनि",
+      "transliteration": "世界欢乐之源",
+      "translation": "世界幸福的赋予者"
+    },
+    {
+      "original": "विष्णुप्रिये",
+      "transliteration": "毗湿奴之爱",
+      "translation": "毗湿奴的心爱"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "जगद्धिते",
+      "transliteration": "世界的幸福",
+      "translation": "世界的幸福"
+    },
+    {
+      "original": "आर्तहन्त्रि",
+      "transliteration": "痛苦的解救者",
+      "translation": "解救痛苦者"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "समृद्धिं",
+      "transliteration": "繁荣",
+      "translation": "繁荣"
+    },
+    {
+      "original": "कुरु",
+      "transliteration": "做",
+      "translation": "做"
+    },
+    {
+      "original": "मे",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "永远",
+      "translation": "永远"
+    },
+    {
+      "original": "अब्जवासे",
+      "transliteration": "莲花住处",
+      "translation": "莲花之宫"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "चपलायै",
+      "transliteration": "不安的",
+      "translation": "不安定的"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "祈祷",
+      "translation": "祈祷"
+    },
+    {
+      "original": "चंचलायै",
+      "transliteration": "祈祷",
+      "translation": "祈祷"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "动摇的",
+      "translation": "不稳定的"
+    },
+    {
+      "original": "ललितायै",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "优美的",
+      "translation": "美丽的"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "祈祷",
+      "translation": "祈祷"
+    },
+    {
+      "original": "प्रद्युम्नजननि",
+      "transliteration": "祈祷",
+      "translation": "祈祷"
+    },
+    {
+      "original": "मातुस्तुभ्यं",
+      "transliteration": "祈祷",
+      "translation": "祈祷"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "普拉朱姆娜之母",
+      "translation": "普拉朱姆娜的母亲"
+    },
+    {
+      "original": "परिपालय",
+      "transliteration": "向你母亲致敬",
+      "translation": "向你的母亲致敬"
+    },
+    {
+      "original": "भो",
+      "transliteration": "祈祷",
+      "translation": "祈祷"
+    },
+    {
+      "original": "मातर्मां",
+      "transliteration": "祈祷",
+      "translation": "祈祷"
+    },
+    {
+      "original": "तुभ्यं",
+      "transliteration": "保护",
+      "translation": "保持"
+    },
+    {
+      "original": "शरणागतं",
+      "transliteration": "哦",
+      "translation": "哦"
+    },
+    {
+      "original": "शरण्ये",
+      "transliteration": "母亲",
+      "translation": "母亲"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "प्रपन्नोऽस्मि",
+      "transliteration": "你",
+      "translation": "你"
+    },
+    {
+      "original": "कमले",
+      "transliteration": "求助者",
+      "translation": "寻求庇护者"
+    },
+    {
+      "original": "कमलालये",
+      "transliteration": "避难者",
+      "translation": "避难者"
+    },
+    {
+      "original": "त्राहि त्राहि",
+      "transliteration": "你",
+      "translation": "你"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "我依赖",
+      "translation": "我投降"
+    },
+    {
+      "original": "परित्राणपरायणे",
+      "transliteration": "莲花",
+      "translation": "莲花"
+    },
+    {
+      "original": "पाण्डित्यं",
+      "transliteration": "莲花的住处",
+      "translation": "莲花之府"
+    },
+    {
+      "original": "शोभते",
+      "transliteration": "救助",
+      "translation": "救助"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "救助",
+      "translation": "救助"
+    },
+    {
+      "original": "न",
+      "transliteration": "大拉克什米",
+      "translation": "大福神"
+    },
+    {
+      "original": "शोभन्ति",
+      "transliteration": "拯救的源头",
+      "translation": "救援之神"
+    },
+    {
+      "original": "गुणा",
+      "transliteration": "学识",
+      "translation": "学识"
+    },
+    {
+      "original": "नरे",
+      "transliteration": "光辉",
+      "translation": "光彩"
+    },
+    {
+      "original": "शीलत्वं",
+      "transliteration": "不",
+      "translation": "不"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "不",
+      "translation": "不"
+    },
+    {
+      "original": "शोभेत",
+      "transliteration": "光辉",
+      "translation": "光彩"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "品德",
+      "translation": "品德"
+    },
+    {
+      "original": "त्वया",
+      "transliteration": "人",
+      "translation": "人"
+    },
+    {
+      "original": "विना",
+      "transliteration": "品德",
+      "translation": "品行"
+    },
+    {
+      "original": "तावद्विराजते",
+      "transliteration": "不",
+      "translation": "不"
+    },
+    {
+      "original": "रूपं",
+      "transliteration": "显现",
+      "translation": "显现"
+    },
+    {
+      "original": "तावच्छीलं",
+      "transliteration": "大拉克什米",
+      "translation": "大福神"
+    },
+    {
+      "original": "विराजते",
+      "transliteration": "你",
+      "translation": "你"
+    },
+    {
+      "original": "तावद्गुणा",
+      "transliteration": "没有",
+      "translation": "没有"
+    },
+    {
+      "original": "नराणां",
+      "transliteration": "至此显现",
+      "translation": "直到此时"
+    },
+    {
+      "original": "च",
+      "transliteration": "形象",
+      "translation": "形象"
+    },
+    {
+      "original": "यावल्लक्ष्मीः",
+      "transliteration": "直到品德",
+      "translation": "直到品德"
+    },
+    {
+      "original": "प्रसीदति",
+      "transliteration": "显现",
+      "translation": "显现"
+    },
+    {
+      "original": "लक्ष्मित्वयालंकृतमानवा",
+      "transliteration": "至此美德",
+      "translation": "直到这些美德"
+    },
+    {
+      "original": "ये",
+      "transliteration": "人类",
+      "translation": "人类"
+    },
+    {
+      "original": "पापैर्विमुक्ता",
+      "transliteration": "和",
+      "translation": "和"
+    },
+    {
+      "original": "नृपलोकमान्याः",
+      "transliteration": "拉克什米的恩惠",
+      "translation": "拉克什米的恩典"
+    },
+    {
+      "original": "गुणैर्विहीना",
+      "transliteration": "喜悦",
+      "translation": "赐福"
+    },
+    {
+      "original": "गुणिनो",
+      "transliteration": "拉克什米装饰的男子",
+      "translation": "由拉克什米装饰的男人"
+    },
+    {
+      "original": "भवन्ति",
+      "transliteration": "他们",
+      "translation": "他们"
+    },
+    {
+      "original": "दुशीलिनः",
+      "transliteration": "由罪解脱",
+      "translation": "从罪恶中解脱"
+    },
+    {
+      "original": "शीलवतां",
+      "transliteration": "国王尊重",
+      "translation": "国家尊重"
+    },
+    {
+      "original": "वरिष्ठाः",
+      "transliteration": "无美德的",
+      "translation": "没有美德的"
+    },
+    {
+      "original": "लक्ष्मीर्भूषयते",
+      "transliteration": "具有美德的",
+      "translation": "有美德的"
+    },
+    {
+      "original": "रूपं",
+      "transliteration": "成为",
+      "translation": "成为"
+    },
+    {
+      "original": "लक्ष्मीर्भूषयते",
+      "transliteration": "不道德者",
+      "translation": "恶行之人"
+    },
+    {
+      "original": "कुलं",
+      "transliteration": "道德的人",
+      "translation": "有品德的人"
+    },
+    {
+      "original": "लक्ष्मीर्भूषयते",
+      "transliteration": "最优秀",
+      "translation": "最卓越"
+    },
+    {
+      "original": "विद्यां",
+      "transliteration": "拉克什米装饰",
+      "translation": "拉克什米装饰"
+    },
+    {
+      "original": "सर्वाल्लक्ष्मीर्विशिष्यते",
+      "transliteration": "形象",
+      "translation": "形象"
+    },
+    {
+      "original": "लक्ष्मी",
+      "transliteration": "拉克什米装饰",
+      "translation": "拉克什米装饰"
+    },
+    {
+      "original": "त्वद्गुणकीर्तनेन",
+      "transliteration": "家族",
+      "translation": "家族"
+    },
+    {
+      "original": "कमलाभूर्यात्यलं",
+      "transliteration": "拉克什米装饰",
+      "translation": "拉克什米装饰"
+    },
+    {
+      "original": "जिह्मतां",
+      "transliteration": "知识",
+      "translation": "知识"
+    },
+    {
+      "original": "रुद्राद्या",
+      "transliteration": "万物中最尊贵的拉克什米",
+      "translation": "所有事物中最尊贵的拉克什米"
+    },
+    {
+      "original": "रविचन्द्रदेवपतयो",
+      "transliteration": "拉克什米",
+      "translation": "拉克什米"
+    },
+    {
+      "original": "वक्तुं",
+      "transliteration": "通过你的美德和荣耀",
+      "translation": "通过你的美德与荣耀"
+    },
+    {
+      "original": "च",
+      "transliteration": "莲花的光辉",
+      "translation": "莲花的光辉"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "蛊惑人心",
+      "translation": "迷惑"
+    },
+    {
+      "original": "क्षमाः",
+      "transliteration": "由鲁德拉等神",
+      "translation": "由鲁德拉及其他神灵"
+    },
+    {
+      "original": "अस्माभिस्तव",
+      "transliteration": "太阳与月亮之神的配偶",
+      "translation": "太阳与月亮神的妻子"
+    },
+    {
+      "original": "रूपलक्षणगुणान्वक्तुं",
+      "transliteration": "说",
+      "translation": "说"
+    },
+    {
+      "original": "कथं",
+      "transliteration": "和",
+      "translation": "和"
+    },
+    {
+      "original": "शक्यते",
+      "transliteration": "不",
+      "translation": "不"
+    },
+    {
+      "original": "मातर्मां",
+      "transliteration": "能够",
+      "translation": "能够"
+    },
+    {
+      "original": "परिपाहि",
+      "transliteration": "我们",
+      "translation": "我们"
+    },
+    {
+      "original": "विश्वजननि",
+      "transliteration": "赞美美丽的特点",
+      "translation": "赞美美德"
+    },
+    {
+      "original": "कृत्वा",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "ममेष्टं",
+      "transliteration": "拉克什米",
+      "translation": "拉克什米"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "迅速",
+      "translation": "迅速"
+    },
+    {
+      "original": "दीनार्तिभीतं",
+      "transliteration": "提供财富的主宰",
+      "translation": "财富的给养者"
+    },
+    {
+      "original": "भवतापपीडितं",
+      "transliteration": "做",
+      "translation": "做"
+    },
+    {
+      "original": "धनैर्विहीनं",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "तव पार्श्वमागतं",
+      "transliteration": "看见",
+      "translation": "看见"
+    },
+    {
+      "original": "कृपानिधित्वान्मम",
+      "transliteration": "母亲",
+      "translation": "母亲"
+    },
+    {
+      "original": "लक्ष्मी सत्वरं धनप्रदानाद्धन्नायकं कुरु",
+      "transliteration": "亲爱的哈里",
+      "translation": "亲爱的哈里"
+    },
+    {
+      "original": "मां विलोक्य",
+      "transliteration": "贫穷的",
+      "translation": "贫穷的"
+    },
+    {
+      "original": "जननि हरिप्रिये",
+      "transliteration": "到你这里来的",
+      "translation": "到你身边来"
+    },
+    {
+      "original": "निर्धनं",
+      "transliteration": "给",
+      "translation": "给"
+    },
+    {
+      "original": "त्वत्समीपमागतं",
+      "transliteration": "我的",
+      "translation": "我的"
+    },
+    {
+      "original": "देहि मे झटिति लक्ष्मी",
+      "transliteration": "迅速",
+      "translation": "迅速"
+    },
+    {
+      "original": "कराग्रं वस्त्रकांचनवरान्नमद्भुतं",
+      "transliteration": "拉克什米",
+      "translation": "拉克什米"
+    },
+    {
+      "original": "त्वमेव जननी लक्ष्मी",
+      "transliteration": "手指尖",
+      "translation": "手指尖"
+    },
+    {
+      "original": "पिता लक्ष्मी त्वमेव च",
+      "transliteration": "衣物和金饰",
+      "translation": "衣服与黄金饰品"
+    },
+    {
+      "original": "त्राहि त्राहि महालक्ष्मी",
+      "transliteration": "你独自",
+      "translation": "你独自"
+    },
+    {
+      "original": "त्राहि त्राहि सुरेश्वरि",
+      "transliteration": "母亲",
+      "translation": "母亲"
+    },
+    {
+      "original": "त्राहि त्राहि जगन्मातरं",
+      "transliteration": "拉克什米",
+      "translation": "拉克什米"
+    },
+    {
+      "original": "दरिद्रात्त्राहि",
+      "transliteration": "父亲",
+      "translation": "父亲"
+    },
+    {
+      "original": "वेगतः",
+      "transliteration": "拉克什米",
+      "translation": "拉克什米"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "你独自",
+      "translation": "你独自"
+    },
+    {
+      "original": "जगद्धात्रि",
+      "transliteration": "和",
+      "translation": "和"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "救助",
+      "translation": "救助"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "救助",
+      "translation": "救助"
+    },
+    {
+      "original": "धर्माधारे",
+      "transliteration": "大拉克什米",
+      "translation": "大福神"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "救助",
+      "translation": "救助"
+    },
+    {
+      "original": "नमः सम्पत्तिदायिनी",
+      "transliteration": "救助",
+      "translation": "救助"
+    },
+    {
+      "original": "दरिद्रार्णवमग्नोऽहं",
+      "transliteration": "神王之母",
+      "translation": "神王的女神"
+    },
+    {
+      "original": "निमग्नोऽहं",
+      "transliteration": "救助",
+      "translation": "救助"
+    },
+    {
+      "original": "रसातले",
+      "transliteration": "救助",
+      "translation": "救助"
+    },
+    {
+      "original": "मज्जन्तं",
+      "transliteration": "世界的母亲",
+      "translation": "世界的母亲"
+    },
+    {
+      "original": "मां करे धृत्वा",
+      "transliteration": "贫困中的救助",
+      "translation": "在贫困中救助"
+    },
+    {
+      "original": "सूद्धर",
+      "transliteration": "救助",
+      "translation": "救助"
+    },
+    {
+      "original": "त्वं रमे द्रुतं",
+      "transliteration": "快速",
+      "translation": "迅速"
+    },
+    {
+      "original": "किं लक्ष्मी",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "बहुनोक्तेन",
+      "transliteration": "世界的养育者",
+      "translation": "世界的供养者"
+    },
+    {
+      "original": "जल्पितेन",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "पुनः पुनः",
+      "transliteration": "叩拜",
+      "translation": "叩拜"
+    },
+    {
+      "original": "अन्यन्मे शरणं नास्ति",
+      "transliteration": "叩拜",
+      "translation": "叩拜"
+    },
+    {
+      "original": "सत्यं सत्यं हरिप्रिये",
+      "transliteration": "正义的支撑者",
+      "translation": "正义的基石"
+    },
+    {
+      "original": "एतच्श्रुत्वा",
+      "transliteration": "向你致敬",
+      "translation": "向你致敬"
+    },
+    {
+      "original": "अगस्तिवाक्यं",
+      "transliteration": "叩拜",
+      "translation": "叩拜"
+    },
+    {
+      "original": "हृष्यमाण",
+      "transliteration": "财富的赐予者",
+      "translation": "财富的施予者"
+    },
+    {
+      "original": "हरिप्रिये",
+      "transliteration": "我被贫困的海洋淹没",
+      "translation": "我沉浸在贫困的海洋中"
+    },
+    {
+      "original": "उवाच",
+      "transliteration": "我沉没",
+      "translation": "我陷入"
+    },
+    {
+      "original": "मधुरां",
+      "transliteration": "地狱",
+      "translation": "地狱"
+    },
+    {
+      "original": "वाणीं",
+      "transliteration": "处于困境中的",
+      "translation": "在困境中"
+    },
+    {
+      "original": "तुष्टाहं",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "तव",
+      "transliteration": "手中",
+      "translation": "手中"
+    },
+    {
+      "original": "सर्वदा",
+      "transliteration": "承担",
+      "translation": "承担"
+    },
+    {
+      "original": "लक्ष्मीर्वाच",
+      "transliteration": "清洁者",
+      "translation": "清洁者"
+    },
+    {
+      "original": "यत्त्वयोक्तमिदं स्तोत्रं",
+      "transliteration": "你",
+      "translation": "你"
+    },
+    {
+      "original": "यः",
+      "transliteration": "快速救助",
+      "translation": "快速救援"
+    },
+    {
+      "original": "पठिष्यति",
+      "transliteration": "什么",
+      "translation": "什么"
+    },
+    {
+      "original": "मानवः",
+      "transliteration": "拉克什米",
+      "translation": "拉克什米"
+    },
+    {
+      "original": "शृणोति",
+      "transliteration": "用多种方式说",
+      "translation": "多次讲述"
+    },
+    {
+      "original": "च",
+      "transliteration": "讲述",
+      "translation": "讲述"
+    },
+    {
+      "original": "महाभागस्तस्याहं वशवर्तिनी",
+      "transliteration": "再次",
+      "translation": "再次"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "再次",
+      "translation": "再次"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "除此之外",
+      "translation": "除此之外"
+    },
+    {
+      "original": "महापुण्यं",
+      "transliteration": "庇护",
+      "translation": "庇护"
+    },
+    {
+      "original": "लक्ष्म्यगस्तिप्रकीर्तितं",
+      "transliteration": "没有",
+      "translation": "没有"
+    },
+    {
+      "original": "विष्णुप्रसादजननं",
+      "transliteration": "真理",
+      "translation": "真理"
+    },
+    {
+      "original": "चतुर्वर्गफलप्रदं",
+      "transliteration": "真理",
+      "translation": "真理"
+    },
+    {
+      "original": "राजद्वारे",
+      "transliteration": "亲爱的哈里",
+      "translation": "亲爱的哈里"
+    },
+    {
+      "original": "जयश्चैव",
+      "transliteration": "听到这些话后",
+      "translation": "听到这些话"
+    },
+    {
+      "original": "शत्रोश्चैव",
+      "transliteration": "阿尔卡斯提的说法",
+      "translation": "阿尔卡斯提的词句"
+    },
+    {
+      "original": "पराजयः",
+      "transliteration": "高兴的",
+      "translation": "高兴的"
+    },
+    {
+      "original": "भूतप्रेतपिशाचानां",
+      "transliteration": "亲爱的哈里",
+      "translation": "亲爱的哈里"
+    },
+    {
+      "original": "व्याघ्राणां",
+      "transliteration": "说",
+      "translation": "说"
+    },
+    {
+      "original": "न",
+      "transliteration": "甜美的",
+      "translation": "甜美的"
+    },
+    {
+      "original": "भयं",
+      "transliteration": "声音",
+      "translation": "话语"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "我很满足",
+      "translation": "我很高兴"
+    },
+    {
+      "original": "न",
+      "transliteration": "你的",
+      "translation": "你的"
+    },
+    {
+      "original": "शस्त्रानलतोयौघाद्भयं",
+      "transliteration": "永远",
+      "translation": "永远"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "你说过的",
+      "translation": "你说过的"
+    },
+    {
+      "original": "प्रजायते",
+      "transliteration": "颂歌",
+      "translation": "颂歌"
+    },
+    {
+      "original": "दुर्वृत्तानां",
+      "transliteration": "谁",
+      "translation": "谁"
+    },
+    {
+      "original": "च",
+      "transliteration": "诵读",
+      "translation": "诵读"
+    },
+    {
+      "original": "पापानां",
+      "transliteration": "人类",
+      "translation": "人类"
+    },
+    {
+      "original": "बहुहानिकरं",
+      "transliteration": "听",
+      "translation": "听"
+    },
+    {
+      "original": "परं",
+      "transliteration": "和",
+      "translation": "和"
+    },
+    {
+      "original": "मन्दुराकरिशालासु",
+      "transliteration": "伟大的幸运者",
+      "translation": "伟大的幸运者"
+    },
+    {
+      "original": "गवां",
+      "transliteration": "他",
+      "translation": "他"
+    },
+    {
+      "original": "गोष्ठे",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "समाहितः",
+      "transliteration": "受命的",
+      "translation": "受命的"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "每日",
+      "translation": "每天"
+    },
+    {
+      "original": "तद्दोषशान्त्यर्थं",
+      "transliteration": "诵读",
+      "translation": "诵读"
+    },
+    {
+      "original": "महापातकनाशनं",
+      "transliteration": "谁",
+      "translation": "谁"
+    },
+    {
+      "original": "सर्वसौख्यकरं",
+      "transliteration": "忠诚地",
+      "translation": "忠诚地"
+    },
+    {
+      "original": "नृणाम",
+      "transliteration": "你是财富的",
+      "translation": "你是财富的"
+    },
+    {
+      "original": "आयुरारोग्यदं",
+      "transliteration": "他",
+      "translation": "他"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "消失",
+      "translation": "消失"
+    },
+    {
+      "original": "अगस्रिआमुनिना प्रोक्तं",
+      "transliteration": "战斗",
+      "translation": "战斗"
+    },
+    {
+      "original": "प्रजानां",
+      "transliteration": "和",
+      "translation": "和"
+    },
+    {
+      "original": "हितकाम्यया",
+      "transliteration": "消失",
+      "translation": "消失"
+    },
+    {
+      "original": "इत्यगस्तिविरचितं",
+      "transliteration": "激烈的",
+      "translation": "激烈的"
+    },
+    {
+      "original": "लक्ष्मीस्तोत्रं",
+      "transliteration": "分离",
+      "translation": "分离"
+    },
+    {
+      "original": "सम्पूर्णं",
+      "transliteration": "也不",
+      "translation": "也不"
+    },
+    {
+      "original": "---",
+      "transliteration": "看到",
+      "translation": "看到"
+    },
+    {
+      "original": "---",
+      "transliteration": "谁",
+      "translation": "谁"
+    },
+    {
+      "original": "---",
+      "transliteration": "诵读",
+      "translation": "诵读"
+    },
+    {
+      "original": "---",
+      "transliteration": "早上起来",
+      "translation": "早晨起床"
+    },
+    {
+      "original": "---",
+      "transliteration": "信念",
+      "translation": "信仰"
+    },
+    {
+      "original": "---",
+      "transliteration": "伴随虔诚的",
+      "translation": "与虔诚一起的"
+    },
+    {
+      "original": "---",
+      "transliteration": "在家里",
+      "translation": "在家"
+    },
+    {
+      "original": "---",
+      "transliteration": "他",
+      "translation": "他"
+    },
+    {
+      "original": "---",
+      "transliteration": "永远",
+      "translation": "永远"
+    },
+    {
+      "original": "---",
+      "transliteration": "将待",
+      "translation": "将会"
+    },
+    {
+      "original": "---",
+      "transliteration": "每日",
+      "translation": "每天"
+    },
+    {
+      "original": "---",
+      "transliteration": "与财富主",
+      "translation": "与财富的主人"
+    },
+    {
+      "original": "---",
+      "transliteration": "一起",
+      "translation": "一起"
+    },
+    {
+      "original": "---",
+      "transliteration": "快乐和幸运的充盈",
+      "translation": "充满幸福和幸运"
+    },
+    {
+      "original": "---",
+      "transliteration": "有精神的",
+      "translation": "心灵丰富的"
+    },
+    {
+      "original": "---",
+      "transliteration": "聪明的",
+      "translation": "智慧的"
+    },
+    {
+      "original": "---",
+      "transliteration": "将成为",
+      "translation": "将会成为"
+    },
+    {
+      "original": "---",
+      "transliteration": "有儿子的",
+      "translation": "有孩子的"
+    },
+    {
+      "original": "---",
+      "transliteration": "有美德的",
+      "translation": "有品德的"
+    },
+    {
+      "original": "---",
+      "transliteration": "最优的",
+      "translation": "最优秀的"
+    },
+    {
+      "original": "---",
+      "transliteration": "享乐者",
+      "translation": "享受人生的"
+    },
+    {
+      "original": "---",
+      "transliteration": "和",
+      "translation": "和"
+    },
+    {
+      "original": "---",
+      "transliteration": "人类",
+      "translation": "人类"
+    },
+    {
+      "original": "---",
+      "transliteration": "这",
+      "translation": "这"
+    },
+    {
+      "original": "---",
+      "transliteration": "颂歌",
+      "translation": "颂歌"
+    },
+    {
+      "original": "---",
+      "transliteration": "伟大的功德",
+      "translation": "伟大的功德"
+    },
+    {
+      "original": "---",
+      "transliteration": "由拉克什米所颂扬的",
+      "translation": "由拉克什米所表扬的"
+    },
+    {
+      "original": "---",
+      "transliteration": "由毗湿奴的恩典所产生的",
+      "translation": "由毗湿奴的恩典创造的"
+    },
+    {
+      "original": "---",
+      "transliteration": "四种果实的给予者",
+      "translation": "四种果实的赋予者"
+    },
+    {
+      "original": "---",
+      "transliteration": "王宫的门口",
+      "translation": "王宫门口"
+    },
+    {
+      "original": "---",
+      "transliteration": "胜利与",
+      "translation": "胜利与"
+    },
+    {
+      "original": "---",
+      "transliteration": "以及敌人的",
+      "translation": "以及敌人"
+    },
+    {
+      "original": "---",
+      "transliteration": "失败",
+      "translation": "失败"
+    },
+    {
+      "original": "---",
+      "transliteration": "鬼怪的",
+      "translation": "鬼怪的"
+    },
+    {
+      "original": "---",
+      "transliteration": "老虎",
+      "translation": "老虎"
+    },
+    {
+      "original": "---",
+      "transliteration": "不",
+      "translation": "不"
+    },
+    {
+      "original": "---",
+      "transliteration": "恐惧",
+      "translation": "恐惧"
+    },
+    {
+      "original": "---",
+      "transliteration": "这样",
+      "translation": "如此"
+    },
+    {
+      "original": "---",
+      "transliteration": "不",
+      "translation": "不"
+    },
+    {
+      "original": "---",
+      "transliteration": "武器、火焰、洪水的恐惧",
+      "translation": "武器、火和水的恐惧"
+    },
+    {
+      "original": "---",
+      "transliteration": "他",
+      "translation": "他"
+    },
+    {
+      "original": "---",
+      "transliteration": "不会产生",
+      "translation": "不会发生"
+    },
+    {
+      "original": "---",
+      "transliteration": "邪恶的行为",
+      "translation": "恶行的"
+    },
+    {
+      "original": "---",
+      "transliteration": "和",
+      "translation": "和"
+    },
+    {
+      "original": "---",
+      "transliteration": "罪行",
+      "translation": "罪行"
+    },
+    {
+      "original": "---",
+      "transliteration": "很大的灾难",
+      "translation": "非常大的危害"
+    },
+    {
+      "original": "---",
+      "transliteration": "极大的",
+      "translation": "极端的"
+    },
+    {
+      "original": "---",
+      "transliteration": "在农田和牛场中",
+      "translation": "在贫瘠的农田和牛群中"
+    },
+    {
+      "original": "---",
+      "transliteration": "牛",
+      "translation": "牛"
+    },
+    {
+      "original": "---",
+      "transliteration": "牛棚",
+      "translation": "牛棚"
+    },
+    {
+      "original": "---",
+      "transliteration": "聚集的",
+      "translation": "集中的"
+    },
+    {
+      "original": "---",
+      "transliteration": "诵读以消除罪行的目的",
+      "translation": "诵读以平息这些罪行"
+    },
+    {
+      "original": "---",
+      "transliteration": "极大罪行的毁灭",
+      "translation": "极大罪行的消除"
+    },
+    {
+      "original": "---",
+      "transliteration": "给予所有幸福的",
+      "translation": "使一切幸福的"
+    },
+    {
+      "original": "---",
+      "transliteration": "给人类",
+      "translation": "对人类"
+    },
+    {
+      "original": "---",
+      "transliteration": "生命和健康的",
+      "translation": "生命和健康的给予者"
+    },
+    {
+      "original": "---",
+      "transliteration": "同样",
+      "translation": "同样"
+    },
+    {
+      "original": "---",
+      "transliteration": "由阿卡斯提的导师所说",
+      "translation": "由阿卡斯提的导师所说"
+    },
+    {
+      "original": "---",
+      "transliteration": "宣布的",
+      "translation": "宣布的"
+    },
+    {
+      "original": "---",
+      "transliteration": "众生的",
+      "translation": "为众生的"
+    },
+    {
+      "original": "---",
+      "transliteration": "为幸福的愿望",
+      "translation": "以幸福为目标"
+    },
+    {
+      "original": "---",
+      "transliteration": "这由阿卡斯提所创作的",
+      "translation": "这是由阿卡斯提所创作的"
+    },
+    {
+      "original": "---",
+      "transliteration": "拉克什米的颂歌",
+      "translation": "拉克什米的颂歌"
+    },
+    {
+      "original": "---",
+      "transliteration": "完成的",
+      "translation": "完整的"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\laxmi_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\laxmi_stotra\\mandarin\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\laxmi_stotra\\mandarin\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.856Z"
+  }
+}

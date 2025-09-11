@@ -1,0 +1,809 @@
+{
+  "mantra": "astha_laxmi_stotram",
+  "language": "_malayalam",
+  "type": "word_to_word",
+  "totalWords": 159,
+  "alignedWords": [
+    {
+      "original": "आदिलक्ष्मी",
+      "transliteration": "ആദിലക്ഷ്മി",
+      "translation": "ആദി - ആദ്യത്തെ, లక్ష്മി - ധന-സമ്പത്തിൻ്റെ ദേവി."
+    },
+    {
+      "original": "सुमनस",
+      "transliteration": "സുമനസവന്ദിത",
+      "translation": "പൂവുകൾ കൊണ്ട് ശ്രേഷ്ടമായ, ബഹുമാനപ്പെട്ട."
+    },
+    {
+      "original": "मुनिगणमण्डित",
+      "transliteration": "സുന്ദരി",
+      "translation": "മനോഹരമായ, സുന്ദരമായ."
+    },
+    {
+      "original": "पंकजवासिनी",
+      "transliteration": "മാധവി",
+      "translation": "മധുരമായ, പൂവ് പോലുള്ള."
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ചന്ദ്ര",
+      "translation": "ചന്ദ്രൻ, പ്രത്യക്ഷമായ തെളിയിക്കൽ."
+    },
+    {
+      "original": "धान्यलक्ष्मी",
+      "transliteration": "സഹോദരി",
+      "translation": "സഹോദരി, സഹോദരന്‍റെ സഹോദരി."
+    },
+    {
+      "original": "अहिकलि",
+      "transliteration": "ഹെമമയേ",
+      "translation": "സ്വർണ്ണത്തിന്റെ നിറമുള്ള, തമോഗുണമുള്ള."
+    },
+    {
+      "original": "क्षीरसमुद्भव",
+      "transliteration": "മുനിഗണമണ്ഡിത",
+      "translation": "മുനിസമൂഹത്തിന്റെ അനുഗ്രഹത്തോടെ."
+    },
+    {
+      "original": "मंगलदायिनी",
+      "transliteration": "മോക്ഷപ്രദായിനി",
+      "translation": "മോക്ഷം നൽകുന്ന, ദൈവീകമായ."
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "മഞ്ജുളഭാഷിണി",
+      "translation": "പ്രിയം പ്രചരിപ്പിക്കുന്നവളെ."
+    },
+    {
+      "original": "धैर्यलक्ष्मी",
+      "transliteration": "वेदनुते",
+      "translation": "വേദങ്ങൾക്ക് ആരാധന നൽകുന്നവളെ."
+    },
+    {
+      "original": "जयवरवर्णिनि",
+      "transliteration": "പങ്കജവാസിനി",
+      "translation": "പിങ്കലിൽ വാസിക്കുന്നവളെ."
+    },
+    {
+      "original": "सुरगणपूजित",
+      "transliteration": "ദേവസുപൂജിത",
+      "translation": "ദേവന്മാർ പ്രതിഷ്ഠിച്ച, ആരാധിച്ച."
+    },
+    {
+      "original": "भवभयहारिणि",
+      "transliteration": "സദ്ഗുണവർഷിണി",
+      "translation": "നല്ല ഗുണങ്ങൾ പെയ്യുന്നവളെ."
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "ശാന്തിയുതേ",
+      "translation": "സമാധാനവും ശാന്തിയും അനുഭവപ്പെടുന്നവളെ."
+    },
+    {
+      "original": "गजलक्ष्मी",
+      "transliteration": "ജയജയ ഹേ മധുസൂദന",
+      "translation": "ജയപ്രാപ്തി ഒരുക്കുന്ന ദൈവം."
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "കാമിനി",
+      "translation": "വിശാലമായ കാമവശയുള്ളവളെ."
+    },
+    {
+      "original": "रथगज",
+      "transliteration": "ആദിലക്ഷ്മി",
+      "translation": "ആദി- ആദ്യത്തെ, ലക്ഷ്മി - ധനദൈവം."
+    },
+    {
+      "original": "हरिहर",
+      "transliteration": "സദാ",
+      "translation": "എപ്പോഴും."
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "പാലയ",
+      "translation": "സംരക്ഷിക്കുക."
+    },
+    {
+      "original": "सन्तानलक्ष्मी",
+      "transliteration": "മാം",
+      "translation": "എനിക്ക്."
+    },
+    {
+      "original": "अहिखग",
+      "transliteration": "ധാന്യലക്ഷ്മി",
+      "translation": "ധാന്യ - ധാന്യമായ ധനസമ്പത്തിൻ്റെ ദേവി."
+    },
+    {
+      "original": "गुणगणवारिधि",
+      "transliteration": "അഹികളി",
+      "translation": "ദുഷ്കൃത്യങ്ങൾ നശിപ്പിക്കുന്നവളെ."
+    },
+    {
+      "original": "सकल",
+      "transliteration": "കല്മഷനാശിനി",
+      "translation": "മലിനതകൾ നശിപ്പിക്കുന്നവളെ."
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "കാമിനി",
+      "translation": "വിശാലമായ കാമവശയുള്ളവളെ."
+    },
+    {
+      "original": "विजयलक्ष्मी",
+      "transliteration": "വൈദികരൂപിണി",
+      "translation": "വെദസിദ്ധമായ രൂപത്തിലുള്ളവളെ."
+    },
+    {
+      "original": "जय",
+      "transliteration": "വെദമയേ",
+      "translation": "വെദപ്രധാനമായ."
+    },
+    {
+      "original": "अनुदिनमर्चित",
+      "transliteration": "ക്ഷീരസമുദ്ഭവ",
+      "translation": "പാൽഉറപ്പിൽ നിന്നുള്ളവളെ."
+    },
+    {
+      "original": "कनकधरास्तुति",
+      "transliteration": "മംഗലരൂപിണി",
+      "translation": "മംഗലമായ രൂപത്തിലുള്ളവളെ."
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "മന്ത്രനിവാസിനി",
+      "translation": "മന്ത്രത്തിലെ ഉള്ളവളെ."
+    },
+    {
+      "original": "विद्यालक्ष्मी",
+      "transliteration": "മന്ത്രനുതേ",
+      "translation": "മന്ത്രങ്ങൾക്ക് അനുഗ്രഹം നൽകുന്നവളെ."
+    },
+    {
+      "original": "प्रणत",
+      "transliteration": "മംഗലദായിനി",
+      "translation": "മംഗലദാനമായവളെ."
+    },
+    {
+      "original": "मणिमयभूषित",
+      "transliteration": "അമ്പുജവാസിനി",
+      "translation": "പച്ചക്കിരണമുള്ള, അലങ്കാരവശമായവളെ."
+    },
+    {
+      "original": "नवनिधिदायिनि",
+      "transliteration": "ദേവഗണാശ്രിത",
+      "translation": "ദേവന്മാരുടെ പാദപത്രി."
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "പാദയുതേ",
+      "translation": "പാദവാഹിനിയായവളെ."
+    },
+    {
+      "original": "धनलक्ष्मी",
+      "transliteration": "ജയജയ ഹേ മധുസൂദന",
+      "translation": "വിജയത്തിലേക്ക് മാർഗം തിരിയുന്ന ദൈവം."
+    },
+    {
+      "original": "धिमिधिमि",
+      "transliteration": "കാമിനി",
+      "translation": "വിശാലമായ കാമവശയുള്ളവളെ."
+    },
+    {
+      "original": "घुमघुम",
+      "transliteration": "ധാന്യലക്ഷ്മി",
+      "translation": "ധാന്യ - ധാന്യമായ ധനസമ്പത്തിൻ്റെ ദേവി."
+    },
+    {
+      "original": "वेदपुराणेतिहास",
+      "transliteration": "സദാ",
+      "translation": "എപ്പോഴും."
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "പാലയ",
+      "translation": "സംരക്ഷിക്കുക."
+    },
+    {
+      "original": "---",
+      "transliteration": "മാം",
+      "translation": "എനിക്ക്."
+    },
+    {
+      "original": "---",
+      "transliteration": "ധൈര്യലക്ഷ്മി",
+      "translation": "ധൈര്യം നൽകുന്ന ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയവരവരണിനി",
+      "translation": "വിജയം നിറവേറ്റുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "വൈഷ്ണവി",
+      "translation": "വൈഷ്ണവമായ ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഭാര്ഗവി",
+      "translation": "ഭാര്ഗവിമാർ പ്രതിഷ്ഠിച്ചവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "മന്ത്രസ്വരൂപിണി",
+      "translation": "മന്ത്രത്തിന്റെ രൂപത്തിലുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "മന്ത്രമയേ",
+      "translation": "മന്ത്രപൂർണ്ണമായ."
+    },
+    {
+      "original": "---",
+      "transliteration": "സുരഗണപൂജിത",
+      "translation": "ദേവസംഘത്തിന്റെ ആരാധിത."
+    },
+    {
+      "original": "---",
+      "transliteration": "ശീഘ്രഫലപ്രദ",
+      "translation": "ദ്രുതഫലങ്ങൾ നൽകുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജ്ഞാനവികാസിനി",
+      "translation": "വിജ്ഞാനവളർച്ച നൽകുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ശാസ്ത്രനുതേ",
+      "translation": "ശാസ്ത്രങ്ങളുടെ അനുഗ്രഹം നൽകുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഭവഭയഹാരിണി",
+      "translation": "ഭാരതഭയങ്ങൾ നീക്കുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "പാപവിശോധിനി",
+      "translation": "പാപങ്ങളെ നീക്കുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "സാധുജനാശ്രിത",
+      "translation": "സദാചാരികളായവരുടെ അനുഗ്രഹിത."
+    },
+    {
+      "original": "---",
+      "transliteration": "പാദയുതേ",
+      "translation": "പാദവാഹിനിയായവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയജയ ഹേ മധുസൂദന",
+      "translation": "വിജയത്തിനു പ്രാപ്തി നൽകുന്ന ദൈവം."
+    },
+    {
+      "original": "---",
+      "transliteration": "കാമിനി",
+      "translation": "വിശാലമായ കാമവശയുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ധൈര്യലക്ഷ്മി",
+      "translation": "ധൈര്യം നൽകുന്ന ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "സദാ",
+      "translation": "എപ്പോഴും."
+    },
+    {
+      "original": "---",
+      "transliteration": "പാലയ",
+      "translation": "സംരക്ഷിക്കുക."
+    },
+    {
+      "original": "---",
+      "transliteration": "മാം",
+      "translation": "എനിക്ക്."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഗജലക്ഷ്മി",
+      "translation": "ആനയുടെ ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയജയ ദുർഗതി നാശിനി",
+      "translation": "ദുർഗതി നശിപ്പിക്കുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "കാമിനി",
+      "translation": "വിശാലമായ കാമവശയുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "സർവഫലപ്രദ",
+      "translation": "എല്ലാ ഫലങ്ങളും നൽകുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ശാസ്ത്രമയേ",
+      "translation": "ശാസ്ത്രത്തിന്റെ പൂരം."
+    },
+    {
+      "original": "---",
+      "transliteration": "രഥഗജ തുരഗപദാദി",
+      "translation": "പാരമ്പര്യ ഗണനകളിൽ, ഗജയുടെയും, ഔദ്യോഗിക പടവുകളുടെയും അനുഭവം."
+    },
+    {
+      "original": "---",
+      "transliteration": "സമാവൃത്",
+      "translation": "ചുറ്റപ്പെട്ടത്, ഉൾക്കൊള്ളുന്ന."
+    },
+    {
+      "original": "---",
+      "transliteration": "പരിജനമണ്ഡിത",
+      "translation": "കുടുംബവും അനുഗ്രഹീതമായി."
+    },
+    {
+      "original": "---",
+      "transliteration": "ലോകനുതേ",
+      "translation": "ലോകം ആദരിച്ച."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഹരിഹര ബ്രഹ്മ",
+      "translation": "വിഷ്ണു-ശിവ-ബ്രഹ്മാ."
+    },
+    {
+      "original": "---",
+      "transliteration": "സൂപൂജിത",
+      "translation": "അനുഗ്രഹിതമായി पूजा ചെയ്യപ്പെട്ട."
+    },
+    {
+      "original": "---",
+      "transliteration": "സേവിത",
+      "translation": "സേവനത്തോടെ പ്രമാണിത."
+    },
+    {
+      "original": "---",
+      "transliteration": "താപനിവാരിണി",
+      "translation": "താപം നീക്കുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "പാദയുതേ",
+      "translation": "പാദവാഹിനിയായവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയജയ ഹേ മധുസൂദന",
+      "translation": "വിജയത്തിലേക്ക് മാർഗം തിരിയുന്ന ദൈവം."
+    },
+    {
+      "original": "---",
+      "transliteration": "കാമിനി",
+      "translation": "വിശാലമായ കാമവശയുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഗജലക്ഷ്മി",
+      "translation": "ആനയുടെ ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "രൂപേണ",
+      "translation": "രൂപം കൊണ്ട്."
+    },
+    {
+      "original": "---",
+      "transliteration": "പാലയ",
+      "translation": "സംരക്ഷിക്കുക."
+    },
+    {
+      "original": "---",
+      "transliteration": "മാം",
+      "translation": "എനിക്ക്."
+    },
+    {
+      "original": "---",
+      "transliteration": "സന്റാനലക്ഷ്മി",
+      "translation": "സപ്തമേഹഗതി നൽകി, സന്താനം നൽകുന്ന ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "അഹിഖഗ വാഹിനി",
+      "translation": "പാമ്പ് വഹിക്കുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "മോഹിനി ചക്രിണി",
+      "translation": "മന്ത്രവശം ചെയ്യുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "രാഗവിവർധിനി",
+      "translation": "രാഗം വർധിപ്പിക്കുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജ്ഞാനമയേ",
+      "translation": "വിജ്ഞാനപ്രാപ്തി നൽകുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഗുണഗണവാരിധി",
+      "translation": "സദ്ഗുണങ്ങളെ പരിപോഷിപ്പിക്കുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ലോകഹിതൈഷിണി",
+      "translation": "ലോകമെമ്പാടും കല്ലായിരിക്കും ദോഷങ്ങൾ."
+    },
+    {
+      "original": "---",
+      "transliteration": "സ്വരസപ്ത",
+      "translation": "തപസ്വി സഭാ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഭൂഷിത",
+      "translation": "അലങ്കാരപൂർവ്വമായ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഗാനനുതേ",
+      "translation": "ഗാനം ചെയ്തവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ആകാശവിശ്വം",
+      "translation": "പ്രപഞ്ചത്തിന്റെ ദേവ."
+    },
+    {
+      "original": "---",
+      "transliteration": "മാനവവന്ദിത",
+      "translation": "മനുഷ്യർ ആരാധിക്കുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "പാദയുതേ",
+      "translation": "പാദവാഹിനിയായവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയജയ ഹേ മധുസൂദന",
+      "translation": "ജയപ്രദായക ദൈവം."
+    },
+    {
+      "original": "---",
+      "transliteration": "കാമിനി",
+      "translation": "വിശാലമായ കാമവശയുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "സന്റാനലക്ഷ്മി",
+      "translation": "സന്താനദാനവുമാണ്."
+    },
+    {
+      "original": "---",
+      "transliteration": "ത്വം",
+      "translation": "നീ."
+    },
+    {
+      "original": "---",
+      "transliteration": "പാലയ",
+      "translation": "സംരക്ഷിക്കുക."
+    },
+    {
+      "original": "---",
+      "transliteration": "മാം",
+      "translation": "എനിക്ക്."
+    },
+    {
+      "original": "---",
+      "transliteration": "വിജയലക്ഷ്മി",
+      "translation": "വിജയത്തിനുള്ള ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയ കമലാസനി",
+      "translation": "വിജയത്തിനുള്ള കമലാസനി."
+    },
+    {
+      "original": "---",
+      "transliteration": "സദ്ഗതിദായിനി",
+      "translation": "സദ്ഗതിയുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജ്ഞാനവികാസിനി",
+      "translation": "വിജ്ഞാനത്തിന്റെ വർദ്ധനവുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഗാനമയേ",
+      "translation": "ഗാനത്തിന്റെ പൂരം."
+    },
+    {
+      "original": "---",
+      "transliteration": "അനുദിനമർച്ചിത",
+      "translation": "ദിവസേന ആരാധിച്ചവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "കുങ്കുമധൂസർ-ഭൂഷിത",
+      "translation": "കുങ്കുമ ചന്ദനം ഭരിച്ചവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "വാസിത",
+      "translation": "ദുർബലമായവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "വാദ്യനുതേ",
+      "translation": "സംഗീതത്തിന്റെ അനുകൂലനല്ല."
+    },
+    {
+      "original": "---",
+      "transliteration": "കനകധാരാസ്തുതി",
+      "translation": "സ്വർണ്ണവായുധം കൈവശമുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "വൈഭവ വന്ദിത",
+      "translation": "വൈभവമുളളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ശങ്കർ ദേശിക മാന്യ പദേ",
+      "translation": "ശങ്കരദേഷികനായ പദവീഥി."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയജയ ഹേ മധുസൂദന",
+      "translation": "വിജയപ്രദായക ദൈവം."
+    },
+    {
+      "original": "---",
+      "transliteration": "കാമിനി",
+      "translation": "വിശാലമായ കാമവശയുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "വിജയലക്ഷ്മി",
+      "translation": "വിജയത്തിനുള്ള ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "സദാ",
+      "translation": "എപ്പോഴും."
+    },
+    {
+      "original": "---",
+      "transliteration": "പാലയ",
+      "translation": "സംരക്ഷിക്കുക."
+    },
+    {
+      "original": "---",
+      "transliteration": "മാം",
+      "translation": "എനിക്ക്."
+    },
+    {
+      "original": "---",
+      "transliteration": "വിദ്യാലക്ഷ്മി",
+      "translation": "വിജ്ഞാനത്തിന്റെ ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "പ്രണത സുരേശ്വരി",
+      "translation": "പ്രണതമാകുന്ന ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഭാരതി ഭാര്ഗവി",
+      "translation": "ഭഗവതി ഭാർഗവിയുമായ ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "ശോകവിനാശിനി",
+      "translation": "ദു:ഖമൊക്കെ ഒഴിവാക്കുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "രത്നമയേ",
+      "translation": "രത്നങ്ങളുടെ പൂരം."
+    },
+    {
+      "original": "---",
+      "transliteration": "മണിമയഭൂഷിത",
+      "translation": "മണിചിത്രിതവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "കർണ്ണവിഭൂഷണ",
+      "translation": "കर्णനേകിയവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ശാന്തിസമാവൃത",
+      "translation": "ശാന്തമായ നിറച്ചവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഹാസ്യമുഖേ",
+      "translation": "ഹാസ്യചിഹ്നമുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "നവനിധിദായിനി",
+      "translation": "നാവിൻറെ കാശവള."
+    },
+    {
+      "original": "---",
+      "transliteration": "കലിമലഹാരിണി",
+      "translation": "കാലത്തിന്റെ ദു:ഖങ്ങളേ തടയുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "കാമിത ഫലപ്രദ",
+      "translation": "ആഗ്രഹത്തിനുള്ള ഫലങ്ങളെ നൽകുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഹസ്തയുതേ",
+      "translation": "കൈക്കൊണ്ടുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയജയ ഹേ മധുസൂദന",
+      "translation": "വിജയപ്രദായക ദൈവം."
+    },
+    {
+      "original": "---",
+      "transliteration": "കാമിനി",
+      "translation": "വിശാലമായ കാമവശയുള്ളവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "വിദ്യാലക്ഷ്മി",
+      "translation": "വിജ്ഞാനത്തിന്റെ ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "സദാ",
+      "translation": "എപ്പോഴും."
+    },
+    {
+      "original": "---",
+      "transliteration": "പാലയ",
+      "translation": "സംരക്ഷിക്കുക."
+    },
+    {
+      "original": "---",
+      "transliteration": "മാം",
+      "translation": "എനിക്ക്."
+    },
+    {
+      "original": "---",
+      "transliteration": "ധനലക്ഷ്മി",
+      "translation": "സമ്പത്തിന്റെ ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "ധിമിധിമി",
+      "translation": "താളച്ചില് മറച്ചവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ധിന്ദിമി",
+      "translation": "ഉപദ്രവങ്ങളെ ഉടച്ചു വിടുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ദുംദുഭി",
+      "translation": "ശബ്ദത്തെ പരിപൂരിപ്പിക്കുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "നാദ",
+      "translation": "ശബ്ദം."
+    },
+    {
+      "original": "---",
+      "transliteration": "Supremaiye",
+      "translation": "സമ്പൂർണ്ണമായവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഘുഘുഘുഘ",
+      "translation": "പല്ലി തലശ്ശിൻറിയാകുന്നവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഘുഘുഘുഘ",
+      "translation": "ശബ്ദത്തിന്റെ അവസ്ഥ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ശങ്കനിനാദ",
+      "translation": "ശബ്ദത്തിന്റെ പുരാതന സ്വരം."
+    },
+    {
+      "original": "---",
+      "transliteration": "സുവാദ്യനുതേ",
+      "translation": "ശബ്ദപദ്ധതിയുടെ സംരക്ഷണമായവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "വെദപുർണ്ണീതി",
+      "translation": "പ്രാചീനവേദങ്ങളാൽ അനുകൂലന."
+    },
+    {
+      "original": "---",
+      "transliteration": "Supūjita",
+      "translation": "ആരാധിക്കപ്പെട്ടവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "വൈദികമാർഗ",
+      "translation": "ശാസ്ത്രത്തിന്റെ വഴി."
+    },
+    {
+      "original": "---",
+      "transliteration": "പ്രദർശയുയ്ഥേ",
+      "translation": "വെളിപ്പെടുത്തിയവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയജയ",
+      "translation": "വിജയത്തിന്റെ പ്രചോദനമായവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ഹേ",
+      "translation": "ഹേ."
+    },
+    {
+      "original": "---",
+      "transliteration": "മധുസൂദന",
+      "translation": "മധുസൂദന ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "കാമിനി",
+      "translation": "കാമവശമായവളെ."
+    },
+    {
+      "original": "---",
+      "transliteration": "ധനലക്ഷ്മി",
+      "translation": "സമ്പത്തിന്റെ ദേവി."
+    },
+    {
+      "original": "---",
+      "transliteration": "രൂപേണ",
+      "translation": "രൂപത്തിൽ."
+    },
+    {
+      "original": "---",
+      "transliteration": "പാലയ",
+      "translation": "സംരക്ഷിക്കുക."
+    },
+    {
+      "original": "---",
+      "transliteration": "മാം",
+      "translation": "എനിക്ക്."
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\_malayalam\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\_malayalam\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.366Z"
+  }
+}

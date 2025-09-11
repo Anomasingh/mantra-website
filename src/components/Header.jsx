@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { FiSearch, FiMenu, FiX } from "react-icons/fi";
+import { Link } from "react-router-dom";
 import clsx from "clsx";
 
 const Header = () => {
@@ -46,7 +47,10 @@ const Header = () => {
           </button>
         </div>
         <div className="mt-6 space-y-6 text-2xl font-semibold">
-          {["Mantra", "Stotra", "Aarti", "Chalisa", "Gods", "Goddesses"].map(
+          <Link to="/mantras" className="block cursor-pointer hover:opacity-90" onClick={() => setMenuOpen(false)}>
+            All Mantras
+          </Link>
+          {["Stotra", "Aarti", "Chalisa", "Gods", "Goddesses"].map(
             (item) => (
               <div key={item} className="cursor-pointer hover:opacity-90">
                 {item}

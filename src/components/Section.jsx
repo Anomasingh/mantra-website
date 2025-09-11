@@ -21,7 +21,12 @@ const Section = ({ title, items, circle = false, artistDisable = false, topConte
             alt={item.title}
             className={`w-30 h-30 sm:w-30 sm:h-30 md:w-38 md:h-38 object-cover ${circle ? "rounded-full" : "rounded-lg"}`}
           />
-          <p className="mt-2 text-sm">{item.title}</p>
+          <p className="mt-2 text-sm">
+            {item.title
+              .split(' ')
+              .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+              .join(' ')}
+          </p>
           <p className={`text-xs text-gray-400 ${artistDisable ? "hidden" : "block"}`}>{item.artist}</p>
         </div>
       ))}

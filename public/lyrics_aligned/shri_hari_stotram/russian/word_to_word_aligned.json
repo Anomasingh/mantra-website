@@ -1,0 +1,374 @@
+{
+  "mantra": "shri_hari_stotram",
+  "language": "russian",
+  "type": "word_to_word",
+  "totalWords": 72,
+  "alignedWords": [
+    {
+      "original": "जगत का रक्षक है",
+      "transliteration": "Мир хранитель",
+      "translation": "Хранитель мира"
+    },
+    {
+      "original": "गले में माला धारण करने वाला",
+      "transliteration": "Ношение ожерелья",
+      "translation": "Носитель ожерелья"
+    },
+    {
+      "original": "शरद पूर्णिमा के चंद्रमा के समान",
+      "transliteration": "Как осенняя луна",
+      "translation": "Как полная луна осеннего периода"
+    },
+    {
+      "original": "महादैत्यों का काल",
+      "transliteration": "Враг демонов",
+      "translation": "Уничтожитель демонов"
+    },
+    {
+      "original": "आकाशवत नीले शरीर वाला",
+      "transliteration": "Как небо синее",
+      "translation": "Обладающий синим телом"
+    },
+    {
+      "original": "दुर्निवार माया वाला",
+      "transliteration": "Непреодолимая иллюзия",
+      "translation": "Тот, кого трудно победить"
+    },
+    {
+      "original": "लक्ष्मी के सहायक",
+      "transliteration": "Помощник Лакшми",
+      "translation": "Помощник Лакшми"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Я поклоняюсь",
+      "translation": "Я поклоняюсь"
+    },
+    {
+      "original": "समुद्र में निवास करने वाला",
+      "transliteration": "Живущий в океане",
+      "translation": "Тот, кто живет в океане"
+    },
+    {
+      "original": "पुष्पों की हंसी बिखेरने वाला",
+      "transliteration": "Сеющий улыбку цветов",
+      "translation": "Тот, кто распространяет улыбку цветов"
+    },
+    {
+      "original": "जगत का निवास स्थान",
+      "transliteration": "Место жительства мира",
+      "translation": "Местожительство мира"
+    },
+    {
+      "original": "सौ सूर्यों के समान प्रकाशमान",
+      "transliteration": "Яркий, как сто солнц",
+      "translation": "Светящийся, как сто солнц"
+    },
+    {
+      "original": "गदा और चक्र धारण करने वाला",
+      "transliteration": "Держащий булаву и диск",
+      "translation": "Носитель булавы и диска"
+    },
+    {
+      "original": "पीताम्बर धारण करने वाला",
+      "transliteration": "Носитель желтых одежд",
+      "translation": "Носитель желтой одежды"
+    },
+    {
+      "original": "सुंदर मुस्कुराते मुख वाला",
+      "transliteration": "С красивой улыбающейся лицом",
+      "translation": "Тот, кто имеет красивую улыбающуюся лицу"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Я поклоняюсь",
+      "translation": "Я поклоняюсь"
+    },
+    {
+      "original": "लक्ष्मी के गले का हार",
+      "transliteration": "Ожерелье Лакшми на шее",
+      "translation": "Ожерелье Лакшми"
+    },
+    {
+      "original": "वेदों का सार",
+      "transliteration": "Суть Вед",
+      "translation": "Суть Вед"
+    },
+    {
+      "original": "जल में विहार करने वाला",
+      "transliteration": "Тот, кто живет в воде",
+      "translation": "Тот, кто живет в воде"
+    },
+    {
+      "original": "धरती का भार हरने वाला",
+      "transliteration": "Тот, кто носит тяжесть земли",
+      "translation": "Тот, кто несет бремя земли"
+    },
+    {
+      "original": "चिदानंद स्वरूप",
+      "transliteration": "Образ Чидананды",
+      "translation": "Существо Чидананды"
+    },
+    {
+      "original": "मनोहर स्वरूप",
+      "transliteration": "Привлекательная форма",
+      "translation": "Привлекательная форма"
+    },
+    {
+      "original": "अनेक रूप धारण करने वाला",
+      "transliteration": "Тот, кто принимает многие формы",
+      "translation": "Тот, кто принимает много форм"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Я поклоняюсь",
+      "translation": "Я поклоняюсь"
+    },
+    {
+      "original": "जन्म और मृत्यु से रहित",
+      "transliteration": "Свободен от рождения и смерти",
+      "translation": "Свободен от рождения и смерти"
+    },
+    {
+      "original": "परमानंद से परिपूर्ण",
+      "transliteration": "Наполненный высшим блаженством",
+      "translation": "Полный высшего счастья"
+    },
+    {
+      "original": "समाधि में लीन",
+      "transliteration": "Погруженный в самадхи",
+      "translation": "Погруженный в медитацию"
+    },
+    {
+      "original": "सदैव नवीन",
+      "transliteration": "Всегда новый и свежий",
+      "translation": "Всегда новый, всегда свежий"
+    },
+    {
+      "original": "जगत की उत्पत्ति का कारण",
+      "transliteration": "Причина рождения мира",
+      "translation": "Причина возникновения мира"
+    },
+    {
+      "original": "देवताओं की सेना का ध्वज",
+      "transliteration": "Флаг божественной армии",
+      "translation": "Флаг армии богов"
+    },
+    {
+      "original": "तीनों लोकों का एकमात्र सेतु",
+      "transliteration": "Единственный мост трех миров",
+      "translation": "Единственный мост между тремя мирами"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Я поклоняюсь",
+      "translation": "Я поклоняюсь"
+    },
+    {
+      "original": "वेदों का गान करने वाला",
+      "transliteration": "Певец Вед",
+      "translation": "Певец Вед"
+    },
+    {
+      "original": "गरुड़ पर शयन करने वाला",
+      "transliteration": "Тот, кто спит на Гаруде",
+      "translation": "Тот, кто спит на Гаруде"
+    },
+    {
+      "original": "मुक्ति का कारण",
+      "transliteration": "Причина освобождения",
+      "translation": "Причина освобождения"
+    },
+    {
+      "original": "शत्रुओं का मान मर्दन करने वाला",
+      "transliteration": "Тот, кто разрушает гордость врагов",
+      "translation": "Тот, кто разрушает гордость врагов"
+    },
+    {
+      "original": "भक्तों के अनुकूल",
+      "transliteration": "Тот, кто благоприятен для своих преданных",
+      "translation": "Тот, кто благоприятен для своих преданных"
+    },
+    {
+      "original": "संसार रूपी वृक्ष का मूल",
+      "transliteration": "Корни мирового дерева",
+      "translation": "Корни дерева мира"
+    },
+    {
+      "original": "दुःखों को नष्ट करने वाला",
+      "transliteration": "Разрушитель страха и боли",
+      "translation": "Тот, кто уничтожает страдания и боль"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Я поклоняюсь",
+      "translation": "Я поклоняюсь"
+    },
+    {
+      "original": "समस्त देवों के स्वामी",
+      "transliteration": "Господь всех богов",
+      "translation": "Господь всех богов"
+    },
+    {
+      "original": "सुंदर केशों वाला",
+      "transliteration": "Тот, у кого красивые волосы",
+      "translation": "Тот, у кого красивые волосы"
+    },
+    {
+      "original": "जगत की छाया के स्वामी",
+      "transliteration": "Господь тени мира",
+      "translation": "Господь тени мира"
+    },
+    {
+      "original": "हृदयाकाश में निवास करने वाला",
+      "transliteration": "Тот, кто живет в небесном пространстве сердца",
+      "translation": "Тот, кто живет в небесном пространстве сердца"
+    },
+    {
+      "original": "सदा दिव्य शरीर वाला",
+      "transliteration": "Тот, кто всегда имеет божественное тело",
+      "translation": "Тот, кто всегда имеет божественное тело"
+    },
+    {
+      "original": "समस्त इच्छाओं से मुक्त",
+      "transliteration": "Освобожден от всех желаний",
+      "translation": "Освобожден от всех желаний"
+    },
+    {
+      "original": "वैकुंठ के निवासी",
+      "transliteration": "Тот, кто живет в Вайкунтхе",
+      "translation": "Тот, кто живет в Вайкунтхе"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Я поклоняюсь",
+      "translation": "Я поклоняюсь"
+    },
+    {
+      "original": "देवताओं में सबसे बलवान",
+      "transliteration": "Самый сильный среди богов",
+      "translation": "Самый сильный среди богов"
+    },
+    {
+      "original": "तीनों लोकों में श्रेष्ठ",
+      "transliteration": "Самый высший среди трех миров",
+      "translation": "Самый высший среди трех миров"
+    },
+    {
+      "original": "गुरुओं में श्रेष्ठ",
+      "transliteration": "Лучший среди учителей",
+      "translation": "Лучший среди учителей"
+    },
+    {
+      "original": "अपने स्वरूप में स्थित",
+      "transliteration": "Тот, кто пребывает в своем собственном облике",
+      "translation": "Тот, кто пребывает в своем собственном облике"
+    },
+    {
+      "original": "युद्ध में सदा धीर",
+      "transliteration": "Тот, кто всегда храбр в битвах",
+      "translation": "Тот, кто всегда храбр в битвах"
+    },
+    {
+      "original": "महावीरों में वीर",
+      "transliteration": "Самый храбрый среди героев",
+      "translation": "Самый храбрый среди героев"
+    },
+    {
+      "original": "महासागर के तट के समान",
+      "transliteration": "Такой же серьезный, как океан",
+      "translation": "Такой же серьезный, как океан"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Я поклоняюсь",
+      "translation": "Я поклоняюсь"
+    },
+    {
+      "original": "लक्ष्मी को बाईं ओर रखने वाला",
+      "transliteration": "Лакшми, находящаяся с левой стороны",
+      "translation": "Лакшми, находящаяся с левой стороны"
+    },
+    {
+      "original": "शेषनाग पर शयन करने वाला",
+      "transliteration": "Спящий на Шеше",
+      "translation": "Спящий на Шеше"
+    },
+    {
+      "original": "यज्ञों को अधीन करने वाला",
+      "transliteration": "Тот, кто управляет яджнами",
+      "translation": "Тот, кто управляет яджнами"
+    },
+    {
+      "original": "राग-द्वेष से रहित",
+      "transliteration": "Свободен от любви и ненависти",
+      "translation": "Свободен от любви и ненависти"
+    },
+    {
+      "original": "मुनियों द्वारा गाया जाने वाला",
+      "transliteration": "Слушает великих мудрецов",
+      "translation": "Поет в хвалу великих мудрецов"
+    },
+    {
+      "original": "देवों से घिरा हुआ",
+      "transliteration": "Собрание богов",
+      "translation": "Сопровождаемый богами"
+    },
+    {
+      "original": "गुणों से परे",
+      "transliteration": "За пределами всех качеств",
+      "translation": "За пределами всех качеств"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "Я поклоняюсь",
+      "translation": "Я поклоняюсь"
+    },
+    {
+      "original": "जो इस स्तोत्र को नित्य",
+      "transliteration": "Кто ежедневно читает",
+      "translation": "Кто ежедневно читает"
+    },
+    {
+      "original": "चित्त को एकाग्र करके",
+      "transliteration": "Освещая сердце",
+      "translation": "Погружая ум в медитацию"
+    },
+    {
+      "original": "इस अष्टक का पाठ करता है",
+      "transliteration": "Читает этот стих",
+      "translation": "Читает этот стих"
+    },
+    {
+      "original": "मुरारि के कंठहार को",
+      "transliteration": "Ожерелье на шее Мурари",
+      "translation": "Ожерелье на шее Мурари"
+    },
+    {
+      "original": "वह विष्णु के शोकरहित",
+      "transliteration": "И обретает свободу от страха и боли",
+      "translation": "И обретает свободу от страха и боли"
+    },
+    {
+      "original": "ध्रुव लोक को प्राप्त करता है",
+      "transliteration": "Он достигает вечного мира",
+      "translation": "Он достигает вечного мира"
+    },
+    {
+      "original": "जन्म-मृत्यु के शोक को",
+      "transliteration": "Свободен от страха старости и смерти",
+      "translation": "Свободен от страха старости и смерти"
+    },
+    {
+      "original": "फिर कभी नहीं पाता है",
+      "transliteration": "Не обретает повторного рождения",
+      "translation": "Не обретает повторного рождения"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\russian\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\russian\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.845Z"
+  }
+}

@@ -1,0 +1,2094 @@
+{
+  "mantra": "hanuman_chalisa",
+  "language": "punjabi",
+  "type": "word_to_word",
+  "totalWords": 416,
+  "alignedWords": [
+    {
+      "original": "श्री-गुरु",
+      "transliteration": "ਸ਼੍ਰੀਗੁਰੂ",
+      "translation": "ਸ਼੍ਰੀਗੁਰੂ"
+    },
+    {
+      "original": "चरण",
+      "transliteration": "ਚਰਨ",
+      "translation": "ਪੈਰ"
+    },
+    {
+      "original": "सरोज",
+      "transliteration": "ਸਰੋਜ",
+      "translation": "ਤੁਲਸੀ"
+    },
+    {
+      "original": "रज",
+      "transliteration": "ਰਜ",
+      "translation": "ਧੂੜ"
+    },
+    {
+      "original": "निज",
+      "transliteration": "ਨਿਜ",
+      "translation": "ਆਪਣਾ"
+    },
+    {
+      "original": "मनु",
+      "transliteration": "ਮਨੁ",
+      "translation": "ਮਨ"
+    },
+    {
+      "original": "मुकुरु",
+      "transliteration": "ਮੁਕੁਰ",
+      "translation": "ਦਰਪਣ"
+    },
+    {
+      "original": "सुधारि",
+      "transliteration": "ਸੁਧਾਰੀ",
+      "translation": "ਸੁਧਾਰ"
+    },
+    {
+      "original": "बरनउँ",
+      "transliteration": "ਬਰਨਾ",
+      "translation": "ਗੌਰਵ"
+    },
+    {
+      "original": "रघुबर",
+      "transliteration": "ਰਘੁਬਰ",
+      "translation": "ਰਘੁਨਾਥ"
+    },
+    {
+      "original": "बिमल",
+      "transliteration": "ਬਿਮਲ",
+      "translation": "ਸਾਫ"
+    },
+    {
+      "original": "जसु",
+      "transliteration": "ਜਸੁ",
+      "translation": "ਖਿਆਤੀ"
+    },
+    {
+      "original": "जो",
+      "transliteration": "ਜੋ",
+      "translation": "ਜੋ"
+    },
+    {
+      "original": "दायकु",
+      "transliteration": "ਦਾਯਕੁ",
+      "translation": "ਦਾਨਾ"
+    },
+    {
+      "original": "फल",
+      "transliteration": "ਫਲ",
+      "translation": "ਫਲ"
+    },
+    {
+      "original": "चारि",
+      "transliteration": "ਚਾਰਿ",
+      "translation": "ਚਾਰ"
+    },
+    {
+      "original": "बुद्धिहीन",
+      "transliteration": "ਬੁੱਧਿਹੀਨ",
+      "translation": "ਬੁੱਧੀਹੀਨ"
+    },
+    {
+      "original": "तनु",
+      "transliteration": "ਤਨੁ",
+      "translation": "ਸਰੀਰ"
+    },
+    {
+      "original": "जानिके",
+      "transliteration": "ਜਾਣਿਕੇ",
+      "translation": "ਜਾਣਨ"
+    },
+    {
+      "original": "सुमिरौं",
+      "transliteration": "ਸੁਮਿਰਾਉਂ",
+      "translation": "ਸਿਮਰਨਾ"
+    },
+    {
+      "original": "पवन",
+      "transliteration": "ਪਵਨ",
+      "translation": "ਹਵਾ"
+    },
+    {
+      "original": "कुमार",
+      "transliteration": "ਕੁਮਾਰ",
+      "translation": "ਬੱਚਾ"
+    },
+    {
+      "original": "बल",
+      "transliteration": "ਬਲ",
+      "translation": "ਤਾਕਤ"
+    },
+    {
+      "original": "बुधि",
+      "transliteration": "ਬੁੱਧੀ",
+      "translation": "ਸਮਝ"
+    },
+    {
+      "original": "विद्या",
+      "transliteration": "ਵਿਦਿਆ",
+      "translation": "ਗਿਆਨ"
+    },
+    {
+      "original": "देहु",
+      "transliteration": "ਦੇਹੁ",
+      "translation": "ਦਿਓ"
+    },
+    {
+      "original": "मोहि",
+      "transliteration": "ਮੋਹੀ",
+      "translation": "ਮੈਨੂੰ"
+    },
+    {
+      "original": "हरहु",
+      "transliteration": "ਹਰਹੁ",
+      "translation": "ਹਟਾਉ"
+    },
+    {
+      "original": "कलेश",
+      "transliteration": "ਕਲੇਸ਼",
+      "translation": "ਦੁੱਖ"
+    },
+    {
+      "original": "विकार",
+      "transliteration": "ਵਿਕਾਰ",
+      "translation": "ਬਦਲਾਅ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਜਯ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "ਹਨੂਮਾਨ",
+      "translation": "ਹਨੂਮਾਨ"
+    },
+    {
+      "original": "ज्ञान",
+      "transliteration": "ਗਿਆਨ",
+      "translation": "ਜਾਣਕਾਰੀ"
+    },
+    {
+      "original": "गुण",
+      "transliteration": "ਗੁਣ",
+      "translation": "ਗੁਣ"
+    },
+    {
+      "original": "सागर",
+      "transliteration": "ਸਾਗਰ",
+      "translation": "ਸਮੁੰਦਰ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਜਯ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "कपीस",
+      "transliteration": "ਕਪੀਸ",
+      "translation": "ਬਾਹਬੂਦ"
+    },
+    {
+      "original": "तिहुँ",
+      "transliteration": "ਤਿਹੂੰ",
+      "translation": "ਤੂੰ"
+    },
+    {
+      "original": "लोक",
+      "transliteration": "ਲੋਕ",
+      "translation": "ਜਗਤ"
+    },
+    {
+      "original": "उजागर",
+      "transliteration": "ਉਜਾਗਰ",
+      "translation": "ਸੁਪਸ਼ਟੀ"
+    },
+    {
+      "original": "राम",
+      "transliteration": "ਰਾਮ",
+      "translation": "ਰਾਮ"
+    },
+    {
+      "original": "दूत",
+      "transliteration": "ਦੂਤ",
+      "translation": "ਸੁਨੇਹਾ"
+    },
+    {
+      "original": "अतुलित",
+      "transliteration": "ਅਤੁਲਿਤ",
+      "translation": "ਅਨਨਿਆ"
+    },
+    {
+      "original": "बल",
+      "transliteration": "ਬਲ",
+      "translation": "ਤਾਕਤ"
+    },
+    {
+      "original": "धामा",
+      "transliteration": "ਧਾਮਾ",
+      "translation": "ਰੂਪ"
+    },
+    {
+      "original": "अंजनि",
+      "transliteration": "ਅੰਜਨੀ",
+      "translation": "ਮਾਂ"
+    },
+    {
+      "original": "पुत्र",
+      "transliteration": "ਪੁਤਰ",
+      "translation": "ਬੇਟਾ"
+    },
+    {
+      "original": "पवनसुत",
+      "transliteration": "ਪਵਨਸੁਤ",
+      "translation": "ਹਵਾ ਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "original": "नामा",
+      "transliteration": "ਨਾਮਾ",
+      "translation": "ਨਾਮ"
+    },
+    {
+      "original": "महाबीर",
+      "transliteration": "ਮਹਾਬੀਰ",
+      "translation": "ਮਹਾਨ ਬੀਰ"
+    },
+    {
+      "original": "बिक्रम",
+      "transliteration": "ਬਿਕਰਮ",
+      "translation": "ਸਰਦਾਰ"
+    },
+    {
+      "original": "बजरंगी",
+      "transliteration": "ਬਜਰੰਗੀ",
+      "translation": "ਬਜਰੰਗੀ"
+    },
+    {
+      "original": "कुमति",
+      "transliteration": "ਕੁਮਤੀ",
+      "translation": "ਬੁਰੇ ਵਿਚਾਰ"
+    },
+    {
+      "original": "निवार",
+      "transliteration": "ਨਿਵਾਰ",
+      "translation": "ਬਚਾਉ"
+    },
+    {
+      "original": "सुमति",
+      "transliteration": "ਸੁਮਤੀ",
+      "translation": "ਚੰਗੀ ਸੋਚ"
+    },
+    {
+      "original": "के",
+      "transliteration": "ਕੇ",
+      "translation": "ਦਾ"
+    },
+    {
+      "original": "संगी",
+      "transliteration": "ਸੰਗੀ",
+      "translation": "ਸਾਥੀ"
+    },
+    {
+      "original": "कंचन",
+      "transliteration": "ਕੰਚਨ",
+      "translation": "ਸੋਨੇ"
+    },
+    {
+      "original": "बरन",
+      "transliteration": "ਬਰਨਾ",
+      "translation": "ਵਰਨ"
+    },
+    {
+      "original": "बिराज",
+      "transliteration": "ਬਿਰਾਜ",
+      "translation": "ਬੈਠਾ"
+    },
+    {
+      "original": "सुबेसा",
+      "transliteration": "ਸੁਬੇਸਾ",
+      "translation": "ਸੁੰਦਰ"
+    },
+    {
+      "original": "कानन",
+      "transliteration": "ਕਾਨਨ",
+      "translation": "ਜੰਗਲ"
+    },
+    {
+      "original": "कुंडल",
+      "transliteration": "ਕੁੰਡਲ",
+      "translation": "ਕੁੰਡਲ"
+    },
+    {
+      "original": "कुँचित",
+      "transliteration": "ਕੁੰਚਿਤ",
+      "translation": "ਛੋਟਾ"
+    },
+    {
+      "original": "केसा",
+      "transliteration": "ਕੇਸਾ",
+      "translation": "ਕੇਸ"
+    },
+    {
+      "original": "हाथ",
+      "transliteration": "ਹਾਥ",
+      "translation": "ਹੱਥ"
+    },
+    {
+      "original": "वज्र",
+      "transliteration": "ਬਜਰ",
+      "translation": "ਕੜਾਕਾ"
+    },
+    {
+      "original": "अरु",
+      "transliteration": "ਅਰੁ",
+      "translation": "ਅਤੇ"
+    },
+    {
+      "original": "ध्वजा",
+      "transliteration": "ਧ્વਜਾ",
+      "translation": "ਝੰਡਾ"
+    },
+    {
+      "original": "बिराजे",
+      "transliteration": "ਬਿਰਾਜੇ",
+      "translation": "ਵਸਦਾ"
+    },
+    {
+      "original": "कांधे",
+      "transliteration": "ਕਾਂਧੇ",
+      "translation": "ਕਾਂਧੇ"
+    },
+    {
+      "original": "मूंज",
+      "transliteration": "ਮੂੰਜ",
+      "translation": "ਜੋਤ"
+    },
+    {
+      "original": "जनेऊ",
+      "transliteration": "ਜਨੇਉ",
+      "translation": "ਜਨੇਊ"
+    },
+    {
+      "original": "साजे",
+      "transliteration": "ਸਾਜੇ",
+      "translation": "ਸਾਜੇ"
+    },
+    {
+      "original": "शंकर",
+      "transliteration": "ਸ਼ੰਕਰ",
+      "translation": "ਦੇਵ"
+    },
+    {
+      "original": "सुवन",
+      "transliteration": "ਸੁਵਨ",
+      "translation": "ਚੰਗਾ"
+    },
+    {
+      "original": "केसरी",
+      "transliteration": "ਕੇਸਰੀ",
+      "translation": "ਕੇਸਰ"
+    },
+    {
+      "original": "नंदन",
+      "transliteration": "ਨੰਦਨ",
+      "translation": "ਪੁੱਤਰ"
+    },
+    {
+      "original": "तेज",
+      "transliteration": "ਤੇਜ਼",
+      "translation": "ਚਮਕ"
+    },
+    {
+      "original": "प्रताप",
+      "transliteration": "ਪ੍ਰਤਾਪ",
+      "translation": "ਗੌਰਵ"
+    },
+    {
+      "original": "महा",
+      "transliteration": "ਮਹਾ",
+      "translation": "ਵੱਡਾ"
+    },
+    {
+      "original": "जगवंदन",
+      "transliteration": "ਜਗਵੰਦਨ",
+      "translation": "ਸੰਸਾਰ ਦੇ ਚਾਨਣ"
+    },
+    {
+      "original": "विद्यावान",
+      "transliteration": "ਵਿਦਿਆਵਾਨ",
+      "translation": "ਜੋ ਗਿਆਨਵਾਨ ਹੈ"
+    },
+    {
+      "original": "गुनी",
+      "transliteration": "ਗੁਣੀ",
+      "translation": "ਜੋ ਗੁਣ ਵਾਲਾ ਹੈ"
+    },
+    {
+      "original": "अति",
+      "transliteration": "ਅਤਿ",
+      "translation": "ਬਹੁਤ"
+    },
+    {
+      "original": "चातुर",
+      "transliteration": "ਚਾਤੁਰ",
+      "translation": "ਚਲਾਕ"
+    },
+    {
+      "original": "राम",
+      "transliteration": "ਰਾਮ",
+      "translation": "ਰਾਮ"
+    },
+    {
+      "original": "काज",
+      "transliteration": "ਕਾਜ",
+      "translation": "ਕਾਮ"
+    },
+    {
+      "original": "करिबे",
+      "transliteration": "ਕਰਿਬੇ",
+      "translation": "ਕਰਨ ਲਈ"
+    },
+    {
+      "original": "को",
+      "transliteration": "ਕੋ",
+      "translation": "ਕਿਸੇ ਨੂੰ"
+    },
+    {
+      "original": "आतुर",
+      "transliteration": "ਆਤੁਰ",
+      "translation": "ਉਤਾਵਲਾ"
+    },
+    {
+      "original": "प्रभु",
+      "transliteration": "ਪ੍ਰਭੁ",
+      "translation": "ਪਰਮਾਤਮਾ"
+    },
+    {
+      "original": "चरित्र",
+      "transliteration": "ਚਰਿਤਰ",
+      "translation": "ਕਿਰਦਾਰ"
+    },
+    {
+      "original": "सुनिबे",
+      "transliteration": "ਸੁਨਿਬੇ",
+      "translation": "ਸੁਣਨ ਲਈ"
+    },
+    {
+      "original": "को",
+      "transliteration": "ਕੋ",
+      "translation": "ਕਿਸੇ ਨੂੰ"
+    },
+    {
+      "original": "रसिया",
+      "transliteration": "ਰਸੀਆ",
+      "translation": "ਰਸ ਭੋਗਣ ਵਾਲਾ"
+    },
+    {
+      "original": "राम",
+      "transliteration": "ਰਾਮ",
+      "translation": "ਰਾਮ"
+    },
+    {
+      "original": "लखन",
+      "transliteration": "ਲਖਨ",
+      "translation": "ਲਖਣ"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "ਸੀਤਾ",
+      "translation": "ਸੀਤਾ"
+    },
+    {
+      "original": "मनबसिया",
+      "transliteration": "ਮਨਬਸਿਆ",
+      "translation": "ਮਨ ਦੇ ਅਨੁਸਾਰ"
+    },
+    {
+      "original": "सूक्ष्म",
+      "transliteration": "ਸੂੱਖਮ",
+      "translation": "ਛੋਟਾ"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "ਰੂਪ",
+      "translation": "ਰੂਪ"
+    },
+    {
+      "original": "धरी",
+      "transliteration": "ਧਰਿ",
+      "translation": "ਲੈ ਕੇ"
+    },
+    {
+      "original": "सियहि",
+      "transliteration": "ਸਿਆਹਿ",
+      "translation": "ਸੀਤਾ ਨੂੰ"
+    },
+    {
+      "original": "दिखावा",
+      "transliteration": "ਦਿਖਾਵਾ",
+      "translation": "ਦਿਖਾਵਾ"
+    },
+    {
+      "original": "विकट",
+      "transliteration": "ਵਿਕਟ",
+      "translation": "ਦਰਾਉਣਾ"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "ਰੂਪ",
+      "translation": "ਰੂਪ"
+    },
+    {
+      "original": "धरी",
+      "transliteration": "ਧਰਿ",
+      "translation": "ਲੈ ਕੇ"
+    },
+    {
+      "original": "लंक",
+      "transliteration": "ਲੰਕ",
+      "translation": "ਲੰਕ"
+    },
+    {
+      "original": "जरावा",
+      "transliteration": "ਜਰਾਵਾ",
+      "translation": "ਅਗਨਿ ਤੋਂ ਬਚਾਉਣਾ"
+    },
+    {
+      "original": "भीम",
+      "transliteration": "ਭੀਮ",
+      "translation": "ਭਾਰੀ"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "ਰੂਪ",
+      "translation": "ਰੂਪ"
+    },
+    {
+      "original": "धरी",
+      "transliteration": "ਧਰਿ",
+      "translation": "ਲੈ ਕੇ"
+    },
+    {
+      "original": "असुर",
+      "transliteration": "ਅਸੁਰ",
+      "translation": "ਦੋਸ਼ੀ"
+    },
+    {
+      "original": "सँहारे",
+      "transliteration": "ਸੰਹਾਰੇ",
+      "translation": "ਹਟਾਉਣਾ"
+    },
+    {
+      "original": "रामचंद्र",
+      "transliteration": "ਰਾਮਚੰਦਰ",
+      "translation": "ਰਾਮਚੰਦਰ"
+    },
+    {
+      "original": "के",
+      "transliteration": "ਕੇ",
+      "translation": "ਦਾ"
+    },
+    {
+      "original": "काज",
+      "transliteration": "ਕਾਜ",
+      "translation": "ਕਾਮ"
+    },
+    {
+      "original": "सवाँरे",
+      "transliteration": "ਸਵਾਂਰੇ",
+      "translation": "ਠੀਕ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "original": "लाय",
+      "transliteration": "ਲਾਇ",
+      "translation": "ਲੈ ਕੇ"
+    },
+    {
+      "original": "सजीवन",
+      "transliteration": "ਸਜੀਵਨ",
+      "translation": "ਜੀਵਨ ਦੀਆਂ ਸਰਗਰਮੀਆਂ"
+    },
+    {
+      "original": "लखन",
+      "transliteration": "ਲਖਨ",
+      "translation": "ਲਖਣ"
+    },
+    {
+      "original": "जियाए",
+      "transliteration": "ਜਿਆਏ",
+      "translation": "ਜੀਵਨ ਦੇਣ ਵਾਲਾ"
+    },
+    {
+      "original": "श्री",
+      "transliteration": "ਸ਼੍ਰੀ",
+      "translation": "ਪਵਿੱਤਰ"
+    },
+    {
+      "original": "रघुबीर",
+      "transliteration": "ਰਘੁਬੀਰ",
+      "translation": "ਰਘੁ ਦੀ ਬਿਰਦਾਤਾ"
+    },
+    {
+      "original": "हरषि",
+      "transliteration": "ਹਰਸ਼ਿ",
+      "translation": "ਖੁਸ਼ੀ ਪ੍ਰਗਟ ਕਰੇ"
+    },
+    {
+      "original": "उर",
+      "transliteration": "ਉਰ",
+      "translation": "ਹਿਰਦੇ ਦੇ ਵਿੱਚ"
+    },
+    {
+      "original": "लाए",
+      "transliteration": "ਲਾਏ",
+      "translation": "ਲੈ ਕੇ ਆਉਣਾ"
+    },
+    {
+      "original": "रघुपति",
+      "transliteration": "ਰਘੁਪਤੀ",
+      "translation": "ਰਘੁ ਦੇ ਪਤੀ"
+    },
+    {
+      "original": "कीन्ही",
+      "transliteration": "ਕੀਨ੍ਹੀ",
+      "translation": "ਕੀਤੀ"
+    },
+    {
+      "original": "बहुत",
+      "transliteration": "ਬਹੁਤ",
+      "translation": "ਬਹੁਤ"
+    },
+    {
+      "original": "बड़ाई",
+      "transliteration": "ਬੜਾਈ",
+      "translation": "ਵਡ਼ੀ ਗੱਲ"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "ਤੁਮ",
+      "translation": "ਤੁਸੀ"
+    },
+    {
+      "original": "मम",
+      "transliteration": "ਮਮ",
+      "translation": "ਮੇਰਾ"
+    },
+    {
+      "original": "प्रिय",
+      "transliteration": "ਪਿਆਰਿਆ",
+      "translation": "ਪਿਆਰੇ"
+    },
+    {
+      "original": "भरत-हि",
+      "transliteration": "ਭਰਤ-ਹਿ",
+      "translation": "ਭਰਤ ਦੇ ਲਈ"
+    },
+    {
+      "original": "सम",
+      "transliteration": "ਸਮ",
+      "translation": "ਸਮਾਨ"
+    },
+    {
+      "original": "भाई",
+      "transliteration": "ਭਾਈ",
+      "translation": "ਭਰਾ"
+    },
+    {
+      "original": "सहस",
+      "transliteration": "ਸਹਸ",
+      "translation": "ਹਜ਼ਾਰ"
+    },
+    {
+      "original": "बदन",
+      "transliteration": "ਬਦਨ",
+      "translation": "ਮੁੱਛ"
+    },
+    {
+      "original": "तुम्हरो",
+      "transliteration": "ਤੁਮ੍ਹਰੋ",
+      "translation": "ਤੁਹਾਡੇ"
+    },
+    {
+      "original": "जस",
+      "transliteration": "ਜਸ",
+      "translation": "ਸਮਰਥਨ"
+    },
+    {
+      "original": "गावै",
+      "transliteration": "ਗਾਵੈ",
+      "translation": "ਗਾਉਂਦਾ"
+    },
+    {
+      "original": "अस",
+      "transliteration": "ਅਸ",
+      "translation": "ਤੁਸੀਂ"
+    },
+    {
+      "original": "कहि",
+      "transliteration": "ਕਹਿ",
+      "translation": "ਕਹਿਣ"
+    },
+    {
+      "original": "श्रीपति",
+      "transliteration": "ਸ਼੍ਰੀਪਤੀ",
+      "translation": "ਸ਼੍ਰੀਰਾਮ ਦੇ ਪਤੀ"
+    },
+    {
+      "original": "कंठ",
+      "transliteration": "ਕੰਠ",
+      "translation": "ਗਲ੍ਹਾ"
+    },
+    {
+      "original": "लगावै",
+      "transliteration": "ਲਗਾਵੈ",
+      "translation": "ਲੱਗਦੇ"
+    },
+    {
+      "original": "सनकादिक",
+      "transliteration": "ਸਨਕਾਦਿਕ",
+      "translation": "ਸਨਕ ਆਦਿਕ"
+    },
+    {
+      "original": "ब्रह्मादि",
+      "transliteration": "ਬ੍ਰਹਮਾਦਿ",
+      "translation": "ਬ੍ਰਹਮ ਆਦਿਕ"
+    },
+    {
+      "original": "मुनीसा",
+      "transliteration": "ਮੁਨੀਸਾ",
+      "translation": "ਮੁਨੀਸ਼ੀ"
+    },
+    {
+      "original": "नारद",
+      "transliteration": "ਨਾਰਦ",
+      "translation": "ਨਾਰਦ"
+    },
+    {
+      "original": "सारद",
+      "transliteration": "ਸਾਰਦ",
+      "translation": "ਸਾਰਦ"
+    },
+    {
+      "original": "सहित",
+      "transliteration": "ਸਹਿਤ",
+      "translation": "ਨਾਲ"
+    },
+    {
+      "original": "अहीसा",
+      "transliteration": "ਅਹੀਸਾ",
+      "translation": "ਅਹੀਸਾ"
+    },
+    {
+      "original": "जम",
+      "transliteration": "ਪ੍ਰਭੁ",
+      "translation": "ਪਰਮਾਤਮਾ"
+    },
+    {
+      "original": "कुबेर",
+      "transliteration": "ਮੁਦ੍ਰਿਕਾ",
+      "translation": "ਛਾਪ"
+    },
+    {
+      "original": "दिगपाल",
+      "transliteration": "ਮੇਲਿ",
+      "translation": "ਮਿਲਾਉਣਾ"
+    },
+    {
+      "original": "जहाँ",
+      "transliteration": "ਮੁਖ",
+      "translation": "ਮੁਹਾਂ"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ਮਾਹੀ",
+      "translation": "ਜਲ"
+    },
+    {
+      "original": "कवि",
+      "transliteration": "ਜਲਧਿ",
+      "translation": "ਸਮੁੰਦਰ"
+    },
+    {
+      "original": "कोविद",
+      "transliteration": "ਲਾਂਘੀ",
+      "translation": "ਕੰਮ ਕਰਕੇ"
+    },
+    {
+      "original": "कहि",
+      "transliteration": "ਗਏ",
+      "translation": "ਗਏ"
+    },
+    {
+      "original": "सके",
+      "transliteration": "ਅਚਰਜ",
+      "translation": "ਹੈਰਾਨੀ"
+    },
+    {
+      "original": "कहाँ",
+      "transliteration": "ਨਾਹੀ",
+      "translation": "ਨਹੀਂ"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ਦੁਰਗਮ",
+      "translation": "ਕਠਿਨ"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "ਕਾਜ",
+      "translation": "ਕਾਮ"
+    },
+    {
+      "original": "उपकार",
+      "transliteration": "ਜਗਤ",
+      "translation": "ਜਗਤ"
+    },
+    {
+      "original": "सुग्रीवहि",
+      "transliteration": "ਕੇ",
+      "translation": "ਦਾ"
+    },
+    {
+      "original": "कीन्हा",
+      "transliteration": "ਜੇਤੇ",
+      "translation": "ਜਿੰਨੇ"
+    },
+    {
+      "original": "राम",
+      "transliteration": "ਸੁਗਮ",
+      "translation": "ਸੁਖਦਾਈ"
+    },
+    {
+      "original": "मिलाय",
+      "transliteration": "ਅਨੁਗ੍ਰਹ",
+      "translation": "ਕਰਮ"
+    },
+    {
+      "original": "राज",
+      "transliteration": "ਤੁਮ੍ਹਰੇ",
+      "translation": "ਤੁਹਾਡੇ"
+    },
+    {
+      "original": "पद",
+      "transliteration": "ਤੇਤੇ",
+      "translation": "ਤੋੜ"
+    },
+    {
+      "original": "दीन्हा",
+      "transliteration": "ਰਾਮ",
+      "translation": "ਰਾਮ"
+    },
+    {
+      "original": "तुम्हरो",
+      "transliteration": "ਦੁਆਰੇ",
+      "translation": "ਦਰਵਾਜੇ"
+    },
+    {
+      "original": "मंत्र",
+      "transliteration": "ਤੁਮ",
+      "translation": "ਤੁਸੀਂ"
+    },
+    {
+      "original": "बिभीषण",
+      "transliteration": "ਰਖਵਾਰੇ",
+      "translation": "ਸੁਰੱਖਿਆ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "original": "माना",
+      "transliteration": "ਹੋਤ",
+      "translation": "ਹੋਵੇਗਾ"
+    },
+    {
+      "original": "लंकेश्वर",
+      "transliteration": "ਨਾ",
+      "translation": "ਨਹੀਂ"
+    },
+    {
+      "original": "भये",
+      "transliteration": "ਆਜ्ञਾ",
+      "translation": "ਆਦੇਸ਼"
+    },
+    {
+      "original": "सब",
+      "transliteration": "ਬਿਨੁ",
+      "translation": "ਬਿਨਾ"
+    },
+    {
+      "original": "जग",
+      "transliteration": "ਪੈਸਾਰੇ",
+      "translation": "ਦਇਆ"
+    },
+    {
+      "original": "जाना",
+      "transliteration": "ਸਬ",
+      "translation": "ਸਾਰੇ"
+    },
+    {
+      "original": "जुग",
+      "transliteration": "ਸੁਖ",
+      "translation": "ਖੁਸ਼ੀ"
+    },
+    {
+      "original": "सहस्त्र",
+      "transliteration": "ਲਹੈਂ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "जोजन",
+      "transliteration": "ਤੁਮ੍ਹਾਰੀ",
+      "translation": "ਤੁਹਾਡੀ"
+    },
+    {
+      "original": "पर",
+      "transliteration": "ਸਰਨਾਂ",
+      "translation": "ਰਾਖੀ"
+    },
+    {
+      "original": "भानू",
+      "transliteration": "ਤੁਮ",
+      "translation": "ਤੂੰ"
+    },
+    {
+      "original": "लिल्यो",
+      "transliteration": "ਰਖਸ਼ਕ",
+      "translation": "ਸੁਰੱਖਿਆ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "original": "ताहि",
+      "transliteration": "ਕਾਹੁ",
+      "translation": "ਕਿਸੇ"
+    },
+    {
+      "original": "मधुर",
+      "transliteration": "ਕੋ",
+      "translation": "ਨੂੰ"
+    },
+    {
+      "original": "फ़ल",
+      "transliteration": "ਡਰਨਾ",
+      "translation": "ਡਰਨਾ"
+    },
+    {
+      "original": "जानू",
+      "transliteration": "ਆਪਨ",
+      "translation": "ਆਪਣਾ"
+    },
+    {
+      "original": "प्रभु",
+      "transliteration": "ਤੇਜ",
+      "translation": "ਚਮਕਦਾਰ"
+    },
+    {
+      "original": "मुद्रिका",
+      "transliteration": "ਸਮ੍ਹਾਰੋ",
+      "translation": "ਸੰਭਾਲਣਾ"
+    },
+    {
+      "original": "मेलि",
+      "transliteration": "ਆਪੈ",
+      "translation": "ਤੁਸੀਂ"
+    },
+    {
+      "original": "मुख",
+      "transliteration": "ਤੀਨੋ",
+      "translation": "ਤੀਨ ਤਰ੍ਹਾਂ"
+    },
+    {
+      "original": "माही",
+      "transliteration": "ਲੋਕ",
+      "translation": "ਸੰਸਾਰ"
+    },
+    {
+      "original": "जलधि",
+      "transliteration": "ਹਾਂਕ",
+      "translation": "ਚੀਕਾ"
+    },
+    {
+      "original": "लाँघि",
+      "transliteration": "ਤੈ",
+      "translation": "ਕਾਂਤਾ"
+    },
+    {
+      "original": "गए",
+      "transliteration": "ਕਾਪੈ",
+      "translation": "ਹਟਾਉਣ"
+    },
+    {
+      "original": "अचरज",
+      "transliteration": "ਭੂਤ",
+      "translation": "ਰਾਤੂ"
+    },
+    {
+      "original": "नाही",
+      "transliteration": "ਪੀਸ਼ਾਚ",
+      "translation": "ਪਿਸਾਚ"
+    },
+    {
+      "original": "दुर्गम",
+      "transliteration": "ਨਿਕਟ",
+      "translation": "ਨਜ਼ਦੀਕ"
+    },
+    {
+      "original": "काज",
+      "transliteration": "ਨਹੀਂ",
+      "translation": "ਨਹੀ"
+    },
+    {
+      "original": "जगत",
+      "transliteration": "ਆਵੈ",
+      "translation": "ਅਾਉਣ"
+    },
+    {
+      "original": "के",
+      "transliteration": "ਮਹਾਵੀਰ",
+      "translation": "ਮਹਾਨ ਹੀਰੋ"
+    },
+    {
+      "original": "जेते",
+      "transliteration": "ਜਬ",
+      "translation": "ਜਦੋਂ"
+    },
+    {
+      "original": "सुगम",
+      "transliteration": "ਨਾਮ",
+      "translation": "ਨਾਮ"
+    },
+    {
+      "original": "अनुग्रह",
+      "transliteration": "ਸੁਨਾਵੈ",
+      "translation": "ਸੁਣਾਉਣਾ"
+    },
+    {
+      "original": "तुम्हरे",
+      "transliteration": "ਨਾਸੈ",
+      "translation": "ਨਾਸ਼"
+    },
+    {
+      "original": "तेते",
+      "transliteration": "ਰੋਗ",
+      "translation": "ਬਿਮਾਰੀ"
+    },
+    {
+      "original": "राम",
+      "transliteration": "ਹਰੇ",
+      "translation": "ਹਰਾਉਣਾ"
+    },
+    {
+      "original": "दुआरे",
+      "transliteration": "ਸਬ",
+      "translation": "ਸਾਰੇ"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "ਪੀਰਾ",
+      "translation": "ਪੀੜਾ"
+    },
+    {
+      "original": "रखवारे",
+      "transliteration": "ਜਪਤ",
+      "translation": "ਜਾਪਣਾ"
+    },
+    {
+      "original": "होत",
+      "transliteration": "ਨਿਰੰਤਰ",
+      "translation": "ਨਿਰੰਤਰ"
+    },
+    {
+      "original": "ना",
+      "transliteration": "ਹਨੂਮਤ",
+      "translation": "ਹਨੁਮਾਨ"
+    },
+    {
+      "original": "आज्ञा",
+      "transliteration": "ਬੀਰਾ",
+      "translation": "ਬੀਰਾ"
+    },
+    {
+      "original": "बिनु",
+      "transliteration": "ਸੰਕਟ",
+      "translation": "ਮੁਸ਼ਕਲ"
+    },
+    {
+      "original": "पैसारे",
+      "transliteration": "ਤੈ",
+      "translation": "ਕਾਂਤਾ"
+    },
+    {
+      "original": "सब",
+      "transliteration": "ਹਨੁਮਾਨ",
+      "translation": "ਹਨੁਮਾਨ"
+    },
+    {
+      "original": "सुख",
+      "transliteration": "ਛੁਡਾਵੈ",
+      "translation": "ਬਚਾਉਣ"
+    },
+    {
+      "original": "लहैं",
+      "transliteration": "ਮਨ",
+      "translation": "ਦਿਲ"
+    },
+    {
+      "original": "तुम्हारी",
+      "transliteration": "ਕ੍ਰਮ",
+      "translation": "ਕ੍ਰਮ"
+    },
+    {
+      "original": "सरना",
+      "transliteration": "ਵਚਨ",
+      "translation": "ਵਚਨ"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "ਧਿਆਨ",
+      "translation": "ਧਿਆਨ"
+    },
+    {
+      "original": "रक्षक",
+      "transliteration": "ਜੋ",
+      "translation": "ਜੋ"
+    },
+    {
+      "original": "काहु",
+      "transliteration": "ਲਾਵੈ",
+      "translation": "ਲੈਕੇ ਆਉਣਾ"
+    },
+    {
+      "original": "को",
+      "transliteration": "ਸਬ",
+      "translation": "ਸਾਰੇ"
+    },
+    {
+      "original": "डरना",
+      "transliteration": "ਪਰ",
+      "translation": "ਉੱਤੇ"
+    },
+    {
+      "original": "आपन",
+      "transliteration": "ਰਾਮ",
+      "translation": "ਰਾਮ"
+    },
+    {
+      "original": "तेज",
+      "transliteration": "ਤਪਸਵੀ",
+      "translation": "ਤਪਸਵੀ"
+    },
+    {
+      "original": "सम्हारो",
+      "transliteration": "ਰਾਜਾ",
+      "translation": "ਰਾਜਾ"
+    },
+    {
+      "original": "आपै",
+      "transliteration": "ਤਿਨਕੇ",
+      "translation": "ਤਿਨਕੇ"
+    },
+    {
+      "original": "तीनों",
+      "transliteration": "ਕਾਜ",
+      "translation": "ਕਾਜ"
+    },
+    {
+      "original": "लोक",
+      "transliteration": "ਸਕਲ",
+      "translation": "ਸਭ"
+    },
+    {
+      "original": "हाँक",
+      "transliteration": "ਤੁਮ",
+      "translation": "ਤੂੰ"
+    },
+    {
+      "original": "तै",
+      "transliteration": "ਸਾਜਾ",
+      "translation": "ਸਮਰਪਣ"
+    },
+    {
+      "original": "कापै",
+      "transliteration": "ਓਰ",
+      "translation": "ਅਤੇ"
+    },
+    {
+      "original": "भूत",
+      "transliteration": "ਮਨੋਰਥ",
+      "translation": "ਕਾਮਨਾ"
+    },
+    {
+      "original": "पिशाच",
+      "transliteration": "ਜੋ",
+      "translation": "ਜੋ"
+    },
+    {
+      "original": "निकट",
+      "transliteration": "ਕੋਈ",
+      "translation": "ਕੋਈ"
+    },
+    {
+      "original": "नहि",
+      "transliteration": "ਲਾਵੈ",
+      "translation": "ਲਿਆਉਂਦਾ"
+    },
+    {
+      "original": "आवै",
+      "transliteration": "ਸੋਈ",
+      "translation": "ਉਹੀ"
+    },
+    {
+      "original": "महावीर",
+      "transliteration": "ਅਮਿਤ",
+      "translation": "ਅਮਿਤ"
+    },
+    {
+      "original": "जब",
+      "transliteration": "ਜੀਵਨ",
+      "translation": "ਜੀਵਨ"
+    },
+    {
+      "original": "नाम",
+      "transliteration": "ਫਲ",
+      "translation": "ਫਲ"
+    },
+    {
+      "original": "सुनावै",
+      "transliteration": "ਪਾਵੈ",
+      "translation": "ਪਾਉਂਦਾ"
+    },
+    {
+      "original": "नासै",
+      "transliteration": "ਚਾਰੋਂ",
+      "translation": "ਚਾਰਾਂ"
+    },
+    {
+      "original": "रोग",
+      "transliteration": "ਜੁਗ",
+      "translation": "ਯੁਗ"
+    },
+    {
+      "original": "हरे",
+      "transliteration": "ਪਰਤਾਪ",
+      "translation": "ਪਰਤਾਪ"
+    },
+    {
+      "original": "सब",
+      "transliteration": "ਤੁਹਾਡਾ",
+      "translation": "ਤੁਹਾਡਾ"
+    },
+    {
+      "original": "पीरा",
+      "transliteration": "ਹੈ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "जपत",
+      "transliteration": "ਪਰਸਿੱਧ",
+      "translation": "ਪਰਸਿੱਧ"
+    },
+    {
+      "original": "निरंतर",
+      "transliteration": "ਜਗਤ",
+      "translation": "ਸੰਸਾਰ"
+    },
+    {
+      "original": "हनुमत",
+      "transliteration": "ਉਜਿਆਰਾ",
+      "translation": "ਰੋਸ਼ਨੀ"
+    },
+    {
+      "original": "बीरा",
+      "transliteration": "ਸਾਧੂ",
+      "translation": "ਸੰਤ"
+    },
+    {
+      "original": "संकट",
+      "transliteration": "ਸੰਤ",
+      "translation": "ਸੰਤ"
+    },
+    {
+      "original": "तै",
+      "transliteration": "ਕੇ",
+      "translation": "ਦਾ"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "ਤੁਮ",
+      "translation": "ਤੂੰ"
+    },
+    {
+      "original": "छुडावै",
+      "transliteration": "ਰਖਵਾਰੇ",
+      "translation": "ਸੁਰੱਖਿਅਾਤ"
+    },
+    {
+      "original": "मन",
+      "transliteration": "ਅਸੁਰ",
+      "translation": "ਦੈਤ"
+    },
+    {
+      "original": "क्रम",
+      "transliteration": "ਨਿਕੰਦਨ",
+      "translation": "ਨਾਸ਼ਕ"
+    },
+    {
+      "original": "वचन",
+      "transliteration": "ਰਾਮ",
+      "translation": "ਰਾਮ"
+    },
+    {
+      "original": "ध्यान",
+      "transliteration": "ਦੁਲਾਰੇ",
+      "translation": "ਪਿਆਰੇ"
+    },
+    {
+      "original": "जो",
+      "transliteration": "ਅਸ਼ਟ",
+      "translation": "ਅੱਠ"
+    },
+    {
+      "original": "लावै",
+      "transliteration": "ਸਿੱਧੀ",
+      "translation": "ਸਿੱਧੀ"
+    },
+    {
+      "original": "सब",
+      "transliteration": "ਨੌ",
+      "translation": "ਨੌ"
+    },
+    {
+      "original": "पर",
+      "transliteration": "ਨਿਧਿ",
+      "translation": "ਧਨ"
+    },
+    {
+      "original": "राम",
+      "transliteration": "ਕੇ",
+      "translation": "ਦਾ"
+    },
+    {
+      "original": "तपस्वी",
+      "transliteration": "ਦਾਤਾ",
+      "translation": "ਦੇਣ ਵਾਲਾ"
+    },
+    {
+      "original": "राजा",
+      "transliteration": "ਅਸ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "तिनके",
+      "transliteration": "ਬਰ",
+      "translation": "ਨਾਲ"
+    },
+    {
+      "original": "काज",
+      "transliteration": "ਦੀਨ",
+      "translation": "ਗਰੀਬ"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "ਜਾਨਕੀ",
+      "translation": "ਜਾਨਕੀ"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "ਮਾਤਾ",
+      "translation": "ਮਾਤਾ"
+    },
+    {
+      "original": "साजा",
+      "transliteration": "ਰਾਮ",
+      "translation": "ਰਾਮ"
+    },
+    {
+      "original": "और",
+      "transliteration": "ਰਸਾਯਨ",
+      "translation": "ਰਸਾਇਨ"
+    },
+    {
+      "original": "मनोरथ",
+      "transliteration": "ਤੁਮ੍ਹਰੇ",
+      "translation": "ਤੁਮ੍ਹਰੇ"
+    },
+    {
+      "original": "जो",
+      "transliteration": "ਪਾਸਾ",
+      "translation": "ਬੁੱਟੀ"
+    },
+    {
+      "original": "कोई",
+      "transliteration": "ਸਦਾ",
+      "translation": "ਹਮੇਸ਼ਾ"
+    },
+    {
+      "original": "लावै",
+      "transliteration": "ਰਹੋ",
+      "translation": "ਰਹੋ"
+    },
+    {
+      "original": "सोई",
+      "transliteration": "ਰਘੁਪਤੀ",
+      "translation": "ਰਘੁਪਤੀ"
+    },
+    {
+      "original": "अमित",
+      "transliteration": "ਕੇ",
+      "translation": "ਦਾ"
+    },
+    {
+      "original": "जीवन",
+      "transliteration": "ਦਾਸਾ",
+      "translation": "ਦਾਸਾ"
+    },
+    {
+      "original": "फल",
+      "transliteration": "ਤੁਮ੍ਹਰੇ",
+      "translation": "ਤੁਮ੍ਹਰੇ"
+    },
+    {
+      "original": "पावै",
+      "transliteration": "ਭਜਨ",
+      "translation": "ਭਜਨ"
+    },
+    {
+      "original": "चारों",
+      "transliteration": "ਰਾਮ",
+      "translation": "ਰਾਮ"
+    },
+    {
+      "original": "युग",
+      "transliteration": "ਕੋ",
+      "translation": "ਨੂੰ"
+    },
+    {
+      "original": "परताप",
+      "transliteration": "ਪਾਵੈ",
+      "translation": "ਪਾਉਂਦਾ"
+    },
+    {
+      "original": "तुम्हारा",
+      "transliteration": "ਜਨਮ",
+      "translation": "ਜਨਮ"
+    },
+    {
+      "original": "है",
+      "transliteration": "ਜਨਮ",
+      "translation": "ਜਨਮ"
+    },
+    {
+      "original": "परसिद्ध",
+      "transliteration": "ਕੇ",
+      "translation": "ਦਾ"
+    },
+    {
+      "original": "जगत",
+      "transliteration": "ਦੁੱਖ",
+      "translation": "ਦੁੱਖ"
+    },
+    {
+      "original": "उजियारा",
+      "transliteration": "ਬਿਸਰਾਵੈ",
+      "translation": "ਭੁਲਾਵੇ"
+    },
+    {
+      "original": "साधु",
+      "transliteration": "ਅੰਤਕਾਲ",
+      "translation": "ਅੰਤਕਾਲ"
+    },
+    {
+      "original": "संत",
+      "transliteration": "ਰਘੁਵਰਪੁਰ",
+      "translation": "ਰਘੁਵਰਪੁਰ"
+    },
+    {
+      "original": "के",
+      "transliteration": "ਜਾਈ",
+      "translation": "ਜਾਵੇ"
+    },
+    {
+      "original": "तुम",
+      "transliteration": "ਜਿਹਾਂ",
+      "translation": "ਜਿੱਥੇ"
+    },
+    {
+      "original": "रखवारे",
+      "transliteration": "ਜਨਮ",
+      "translation": "ਜਨਮ"
+    },
+    {
+      "original": "असुर",
+      "transliteration": "ਹਰਿਭਕਤ",
+      "translation": "ਹਰਿਭਕਤ"
+    },
+    {
+      "original": "निकंदन",
+      "transliteration": "ਕਹਾਈ",
+      "translation": "ਕਹਾਈ"
+    },
+    {
+      "original": "राम",
+      "transliteration": "ਓਰ",
+      "translation": "ਅਤੇ"
+    },
+    {
+      "original": "दुलारे",
+      "transliteration": "ਦੇਵਤਾ",
+      "translation": "ਦੇਵਤਾ"
+    },
+    {
+      "original": "अष्ट",
+      "transliteration": "ਚਿਤੱ",
+      "translation": "ਦਿਲ"
+    },
+    {
+      "original": "सिद्धि",
+      "transliteration": "ਨਾ",
+      "translation": "ਨਹੀਂ"
+    },
+    {
+      "original": "नौ",
+      "transliteration": "ਧਰੈ",
+      "translation": "ਰੱਖਦਾ"
+    },
+    {
+      "original": "निधि",
+      "transliteration": "ਹਨੂਮਤ",
+      "translation": "ਹਨੂਮਤ"
+    },
+    {
+      "original": "के",
+      "transliteration": "ਸੇਈ",
+      "translation": "ਉਹ"
+    },
+    {
+      "original": "दाता",
+      "transliteration": "ਸਰਵ",
+      "translation": "ਸਭ"
+    },
+    {
+      "original": "अस",
+      "transliteration": "ਸुख",
+      "translation": "ਸुख"
+    },
+    {
+      "original": "बर",
+      "transliteration": "ਕਰੈ",
+      "translation": "ਕਰਦਾ"
+    },
+    {
+      "original": "दीन",
+      "transliteration": "ਸੰਕਟ",
+      "translation": "ਸੰਕਟ"
+    },
+    {
+      "original": "जानकी",
+      "transliteration": "ਕਟੈ",
+      "translation": "ਕਟਿਆ"
+    },
+    {
+      "original": "माता",
+      "transliteration": "ਮਿਟੈ",
+      "translation": "ਮਿਟਾਈਏ"
+    },
+    {
+      "original": "राम",
+      "transliteration": "ਸਭ",
+      "translation": "ਸਾਰੇ"
+    },
+    {
+      "original": "रसायन",
+      "transliteration": "ਪੀਰਾ",
+      "translation": "ਦੁੱਖ"
+    },
+    {
+      "original": "तुम्हरे",
+      "transliteration": "ਜੋ",
+      "translation": "ਜੋ"
+    },
+    {
+      "original": "पासा",
+      "transliteration": "ਸੁਮਿਰੈ",
+      "translation": "ਸਿਮਰਦੇ"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "ਹਨੂਮਤ",
+      "translation": "ਹਨੂਮਤ"
+    },
+    {
+      "original": "रहो",
+      "transliteration": "ਬਲਬੀਰਾ",
+      "translation": "ਬਲਬੀਰਾਂ"
+    },
+    {
+      "original": "रघुपति",
+      "transliteration": "ਜੈ",
+      "translation": "ਜੈ"
+    },
+    {
+      "original": "के",
+      "transliteration": "ਜੈ",
+      "translation": "ਜੈ"
+    },
+    {
+      "original": "दासा",
+      "transliteration": "ਜੈ",
+      "translation": "ਜੈ"
+    },
+    {
+      "original": "तुम्हरे",
+      "transliteration": "ਹਨੁਮਾਨ",
+      "translation": "ਹਨੁਮਾਨ"
+    },
+    {
+      "original": "भजन",
+      "transliteration": "ਗੁਸਾਈਂ",
+      "translation": "ਗੁਰੂ"
+    },
+    {
+      "original": "राम",
+      "transliteration": "ਕ੍ਰਿਪਾ",
+      "translation": "ਕ੍ਰਿਪਾ"
+    },
+    {
+      "original": "को",
+      "transliteration": "ਕਰਹੁ",
+      "translation": "ਕਰੋ"
+    },
+    {
+      "original": "पावै",
+      "transliteration": "ਗੁਰੂ",
+      "translation": "ਗੁਰੂ"
+    },
+    {
+      "original": "जनम",
+      "transliteration": "ਦੇਵ",
+      "translation": "ਦੇਵ"
+    },
+    {
+      "original": "जनम",
+      "transliteration": "ਕੀ",
+      "translation": "ਇਹ"
+    },
+    {
+      "original": "के",
+      "transliteration": "ਨਾਈ",
+      "translation": "ਨਹੀਂ"
+    },
+    {
+      "original": "दुख",
+      "transliteration": "ਜੋ",
+      "translation": "ਜੋ"
+    },
+    {
+      "original": "बिसरावै",
+      "transliteration": "ਸਤ",
+      "translation": "ਸੱਚ"
+    },
+    {
+      "original": "अंतकाल",
+      "transliteration": "ਬਾਰ",
+      "translation": "ਬਾਰ-ਬਾਰ"
+    },
+    {
+      "original": "रघुवरपुर",
+      "transliteration": "ਪਾਠ",
+      "translation": "ਪਾਠ"
+    },
+    {
+      "original": "जाई",
+      "transliteration": "ਕਰ",
+      "translation": "ਕਰਨਾ"
+    },
+    {
+      "original": "जहाँ",
+      "transliteration": "ਕੋਈ",
+      "translation": "ਕੋਈ"
+    },
+    {
+      "original": "जन्म",
+      "transliteration": "ਛੂਟਹੁ",
+      "translation": "ਮੁਕਤ"
+    },
+    {
+      "original": "हरिभक्त",
+      "transliteration": "ਬੰਦੀ",
+      "translation": "ਬੰਦੀ"
+    },
+    {
+      "original": "कहाई",
+      "transliteration": "ਮਹਾਂ",
+      "translation": "ਮਹਾਨ"
+    },
+    {
+      "original": "और",
+      "transliteration": "ਸੁੱਖ",
+      "translation": "ਸुख"
+    },
+    {
+      "original": "देवता",
+      "transliteration": "ਹੋਈ",
+      "translation": "ਹੋ ਜਾਏ"
+    },
+    {
+      "original": "चित्त",
+      "transliteration": "ਜੋ",
+      "translation": "ਜੋ"
+    },
+    {
+      "original": "ना",
+      "transliteration": "ਇਹ",
+      "translation": "ਇਹ"
+    },
+    {
+      "original": "धरई",
+      "transliteration": "ਪੜ੍ਹੇ",
+      "translation": "ਪੜ੍ਹਨਾ"
+    },
+    {
+      "original": "हनुमत",
+      "transliteration": "ਹਨੁਮਾਨ",
+      "translation": "ਹਨੁਮਾਨ"
+    },
+    {
+      "original": "सेई",
+      "transliteration": "ਚਾਲੀਸਾ",
+      "translation": "ਚਾਲੀਸਾ"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "ਹੋਯ",
+      "translation": "ਬਣੇ"
+    },
+    {
+      "original": "सुख",
+      "transliteration": "ਸਿੱਧ",
+      "translation": "ਪੂਰਾ"
+    },
+    {
+      "original": "करई",
+      "transliteration": "ਸਾਖੀ",
+      "translation": "ਕਹਾਣੀ"
+    },
+    {
+      "original": "संकट",
+      "transliteration": "ਗੌਰੀਸਾ",
+      "translation": "ਗੌਰੀਸਾ"
+    },
+    {
+      "original": "कटै",
+      "transliteration": "ਤੁਲਸੀਦਾਸ",
+      "translation": "ਤੁਲਸੀਦਾਸ"
+    },
+    {
+      "original": "मिटै",
+      "transliteration": "ਸਦਾ",
+      "translation": "ਹਮੇਸ਼ਾ"
+    },
+    {
+      "original": "सब",
+      "transliteration": "ਹਰਿ",
+      "translation": "ਕ੍ਰਿਪਾ"
+    },
+    {
+      "original": "पीरा",
+      "transliteration": "ਚੇਰਾ",
+      "translation": "ਚੇਰਾ"
+    },
+    {
+      "original": "जो",
+      "transliteration": "ਕੀਜੈ",
+      "translation": "ਕੀਤੀਏ"
+    },
+    {
+      "original": "सुमिरै",
+      "transliteration": "ਨਾਥ",
+      "translation": "ਮਾਲਕ"
+    },
+    {
+      "original": "बलबीरा",
+      "transliteration": "ਹ੍ਰਿਦਯ",
+      "translation": "ਦਿਲ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਮਹ",
+      "translation": "ਮਹਾਂ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਡੇਰਾ",
+      "translation": "ਠਿਕਾਣਾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਪਵਨ",
+      "translation": "ਹਵਾ"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "ਤਨਯ",
+      "translation": "ਬੱਚਾ"
+    },
+    {
+      "original": "गुसाईं",
+      "transliteration": "ਸੰਕਟ",
+      "translation": "ਸੰਕਟ"
+    },
+    {
+      "original": "कृपा",
+      "transliteration": "ਹਰਨ",
+      "translation": "ਮੁਕਤ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "original": "करहु",
+      "transliteration": "ਮੰਗਲ",
+      "translation": "ਸ਼ੁਭ"
+    },
+    {
+      "original": "गुरु",
+      "transliteration": "ਮੂਰਤੀ",
+      "translation": "ਚਿਹਰਾ"
+    },
+    {
+      "original": "देव",
+      "transliteration": "ਰੂਪ",
+      "translation": "ਸੂਰਤ"
+    },
+    {
+      "original": "की",
+      "transliteration": "ਰਾਮ",
+      "translation": "ਰਾਮ"
+    },
+    {
+      "original": "नाई",
+      "transliteration": "ਲਖਣ",
+      "translation": "ਲਖਣ"
+    },
+    {
+      "original": "जो",
+      "transliteration": "ਸੀਤਾ",
+      "translation": "ਸੀਤਾ"
+    },
+    {
+      "original": "सत",
+      "transliteration": "ਸਹਿਤ",
+      "translation": "ਸਹਿਤ"
+    },
+    {
+      "original": "बार",
+      "transliteration": "ਹ੍ਰਿਦਯ",
+      "translation": "ਦਿਲ"
+    },
+    {
+      "original": "पाठ",
+      "transliteration": "ਬਸਹੁ",
+      "translation": "ਬਸੋ"
+    },
+    {
+      "original": "कर",
+      "transliteration": "ਸੁਰ",
+      "translation": "ਸੁਰ"
+    },
+    {
+      "original": "कोई",
+      "transliteration": "ਭੂਪ",
+      "translation": "ਰਾਜਾ"
+    },
+    {
+      "original": "छूटहि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बंदी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "महा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुख",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "होई",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "यह",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पढ़े",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हनुमान",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चालीसा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "होय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सिद्ध",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "साखी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "गौरीसा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तुलसीदास",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हरि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चेरा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कीजै",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नाथ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हृदय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मह",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "डेरा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पवन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "तनय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संकट",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हरन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मंगल",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मूर्ति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रूप",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लक्ष्मण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सीता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सहित",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हृदय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बसहु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सुर",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भूप",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\hanuman_chalisa\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\hanuman_chalisa\\punjabi\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\hanuman_chalisa\\punjabi\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.699Z"
+  }
+}

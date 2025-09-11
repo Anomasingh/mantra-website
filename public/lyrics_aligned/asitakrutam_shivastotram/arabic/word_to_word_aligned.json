@@ -1,0 +1,569 @@
+{
+  "mantra": "asitakrutam_shivastotram",
+  "language": "arabic",
+  "type": "word_to_word",
+  "totalWords": 111,
+  "alignedWords": [
+    {
+      "original": "असित",
+      "transliteration": "أَسِيت",
+      "translation": "أسيت"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "كْرُتَم",
+      "translation": "صنع"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "شِيفَا",
+      "translation": "شيفا"
+    },
+    {
+      "original": "स्तोत्रम्",
+      "transliteration": "سُوترَم",
+      "translation": "الترتيل"
+    },
+    {
+      "original": "असित",
+      "transliteration": "أَسِيت أُوَاتْشَ",
+      "translation": "قال أسيت"
+    },
+    {
+      "original": "उवाच",
+      "transliteration": "جَاجَدْغُورُو",
+      "translation": "معلم العالم"
+    },
+    {
+      "original": "जगद्गुरो",
+      "transliteration": "نَمَسْتُوبْهْيَم",
+      "translation": "تحية لــ"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "شِيفَايَا",
+      "translation": "إلى شيفا"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "شِيفَادَايَا",
+      "translation": "الذي يعطي شيفا"
+    },
+    {
+      "original": "शिवदाय",
+      "transliteration": "ش",
+      "translation": "وأيضًا"
+    },
+    {
+      "original": "च",
+      "transliteration": "يُوجِندْرَانَام",
+      "translation": "إلى الأباطرة"
+    },
+    {
+      "original": "योगीन्द्राणां",
+      "transliteration": "ش",
+      "translation": "وأيضًا"
+    },
+    {
+      "original": "च",
+      "transliteration": "يُوجِندْرَ",
+      "translation": "ملك المتصوفين"
+    },
+    {
+      "original": "योगीन्द्र",
+      "transliteration": "جُورُونَام",
+      "translation": "من المعلمين"
+    },
+    {
+      "original": "गुरूणां",
+      "transliteration": "جُورْوِهْ",
+      "translation": "المعلمين"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "نَمَحْ",
+      "translation": "تحية"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "مَرْتِيُور",
+      "translation": "الموت"
+    },
+    {
+      "original": "मृत्योर",
+      "transliteration": "مَرْتِيُوسْفَرُوبَينَ",
+      "translation": "شكل الموت"
+    },
+    {
+      "original": "मृत्युस्वरूपेण",
+      "transliteration": "مَرْتِيُوسَنسَارَخانْدَنَ",
+      "translation": "لتدمير العالم الميت"
+    },
+    {
+      "original": "मृत्युसंसारखण्डन",
+      "transliteration": "مَرْتِيُورِيش",
+      "translation": "إله الموت"
+    },
+    {
+      "original": "मृत्योरीश",
+      "transliteration": "مَرْتِيُوبِيجَا",
+      "translation": "بذرة الموت"
+    },
+    {
+      "original": "मृत्युबीज",
+      "transliteration": "مَرْتِيُوجَنَيَا",
+      "translation": "المنتصر على الموت"
+    },
+    {
+      "original": "मृत्युञ्जय",
+      "transliteration": "نَمُوْأَسْتُو تِيهْ",
+      "translation": "تحية لك"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "كَالْرُوبَم",
+      "translation": "شكل الزمن"
+    },
+    {
+      "original": "ते",
+      "transliteration": "كَلَيْتَام",
+      "translation": "يراقب"
+    },
+    {
+      "original": "कालरूपं",
+      "transliteration": "كَالْكَالِيشَ",
+      "translation": "إله الزمن"
+    },
+    {
+      "original": "कलयतां",
+      "transliteration": "كَارِن",
+      "translation": "سبب"
+    },
+    {
+      "original": "कालकालेश",
+      "transliteration": "كَالاَدَاتِيت",
+      "translation": "ما وراء الزمن"
+    },
+    {
+      "original": "कारण",
+      "transliteration": "كَالَاسْثَا",
+      "translation": "في الزمن"
+    },
+    {
+      "original": "कालादतीत",
+      "transliteration": "كَالَاكَالَا",
+      "translation": "وقت الموت"
+    },
+    {
+      "original": "कालस्थ",
+      "transliteration": "نَمُوْأَسْتُو تِيهْ",
+      "translation": "تحية لك"
+    },
+    {
+      "original": "कालकाल",
+      "transliteration": "غُوناتِيت",
+      "translation": "ما وراء الخصائص"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "غُونَادْهَارَ",
+      "translation": "أصل الصفات"
+    },
+    {
+      "original": "ते",
+      "transliteration": "غُونَابِيجَا",
+      "translation": "بذرة الصفات"
+    },
+    {
+      "original": "गुणातीत",
+      "transliteration": "غُونَاتْمَكَا",
+      "translation": "صفات الكون"
+    },
+    {
+      "original": "गुणाधार",
+      "transliteration": "غُونِيشَ",
+      "translation": "ملك الصفات"
+    },
+    {
+      "original": "गुणबीज",
+      "transliteration": "غُونِينَام",
+      "translation": "أصحاب الصفات"
+    },
+    {
+      "original": "गुणात्मक",
+      "transliteration": "بِيْجَا",
+      "translation": "بذرة"
+    },
+    {
+      "original": "गुणीश",
+      "transliteration": "غُونِينَام",
+      "translation": "أصحاب الصفات"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "جُورْوِهِ",
+      "translation": "المعلمين"
+    },
+    {
+      "original": "बीज",
+      "transliteration": "نَمَحْ",
+      "translation": "تحية"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "بْرَهْمَسْوَرُوبَ",
+      "translation": "صورة الإله"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "بْرَهْمَجْنَّا",
+      "translation": "عالم الإله"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "بْرَهْمَفَابَفِ",
+      "translation": "في جوهر الإله"
+    },
+    {
+      "original": "ब्रह्मस्वरूप",
+      "transliteration": "ش",
+      "translation": "وأيضًا"
+    },
+    {
+      "original": "ब्रह्मज्ञ",
+      "transliteration": "تَتْبَرَ",
+      "translation": "مخلص لله"
+    },
+    {
+      "original": "ब्रह्मभावे",
+      "transliteration": "بْرَهْمَ بِيجَا",
+      "translation": "بذرة الإله"
+    },
+    {
+      "original": "च",
+      "transliteration": "سْوَرُوبِينَ",
+      "translation": "مع جوهر الإله"
+    },
+    {
+      "original": "तत्पर",
+      "transliteration": "بْرَهْمَ بِيجَا",
+      "translation": "بذرة الإله"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "نَمُوْأَسْتُو",
+      "translation": "تحية لك"
+    },
+    {
+      "original": "स्वरूपेण",
+      "transliteration": "تِيهْ",
+      "translation": "لكَ"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "إِتِي سْتُوتْوَا",
+      "translation": "بذلك الترتيل"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "شِيفَمْ",
+      "translation": "شيفا"
+    },
+    {
+      "original": "ते",
+      "transliteration": "نَتْوَا",
+      "translation": "سجد"
+    },
+    {
+      "original": "इति",
+      "transliteration": "بُورَسْتَسْتَاوَ",
+      "translation": "أمامهم"
+    },
+    {
+      "original": "स्तुत्वा",
+      "transliteration": "مُونِيشْوَرَ",
+      "translation": "معلم الحكمة"
+    },
+    {
+      "original": "शिवं",
+      "transliteration": "دِينَفَتْسَآشْرُونِتْرَشْ",
+      "translation": "ذو العيون الباكية"
+    },
+    {
+      "original": "नत्वा",
+      "transliteration": "بُولَكَآنشِيتْفِغْرَهَ",
+      "translation": "جسم ذو قشعريرة"
+    },
+    {
+      "original": "पुरस्तस्थौ",
+      "transliteration": "أَسِيتِين",
+      "translation": "بواسطة أسيت"
+    },
+    {
+      "original": "मुनीश्वरः",
+      "transliteration": "كُرُتَمْ",
+      "translation": "الترتيل"
+    },
+    {
+      "original": "दीनवत्साश्रुनेत्रश्च",
+      "transliteration": "سُوترَمْ",
+      "translation": "التمجيد"
+    },
+    {
+      "original": "पुळकाञ्चितविग्रहः",
+      "transliteration": "بْهَكْتِيُوكْتَاشْشَ",
+      "translation": "من يقرأه بتفاني"
+    },
+    {
+      "original": "असितेन",
+      "transliteration": "يَحْ",
+      "translation": "من"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "فَثَتْ",
+      "translation": "يقرأ"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "فَرْشَمِيكَمْ",
+      "translation": "سنة واحدة"
+    },
+    {
+      "original": "भक्तियुक्तश्च",
+      "transliteration": "حَفِيشْيَاشِ",
+      "translation": "مخلص"
+    },
+    {
+      "original": "यः",
+      "transliteration": "شَنكَرَسْيَا",
+      "translation": "لشانكر"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "مَهَاتْمَنَحْ",
+      "translation": "العظيم الروح"
+    },
+    {
+      "original": "वर्षमेकं",
+      "transliteration": "سَ",
+      "translation": "هو"
+    },
+    {
+      "original": "हविष्याशी",
+      "transliteration": "لَبِهْتْ",
+      "translation": "قد يحصل"
+    },
+    {
+      "original": "शङ्करस्य",
+      "transliteration": "فَيْشْنَافَمْ",
+      "translation": "الفايشنا"
+    },
+    {
+      "original": "महात्मनः",
+      "transliteration": "بُوتْرَمْ",
+      "translation": "الابن"
+    },
+    {
+      "original": "स",
+      "transliteration": "جْنَانِينَا",
+      "translation": "الحكيم"
+    },
+    {
+      "original": "लभेद्वैष्णवं",
+      "transliteration": "جِيرَجِيفِينَمْ",
+      "translation": "يعيش طويلاً"
+    },
+    {
+      "original": "पुत्रं",
+      "transliteration": "دَرِيدْرَ",
+      "translation": "الفقير"
+    },
+    {
+      "original": "ज्ञानिनं",
+      "transliteration": "بَفَذْدَانَاذِيَا",
+      "translation": "يصبح غنيًا"
+    },
+    {
+      "original": "चिरजीविनम्",
+      "transliteration": "مُوكُو",
+      "translation": "الأخرس"
+    },
+    {
+      "original": "दरिद्रो",
+      "transliteration": "بَفَتْي",
+      "translation": "يصبح"
+    },
+    {
+      "original": "भवेद्धनाढ्यो",
+      "transliteration": "بَانْدِيتَا",
+      "translation": "الفيلسوف"
+    },
+    {
+      "original": "मूको",
+      "transliteration": "أَبَارِيَا",
+      "translation": "العاقر"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "لَبْهَتْ",
+      "translation": "يحصل"
+    },
+    {
+      "original": "पण्डितः",
+      "transliteration": "بَارِيَا",
+      "translation": "الزوجة"
+    },
+    {
+      "original": "अभार्यो",
+      "transliteration": "سُوشِيلَامْ",
+      "translation": "الطيبة"
+    },
+    {
+      "original": "लभते",
+      "transliteration": "ش",
+      "translation": "أيضًا"
+    },
+    {
+      "original": "भार्यां",
+      "transliteration": "بَتِيفْرَتَامْ",
+      "translation": "الزوجة الوفية"
+    },
+    {
+      "original": "सुशीलां",
+      "transliteration": "إِهْ",
+      "translation": "هنا"
+    },
+    {
+      "original": "च",
+      "transliteration": "لوكي",
+      "translation": "في العالم"
+    },
+    {
+      "original": "पतिव्रताम्",
+      "transliteration": "سُوْخَمْ",
+      "translation": "السعادة"
+    },
+    {
+      "original": "इह",
+      "transliteration": "بُهْكْتْوَا",
+      "translation": "بعد الاستمتاع"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "يَاتْيَنْتِ",
+      "translation": "يذهب"
+    },
+    {
+      "original": "सुखं",
+      "transliteration": "شِيفَسَانِذِهِمْ",
+      "translation": "بالقرب من شيفا"
+    },
+    {
+      "original": "भुक्त्वा",
+      "transliteration": "إِدَمْ",
+      "translation": "هذا"
+    },
+    {
+      "original": "यात्यन्ते",
+      "transliteration": "سُوترَمْ",
+      "translation": "التمجيد"
+    },
+    {
+      "original": "शिवसन्निधिम्",
+      "transliteration": "بُورَأ",
+      "translation": "من قبل"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "دَتْمْ",
+      "translation": "مُعطى"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "بْرَهْمَنَا",
+      "translation": "من البراهما"
+    },
+    {
+      "original": "पुरा",
+      "transliteration": "ش",
+      "translation": "وأيضًا"
+    },
+    {
+      "original": "दत्तं",
+      "transliteration": "بْرَشْتَسَ",
+      "translation": "برشيتا"
+    },
+    {
+      "original": "ब्रह्मणा",
+      "transliteration": "بْرَشْتَسَا",
+      "translation": "برشيتا"
+    },
+    {
+      "original": "च",
+      "transliteration": "سْوَبُتْرَايَسِتَا",
+      "translation": "لابن برشيتا"
+    },
+    {
+      "original": "प्रचेतसे",
+      "transliteration": "دَتْمُوتْتَمَامْ",
+      "translation": "أفضل معطى"
+    },
+    {
+      "original": "प्रचेतसा",
+      "transliteration": "إِتِي",
+      "translation": "هكذا"
+    },
+    {
+      "original": "स्वपुत्रायासिताय",
+      "transliteration": "شْرِي",
+      "translation": "المقدس"
+    },
+    {
+      "original": "दत्तमुत्तमम्",
+      "transliteration": "بْرَهْمَفَيْفَرْتِي",
+      "translation": "في كتاب براهمان"
+    },
+    {
+      "original": "इति",
+      "transliteration": "مَهَابُورَانِ",
+      "translation": "في الكتاب الكبير"
+    },
+    {
+      "original": "श्रीब्रह्मवैवर्ते",
+      "transliteration": "شْرِيكْرِشْنَجَنْمَخَندِ",
+      "translation": "في الفصل عن ميلاد كريشنا"
+    },
+    {
+      "original": "महापुराणे",
+      "transliteration": "أَسِيتَكْرُتَا",
+      "translation": "بمساعدة أسيت"
+    },
+    {
+      "original": "श्रीकृष्णजन्मखण्डे",
+      "transliteration": "شِيفَسْتُوتَرَمْ",
+      "translation": "التمجيد لشيفا"
+    },
+    {
+      "original": "असितकृतं",
+      "transliteration": "سَنْبُورْنَمْ",
+      "translation": "مكتمل"
+    },
+    {
+      "original": "शिवस्तोत्रं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संपूर्णम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\arabic\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\arabic\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.199Z"
+  }
+}

@@ -1,0 +1,884 @@
+{
+  "mantra": "astha_laxmi_stotram",
+  "language": "mandarin",
+  "type": "word_to_word",
+  "totalWords": 174,
+  "alignedWords": [
+    {
+      "original": "आदिलक्ष्मी",
+      "transliteration": "苏玛纳萨万帝塔",
+      "translation": "受到花朵敬拜的"
+    },
+    {
+      "original": "सुमनस",
+      "transliteration": "苏丹德丽",
+      "translation": "美丽的"
+    },
+    {
+      "original": "मुनिगणमण्डित",
+      "transliteration": "马哈维",
+      "translation": "孟加拉文化中的女性名字"
+    },
+    {
+      "original": "पंकजवासिनी",
+      "transliteration": "智者的姐妹",
+      "translation": "月亮的姐妹"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "赫马玛耶",
+      "translation": "黄金的"
+    },
+    {
+      "original": "धान्यलक्ष्मी",
+      "transliteration": "穆尼冈曼帝塔",
+      "translation": "受到圣人的敬拜"
+    },
+    {
+      "original": "अहिकलि",
+      "transliteration": "莫克斯普拉达因尼",
+      "translation": "带来解脱的"
+    },
+    {
+      "original": "क्षीरसमुद्भव",
+      "transliteration": "曼朱拉布哈希尼",
+      "translation": "甜美的语言"
+    },
+    {
+      "original": "मंगलदायिनी",
+      "transliteration": "韦达努特",
+      "translation": "启迪智慧的"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "彭卡贾瓦西尼",
+      "translation": "莲花上的神"
+    },
+    {
+      "original": "धैर्यलक्ष्मी",
+      "transliteration": "德瓦苏普吉塔",
+      "translation": "被众神崇拜"
+    },
+    {
+      "original": "जयवरवर्णिनि",
+      "transliteration": "萨德古纳瓦尔希尼",
+      "translation": "赐福的"
+    },
+    {
+      "original": "सुरगणपूजित",
+      "transliteration": "沙安提玉特",
+      "translation": "赐予和平的"
+    },
+    {
+      "original": "भवभयहारिणि",
+      "transliteration": "贾贾",
+      "translation": "胜利的"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "和",
+      "translation": "哎"
+    },
+    {
+      "original": "गजलक्ष्मी",
+      "transliteration": "马杜苏丹",
+      "translation": "神的名字"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "卡米尼",
+      "translation": "美丽的女人"
+    },
+    {
+      "original": "रथगज",
+      "transliteration": "阿迪拉克什米",
+      "translation": "财富女神"
+    },
+    {
+      "original": "हरिहर",
+      "transliteration": "鲁佩那",
+      "translation": "形态"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "帕拉耶",
+      "translation": "保护"
+    },
+    {
+      "original": "सन्तानलक्ष्मी",
+      "transliteration": "马姆",
+      "translation": "我"
+    },
+    {
+      "original": "अहिखग",
+      "transliteration": "阿希卡利",
+      "translation": "清除罪恶"
+    },
+    {
+      "original": "गुणगणवारिधि",
+      "transliteration": "克尔玛沙纳西尼",
+      "translation": "去除罪恶"
+    },
+    {
+      "original": "सकल",
+      "transliteration": "卡米尼",
+      "translation": "美丽的"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "吠陀形式",
+      "translation": "吠陀形态"
+    },
+    {
+      "original": "विजयलक्ष्मी",
+      "transliteration": "吠陀的",
+      "translation": "吠陀的"
+    },
+    {
+      "original": "जय",
+      "transliteration": "奶海中出生的",
+      "translation": "从海中诞生"
+    },
+    {
+      "original": "अनुदिनमर्चित",
+      "transliteration": "幸福的形态",
+      "translation": "幸福的形态"
+    },
+    {
+      "original": "कनकधरास्तुति",
+      "transliteration": "咒语居住的",
+      "translation": "住在咒语中"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "咒语提倡的",
+      "translation": "提倡咒语"
+    },
+    {
+      "original": "विद्यालक्ष्मी",
+      "transliteration": "幸福的给予者",
+      "translation": "幸福的给予者"
+    },
+    {
+      "original": "प्रणत",
+      "transliteration": "莲花居住的",
+      "translation": "住在莲花中"
+    },
+    {
+      "original": "मणिमयभूषित",
+      "transliteration": "神灵依赖的",
+      "translation": "依赖神灵的"
+    },
+    {
+      "original": "नवनिधिदायिनि",
+      "transliteration": "脚下有的",
+      "translation": "有脚的"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "胜利的胜利",
+      "translation": "胜利的胜利"
+    },
+    {
+      "original": "धनलक्ष्मी",
+      "transliteration": "玛杜苏丹",
+      "translation": "甜美的敌人"
+    },
+    {
+      "original": "धिमिधिमि",
+      "transliteration": "卡米尼",
+      "translation": "美丽的"
+    },
+    {
+      "original": "घुमघुम",
+      "transliteration": "谷物财富女神",
+      "translation": "谷物女神"
+    },
+    {
+      "original": "वेदपुराणेतिहास",
+      "transliteration": "永远",
+      "translation": "永远"
+    },
+    {
+      "original": "जयजय",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "---",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "---",
+      "transliteration": "胜利光辉的",
+      "translation": "胜利的光辉"
+    },
+    {
+      "original": "---",
+      "transliteration": "毗湿奴",
+      "translation": "毗湿奴"
+    },
+    {
+      "original": "---",
+      "transliteration": "巴尔伽维",
+      "translation": "巴尔伽维"
+    },
+    {
+      "original": "---",
+      "transliteration": "咒语的形式",
+      "translation": "咒语的形式"
+    },
+    {
+      "original": "---",
+      "transliteration": "咒语的",
+      "translation": "咒语的"
+    },
+    {
+      "original": "---",
+      "transliteration": "神祇供奉的",
+      "translation": "神祇供奉"
+    },
+    {
+      "original": "---",
+      "transliteration": "迅速结果的",
+      "translation": "快速结果的"
+    },
+    {
+      "original": "---",
+      "transliteration": "知识发展的",
+      "translation": "知识发展的"
+    },
+    {
+      "original": "---",
+      "transliteration": "经文倡导的",
+      "translation": "提倡经文"
+    },
+    {
+      "original": "---",
+      "transliteration": "解除生命恐惧的",
+      "translation": "消除恐惧"
+    },
+    {
+      "original": "---",
+      "transliteration": "赎回罪恶的",
+      "translation": "解除罪恶"
+    },
+    {
+      "original": "---",
+      "transliteration": "受圣贤庇护的",
+      "translation": "受圣贤庇护"
+    },
+    {
+      "original": "---",
+      "transliteration": "脚下有的",
+      "translation": "有脚的"
+    },
+    {
+      "original": "---",
+      "transliteration": "胜利的胜利",
+      "translation": "胜利的胜利"
+    },
+    {
+      "original": "---",
+      "transliteration": "玛杜苏丹",
+      "translation": "甜美的敌人"
+    },
+    {
+      "original": "---",
+      "transliteration": "卡米尼",
+      "translation": "美丽的"
+    },
+    {
+      "original": "---",
+      "transliteration": "耐心财富女神",
+      "translation": "耐心女神"
+    },
+    {
+      "original": "---",
+      "transliteration": "永远",
+      "translation": "永远"
+    },
+    {
+      "original": "---",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "---",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "---",
+      "transliteration": "胜利的胜利",
+      "translation": "胜利的胜利"
+    },
+    {
+      "original": "---",
+      "transliteration": "毁灭灾难的",
+      "translation": "毁灭灾难的"
+    },
+    {
+      "original": "---",
+      "transliteration": "卡米尼",
+      "translation": "美丽的"
+    },
+    {
+      "original": "---",
+      "transliteration": "给予所有果实的",
+      "translation": "给予所有果实的"
+    },
+    {
+      "original": "---",
+      "transliteration": "经文的",
+      "translation": "经文的"
+    },
+    {
+      "original": "---",
+      "transliteration": "战车与象车",
+      "translation": "战车与象车"
+    },
+    {
+      "original": "---",
+      "transliteration": "马步等",
+      "translation": "马步等"
+    },
+    {
+      "original": "---",
+      "transliteration": "环绕着",
+      "translation": "环绕着"
+    },
+    {
+      "original": "---",
+      "transliteration": "随从围绕",
+      "translation": "随从围绕"
+    },
+    {
+      "original": "---",
+      "transliteration": "众人赞美",
+      "translation": "众人赞美"
+    },
+    {
+      "original": "---",
+      "transliteration": "哈利哈拉",
+      "translation": "哈利哈拉"
+    },
+    {
+      "original": "---",
+      "transliteration": "梵天",
+      "translation": "梵天"
+    },
+    {
+      "original": "---",
+      "transliteration": "崇拜的",
+      "translation": "崇拜的"
+    },
+    {
+      "original": "---",
+      "transliteration": "供奉的",
+      "translation": "供奉的"
+    },
+    {
+      "original": "---",
+      "transliteration": "熄灭火灾的",
+      "translation": "熄灭火灾的"
+    },
+    {
+      "original": "---",
+      "transliteration": "脚下有",
+      "translation": "有脚的"
+    },
+    {
+      "original": "---",
+      "transliteration": "胜利的胜利",
+      "translation": "胜利的胜利"
+    },
+    {
+      "original": "---",
+      "transliteration": "玛杜苏丹",
+      "translation": "甜美的敌人"
+    },
+    {
+      "original": "---",
+      "transliteration": "卡米尼",
+      "translation": "美丽的"
+    },
+    {
+      "original": "---",
+      "transliteration": "豹财富女神",
+      "translation": "豹财富女神"
+    },
+    {
+      "original": "---",
+      "transliteration": "以...的形态",
+      "translation": "以...的形态"
+    },
+    {
+      "original": "---",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "---",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "---",
+      "transliteration": "蛇与鹰的载体",
+      "translation": "蛇与鹰的载体"
+    },
+    {
+      "original": "---",
+      "transliteration": "载体",
+      "translation": "载体"
+    },
+    {
+      "original": "---",
+      "transliteration": "妙音",
+      "translation": "妙音"
+    },
+    {
+      "original": "---",
+      "transliteration": "持轮者",
+      "translation": "持轮者"
+    },
+    {
+      "original": "---",
+      "transliteration": "增加欲望的",
+      "translation": "增加欲望的"
+    },
+    {
+      "original": "---",
+      "transliteration": "知识之化",
+      "translation": "知识之化"
+    },
+    {
+      "original": "---",
+      "transliteration": "美德的海洋",
+      "translation": "美德的海洋"
+    },
+    {
+      "original": "---",
+      "transliteration": "众人幸福的",
+      "translation": "众人幸福的"
+    },
+    {
+      "original": "---",
+      "transliteration": "七种声音",
+      "translation": "七种声音"
+    },
+    {
+      "original": "---",
+      "transliteration": "装饰的",
+      "translation": "装饰的"
+    },
+    {
+      "original": "---",
+      "transliteration": "唱歌的人",
+      "translation": "唱歌的人"
+    },
+    {
+      "original": "---",
+      "transliteration": "一切的",
+      "translation": "一切的"
+    },
+    {
+      "original": "---",
+      "transliteration": "神与魔的",
+      "translation": "神与魔的"
+    },
+    {
+      "original": "---",
+      "transliteration": "神灵与智者",
+      "translation": "神灵与智者"
+    },
+    {
+      "original": "---",
+      "transliteration": "人类崇拜的",
+      "translation": "人类崇拜的"
+    },
+    {
+      "original": "---",
+      "transliteration": "脚下有",
+      "translation": "有脚的"
+    },
+    {
+      "original": "---",
+      "transliteration": "胜利的胜利",
+      "translation": "胜利的胜利"
+    },
+    {
+      "original": "---",
+      "transliteration": "玛杜苏丹",
+      "translation": "甜美的敌人"
+    },
+    {
+      "original": "---",
+      "transliteration": "卡米尼",
+      "translation": "美丽的"
+    },
+    {
+      "original": "---",
+      "transliteration": "孩子财富女神",
+      "translation": "孩子财富女神"
+    },
+    {
+      "original": "---",
+      "transliteration": "你",
+      "translation": "你"
+    },
+    {
+      "original": "---",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "---",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "---",
+      "transliteration": "胜利",
+      "translation": "胜利"
+    },
+    {
+      "original": "---",
+      "transliteration": "莲花坐骑",
+      "translation": "莲花坐骑"
+    },
+    {
+      "original": "---",
+      "transliteration": "赐予正道的",
+      "translation": "赐予正道的"
+    },
+    {
+      "original": "---",
+      "transliteration": "知识增长的",
+      "translation": "知识增长的"
+    },
+    {
+      "original": "---",
+      "transliteration": "歌声之化",
+      "translation": "歌声之化"
+    },
+    {
+      "original": "---",
+      "transliteration": "每日供奉",
+      "translation": "每日供奉"
+    },
+    {
+      "original": "---",
+      "transliteration": "红花粉",
+      "translation": "红花粉"
+    },
+    {
+      "original": "---",
+      "transliteration": "装饰的",
+      "translation": "装饰的"
+    },
+    {
+      "original": "---",
+      "transliteration": "香气环绕",
+      "translation": "香气环绕"
+    },
+    {
+      "original": "---",
+      "transliteration": "吟奏音律",
+      "translation": "吟奏音律"
+    },
+    {
+      "original": "---",
+      "transliteration": "金饰的赞美",
+      "translation": "金饰的赞美"
+    },
+    {
+      "original": "---",
+      "transliteration": "财富",
+      "translation": "财富"
+    },
+    {
+      "original": "---",
+      "transliteration": "崇拜",
+      "translation": "崇拜"
+    },
+    {
+      "original": "---",
+      "transliteration": "神圣",
+      "translation": "神圣"
+    },
+    {
+      "original": "---",
+      "transliteration": "导师",
+      "translation": "导师"
+    },
+    {
+      "original": "---",
+      "transliteration": "尊敬的",
+      "translation": "尊敬的"
+    },
+    {
+      "original": "---",
+      "transliteration": "足下",
+      "translation": "足下"
+    },
+    {
+      "original": "---",
+      "transliteration": "胜利的胜利",
+      "translation": "胜利的胜利"
+    },
+    {
+      "original": "---",
+      "transliteration": "玛杜苏丹",
+      "translation": "甜美的敌人"
+    },
+    {
+      "original": "---",
+      "transliteration": "卡米尼",
+      "translation": "美丽的"
+    },
+    {
+      "original": "---",
+      "transliteration": "胜利财富女神",
+      "translation": "胜利财富女神"
+    },
+    {
+      "original": "---",
+      "transliteration": "永远的",
+      "translation": "永远的"
+    },
+    {
+      "original": "---",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "---",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "---",
+      "transliteration": "崇拜",
+      "translation": "向她致敬"
+    },
+    {
+      "original": "---",
+      "transliteration": "主神之妻",
+      "translation": "神的配偶"
+    },
+    {
+      "original": "---",
+      "transliteration": "婆罗门女神",
+      "translation": "学识和艺术的女神"
+    },
+    {
+      "original": "---",
+      "transliteration": "巴尔迦女神",
+      "translation": "巴尔迦的女神"
+    },
+    {
+      "original": "---",
+      "transliteration": "解除悲伤的女神",
+      "translation": "驱散悲伤的女神"
+    },
+    {
+      "original": "---",
+      "transliteration": "珠宝装饰的",
+      "translation": "珠宝装饰的"
+    },
+    {
+      "original": "---",
+      "transliteration": "珍宝装饰的",
+      "translation": "珍宝装饰的"
+    },
+    {
+      "original": "---",
+      "transliteration": "耳饰装饰的",
+      "translation": "耳饰装饰的"
+    },
+    {
+      "original": "---",
+      "transliteration": "安宁的环绕",
+      "translation": "安宁的环绕"
+    },
+    {
+      "original": "---",
+      "transliteration": "微笑的面容",
+      "translation": "微笑的面容"
+    },
+    {
+      "original": "---",
+      "transliteration": "赐予九种财富的",
+      "translation": "赐予九种财富的"
+    },
+    {
+      "original": "---",
+      "transliteration": "清除烦恼的",
+      "translation": "清除烦恼的"
+    },
+    {
+      "original": "---",
+      "transliteration": "给予愿望果实的",
+      "translation": "给予愿望果实的"
+    },
+    {
+      "original": "---",
+      "transliteration": "手中持有的",
+      "translation": "手中持有的"
+    },
+    {
+      "original": "---",
+      "transliteration": "胜利的胜利",
+      "translation": "胜利的胜利"
+    },
+    {
+      "original": "---",
+      "transliteration": "玛杜苏丹",
+      "translation": "甜美的敌人"
+    },
+    {
+      "original": "---",
+      "transliteration": "卡米尼",
+      "translation": "美丽的"
+    },
+    {
+      "original": "---",
+      "transliteration": "知识财富女神",
+      "translation": "知识和财富的女神"
+    },
+    {
+      "original": "---",
+      "transliteration": "永远的",
+      "translation": "永远的"
+    },
+    {
+      "original": "---",
+      "transliteration": "保护",
+      "translation": "保护"
+    },
+    {
+      "original": "---",
+      "transliteration": "我",
+      "translation": "我"
+    },
+    {
+      "original": "---",
+      "transliteration": "嘀咪嘀咪",
+      "translation": "响亮的声音"
+    },
+    {
+      "original": "---",
+      "transliteration": "丁丁咪",
+      "translation": "响亮的音调"
+    },
+    {
+      "original": "---",
+      "transliteration": "丁丁咪",
+      "translation": "响亮的音调"
+    },
+    {
+      "original": "---",
+      "transliteration": "丁丁咪",
+      "translation": "响亮的音调"
+    },
+    {
+      "original": "---",
+      "transliteration": "锣鼓音",
+      "translation": "雄浑的声音"
+    },
+    {
+      "original": "---",
+      "transliteration": "声音",
+      "translation": "声音的传播"
+    },
+    {
+      "original": "---",
+      "transliteration": "完整的",
+      "translation": "完美的"
+    },
+    {
+      "original": "---",
+      "transliteration": "嘟嘟声",
+      "translation": "持续的声音"
+    },
+    {
+      "original": "---",
+      "transliteration": "嘟嘟声",
+      "translation": "持续的声音"
+    },
+    {
+      "original": "---",
+      "transliteration": "号角声",
+      "translation": "清脆的号角声"
+    },
+    {
+      "original": "---",
+      "transliteration": "美妙的音乐",
+      "translation": "和谐的音乐"
+    },
+    {
+      "original": "---",
+      "transliteration": "吠陀与史诗",
+      "translation": "古代经典与历史"
+    },
+    {
+      "original": "---",
+      "transliteration": "尊敬",
+      "translation": "得到崇敬"
+    },
+    {
+      "original": "---",
+      "transliteration": "吠陀道路",
+      "translation": "遵循吠陀的道路"
+    },
+    {
+      "original": "---",
+      "transliteration": "展示",
+      "translation": "展现道路与知识"
+    },
+    {
+      "original": "---",
+      "transliteration": "胜利的胜利",
+      "translation": "胜利的祝福"
+    },
+    {
+      "original": "---",
+      "transliteration": "玛杜苏丹",
+      "translation": "美丽的敌人"
+    },
+    {
+      "original": "---",
+      "transliteration": "卡米尼",
+      "translation": "美丽的女性"
+    },
+    {
+      "original": "---",
+      "transliteration": "财富女神",
+      "translation": "财富和繁荣的女神"
+    },
+    {
+      "original": "---",
+      "transliteration": "形象",
+      "translation": "形象与方式"
+    },
+    {
+      "original": "---",
+      "transliteration": "保护",
+      "translation": "保护与庇护"
+    },
+    {
+      "original": "---",
+      "transliteration": "我",
+      "translation": "我"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\mandarin\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\astha_laxmi_stotram\\mandarin\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.319Z"
+  }
+}

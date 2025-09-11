@@ -1,0 +1,734 @@
+{
+  "mantra": "annapoorna_stotram",
+  "language": "telugu",
+  "type": "word_to_word",
+  "totalWords": 144,
+  "alignedWords": [
+    {
+      "original": "नित्यानन्दकरी",
+      "transliteration": "నిత్యానందకరి",
+      "translation": "శాశ్వత ఆనందాన్ని ప్రసాదించే"
+    },
+    {
+      "original": "वराभयकरी",
+      "transliteration": "వరాభయకరి",
+      "translation": "భయాలను తొలగించేది"
+    },
+    {
+      "original": "सौन्दर्यरत्नाकरी",
+      "transliteration": "సౌందర్యరత్నాకరి",
+      "translation": "అందంగా నకిలిన రత్నాలను ప్రసాదించే"
+    },
+    {
+      "original": "निर्धूताखिलघोरपावनकरी",
+      "transliteration": "నిర్దూషితాఖిలఘోరపావనకరి",
+      "translation": "అన్ని రకాల పాపాలను శుభ్రం చేసే"
+    },
+    {
+      "original": "प्रत्यक्षमाहेश्वरी",
+      "transliteration": "ప్రత్యక్షమాహేశ్వరి",
+      "translation": "ప్రత్యక్ష రూపంలో దర్శనం ఇచ్చే దేవి"
+    },
+    {
+      "original": "प्रालेयाचलवंशपावनकरी",
+      "transliteration": "ప్రాలేయాచలవంశపావనకరి",
+      "translation": "ప్రాలయంలో నలిగిన అశుద్ధిని శుభ్రం చేసే"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "కాశీపురాధీశ్వరీ",
+      "translation": "కాశీ పురలోని దేవత"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "భిక్షాం",
+      "translation": "భిక్షను ఇవ్వండి"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "దేవి",
+      "translation": "ఇవ్వండి"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "కృపావలంబనకరి",
+      "translation": "కృపను ప్రదర్శించే"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "మాతాన్నపూర్ణేశ్వరీ",
+      "translation": "అన్నపూర్ణ మాత"
+    },
+    {
+      "original": "नानारत्नविचित्रभूषणकरी",
+      "transliteration": "నానారత్నవిచిత్రభూషణకరి",
+      "translation": "విభిన్న రత్నాలతో అలంకరించేది"
+    },
+    {
+      "original": "हेमाम्बराडम्बरी",
+      "transliteration": "హెమాంబరాడంబరి",
+      "translation": "బంగారు వస్త్రాలను ధరించిన"
+    },
+    {
+      "original": "मुक्ताहारविलम्बमान",
+      "transliteration": "ముక్తాహారవిలంబమానవిలసద్వక్షోజకుంబాంతరీ",
+      "translation": "ముత్తి హారాలు, బంగారు హారాలు ధరించిన"
+    },
+    {
+      "original": "विलसद्वक्षोजकुम्भान्तरी",
+      "transliteration": "కాశ్మీరాగురువాసితాంగరుచిరే",
+      "translation": "కాశ్మీర్ ఆవాసంలో ఉండే"
+    },
+    {
+      "original": "काश्मीरागरुवासिताङ्गरुचिरे",
+      "transliteration": "కాశీపురాధీశ్వరీ",
+      "translation": "కాశీ పురలోని దేవత"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "భిక్షాం",
+      "translation": "భిక్షను ఇవ్వండి"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "దేవి",
+      "translation": "ఇవ్వండి"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "కృపావలంబనకరి",
+      "translation": "కృపను ప్రదర్శించే"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "మాతాన్నపూర్ణేశ్వరీ",
+      "translation": "అన్నపూర్ణ మాత"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "యోగానందకరి",
+      "translation": "యోగంతో ఆనందాన్ని ప్రసాదించే"
+    },
+    {
+      "original": "योगानन्दकरी",
+      "transliteration": "రిపుఖ్షయకరి",
+      "translation": "శత్రువులను నశింపజేసేది"
+    },
+    {
+      "original": "रिपुक्षयकरी",
+      "transliteration": "ధర్మార్థనిష్టాకరి",
+      "translation": "ధర్మం మరియు ఆర్థిక నిష్టను ఇచ్చేది"
+    },
+    {
+      "original": "धर्मार्थनिष्ठाकरी",
+      "transliteration": "చంద్రార్కానలభాసమానలహరి",
+      "translation": "చంద్రుడు మరియు సూర్యుడు యొక్క కాంతి సమానమైన హరిణి"
+    },
+    {
+      "original": "चन्द्रार्कानलभासमानलहरी",
+      "transliteration": "త్రైలోక్యరక్షాకరి",
+      "translation": "త్రిలోకాలను రక్షించే"
+    },
+    {
+      "original": "त्रैलोक्यरक्षाकरी",
+      "transliteration": "సర్వైశ్వర్యసమస్తవాంఛితకరి",
+      "translation": "అన్ని సంపదలను మరియు కోరికలను నెరవేర్చేది"
+    },
+    {
+      "original": "सर्वैश्वर्यसमस्तवाञ्छितकरी",
+      "transliteration": "కాశీపురాధీశ్వరీ",
+      "translation": "కాశీ పురలోని దేవత"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "భిక్షాం",
+      "translation": "భిక్షను ఇవ్వండి"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "దేవి",
+      "translation": "ఇవ్వండి"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "కృపావలంబనకరి",
+      "translation": "కృపను ప్రదర్శించే"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "మాతాన్నపూర్ణేశ్వరీ",
+      "translation": "అన్నపూర్ణ మాత"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "కైలాసాచల-కందరాలయకరి",
+      "translation": "కైలాసా పర్వతంలో నివసించే"
+    },
+    {
+      "original": "कैलासाचलकन्दरालयकरी",
+      "transliteration": "గౌరీ",
+      "translation": "శివాన్మహాదేవి"
+    },
+    {
+      "original": "गौरी",
+      "transliteration": "ఉమా",
+      "translation": "శివ భర్తి"
+    },
+    {
+      "original": "उमा",
+      "transliteration": "శంకరి",
+      "translation": "శివాలయమును కాపాడేవి"
+    },
+    {
+      "original": "शङ्करी",
+      "transliteration": "కౌమారి",
+      "translation": "కుమారి (బాలిక దేవి)"
+    },
+    {
+      "original": "कौमारी",
+      "transliteration": "నిగమార్థగోచరకరి",
+      "translation": "వేదాలలో ఉల్లిఖితమైన మార్గాన్ని కనుగొనే"
+    },
+    {
+      "original": "निगमार्थगोचरकरी",
+      "transliteration": "ఓంకారబీజాక్షరి",
+      "translation": "ఓంకార సూత్రం"
+    },
+    {
+      "original": "ओङ्कारबीजाक्षरी",
+      "transliteration": "మోక్షద్వారకపాటపాటనకరి",
+      "translation": "మోక్షం ద్వారాన్ని తెరవడం"
+    },
+    {
+      "original": "मोक्षद्वारकपाटपाटनकरी",
+      "transliteration": "కాశీపురాధీశ్వరీ",
+      "translation": "కాశీ పురలోని దేవత"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "భిక్షాం",
+      "translation": "భిక్షను ఇవ్వండి"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "దేవి",
+      "translation": "ఇవ్వండి"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "కృపావలంబనకరి",
+      "translation": "కృపను ప్రదర్శించే"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "మాతాన్నపూర్ణేశ్వరీ",
+      "translation": "అన్నపూర్ణ మాత"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "దృశ్యాదృశ్యవిభూతివాహనకరి",
+      "translation": "దృశ్య మరియు దృశ్యేతర విశ్వ విభూతిని ప్రదర్శించే"
+    },
+    {
+      "original": "दृश्यादृश्यविभूतिवाहनकरी",
+      "transliteration": "బ్రహ్మాండభాండోదరీ",
+      "translation": "బ్రహ్మాండాన్ని మోసుకెళ్లే దేవత"
+    },
+    {
+      "original": "ब्रह्माण्डभाण्डोदरी",
+      "transliteration": "లీలానాటకసూత్రభేదనకరి",
+      "translation": "ఆటల ద్వారా ప్రపञ्चాన్ని నియంత్రించే"
+    },
+    {
+      "original": "लीलानाटकसूत्रभेदनकरी",
+      "transliteration": "విజ్ఞానదీపాంకురి",
+      "translation": "విజ్ఞానపు దీపాన్ని ప్రసాదించే"
+    },
+    {
+      "original": "विज्ञानदीपाङ्कुरी",
+      "transliteration": "శ్రీవిశ్వేశమన:ప్రసాదనకరి",
+      "translation": "విశ్వం యొక్క హృదయాన్ని శాంతింపజేసేది"
+    },
+    {
+      "original": "श्रीविश्वेशमनःप्रसादनकरी",
+      "transliteration": "కాశీపురాధీశ్వరీ",
+      "translation": "కాశీ పురలోని దేవత"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "భిక్షాం",
+      "translation": "భిక్షను ఇవ్వండి"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "దేవి",
+      "translation": "ఇవ్వండి"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "కృపావలంబనకరి",
+      "translation": "కృపను ప్రదర్శించే"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "మాతాన్నపూర్ణేశ్వరీ",
+      "translation": "అన్నపూర్ణ మాత"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "ఉర్వీసర్వజనేశ్వరీ",
+      "translation": "సమస్త ప్రాణుల పట్ల దయ చూపే"
+    },
+    {
+      "original": "उर्वीसर्वजनेश्वरी",
+      "transliteration": "భగవతి",
+      "translation": "దేవత"
+    },
+    {
+      "original": "भगवती",
+      "transliteration": "మాతాన్నపూర్ణేశ్వరీ",
+      "translation": "అన్నపూర్ణ మాత"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "వేణీనీలసమానకుంటలహరి",
+      "translation": "నీల కుంతలాలతో అలంకరించిన"
+    },
+    {
+      "original": "वेणीनीलसमानकुन्तलहरी",
+      "transliteration": "నిత్యాన్నదానేశ్వరీ",
+      "translation": "శాశ్వత అन्नాన్ని ప్రసాదించే"
+    },
+    {
+      "original": "नित्यान्नदानेश्वरी",
+      "transliteration": "సర్వానందకరి",
+      "translation": "అన్ని రకాల ఆనందాలను ప్రసాదించే"
+    },
+    {
+      "original": "सर्वानन्दकरी",
+      "transliteration": "సదా శుభకరి",
+      "translation": "ఎప్పుడూ శుభాన్ని ప్రసాదించే"
+    },
+    {
+      "original": "सदा शुभकरी",
+      "transliteration": "కాశీపురాధీశ్వరీ",
+      "translation": "కాశీ పురలోని దేవత"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "భిక్షాం",
+      "translation": "భిక్షను ఇవ్వండి"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "దేవి",
+      "translation": "ఇవ్వండి"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "కృపావలంబనకరి",
+      "translation": "కృపను ప్రదర్శించే"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "మాతాన్నపూర్ణేశ్వరీ",
+      "translation": "అన్నపూర్ణ మాత"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "ఆదిక్షాంతసమస్తవర్ణనకరి",
+      "translation": "ఆదిగా మొదలైన మరియు సమస్త రంగాలను వర్ణించే"
+    },
+    {
+      "original": "आदिक्षान्तसमस्तवर्णनकरी",
+      "transliteration": "శంభోస్త్రిభావాకరి",
+      "translation": "శంభుని మూడు రూపాలను చూపించే"
+    },
+    {
+      "original": "शम्भोस्त्रिभावाकरी",
+      "transliteration": "కాశ్మీరాత్రిజలేశ్వరీ",
+      "translation": "కాశ్మీర్ ప్రాంతంలోని దేవత"
+    },
+    {
+      "original": "काश्मीरात्रिजलेश्वरी",
+      "transliteration": "త్రిలహరీ",
+      "translation": "మూడు తరంగాలను కలిగి ఉన్న"
+    },
+    {
+      "original": "त्रिलहरी",
+      "transliteration": "నిత్యాంకురా శర్వరీ",
+      "translation": "శాశ్వత ఆరంభం కలిగిన శర్వరీ"
+    },
+    {
+      "original": "नित्याङ्कुरा शर्वरी",
+      "transliteration": "కామాకాంక్షకరి",
+      "translation": "కామనలను నెరవేర్చే"
+    },
+    {
+      "original": "कामाकाङ्क्षकरी",
+      "transliteration": "జనోదయకరి",
+      "translation": "ప్రజల జాతీయాభివృద్ధిని చేపట్టే"
+    },
+    {
+      "original": "जनोदयकरी",
+      "transliteration": "కాశీపురాధీశ్వరీ",
+      "translation": "కాశీ పురలోని దేవత"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "భిక్షాం",
+      "translation": "భిక్షను ఇవ్వండి"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "దేవి",
+      "translation": "ఇవ్వండి"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "కృపావలంబనకరి",
+      "translation": "కృపను ప్రదర్శించే"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "మాతాన్నపూర్ణేశ్వరీ",
+      "translation": "అన్నపూర్ణ మాత"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "దేవి",
+      "translation": "దేవత"
+    },
+    {
+      "original": "सर्वविचित्ररत्नरचिता",
+      "transliteration": "సర్వవిచిత్రరత్నరచితా",
+      "translation": "అన్ని రకాల రత్నాలతో అలంకరించబడిన"
+    },
+    {
+      "original": "दाक्षायणी",
+      "transliteration": "ఢాక్షాయణి",
+      "translation": "దక్షిణ పంథాను అనుసరించే"
+    },
+    {
+      "original": "सुन्दरी",
+      "transliteration": "సుందరీ",
+      "translation": "అందమైన"
+    },
+    {
+      "original": "वामं",
+      "transliteration": "వామం",
+      "translation": "ఎడమ"
+    },
+    {
+      "original": "स्वादुपयोधरप्रियकरी",
+      "transliteration": "స్వాదుపయోధర్‌ప్రియకరి",
+      "translation": "తియ్యని పానీయం ఇచ్చే"
+    },
+    {
+      "original": "सौभाग्यमाहेश्वरी",
+      "transliteration": "సౌభాగ్యమాహేశ్వరీ",
+      "translation": "శుభవైభోగం ప్రసాదించే"
+    },
+    {
+      "original": "भक्ताभीष्टकरी",
+      "transliteration": "భక్తాభీష్టకరి",
+      "translation": "భక్తుల ఇష్టాలను నెరవేర్చే"
+    },
+    {
+      "original": "सदा शुभकरी",
+      "transliteration": "సదా శుభకరి",
+      "translation": "ఎప్పుడూ శుభాన్ని ప్రసాదించే"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "కాశీపురాధీశ్వరీ",
+      "translation": "కాశీ పురలోని దేవత"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "భిక్షాం",
+      "translation": "భిక్షను ఇవ్వండి"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "దేవి",
+      "translation": "ఇవ్వండి"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "కృపావలంబనకరి",
+      "translation": "కృపను ప్రదర్శించే"
+    },
+    {
+      "original": "चन्द्रार्कानलकोटिकोटिसदृशा",
+      "transliteration": "మాతాన్నపూర్ణేశ్వరీ",
+      "translation": "అన్నపూర్ణ మాత"
+    },
+    {
+      "original": "चन्द्रांशुबिम्बाधरी",
+      "transliteration": "చంద్రార్కానలకోటికోటిసదృశా",
+      "translation": "చంద్రుని, సూర్యుని మరియు అగ్ని యొక్క కాంతి కలిగి ఉన్న"
+    },
+    {
+      "original": "चन्द्रार्काग्निसमानकुन्तलधरी",
+      "transliteration": "చంద్రాంశుబింబాధరి",
+      "translation": "చంద్రుని కాంతిని ధరించే"
+    },
+    {
+      "original": "चन्द्रार्कवर्णेश्वरी",
+      "transliteration": "చంద్రార్కాగ్నిసమానకుంటలధరి",
+      "translation": "చంద్రుని, సూర్యుని మరియు అగ్ని యొక్క కాంతిని కలిగిన"
+    },
+    {
+      "original": "मालापुस्तकपाशासाङ्कुशधरी",
+      "transliteration": "చంద్రార్కవర్ణేశ్వరీ",
+      "translation": "చంద్రుని, సూర్యుని మరియు అగ్ని యొక్క రంగులను కలిగిన"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "మాలాపుస్తకపాశాసాంకుశధరి",
+      "translation": "మాల, పుస్తకాలు, పాశాలు మరియు సంకుశాలను ధరించే"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "కాశీపురాధీశ్వరీ",
+      "translation": "కాశీ పురలోని దేవత"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "భిక్షాం",
+      "translation": "భిక్షను ఇవ్వండి"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "దేవి",
+      "translation": "ఇవ్వండి"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "కృపావలంబనకరి",
+      "translation": "కృపను ప్రదర్శించే"
+    },
+    {
+      "original": "चन्द्रार्कानलकोटिकोटिसदृशा",
+      "transliteration": "మాతాన్నపూర్ణేశ్వరీ",
+      "translation": "అన్నపూర్ణ మాత"
+    },
+    {
+      "original": "चन्द्रांशुबिम्बाधरी",
+      "transliteration": "క్షత్రత్రాణకరి",
+      "translation": "రక్షక శక్తి కలిగిన"
+    },
+    {
+      "original": "चन्द्रार्काग्निसमानकुन्तलधरी",
+      "transliteration": "మహాఽభయకరి",
+      "translation": "భయాన్ని నివారించే"
+    },
+    {
+      "original": "चन्द्रार्कवर्णेश्वरी",
+      "transliteration": "మాత కృపాసాగరీ",
+      "translation": "కృప నదిని అందించే"
+    },
+    {
+      "original": "मालापुस्तकपाशासाङ्कुशधरी",
+      "transliteration": "సాక్షాన్మోక్షకరి",
+      "translation": "మోక్షాన్ని ప్రసాదించే"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "సదా శివకరి",
+      "translation": "ఎప్పుడూ శివప్రకాషాన్ని ప్రసాదించే"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "విశ్వేశ్వరశ్రీధరీ",
+      "translation": "విశ్వేశ్వర దేవతను ధరించే"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "దక్షాక్రందకరి",
+      "translation": "దక్షను విలపింపజేసే"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "నిరామయకరి",
+      "translation": "ఆరోగ్యాన్ని ప్రసాదించే"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "కాశీపురాధీశ్వరీ",
+      "translation": "కాశీ పురలోని దేవత"
+    },
+    {
+      "original": "क्षत्रत्राणकरी",
+      "transliteration": "భిక్షాం",
+      "translation": "భిక్షను ఇవ్వండి"
+    },
+    {
+      "original": "महाऽभयकरी",
+      "transliteration": "దేవి",
+      "translation": "ఇవ్వండి"
+    },
+    {
+      "original": "माता",
+      "transliteration": "కృపావలంబనకరి",
+      "translation": "కృపను ప్రదర్శించే"
+    },
+    {
+      "original": "कृपासागरी",
+      "transliteration": "మాతాన్నపూర్ణేశ్వరీ",
+      "translation": "అన్నపూర్ణ మాత"
+    },
+    {
+      "original": "साक्षान्मोक्षकरी",
+      "transliteration": "అన్నపూర్ణే",
+      "translation": "అన్నం మరియు ఆహారం ఇవ్వే దేవత"
+    },
+    {
+      "original": "सदा शिवकरी",
+      "transliteration": "సదాపూర్ణే",
+      "translation": "ఎప్పుడూ పూర్ణమైన"
+    },
+    {
+      "original": "विश्वेश्वरश्रीधरी",
+      "transliteration": "శంకరప్రాణవల్లభే",
+      "translation": "శంకరుని ప్రాణాలను నమ్మిన"
+    },
+    {
+      "original": "दक्षाक्रन्दकरी",
+      "transliteration": "జ్ఞానవైరాగ్యసిద్ధ్యర్థం",
+      "translation": "జ్ఞానం మరియు వైరాగ్యాన్ని సాధించడానికి"
+    },
+    {
+      "original": "निरामयकरी",
+      "transliteration": "భిక్షాం దేవి",
+      "translation": "భిక్షను ఇవ్వండి"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "చ పార్వతి",
+      "translation": "పార్వతి మాత"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "మాత",
+      "translation": "తల్లి"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "చ",
+      "translation": "మరియు"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "పార్వతి",
+      "translation": "పార్వతి దేవి"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "దేవి",
+      "translation": "దేవత"
+    },
+    {
+      "original": "अन्नपूर्णे",
+      "transliteration": "పితా",
+      "translation": "పిత"
+    },
+    {
+      "original": "सदापूर्णे",
+      "transliteration": "దేవో",
+      "translation": "దేవుడు"
+    },
+    {
+      "original": "शङ्करप्राणवल्लभे",
+      "transliteration": "మహేశ్వరః",
+      "translation": "మహేశ్వరుడు"
+    },
+    {
+      "original": "ज्ञानवैराग्यसिद्ध्यर्थं",
+      "transliteration": "బాంధవాః",
+      "translation": "బంధువులు"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "శివభక్తాశ్చ",
+      "translation": "శివభక్తులు"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "స్వదేశో",
+      "translation": "స్వదేశం"
+    },
+    {
+      "original": "च",
+      "transliteration": "భువనత్రయమ్",
+      "translation": "భూతలము, స్వర్గం మరియు ఆకాశం"
+    },
+    {
+      "original": "पार्वति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "माता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पार्वती",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पिता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देवो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "महेश्वरः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बान्धवाः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शिवभक्ताश्च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वदेशो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भुवनत्रयम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\telugu\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\telugu\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.187Z"
+  }
+}

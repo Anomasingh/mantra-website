@@ -1,0 +1,2049 @@
+{
+  "mantra": "mahisasur_mardini",
+  "language": "malayalam",
+  "type": "word_to_word",
+  "totalWords": 407,
+  "alignedWords": [
+    {
+      "original": "अयि",
+      "transliteration": "അയി",
+      "translation": "ഗിരിനന്ദിനി"
+    },
+    {
+      "original": "गिरिनन्दिनि",
+      "transliteration": "ഗിരിനന്ദിനി",
+      "translation": "നന്ദിതമേദിനി"
+    },
+    {
+      "original": "नन्दितमेदिनि",
+      "transliteration": "നന്ദിതമേദിനി",
+      "translation": "വിശ്വവിനോദിനി"
+    },
+    {
+      "original": "विश्वविनोदिनि",
+      "transliteration": "വിശ്വവിനോദിനി",
+      "translation": "നന്ദിനുതെ"
+    },
+    {
+      "original": "नन्दिनुते",
+      "transliteration": "നന്ദിനുതെ",
+      "translation": "ഗിരിവരവിന്ധ്യശിരോദിനിവാ"
+    },
+    {
+      "original": "गिरिवरविन्ध्यशिरोऽधिनिवासिनि",
+      "transliteration": "ഗിരിവരവിന്ധ്യശിരോദിനിവാ",
+      "translation": "സിനി"
+    },
+    {
+      "original": "विष्णुविलासिनि",
+      "transliteration": "സിനി",
+      "translation": "വിഷ്ണുവിലാസിനി"
+    },
+    {
+      "original": "जिष्णुनुते",
+      "transliteration": "വിഷ്ണുവിലാസിനി",
+      "translation": "ജിഷ്ണുനുതെ"
+    },
+    {
+      "original": "भगवति",
+      "transliteration": "ജിഷ്ണുനുതെ",
+      "translation": "ഭഗവതി"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ഭഗവതി",
+      "translation": "ശിതികണ്ഠകുടുംബിനി"
+    },
+    {
+      "original": "शितिकण्ठकुटुम्बिनि",
+      "transliteration": "ശിതികണ്ഠകുടുംബിനി",
+      "translation": "ഭൂരികുടുംബിനി"
+    },
+    {
+      "original": "भूरिकुटुम्बिनि",
+      "transliteration": "ഭൂരികുടുംബിനി",
+      "translation": "ഭൂരികൃते"
+    },
+    {
+      "original": "भूरिकृते",
+      "transliteration": "ജയ്",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "जय",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "മഹിഷാസുരവധിനി"
+    },
+    {
+      "original": "जय",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "സുന്ദരമായ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ശൈലസുതെ",
+      "translation": "പർവ്വതകുമാരി"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "शैलसुते",
+      "translation": "പർവ്വതകുമാരി"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "സുരവർവർഷിണി",
+      "translation": "ദൈവങ്ങളുടെ മഴവരുത്തുന്ന"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ദുർധരധർശിണി",
+      "translation": "കഠിനമായ തടസ്സങ്ങളെ നീക്കം ചെയ്യുന്ന"
+    },
+    {
+      "original": "सुरवरवर्षिणि",
+      "transliteration": "ദുർമുഖമർശിണി",
+      "translation": "മുരശ്ശികം തടയുന്ന"
+    },
+    {
+      "original": "दुर्धरधर्षिणि",
+      "transliteration": "ഹർഷരതെ",
+      "translation": "സന്തോഷത്തോടെ കളിക്കുന്ന"
+    },
+    {
+      "original": "दुर्मुखमर्षिणि",
+      "transliteration": "ത്രിബുവനപോഷിണി",
+      "translation": "മൂന്നായുള്ള ലോകത്തോടുള്ള സംരക്ഷണം"
+    },
+    {
+      "original": "हर्षरते",
+      "transliteration": "ശങ്കരതോഷിണി",
+      "translation": "ശങ്കരനെ സന്തോഷിപ്പിക്കുന്ന"
+    },
+    {
+      "original": "त्रिभुवनपोषिणि",
+      "transliteration": "കിൽബിഷമോഷിണി",
+      "translation": "പാപങ്ങൾ നീക്കം ചെയ്യുന്ന"
+    },
+    {
+      "original": "शङ्करतोषिणि",
+      "transliteration": "ഘോഷരതെ",
+      "translation": "പ്രഖ്യാപനം ചെയ്യുന്ന"
+    },
+    {
+      "original": "किल्बिषमोषिणि",
+      "transliteration": "ദനുജനിരോഷിണി",
+      "translation": "ദനു ജനങ്ങളെ നശിപ്പിക്കുന്ന"
+    },
+    {
+      "original": "घोषरते",
+      "transliteration": "ദിതിസുതരോഷിണി",
+      "translation": "ദിതിയുടെ മകനെ ദോഷിപ്പിക്കുന്ന"
+    },
+    {
+      "original": "दनुजनिरोषिणि",
+      "transliteration": "ദുർമദശോഷിണി",
+      "translation": "ദുർബലമായ മനസ്സിനെ നശിപ്പിക്കുന്ന"
+    },
+    {
+      "original": "दितिसुतरोषिणि",
+      "transliteration": "സിന്ദുസുതെ",
+      "translation": "സമുദ്രത്തിന്റെ മക്കൾ"
+    },
+    {
+      "original": "दुर्मदशोषिणि",
+      "transliteration": "ജയ്",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "सिन्धुसुते",
+      "transliteration": "महिषासुरमर्दിനि",
+      "translation": "മഹിഷാസുരദിനി"
+    },
+    {
+      "original": "जय",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ശൈലസുതെ",
+      "translation": "പർവ്വതകുമാരി"
+    },
+    {
+      "original": "हे",
+      "transliteration": "അയി",
+      "translation": "ശ്രേഷ്ഠമായ അമ്മ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ജഗദംബ",
+      "translation": "ലോകമാതാ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "മദംബ",
+      "translation": "മനസ്സ് ഉള്ള അമ്മ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "കദംബ",
+      "translation": "കദമ്പു പൂക്കളാൽ അലങ്കരിച്ചവൾ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "വനപ്രിയവാസിനി",
+      "translation": "കാടുകളിൽ വാസിക്കുന്നവളായിരിക്കും"
+    },
+    {
+      "original": "जगदम्ब",
+      "transliteration": "ഹാസരതെ",
+      "translation": "പുറകറ്റൻ പുഞ്ചിരിയുള്ളവളായിരിക്കും"
+    },
+    {
+      "original": "मदम्ब",
+      "transliteration": "ശിഖരി",
+      "translation": "പർവതത്തിന്റെ ശിഖരം"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "ശിരോമണി",
+      "translation": "ആശയുടെ മുത്ത്"
+    },
+    {
+      "original": "वनप्रियवासिनि",
+      "transliteration": "തുങ്‌ഗഹിമാലയ",
+      "translation": "ഉന്നത ഹിമാലയത്തിൽ വാസിക്കുന്നവളായിരിക്കും"
+    },
+    {
+      "original": "हासरते",
+      "transliteration": "ശൃംഗനിജാലയ",
+      "translation": "പർവതത്തിന്റെ മൂലക്കുള്ള വാസം"
+    },
+    {
+      "original": "शिखरी",
+      "transliteration": "മദ്ധ്യഗതെ",
+      "translation": "മധ്യത്തിൽ താമസിക്കുന്നവളായിരിക്കും"
+    },
+    {
+      "original": "शिरोमणि",
+      "transliteration": "മധുമധുരെ",
+      "translation": "രുചികരമായ"
+    },
+    {
+      "original": "तुङ्गहिमालय",
+      "transliteration": "മധുകൈടഭഗംജിനി",
+      "translation": "മധു, കൈടഭ ദോഷികളെ തോൽപ്പിച്ചവളായിരിക്കും"
+    },
+    {
+      "original": "शृङ्गनिजालय",
+      "transliteration": "കൈടഭഭംഗിനി",
+      "translation": "കൈടഭനെ ഇല്ലാതാക്കിയവളായിരിക്കും"
+    },
+    {
+      "original": "मध्यगते",
+      "transliteration": "രാസരതെ",
+      "translation": "നൃത്തത്തിന്റെ ഭാഗമായവളായിരിക്കും"
+    },
+    {
+      "original": "मधुमधुरे",
+      "transliteration": "ജയം",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "मधुकैटभगञ्जिनी",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ ജയിച്ചവളായിരിക്കും"
+    },
+    {
+      "original": "कैटभभञ्जिनी",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "സുന്ദരമായ മൂടി ധരിച്ചവളായിരിക്കും"
+    },
+    {
+      "original": "रासरते",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതത്തിന്റെ മകളായവളായിരിക്കും"
+    },
+    {
+      "original": "जय",
+      "transliteration": "അയി",
+      "translation": "പ്രഭു"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ശതഖണ്ഡ",
+      "translation": "ശതവിഭാഗം"
+    },
+    {
+      "original": "हे",
+      "transliteration": "വിഖണ്ഡിതരുണ്ഡ",
+      "translation": "വിഖണ്ഡിതമായ തലവാചകം"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "വിതുണ്ഡിതശുണ്ഡ",
+      "translation": "പിന്നിൽ വീതിയുള്ള തലമുഖം"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ഗജാധിപതേ",
+      "translation": "ആനമാൻജൊരു"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "രിപുഗജഗണ്ട്",
+      "translation": "ശത്രുവിന്റെ ആനാമുടി"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "വിദാരണചണ്ടാ",
+      "translation": "ഭീമമായ യുദ്ധകാലം"
+    },
+    {
+      "original": "शतखण्ड",
+      "transliteration": "പരാക്രമശുണ്ഡ",
+      "translation": "ശക്തി കൈവരിച്ച തലമേല്"
+    },
+    {
+      "original": "विखण्डितरुण्ड",
+      "transliteration": "മൃഗാധിപതേ",
+      "translation": "മൃഗാധിപം"
+    },
+    {
+      "original": "वितुण्डितशुण्द",
+      "transliteration": "നിജഭുജദണ്ഠ",
+      "translation": "സ്വന്തം കൈകൊണ്ട്"
+    },
+    {
+      "original": "गजाधिपते",
+      "transliteration": "നിപാതിതഖണ്ഡ",
+      "translation": "പിരിഞ്ഞ വളഞ്ഞ പാരമ്പര്യം"
+    },
+    {
+      "original": "रिपुगजगण्ड",
+      "transliteration": "വിപാതിതമുണ്ഡ",
+      "translation": "പിരിഞ്ഞ തല"
+    },
+    {
+      "original": "विदारणचण्ड",
+      "transliteration": "ഭടാധിപതേ",
+      "translation": "പടാമേല്"
+    },
+    {
+      "original": "पराक्रमशुण्ड",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "मृगाधिपते",
+      "transliteration": "മഹিষാസുരമർഡിനി",
+      "translation": "പാരമ്പര്യത്തെ തകര്‍ക്കുന്നത്"
+    },
+    {
+      "original": "निजभुजदण्ड",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "ശുദ്ധമായ പെണ്ണായിരിക്കും"
+    },
+    {
+      "original": "निपातितखण्ड",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവ്വതം"
+    },
+    {
+      "original": "विपातितमुण्ड",
+      "transliteration": "അയി",
+      "translation": "പ്രഭു"
+    },
+    {
+      "original": "भटाधिपते",
+      "transliteration": "രണദുർമദ",
+      "translation": "യുദ്ധത്തിന്റെ ഉന്മാദം"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ശത്രുവധോദിത",
+      "translation": "ശത്രുവധം"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ദുര്ധരനിർജര",
+      "translation": "കഠിനമായ ദേവൻ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ശക്തിഭൃതേ",
+      "translation": "ശക്തി ധാരകൻ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ചതുരവിചാര",
+      "translation": "ചതുരമായ ചിന്തനം"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ധുരീണമഹാശിവ",
+      "translation": "മഹാദേവൻ മഹാശിവൻ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ദൂതകൃത",
+      "translation": "ദൂതൻ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "പ്രമഥാധിപതേ",
+      "translation": "ഭൂതഗണങ്ങളുടെ നാഥൻ"
+    },
+    {
+      "original": "रणदुर्मद",
+      "transliteration": "ദുരിതദുരീഹ",
+      "translation": "ദുർഗതിയുള്ള"
+    },
+    {
+      "original": "शत्रुवधोदित",
+      "transliteration": "ദുരാശയദുർമതി",
+      "translation": "ദുർബലമായ മനസ്സ്"
+    },
+    {
+      "original": "दुर्धरनिर्जर",
+      "transliteration": "ദാനവദൂത",
+      "translation": "ദാനവന്റെ ദൂതൻ"
+    },
+    {
+      "original": "शक्तिभृते",
+      "transliteration": "കൃതാന്തമതേ",
+      "translation": "വിനാശകരൻ"
+    },
+    {
+      "original": "चतुरविचार",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "धुरीणमहाशिव",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "दूतकृत",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "प्रमथाधिपते",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "दुरितदुरीह",
+      "transliteration": "അയി",
+      "translation": "ശരണാർത്ഥി"
+    },
+    {
+      "original": "दुराशयदुर्मति",
+      "transliteration": "ശരണാഗത",
+      "translation": "ആശ്രയിച്ചവൻ"
+    },
+    {
+      "original": "दानवदुत",
+      "transliteration": "വൈരിവധുവർ",
+      "translation": "ശത്രുവിന്റെ പുത്രി"
+    },
+    {
+      "original": "कृतान्तमते",
+      "transliteration": "വീരവരാഭയ",
+      "translation": "വീരർക്കുള്ള അഭയം"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ദായകരേ",
+      "translation": "ദാനം ചെയ്യുന്നത്"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ത്രിഭുവനമസ്തക",
+      "translation": "മൂന്നു ലോകങ്ങളുടെ തല"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ശൂലവിരോധി",
+      "translation": "ശൂലത്തിന്റെ വിരോധി"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ശിരോऽധികൃതാമല",
+      "translation": "തലയിൽ ഉള്ള ശുദ്ധി"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ശൂലകരേ",
+      "translation": "ശൂലധാരകൻ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ദുമിദുമിതാമര",
+      "translation": "നാദമയം"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ധുന്ദുഭിനാദമഹോമുഖരീകൃത",
+      "translation": "മഹാനാദം സൃഷ്ടിച്ചത്"
+    },
+    {
+      "original": "शरणागत",
+      "transliteration": "ദിങ്മകരേ",
+      "translation": "ദിക്കുകൾനിറച്ച"
+    },
+    {
+      "original": "वैरिवधुवर",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "वीरवराभय",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "दायकरे",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "त्रिभुवनमस्तक",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "शुलविरोधि",
+      "transliteration": "അയി",
+      "translation": "പ്രഭു"
+    },
+    {
+      "original": "शिरोऽधिकृतामल",
+      "transliteration": "നിജഹുങ്കൃതി",
+      "translation": "സ്വന്തമായ ഹുങ্কാരം"
+    },
+    {
+      "original": "शुलकरे",
+      "transliteration": "മാത്രനിരാകൃത",
+      "translation": "നിശ്ചയമായ നിരാകരണം"
+    },
+    {
+      "original": "दुमिदुमितामर",
+      "transliteration": "ധൂമ്രവിലോചന",
+      "translation": "ധൂമ്രവിലോചനൻ"
+    },
+    {
+      "original": "धुन्दुभिनादमहोमुखरीकृत",
+      "transliteration": "ധൂമ്രശതേ",
+      "translation": "ധൂമ്രന്റെ നൂറുകൾ"
+    },
+    {
+      "original": "दिङ्मकरे",
+      "transliteration": "സമരവിശോഷിത",
+      "translation": "യുദ്ധത്തിൽ വിഴുങ്ങിയ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ശോണിതബീജ",
+      "translation": "രക്തത്തിലെ വിത്തുകൾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "സമുദ്ഭവശോണിത",
+      "translation": "ഉൽഭവമായ രക്തം"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ബീജലതേ",
+      "translation": "വിത്തുകളുടെ വള്ളി"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "ശിവശിവശുമ്ഭ",
+      "translation": "ശിവനും ശുംഭനും"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "നിശുമ്ഭമഹാഹവ",
+      "translation": "നിശുംഭന്റെ വലിയ യുദ്ധം"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "തൃപ്തഭൂത",
+      "translation": "ഭൂതങ്ങൾ തൃപ്തരായ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "പിശാചരതേ",
+      "translation": "പിശാചുകൾ പ്രിയമുള്ള"
+    },
+    {
+      "original": "निजहुङ्कृति",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "मात्रनिराकृत",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "धूम्रविलोचन",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "धूम्रशते",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "समरविशोषित",
+      "transliteration": "ധനുരനുശംഗ",
+      "translation": "വില്ലിന് അടുക്കെ"
+    },
+    {
+      "original": "शोणितबीज",
+      "transliteration": "രണക്ഷണസംഗ",
+      "translation": "യുദ്ധത്തിന്റെ സമയത്തെ"
+    },
+    {
+      "original": "समुद्भवशोणित",
+      "transliteration": "പരിസ്ഫുരദംഗ",
+      "translation": "പ്രഭയും പ്രകടിപ്പിക്കുന്ന ശരീരം"
+    },
+    {
+      "original": "बीजलते",
+      "transliteration": "നടത്കടകെ",
+      "translation": "കടകങ്ങൾ നൃത്തം ചെയ്യുന്ന"
+    },
+    {
+      "original": "शिवशिवशुम्भ",
+      "transliteration": "കനകപിശംഗ",
+      "translation": "സ്വർണ നിറമുള്ള"
+    },
+    {
+      "original": "निशुम्भमहाहव",
+      "transliteration": "പൃഷത്കനിഷംഗ",
+      "translation": "അമ്പുകളുടെ തുരുത്ത്"
+    },
+    {
+      "original": "तर्पितभूत",
+      "transliteration": "രസദ്ഭടശൃംഗ",
+      "translation": "ഉത്സാഹമുള്ള സൈനികൻ"
+    },
+    {
+      "original": "पिशाचरते",
+      "transliteration": "ഹതാബടുകേ",
+      "translation": "വധിക്കപ്പെട്ട യോദ്ധാവ്"
+    },
+    {
+      "original": "जय",
+      "transliteration": "കൃതചതുരംഗ",
+      "translation": "നാലു ഭാഗങ്ങളും ക്രമീകരിച്ച"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ബലക്ഷിതിരംഗ",
+      "translation": "സൈന്യത്തിന്റെ ഭൂമിയിൽ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ഘടദ്ബഹുരംഗ",
+      "translation": "നാനാവിധമോ നാടകം"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "രടദ്ബടുകേ",
+      "translation": "ബാല യോദ്ധാവ് ചെറുത്ത"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "धनुरनुषङ्ग",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "रणक्षणसङ्ग",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "परिस्फुरदङ्ग",
+      "transliteration": "സുരലലനാ",
+      "translation": "ദേവതകളുടെ സുന്ദരിയർ"
+    },
+    {
+      "original": "नटत्कटके",
+      "transliteration": "തതഥേയി",
+      "translation": "അതേ അല്ലോ"
+    },
+    {
+      "original": "कनकपिशङ्ग",
+      "transliteration": "തതഥേയി",
+      "translation": "അതേ അല്ലോ"
+    },
+    {
+      "original": "पृषत्कनिषङ्ग",
+      "transliteration": "കൃതാഭിനയോദര",
+      "translation": "അഭിനയം കാഴ്ചവെച്ചവൾ"
+    },
+    {
+      "original": "रसद्भटशृङ्ग",
+      "transliteration": "നൃത്തരതേ",
+      "translation": "നൃത്തത്തിൽ പ്രിയമുള്ളവൾ"
+    },
+    {
+      "original": "हताबटुके",
+      "transliteration": "കൃത",
+      "translation": "ചെയ്തു"
+    },
+    {
+      "original": "कृतचतुरङ्ग",
+      "transliteration": "കുകുതഃ",
+      "translation": "കുക്കുതം (കോഴി)"
+    },
+    {
+      "original": "बलक्षितिरङ्ग",
+      "transliteration": "കുകുതോ",
+      "translation": "കുക്കുതത്തിന്റെ"
+    },
+    {
+      "original": "घटद्बहुरङ्ग",
+      "transliteration": "ഗഡദാദികതാള",
+      "translation": "താളത്തിൽ"
+    },
+    {
+      "original": "रटद्बटुके",
+      "transliteration": "കുതൂഹല",
+      "translation": "ഉത്സുകത"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ഗാനരതേ",
+      "translation": "ഗാനത്തിൽ പ്രിയമുള്ളവൾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ധുധുകുട",
+      "translation": "മൃദംഗ നാദം"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ധുക്കുട",
+      "translation": "മൃദംഗ നാദം"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ധിംധിമിത",
+      "translation": "നാദം"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ധ്വനി",
+      "translation": "ശബ്ദം"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ധീര",
+      "translation": "ധീരനായ"
+    },
+    {
+      "original": "सुरललना",
+      "transliteration": "മൃദംഗ",
+      "translation": "മൃദംഗം"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "നിനാദരതേ",
+      "translation": "ശബ്ദത്തിൽ രതനായ"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "कृताभिनयोदर",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "नृत्यरते",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "कृत",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "कुकुथः",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "कुकुथो",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "गडदादिकताल",
+      "transliteration": "ജപ്യ",
+      "translation": "ജപിക്കപ്പെടുന്നത്"
+    },
+    {
+      "original": "कुतूहल",
+      "transliteration": "ജയേജയശബ്ദ",
+      "translation": "ജയമെന്ന ആവർത്ത ശബ്ദം"
+    },
+    {
+      "original": "गानरते",
+      "transliteration": "പരസ്തുതി",
+      "translation": "മറ്റുള്ളവരുടെ സ്‌തുതി"
+    },
+    {
+      "original": "धुधुकुट",
+      "transliteration": "തത്പര",
+      "translation": "സജ്ജനും താത്പര്യശീലനും"
+    },
+    {
+      "original": "धुक्कुट",
+      "transliteration": "വിശ്വനുതേ",
+      "translation": "ലോകമെങ്ങും പ്രസിദ്ധമായ"
+    },
+    {
+      "original": "धिंधिमित",
+      "transliteration": "ഝണഝണഝിഞ്ഝിമി",
+      "translation": "ഝണഝണ ശബ്ദം"
+    },
+    {
+      "original": "ध्वनि",
+      "transliteration": "ഝിങ്കൃത",
+      "translation": "നൂപുരം ഉണ്ടാക്കിയ ശബ്ദം"
+    },
+    {
+      "original": "धीर",
+      "transliteration": "നൂപുരശിഞ്ജിത",
+      "translation": "നൂപുരത്തിന്റെ ശബ്ദം"
+    },
+    {
+      "original": "मृदंग",
+      "transliteration": "മോഹിത",
+      "translation": "ആകർഷിക്കപ്പെട്ട"
+    },
+    {
+      "original": "निनादरते",
+      "transliteration": "ഭൂതപതേ",
+      "translation": "ഭൂതങ്ങളുടെ അധിപൻ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "നടിത",
+      "translation": "നൃത്തം ചെയ്ത"
+    },
+    {
+      "original": "जय",
+      "transliteration": "നടാർധ",
+      "translation": "നൃത്തകലയിലെ ഭാഗം"
+    },
+    {
+      "original": "हे",
+      "transliteration": "നടി",
+      "translation": "നൃത്തകലയിലെ വിദഗ്‌ധ"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "നട",
+      "translation": "നടൻ"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "നായക",
+      "translation": "നായകൻ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "നാടിതനാട്യ",
+      "translation": "നാടകത്തിൽ അഭിനയിച്ച"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "സുഗാനരതേ",
+      "translation": "മധുരഗാനത്തിൽ രതനായ"
+    },
+    {
+      "original": "गिरिनन्दिनि",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "नन्दितमेदिनि",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "विश्वविनोदिनि",
+      "transliteration": "ഹേ",
+      "translation": "ആഹ്വാനം"
+    },
+    {
+      "original": "नन्दिनुते",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "गिरिवरविन्ध्यशिरोऽधिनिवासिनि",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "विष्णुविलासिनि",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "जिष्णुनुते",
+      "transliteration": "അയി",
+      "translation": "ഓ മനോഹരിയേ"
+    },
+    {
+      "original": "भगवति",
+      "transliteration": "സുമനഃസുമനഃസുമനഃ",
+      "translation": "സുഗന്ധമുള്ള പുഷ്പങ്ങൾ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "സുമനഃസുമനോഹരകാന്തിയുതേ",
+      "translation": "സുന്ദരമായ പ്രകാശമുള്ളവളേ"
+    },
+    {
+      "original": "शितिकण्ठकुटुम्बिनि",
+      "transliteration": "ശ്രിതരജനീ",
+      "translation": "രാത്രിയെ ആശ്രയിച്ച"
+    },
+    {
+      "original": "भूरिकुटुम्बिनि",
+      "transliteration": "രജനീരജനീ",
+      "translation": "രാത്രിയുടെ രാത്രി"
+    },
+    {
+      "original": "भूरिकृते",
+      "transliteration": "രജനീരജനീ",
+      "translation": "രാത്രിയുടെ രാത്രി"
+    },
+    {
+      "original": "जय",
+      "transliteration": "കരവക്ത്രവൃതേ",
+      "translation": "ഹസ്തമുഖം ചുറ്റിയവളേ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "സുനയനവിഭ്രമര",
+      "translation": "സുന്ദരമായ കണ്ണുകളുള്ള"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ഭ്രമരഭ്രമര",
+      "translation": "തേനീച്ചയുടെ മുഴക്കം"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ഭ്രമരഭ്രമര",
+      "translation": "തേനീച്ചയുടെ മുഴക്കം"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "അധിപതേ",
+      "translation": "അധിപൻ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "सुरवरवर्षिणि",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "दुर्धरधर्षिणि",
+      "transliteration": "ഹേ",
+      "translation": "ആഹ്വാനം"
+    },
+    {
+      "original": "दुर्मुखमर्षिणि",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "हर्षरते",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "त्रिभुवनपोषिणि",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "शङ्करतोषिणि",
+      "transliteration": "സഹിതമഹാഹവ",
+      "translation": "മഹായുദ്ധത്തിൽ പങ്കെടുത്ത"
+    },
+    {
+      "original": "किल्बिषमोषिणि",
+      "transliteration": "മല്ലമതല്ലിക",
+      "translation": "മല്ലന്മാരുടെ പോരാട്ടം"
+    },
+    {
+      "original": "घोषरते",
+      "transliteration": "മല്ലിതരല്ലക",
+      "translation": "മല്ലന്മാരുടെ ത്രസിപ്പിക്കുന്ന ചലനം"
+    },
+    {
+      "original": "दनुजनिरोषिणि",
+      "transliteration": "മല്ലരതേ",
+      "translation": "പോരാട്ടത്തിൽ രതയായ"
+    },
+    {
+      "original": "दितिसुतरोषिणि",
+      "transliteration": "വിരചിതവല്ലിക",
+      "translation": "പടർപ്പിച്ച വള്ളികൾ"
+    },
+    {
+      "original": "दुर्मदशोषिणि",
+      "transliteration": "പല്ലികമല്ലിക",
+      "translation": "മഞ്ഞളപ്പൂവുകൾ"
+    },
+    {
+      "original": "सिन्धुसुते",
+      "transliteration": "ഝില്ലികഭില്ലിക",
+      "translation": "മരുനിന്റെ ഗൂജനം"
+    },
+    {
+      "original": "जय",
+      "transliteration": "വർഗവൃതേ",
+      "translation": "സംഘം ചുറ്റിയ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ശിതകൃതഫുല്ല",
+      "translation": "തണുപ്പിൽ പൂത്ത"
+    },
+    {
+      "original": "हे",
+      "transliteration": "സമുല്ലസിതാരുണ",
+      "translation": "പൂർണ്ണമായി തെളിഞ്ഞ ചുവപ്പ്"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "തല്ലജപല്ലവ",
+      "translation": "അടർന്ന പകലിന്റെ ഇലകൾ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "സല്ലലിതേ",
+      "translation": "ശാന്തമായി ചലിക്കുന്ന"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "जगदम्ब",
+      "transliteration": "ഹേ",
+      "translation": "ആഹ്വാനം"
+    },
+    {
+      "original": "मदम्ब",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "वनप्रियवासिनि",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "हासरते",
+      "transliteration": "അവിരലഗണ്ഡ",
+      "translation": "മടിച്ചുതുള്ളുന്ന"
+    },
+    {
+      "original": "शिखरी",
+      "transliteration": "ഗലന്മദമേദുര",
+      "translation": "കവിഞ്ഞൊഴുകുന്ന മദം"
+    },
+    {
+      "original": "शिरोमणि",
+      "transliteration": "മത്തമതംഗ",
+      "translation": "മദം നിറഞ്ഞ ആന"
+    },
+    {
+      "original": "तुङ्गहिमालय",
+      "transliteration": "ജരാജപതേ",
+      "translation": "ആനകളുടെ രാജാവ്"
+    },
+    {
+      "original": "शृङ्गनिजालय",
+      "transliteration": "ത്രിഭുവനഭൂഷണ",
+      "translation": "മൂന്നു ലോകങ്ങളുടെയും അലങ്കാരം"
+    },
+    {
+      "original": "मध्यगते",
+      "transliteration": "ഭൂതകലാനിധി",
+      "translation": "കലകളുടെ നിധി"
+    },
+    {
+      "original": "मधुमधुरे",
+      "transliteration": "രൂപപയോനിധി",
+      "translation": "രൂപത്തിന്റെ സമുദ്രം"
+    },
+    {
+      "original": "मधुकैटभगञ्जिनी",
+      "transliteration": "രാജസുതേ",
+      "translation": "രാജകുമാരി"
+    },
+    {
+      "original": "कैटभभञ्जिनी",
+      "transliteration": "അയി",
+      "translation": "ഓ മനോഹരിയേ"
+    },
+    {
+      "original": "रासरते",
+      "transliteration": "സുദതീജന",
+      "translation": "സുന്ദരമായ പല്ലുള്ളവൾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ലാലസമാനസ",
+      "translation": "ആകാംക്ഷയുള്ള മനസ്സ്"
+    },
+    {
+      "original": "जय",
+      "transliteration": "മോഹന",
+      "translation": "ആകർഷകമായ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "മന്മഥരാജസുതേ",
+      "translation": "കാമദേവന്റെ പുത്രി"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ഹേ",
+      "translation": "ആഹ്വാനം"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "शतखण्ड",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "विखण्डितरुण्ड",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "वितुण्डितशुण्द",
+      "transliteration": "കമലദലാമല",
+      "translation": "തൊഴുതുകൊള്ളാത്ത കമലപ്പൂവിന്റെ തളിര്തളി"
+    },
+    {
+      "original": "गजाधिपते",
+      "transliteration": "കോമലകാന്തി",
+      "translation": "മൃദുലമായ ചായ"
+    },
+    {
+      "original": "रिपुगजगण्ड",
+      "transliteration": "കലാകലിതാമല",
+      "translation": "കലകളാൽ അലങ്കരിച്ച നിഷ്കളങ്കം"
+    },
+    {
+      "original": "विदारणचण्ड",
+      "transliteration": "ഭാലലതേ",
+      "translation": "മുന്നോട്ടുള്ള തിളക്കമുള്ള വിധി"
+    },
+    {
+      "original": "पराक्रमशुण्ड",
+      "transliteration": "സകലവിലാസ",
+      "translation": "എല്ലാ രസങ്ങളും"
+    },
+    {
+      "original": "मृगाधिपते",
+      "transliteration": "കലാനിലയ",
+      "translation": "കലകളുടെ ഭവനം"
+    },
+    {
+      "original": "निजभुजदण्ड",
+      "transliteration": "ക്രമ",
+      "translation": "ക്രമപ്രകാരമുള്ള"
+    },
+    {
+      "original": "निपातितखण्ड",
+      "transliteration": "കേലിചലത്",
+      "translation": "രസത്തോടെ ചലിക്കുന്ന"
+    },
+    {
+      "original": "विपातितमुण्ड",
+      "transliteration": "കലഹംസകുലേ",
+      "translation": "രസവ്യാകുലമായ ഹംസമൂടൽ"
+    },
+    {
+      "original": "भटाधिपते",
+      "transliteration": "അലികുലസംകുല",
+      "translation": "ചിറകുകൾ നിറഞ്ഞ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "കുവലയംണ്ഡല",
+      "translation": "നീല പുഷ്പങ്ങൾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "മൗലിമിലദ്ബകുലാലികുലേ",
+      "translation": "തലയിൽ സംയോജിച്ച ബകുളമാല"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ഹേ",
+      "translation": "ആഹ്വാനം"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "रणदुर्मद",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "शत्रुवधोदित",
+      "transliteration": "കരമുരളീരവ",
+      "translation": "കരവലിയിൽ നിന്നുള്ള മൃദുല ശബ്ദം"
+    },
+    {
+      "original": "दुर्धरनिर्जर",
+      "transliteration": "ਵੀਜਿਤਕੂਜਿਤ",
+      "translation": "വിജയമുള്ള ചലനം"
+    },
+    {
+      "original": "शक्तिभृते",
+      "transliteration": "ലജ്ജിതകോകില",
+      "translation": "ലജ്ജിതമായ കോകിളി"
+    },
+    {
+      "original": "चतुरविचार",
+      "transliteration": "മञ्जുമതേ",
+      "translation": "മൃദുവായ ശബ്ദം"
+    },
+    {
+      "original": "धुरीणमहाशिव",
+      "transliteration": "മിലിതപുലിന്ദ",
+      "translation": "സമന്വയിച്ച പുലിന്ദ"
+    },
+    {
+      "original": "दूतकृत",
+      "transliteration": "മനോഹരഗുഞ്ജിത",
+      "translation": "നിസ്സഹായമായ ഗുഞ്ജനം"
+    },
+    {
+      "original": "प्रमथाधिपते",
+      "transliteration": "രഞ്ജിതശൈല",
+      "translation": "നിറപ്പൊക്കിയ പർവതം"
+    },
+    {
+      "original": "दुरितदुरीह",
+      "transliteration": "നികുഞ്ജഗതേ",
+      "translation": "മികച്ച ദൃശ്യമായ ഇടം"
+    },
+    {
+      "original": "दुराशयदुर्मति",
+      "transliteration": "നിജഗണഭൂത",
+      "translation": "സ്വന്തമായ ഘടകങ്ങൾ"
+    },
+    {
+      "original": "दानवदुत",
+      "transliteration": "महाशबरीगण",
+      "translation": "വിശാലമായ ശബരിഗണ"
+    },
+    {
+      "original": "कृतान्तमते",
+      "transliteration": "സദ്ഗുണസംഭൃത",
+      "translation": "ശ്രേഷ്ഠ ഗുണങ്ങളുടെ സമാഹാരം"
+    },
+    {
+      "original": "जय",
+      "transliteration": "കേലിതലേ",
+      "translation": "സംഗീതത്തിനായി കളിയാക്കുക"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ഹേ",
+      "translation": "ആഹ്വാനം"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "शरणागत",
+      "transliteration": "കടിതടപീത",
+      "translation": "മദ്യരസമുള്ള കടൽ"
+    },
+    {
+      "original": "वैरिवधुवर",
+      "transliteration": "ദുകૂલവിചിത്ര",
+      "translation": "വ്യത്യസ്തമായ സാൻവേദനം"
+    },
+    {
+      "original": "वीरवराभय",
+      "transliteration": "मयुखतिरस्कृत",
+      "translation": "പ്രകാശം പ്രതിരോധിതം"
+    },
+    {
+      "original": "दायकरे",
+      "transliteration": "चन्द्ररुचे",
+      "translation": "ചന്ദ്രന്റെ പ്രകാശം"
+    },
+    {
+      "original": "त्रिभुवनमस्तक",
+      "transliteration": "प्रणतसुरासुर",
+      "translation": "സൂര്യനോടും അശൂരനോടും സമर्पിത"
+    },
+    {
+      "original": "शुलविरोधि",
+      "transliteration": "मौलिमणिस्फुर",
+      "translation": "മണിയുടെ പ്രഭ"
+    },
+    {
+      "original": "शिरोऽधिकृतामल",
+      "transliteration": "दंशुलसन्नख",
+      "translation": "ദന്തത്തിന്റെ ശ്രുതിയോട് ചേർന്ന"
+    },
+    {
+      "original": "शुलकरे",
+      "transliteration": "चन्द्ररुचे",
+      "translation": "ചന്ദ്രന്റെ പ്രകാശം"
+    },
+    {
+      "original": "दुमिदुमितामर",
+      "transliteration": "जितकनकाचल",
+      "translation": "വിജയം നേടിയ കങ്കണം"
+    },
+    {
+      "original": "धुन्दुभिनादमहोमुखरीकृत",
+      "transliteration": "मौलिमदोर्जित",
+      "translation": "മണിക്കൂട്ടം നേടിയ"
+    },
+    {
+      "original": "दिङ्मकरे",
+      "transliteration": "निर्भरकुञ्जर",
+      "translation": "ഭാരമില്ലാത്ത ആന"
+    },
+    {
+      "original": "जय",
+      "transliteration": "कुम्भकुचे",
+      "translation": "കുടംകൊണ്ട് ദൃഷ്ടിമുദ്ര"
+    },
+    {
+      "original": "जय",
+      "transliteration": "जय",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "हे",
+      "transliteration": "जय",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "हे",
+      "translation": "ആഹ്വാനം"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "महिषासुरमर्दिनि",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "रम्यकपर्दिनि",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "शैल्यसुते",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "निजहुङ्कृति",
+      "transliteration": "വിജിതസഹസ്രകരൈക്",
+      "translation": "വെറും അശ്രദ്ധമായ എളുപ്പമുണ്ടാക്കുന്ന"
+    },
+    {
+      "original": "मात्रनिराकृत",
+      "transliteration": "സഹസ്രകരൈക്",
+      "translation": "സഹായകരമായ എളുപ്പമുള്ള"
+    },
+    {
+      "original": "धूम्रविलोचन",
+      "transliteration": "സഹസ്രകരൈകനംUTE",
+      "translation": "ആധിപത്യപ്രവൃത്തിയുള്ള"
+    },
+    {
+      "original": "धूम्रशते",
+      "transliteration": "കൃതസുരതാരക്",
+      "translation": "സഹായം ചെയ്യുന്ന"
+    },
+    {
+      "original": "समरविशोषित",
+      "transliteration": "സംഗരതാരക്",
+      "translation": "ഒരുത്തൻ കഴിയുന്നു"
+    },
+    {
+      "original": "शोणितबीज",
+      "transliteration": "സംഗരതാരക്",
+      "translation": "അതിരക്കുക"
+    },
+    {
+      "original": "समुद्भवशोणित",
+      "transliteration": "സൂനുസുതെ",
+      "translation": "പുറത്തുപോയ"
+    },
+    {
+      "original": "बीजलते",
+      "transliteration": "സുരത്സമാധി",
+      "translation": "വിശ്രമസ്ഥലം"
+    },
+    {
+      "original": "शिवशिवशुम्भ",
+      "transliteration": "സമാനസമാധി",
+      "translation": "സ്വാഭാവിക"
+    },
+    {
+      "original": "निशुम्भमहाहव",
+      "transliteration": "സമാധിസമാധി",
+      "translation": "ആവശ്യമായ"
+    },
+    {
+      "original": "तर्पितभूत",
+      "transliteration": "സൂജാതരതേ",
+      "translation": "പുതിയ അയച്ച"
+    },
+    {
+      "original": "पिशाचरते",
+      "transliteration": "ജയ്",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ജയ്",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ഹേ",
+      "translation": "പ്രണയം"
+    },
+    {
+      "original": "हे",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരനെ നശിപ്പിച്ചവൾ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളോടെ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതരാജകുമാരി"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "പദकमലം",
+      "translation": "പുഷ്‌പം"
+    },
+    {
+      "original": "धनुरनुषङ्ग",
+      "transliteration": "കരുണാനിലയേ",
+      "translation": "ദയയുടെ അതിഥി"
+    },
+    {
+      "original": "रणक्षणसङ्ग",
+      "transliteration": "വരിവശ്യതി",
+      "translation": "നഗവാരിയായ്"
+    },
+    {
+      "original": "परिस्फुरदङ्ग",
+      "transliteration": "യോ ദിനം",
+      "translation": "ആരോചനയുടെ ദിവസം"
+    },
+    {
+      "original": "नटत्कटके",
+      "transliteration": "സുശിവേ",
+      "translation": "ശാന്തിയുള്ള"
+    },
+    {
+      "original": "कनकपिशङ्ग",
+      "transliteration": "അയി",
+      "translation": "അയി"
+    },
+    {
+      "original": "पृषत्कनिषङ्ग",
+      "transliteration": "കമലേ",
+      "translation": "പുഷ്‌പപടുക"
+    },
+    {
+      "original": "रसद्भटशृङ्ग",
+      "transliteration": "കമലാനിലയേ",
+      "translation": "കമലപുഷ്പങ്ങൾ വാസമുള്ള"
+    },
+    {
+      "original": "हताबटुके",
+      "transliteration": "കമലാനിലയം",
+      "translation": "അശ്രദ്ധാനിൽ പാടുതാപം"
+    },
+    {
+      "original": "कृतचतुरङ्ग",
+      "transliteration": "സ",
+      "translation": "ഇത്"
+    },
+    {
+      "original": "बलक्षितिरङ्ग",
+      "transliteration": "കഥം",
+      "translation": "കഥ"
+    },
+    {
+      "original": "घटद्बहुरङ्ग",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "रटद्बटुके",
+      "transliteration": "ഭവേത്",
+      "translation": "തയ്യാറാക്കും"
+    },
+    {
+      "original": "जय",
+      "transliteration": "തവ",
+      "translation": "നിന്റെ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "പദമേവ",
+      "translation": "നിനക്കായിരിക്കും"
+    },
+    {
+      "original": "हे",
+      "transliteration": "പരമ്പദമിത്യമനുഷീലയതോ",
+      "translation": "നിത്യമായ ദൈവായാനുശീലനയോടെ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "മമ",
+      "translation": "എന്റെ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "കിം",
+      "translation": "എന്ത്"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "सुरललना",
+      "transliteration": "ശിവേ",
+      "translation": "ശാന്തി"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "വിജയം",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "വിജയം",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "कृताभिनयोदर",
+      "transliteration": "പ്രണയം",
+      "translation": "പ്രണയം"
+    },
+    {
+      "original": "नृत्यरते",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരത്തെ നശിപ്പിക്കുന്നവൾ"
+    },
+    {
+      "original": "कृत",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളുമായി"
+    },
+    {
+      "original": "कुकुथः",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതകുമാരി"
+    },
+    {
+      "original": "कुकुथो",
+      "transliteration": "കണകലസത്കലസിന്ധുജലൈനുഷിഞ്ചതി",
+      "translation": "ചുവന്നതോടുകൂടിയ പവിത്രജലത്തെ ഒഴുക്കി പോകുന്നു"
+    },
+    {
+      "original": "गडदादिकताल",
+      "transliteration": "തേഗുണരംഗഭുവം",
+      "translation": "പ്രകൃതിയുടെ ആനന്ദഭൂമി"
+    },
+    {
+      "original": "कुतूहल",
+      "transliteration": "ഭജതി",
+      "translation": "പൂജിക്കുന്നു"
+    },
+    {
+      "original": "गानरते",
+      "transliteration": "സ",
+      "translation": "അവൻ"
+    },
+    {
+      "original": "धुधुकुट",
+      "transliteration": "കിം",
+      "translation": "എന്ത്"
+    },
+    {
+      "original": "धुक्कुट",
+      "transliteration": "ന",
+      "translation": "ഇല്ല"
+    },
+    {
+      "original": "धिंधिमित",
+      "transliteration": "ശചीकുचकുംഭതടി പരിരംബസുഖാനുഭവം",
+      "translation": "ശചിയുടെയും ചെമ്പനിറയുടെയും നെഞ്ചുവിപ്ലവങ്ങളെ അനുഭവിക്കുന്നു"
+    },
+    {
+      "original": "ध्वनि",
+      "transliteration": "തവ",
+      "translation": "നിന്റെ"
+    },
+    {
+      "original": "धीर",
+      "transliteration": "ചരണം",
+      "translation": "പാദം"
+    },
+    {
+      "original": "मृदंग",
+      "transliteration": "ശരണം",
+      "translation": "അടക്കം"
+    },
+    {
+      "original": "निनादरते",
+      "transliteration": "കരവാണി",
+      "translation": "നമസ്കാരിക്കുന്നു"
+    },
+    {
+      "original": "जय",
+      "transliteration": "നതാമരവാണി",
+      "translation": "ദൈവപിതാവിന്റെ പ്രാർത്ഥന"
+    },
+    {
+      "original": "जय",
+      "transliteration": "നിവാസി",
+      "translation": "വാസമാകുന്ന"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ശിവം",
+      "translation": "ശിവ"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ജയ",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ഹേ",
+      "translation": "ഹേ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരത്തെ നശിപ്പിക്കുന്നവൾ"
+    },
+    {
+      "original": "मयि",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളുമായി"
+    },
+    {
+      "original": "दीन",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതകുമാരി"
+    },
+    {
+      "original": "दयालुतया",
+      "transliteration": "തവ",
+      "translation": "നിന്റെ"
+    },
+    {
+      "original": "कृपयैव",
+      "transliteration": "വിമലेंदുകുലം",
+      "translation": "ശുദ്ധമായ ചന്ദ്രരശ്മി കൂടിയ കുടുംബം"
+    },
+    {
+      "original": "त्वया",
+      "transliteration": "വദനेंदുമലം",
+      "translation": "ചന്ദ്രപാദസാന്നിധ്യം ഉലവിളങ്ങുന്ന മുഖം"
+    },
+    {
+      "original": "भवितव्यमुमे",
+      "transliteration": "സകലം",
+      "translation": "എല്ലാം"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "നനു",
+      "translation": "എന്തോ"
+    },
+    {
+      "original": "जगतो",
+      "transliteration": "കൂൾയതേ",
+      "translation": "പുറത്തേക്ക് നീങ്ങുന്നു"
+    },
+    {
+      "original": "जननी",
+      "transliteration": "കിമു",
+      "translation": "എന്ത്"
+    },
+    {
+      "original": "कृपयासि",
+      "transliteration": "പുരഹീതപുരീന്ദു",
+      "translation": "പൂർവകാലത്തിൽ ഉൾപ്പെടുന്ന ദേവീദ്വാരങ്ങളുടെ രാജാവ്"
+    },
+    {
+      "original": "यथासि",
+      "transliteration": "മുഖി",
+      "translation": "മുഖം"
+    },
+    {
+      "original": "तथानुमितासिरते",
+      "transliteration": "സുമുഖീഭിരസൌ",
+      "translation": "സുഖമായ മുഖത്തോടുകൂടിയ അവളുമായും"
+    },
+    {
+      "original": "यदुचितमत्र",
+      "transliteration": "വിമുഖീക്രിയതേ",
+      "translation": "ചാരുതയോടുകൂടി വിട്ടുപോകുന്നു"
+    },
+    {
+      "original": "भवत्युररीकुरुतादुरुतापमपाकुरुते",
+      "transliteration": "മമ",
+      "translation": "എന്റെ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "തു",
+      "translation": "പക്ഷേ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "മത്",
+      "translation": "എന്റെ അഭിപ്രായം"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ശിവനാമധനേ",
+      "translation": "ശിവനാമം പറയുന്ന ഒരുത്തരവായ്യം"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ഭവതി",
+      "translation": "അവൾ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ക്രപയ",
+      "translation": "ദയവായി"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "കിമുത",
+      "translation": "എന്തുകൊണ്ട്"
+    },
+    {
+      "original": "---",
+      "transliteration": "ക്രിയതേ",
+      "translation": "ചെയ്യുന്നു"
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയ്",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയ്",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "---",
+      "transliteration": "ഹേ",
+      "translation": "ഹേ"
+    },
+    {
+      "original": "---",
+      "transliteration": "മഹിഷാസുരമർദിനി",
+      "translation": "മഹിഷാസുരത്തെ നശിപ്പിക്കുന്നവൾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളുമായി"
+    },
+    {
+      "original": "---",
+      "transliteration": "ശൈൽസുതേ",
+      "translation": "പർവതകുമാരി"
+    },
+    {
+      "original": "---",
+      "transliteration": "അയി",
+      "translation": "ദയാളുത്വത്തോടെ"
+    },
+    {
+      "original": "---",
+      "transliteration": "മയി",
+      "translation": "നാന്റെ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ദീന",
+      "translation": "ദയനീയനായ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ദയാലുതയ",
+      "translation": "ദയയോടുകൂടി"
+    },
+    {
+      "original": "---",
+      "transliteration": "കൃപയാ",
+      "translation": "ദയ"
+    },
+    {
+      "original": "---",
+      "transliteration": "എവ",
+      "translation": "ഇതേ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ത്രവയാ",
+      "translation": "നിനച്ചാൽ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ഭവിതവ്യമുമെ",
+      "translation": "നിനക്കു സംഭവിക്കേണ്ട"
+    },
+    {
+      "original": "---",
+      "transliteration": "അയി",
+      "translation": "ജഗത്തിന്റെ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ജഗതോ",
+      "translation": "ജനനി"
+    },
+    {
+      "original": "---",
+      "transliteration": "ജനനി",
+      "translation": "ദയയോടെ"
+    },
+    {
+      "original": "---",
+      "transliteration": "കൃപയാ",
+      "translation": "നിനക്കു"
+    },
+    {
+      "original": "---",
+      "transliteration": "അസി",
+      "translation": "നിനക്കു"
+    },
+    {
+      "original": "---",
+      "transliteration": "യഥാ",
+      "translation": "പോലെ"
+    },
+    {
+      "original": "---",
+      "transliteration": "അസി",
+      "translation": "അങ്ങനേ"
+    },
+    {
+      "original": "---",
+      "transliteration": "തഥാ",
+      "translation": "അവരാകുന്നു"
+    },
+    {
+      "original": "---",
+      "transliteration": "അനുമിതാസി",
+      "translation": "നിനച്ചാൽ"
+    },
+    {
+      "original": "---",
+      "transliteration": "രതി",
+      "translation": "ഇഷ്ടം"
+    },
+    {
+      "original": "---",
+      "transliteration": "യദുചിതം",
+      "translation": "നല്ലതായ"
+    },
+    {
+      "original": "---",
+      "transliteration": "അത്ര",
+      "translation": "ഇവിടെ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ഭവത്യു",
+      "translation": "നിനക്ക്"
+    },
+    {
+      "original": "---",
+      "transliteration": "രരീകുറുതാത",
+      "translation": "പെട്ടെന്നു കഠിനമായ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ദുരുതാപമപാകുരുതേ",
+      "translation": "ബാധയെ അവസാനിപ്പിക്കുന്നു"
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയം",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "---",
+      "transliteration": "ജയം",
+      "translation": "വിജയം"
+    },
+    {
+      "original": "---",
+      "transliteration": "ഹേ",
+      "translation": "ഹേ"
+    },
+    {
+      "original": "---",
+      "transliteration": "മഹിഷാസുരമർദ്ദിനി",
+      "translation": "മഹിഷാസുരത്തെ നശിപ്പിക്കുന്നവൾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "രമ്യകപർദിനി",
+      "translation": "രമണീയമായ വാളുമായി"
+    },
+    {
+      "original": "---",
+      "transliteration": "ശൈലസുതേ",
+      "translation": "പർവതകുമാരി"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\malayalam\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\malayalam\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.981Z"
+  }
+}

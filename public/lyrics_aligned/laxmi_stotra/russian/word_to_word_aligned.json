@@ -1,0 +1,1549 @@
+{
+  "mantra": "laxmi_stotra",
+  "language": "russian",
+  "type": "word_to_word",
+  "totalWords": 307,
+  "alignedWords": [
+    {
+      "original": "जय",
+      "transliteration": "śrīlakṣmīstotraṁ",
+      "translation": "Стих о Лакшми"
+    },
+    {
+      "original": "पद्मपलाशाक्षि",
+      "transliteration": "agastyaracitam",
+      "translation": "Составлено Агастья"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ṛṣivara",
+      "translation": "Мудрец"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "agasta",
+      "translation": "Агастья"
+    },
+    {
+      "original": "श्रीपतिप्रिये",
+      "transliteration": "dvārā",
+      "translation": "Составлено"
+    },
+    {
+      "original": "जय",
+      "transliteration": "racita",
+      "translation": "Составленный"
+    },
+    {
+      "original": "मातर्",
+      "transliteration": "śrīlakṣmī",
+      "translation": "Лакшми"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "stotra",
+      "translation": "Гимн"
+    },
+    {
+      "original": "संसारार्णवतारिणि",
+      "transliteration": "ye",
+      "translation": "Это"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "atyanta",
+      "translation": "Очень"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "phaladāyī",
+      "translation": "Приносящий плоды"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "ye",
+      "translation": "Есть"
+    },
+    {
+      "original": "सुरेश्वरि",
+      "transliteration": "jaya",
+      "translation": "Победа"
+    },
+    {
+      "original": "हरिप्रिये",
+      "transliteration": "padmapalāśākṣi",
+      "translation": "Лотосоподобное око"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "tvam",
+      "translation": "Ты"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "śrīpatipriye",
+      "translation": "Приятная для мужа"
+    },
+    {
+      "original": "दयानिधे",
+      "transliteration": "matra",
+      "translation": "Мать"
+    },
+    {
+      "original": "पद्मालये",
+      "transliteration": "mahālakṣmī",
+      "translation": "Великая Лакшми"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "sansārārṇavatāriṇi",
+      "translation": "Спасительница мира"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "namastubhyam",
+      "translation": "Поклоняюсь тебе"
+    },
+    {
+      "original": "च",
+      "transliteration": "sureshvari",
+      "translation": "Госпожа богов"
+    },
+    {
+      "original": "सर्वदे",
+      "transliteration": "haripriye",
+      "translation": "Любимая Вишну"
+    },
+    {
+      "original": "सर्वभूतहितार्थाय",
+      "transliteration": "dayanidhe",
+      "translation": "Источник сострадания"
+    },
+    {
+      "original": "वसुवृष्टिं",
+      "transliteration": "padmālayae",
+      "translation": "Жилище лотоса"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "sarvade",
+      "translation": "Всем богам"
+    },
+    {
+      "original": "कुरु",
+      "transliteration": "sarvabhutahitarthaya",
+      "translation": "Для блага всех существ"
+    },
+    {
+      "original": "जगन्मातर्द",
+      "transliteration": "vasuvrishtim",
+      "translation": "Дождь процветания"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "sada",
+      "translation": "Всегда"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "kuru",
+      "translation": "Твори"
+    },
+    {
+      "original": "दयानिधे",
+      "transliteration": "jaganmatarnamastubhyam",
+      "translation": "Поклоняюсь Матери Мира"
+    },
+    {
+      "original": "दयावति",
+      "transliteration": "dayanidhe",
+      "translation": "Источник сострадания"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "vishveshvari",
+      "translation": "Госпожа всех миров"
+    },
+    {
+      "original": "विश्वेश्वरि",
+      "transliteration": "namostu te",
+      "translation": "Поклоняюсь тебе"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "kshirarnavasute",
+      "translation": "Дочь молочного океана"
+    },
+    {
+      "original": "ते",
+      "transliteration": "trailokyadharini",
+      "translation": "Поддерживающая три мира"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "vasuvrishtye",
+      "translation": "Проявляющая дожди процветания"
+    },
+    {
+      "original": "क्षीरार्णवसुते",
+      "transliteration": "raksha mam",
+      "translation": "Защити меня"
+    },
+    {
+      "original": "नमस्त्रैलोक्यधारिणि",
+      "transliteration": "sharanagatam",
+      "translation": "Пришедшего к твоим стопам"
+    },
+    {
+      "original": "वसुवृष्टे",
+      "transliteration": "raksha",
+      "translation": "Защити"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "devadevshi",
+      "translation": "Госпожа всех богов"
+    },
+    {
+      "original": "रक्ष",
+      "transliteration": "devadevasya",
+      "translation": "Любимая богом богов"
+    },
+    {
+      "original": "मां",
+      "transliteration": "vallabhe",
+      "translation": "Возлюбленная"
+    },
+    {
+      "original": "शरणागतं",
+      "transliteration": "daridrattrahi",
+      "translation": "Спаси меня от бедности"
+    },
+    {
+      "original": "रक्ष",
+      "transliteration": "mam Lakshmi",
+      "translation": "Меня, Лакшми"
+    },
+    {
+      "original": "त्वं",
+      "transliteration": "kripam kuru",
+      "translation": "Подари свою милость"
+    },
+    {
+      "original": "देवदेवेशि",
+      "transliteration": "mamopari",
+      "translation": "Надо мной"
+    },
+    {
+      "original": "देवदेवस्य",
+      "transliteration": "trailokyajanani",
+      "translation": "Мать трёх миров"
+    },
+    {
+      "original": "वल्लभे",
+      "transliteration": "pavani",
+      "translation": "Очистительница"
+    },
+    {
+      "original": "दरिद्रात्त्राहि",
+      "transliteration": "brahmadayo",
+      "translation": "Брахма и другие"
+    },
+    {
+      "original": "मां",
+      "transliteration": "namaste",
+      "translation": "Поклон"
+    },
+    {
+      "original": "लक्ष्मि",
+      "transliteration": "jagadanandadayini",
+      "translation": "Даящая радость всем существам"
+    },
+    {
+      "original": "कृपां",
+      "transliteration": "vishnupriye",
+      "translation": "Любимая Вишну"
+    },
+    {
+      "original": "कुरु",
+      "transliteration": "jagaddhite",
+      "translation": "Для блага мира"
+    },
+    {
+      "original": "ममोपरि",
+      "transliteration": "artahantri",
+      "translation": "Обежещая страдания"
+    },
+    {
+      "original": "नमस्त्रैलोक्यजननि",
+      "transliteration": "samriddhim kuru",
+      "translation": "Даруй процветание"
+    },
+    {
+      "original": "नमस्त्रैलोक्यपावनि",
+      "transliteration": "me",
+      "translation": "Мне"
+    },
+    {
+      "original": "ब्रह्मादयो",
+      "transliteration": "sada",
+      "translation": "Всегда"
+    },
+    {
+      "original": "नमस्ते",
+      "transliteration": "abzhavase",
+      "translation": "В лотосе"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "namastubhyam",
+      "translation": "Поклоняюсь тебе"
+    },
+    {
+      "original": "जगदानन्ददायिनि",
+      "transliteration": "capalayai",
+      "translation": "Быстрому"
+    },
+    {
+      "original": "विष्णुप्रिये",
+      "transliteration": "namo namah",
+      "translation": "Поклон, поклон"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "chanchalayai",
+      "translation": "Неспокойной"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "lalitayai",
+      "translation": "Очаровательной"
+    },
+    {
+      "original": "जगद्धिते",
+      "transliteration": "namah",
+      "translation": "Поклон"
+    },
+    {
+      "original": "आर्तहन्त्रि",
+      "transliteration": "pradyumnajanani",
+      "translation": "Матери Прядьюмне"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "matustubhyam",
+      "translation": "Мать, поклоняюсь тебе"
+    },
+    {
+      "original": "समृद्धिं",
+      "transliteration": "paripalaya",
+      "translation": "Охраняй"
+    },
+    {
+      "original": "कुरु",
+      "transliteration": "bho",
+      "translation": "О"
+    },
+    {
+      "original": "मे",
+      "transliteration": "matarmam",
+      "translation": "Матерь, меня"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "sharanagatam",
+      "translation": "Пришедшего к тебе"
+    },
+    {
+      "original": "अब्जवासे",
+      "transliteration": "sharanye",
+      "translation": "К тебе, о защитница"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "tvam",
+      "translation": "Тебя"
+    },
+    {
+      "original": "चपलायै",
+      "transliteration": "prapanno'smi",
+      "translation": "Я прибегаю"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "kamale",
+      "translation": "Лотосовая"
+    },
+    {
+      "original": "चंचलायै",
+      "transliteration": "kamalalaye",
+      "translation": "Жилище Лотоса"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "trahi trahi",
+      "translation": "Спаси, спаси"
+    },
+    {
+      "original": "ललितायै",
+      "transliteration": "mahalakshmi",
+      "translation": "Великая Лакшми"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "paritranaparayane",
+      "translation": "Спасительница"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "pandityam",
+      "translation": "Мудрость"
+    },
+    {
+      "original": "प्रद्युम्नजननि",
+      "transliteration": "shobhate",
+      "translation": "Украшают"
+    },
+    {
+      "original": "मातुस्तुभ्यं",
+      "transliteration": "naiva",
+      "translation": "Не"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "na shobhanti",
+      "translation": "Не украшают"
+    },
+    {
+      "original": "परिपालय",
+      "transliteration": "guna",
+      "translation": "Добродетели"
+    },
+    {
+      "original": "भो",
+      "transliteration": "nare",
+      "translation": "Человека"
+    },
+    {
+      "original": "मातर्मां",
+      "transliteration": "shilatvam",
+      "translation": "Воспитание"
+    },
+    {
+      "original": "तुभ्यं",
+      "transliteration": "naiva",
+      "translation": "Не"
+    },
+    {
+      "original": "शरणागतं",
+      "transliteration": "shobhet",
+      "translation": "Украшают"
+    },
+    {
+      "original": "शरण्ये",
+      "transliteration": "mahalakshmi",
+      "translation": "Великая Лакшми"
+    },
+    {
+      "original": "त्वां",
+      "transliteration": "tvaya",
+      "translation": "Тобой"
+    },
+    {
+      "original": "प्रपन्नोऽस्मि",
+      "transliteration": "vina",
+      "translation": "Без"
+    },
+    {
+      "original": "कमले",
+      "transliteration": "tavadvirazhate",
+      "translation": "Столь ярко блестят"
+    },
+    {
+      "original": "कमलालये",
+      "transliteration": "rupam",
+      "translation": "Образ"
+    },
+    {
+      "original": "त्राहि त्राहि",
+      "transliteration": "tavacshilam",
+      "translation": "Столь красиво блестят"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "virazhate",
+      "translation": "Великолепно сияет"
+    },
+    {
+      "original": "परित्राणपरायणे",
+      "transliteration": "tavadguna",
+      "translation": "Столь много добродетелей"
+    },
+    {
+      "original": "पाण्डित्यं",
+      "transliteration": "naranam",
+      "translation": "У людей"
+    },
+    {
+      "original": "शोभते",
+      "transliteration": "cha",
+      "translation": "И"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "yavallakshmi",
+      "translation": "Пока Лакшми благоволит"
+    },
+    {
+      "original": "न",
+      "transliteration": "prasidati",
+      "translation": "Прогрессирует"
+    },
+    {
+      "original": "शोभन्ति",
+      "transliteration": "lakshmityalankritamanava",
+      "translation": "Те, кто украшены Лакшми"
+    },
+    {
+      "original": "गुणा",
+      "transliteration": "ye",
+      "translation": "Кто"
+    },
+    {
+      "original": "नरे",
+      "transliteration": "papairvimukta",
+      "translation": "Освобождены от грехов"
+    },
+    {
+      "original": "शीलत्वं",
+      "transliteration": "nripalokamanyah",
+      "translation": "Уважаемые людьми"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "gunairvikhina",
+      "translation": "Без добродетелей"
+    },
+    {
+      "original": "शोभेत",
+      "transliteration": "gunino",
+      "translation": "Люди с добродетелями"
+    },
+    {
+      "original": "महालक्ष्मी",
+      "transliteration": "bhavanti",
+      "translation": "Становятся"
+    },
+    {
+      "original": "त्वया",
+      "transliteration": "dusheelinah",
+      "translation": "Безнравственные"
+    },
+    {
+      "original": "विना",
+      "transliteration": "shilavatam",
+      "translation": "С добродетелью"
+    },
+    {
+      "original": "तावद्विराजते",
+      "transliteration": "veristhah",
+      "translation": "Лучшие"
+    },
+    {
+      "original": "रूपं",
+      "transliteration": "lakshmirbhushayate",
+      "translation": "Лакшми украшает"
+    },
+    {
+      "original": "तावच्छीलं",
+      "transliteration": "rupam",
+      "translation": "Образ"
+    },
+    {
+      "original": "विराजते",
+      "transliteration": "lakshmirbhushayate",
+      "translation": "Лакшми украшает"
+    },
+    {
+      "original": "तावद्गुणा",
+      "transliteration": "kulam",
+      "translation": "Семью"
+    },
+    {
+      "original": "नराणां",
+      "transliteration": "lakshmirbhushayate",
+      "translation": "Лакшми украшает"
+    },
+    {
+      "original": "च",
+      "transliteration": "vidyam",
+      "translation": "Знание"
+    },
+    {
+      "original": "यावल्लक्ष्मीः",
+      "transliteration": "sarvāl lakshmirvishishhyate",
+      "translation": "Лакшми выделяется среди всего"
+    },
+    {
+      "original": "प्रसीदति",
+      "transliteration": "lakshmi",
+      "translation": "Лакшми"
+    },
+    {
+      "original": "लक्ष्मित्वयालंकृतमानवा",
+      "transliteration": "tvadgunakirtenena",
+      "translation": "Твоим воспеванием достоинств"
+    },
+    {
+      "original": "ये",
+      "transliteration": "kamalabhuryatyalam",
+      "translation": "Лотосового лика"
+    },
+    {
+      "original": "पापैर्विमुक्ता",
+      "transliteration": "jihmatam",
+      "translation": "Лживым"
+    },
+    {
+      "original": "नृपलोकमान्याः",
+      "transliteration": "rudradiya",
+      "translation": "Такие как Рудра"
+    },
+    {
+      "original": "गुणैर्विहीना",
+      "transliteration": "ravi-chandradevapatio",
+      "translation": "Сыновья Солнца и Луны"
+    },
+    {
+      "original": "गुणिनो",
+      "transliteration": "vakty",
+      "translation": "Говорить"
+    },
+    {
+      "original": "भवन्ति",
+      "transliteration": "cha",
+      "translation": "И"
+    },
+    {
+      "original": "दुशीलिनः",
+      "transliteration": "naiva",
+      "translation": "Не"
+    },
+    {
+      "original": "शीलवतां",
+      "transliteration": "kshamakh",
+      "translation": "Могут"
+    },
+    {
+      "original": "वरिष्ठाः",
+      "transliteration": "asmabikh",
+      "translation": "Нам"
+    },
+    {
+      "original": "लक्ष्मीर्भूषयते",
+      "transliteration": "tava",
+      "translation": "Твои"
+    },
+    {
+      "original": "रूपं",
+      "transliteration": "rūpalakshanagunānvakty",
+      "translation": "Для того чтобы воспевать твои формы и качества"
+    },
+    {
+      "original": "लक्ष्मीर्भूषयते",
+      "transliteration": "kathām",
+      "translation": "Как"
+    },
+    {
+      "original": "कुलं",
+      "transliteration": "shaktyate",
+      "translation": "Это возможно"
+    },
+    {
+      "original": "लक्ष्मीर्भूषयते",
+      "transliteration": "matarmam",
+      "translation": "Мать, меня"
+    },
+    {
+      "original": "विद्यां",
+      "transliteration": "paripakhi",
+      "translation": "Охрани"
+    },
+    {
+      "original": "सर्वाल्लक्ष्मीर्विशिष्यते",
+      "transliteration": "vishvajanani",
+      "translation": "Мать всего мира"
+    },
+    {
+      "original": "लक्ष्मी",
+      "transliteration": "krutva",
+      "translation": "Сделав"
+    },
+    {
+      "original": "त्वद्गुणकीर्तनेन",
+      "transliteration": "mameshtam",
+      "translation": "Мое желание"
+    },
+    {
+      "original": "कमलाभूर्यात्यलं",
+      "transliteration": "dhruvam",
+      "translation": "Устойчивое"
+    },
+    {
+      "original": "जिह्मतां",
+      "transliteration": "dinarttibhitam",
+      "translation": "Страх бедных и угнетенных"
+    },
+    {
+      "original": "रुद्राद्या",
+      "transliteration": "bhavatapapiditam",
+      "translation": "Измученный твоим страданием"
+    },
+    {
+      "original": "रविचन्द्रदेवपतयो",
+      "transliteration": "dhanairvikhinam",
+      "translation": "Лишенный богатства"
+    },
+    {
+      "original": "वक्तुं",
+      "transliteration": "tava",
+      "translation": "Твоя"
+    },
+    {
+      "original": "च",
+      "transliteration": "parshvamagatam",
+      "translation": "Пришедший к тебе"
+    },
+    {
+      "original": "नैव",
+      "transliteration": "kripanidhitvanma",
+      "translation": "Милость"
+    },
+    {
+      "original": "क्षमाः",
+      "transliteration": "lakshmi",
+      "translation": "Лакшми"
+    },
+    {
+      "original": "अस्माभिस्तव",
+      "transliteration": "satvaram",
+      "translation": "Быстро"
+    },
+    {
+      "original": "रूपलक्षणगुणान्वक्तुं",
+      "transliteration": "dhanapradanaddhannyayakam",
+      "translation": "Дарующий богатства"
+    },
+    {
+      "original": "कथं",
+      "transliteration": "kuru",
+      "translation": "Сделай"
+    },
+    {
+      "original": "शक्यते",
+      "transliteration": "mam",
+      "translation": "Меня"
+    },
+    {
+      "original": "मातर्मां",
+      "transliteration": "vilokya",
+      "translation": "Увидев"
+    },
+    {
+      "original": "परिपाहि",
+      "transliteration": "janani",
+      "translation": "О, Мать"
+    },
+    {
+      "original": "विश्वजननि",
+      "transliteration": "haripriye",
+      "translation": "О, любимая Господа Вишну"
+    },
+    {
+      "original": "कृत्वा",
+      "transliteration": "nirdhanam",
+      "translation": "Бедного"
+    },
+    {
+      "original": "ममेष्टं",
+      "transliteration": "tvatsamipamagatam",
+      "translation": "Пришедшего к тебе"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "dehi",
+      "translation": "Дай"
+    },
+    {
+      "original": "दीनार्तिभीतं",
+      "transliteration": "me",
+      "translation": "Мне"
+    },
+    {
+      "original": "भवतापपीडितं",
+      "transliteration": "jhatiti",
+      "translation": "Быстро"
+    },
+    {
+      "original": "धनैर्विहीनं",
+      "transliteration": "lakshmi",
+      "translation": "Лакшми"
+    },
+    {
+      "original": "तव पार्श्वमागतं",
+      "transliteration": "karagram",
+      "translation": "В руке"
+    },
+    {
+      "original": "कृपानिधित्वान्मम",
+      "transliteration": "vastrakanchanavaranmadhbhutam",
+      "translation": "Необыкновенные одежда и золото"
+    },
+    {
+      "original": "लक्ष्मी सत्वरं धनप्रदानाद्धन्नायकं कुरु",
+      "transliteration": "tvameva",
+      "translation": "Только ты"
+    },
+    {
+      "original": "मां विलोक्य",
+      "transliteration": "janani",
+      "translation": "Мать"
+    },
+    {
+      "original": "जननि हरिप्रिये",
+      "transliteration": "lakshmi",
+      "translation": "Лакшми"
+    },
+    {
+      "original": "निर्धनं",
+      "transliteration": "pita",
+      "translation": "Отец"
+    },
+    {
+      "original": "त्वत्समीपमागतं",
+      "transliteration": "lakshmi",
+      "translation": "Лакшми"
+    },
+    {
+      "original": "देहि मे झटिति लक्ष्मी",
+      "transliteration": "tvameva",
+      "translation": "Только ты"
+    },
+    {
+      "original": "कराग्रं वस्त्रकांचनवरान्नमद्भुतं",
+      "transliteration": "cha",
+      "translation": "И"
+    },
+    {
+      "original": "त्वमेव जननी लक्ष्मी",
+      "transliteration": "trahi",
+      "translation": "Спаси"
+    },
+    {
+      "original": "पिता लक्ष्मी त्वमेव च",
+      "transliteration": "trahi",
+      "translation": "Спаси"
+    },
+    {
+      "original": "त्राहि त्राहि महालक्ष्मी",
+      "transliteration": "mahalakshmi",
+      "translation": "Великая Лакшми"
+    },
+    {
+      "original": "त्राहि त्राहि सुरेश्वरि",
+      "transliteration": "trahi",
+      "translation": "Спаси"
+    },
+    {
+      "original": "त्राहि त्राहि जगन्मातरं",
+      "transliteration": "trahi",
+      "translation": "Спаси"
+    },
+    {
+      "original": "दरिद्रात्त्राहि",
+      "transliteration": "sureshvari",
+      "translation": "О, Владычица богов"
+    },
+    {
+      "original": "वेगतः",
+      "transliteration": "trahi",
+      "translation": "Спаси"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "trahi",
+      "translation": "Спаси"
+    },
+    {
+      "original": "जगद्धात्रि",
+      "transliteration": "jagatmatardaridrattrahi",
+      "translation": "О, Мать мира, спаси меня от бедности"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "trahi",
+      "translation": "Спаси"
+    },
+    {
+      "original": "नमो नमः",
+      "transliteration": "vegatah",
+      "translation": "Быстро"
+    },
+    {
+      "original": "धर्माधारे",
+      "transliteration": "namastubhyam",
+      "translation": "Приветствую тебя"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "jagaddhatri",
+      "translation": "Создательница мира"
+    },
+    {
+      "original": "नमः सम्पत्तिदायिनी",
+      "transliteration": "namastubhyam",
+      "translation": "Приветствую тебя"
+    },
+    {
+      "original": "दरिद्रार्णवमग्नोऽहं",
+      "transliteration": "namo namah",
+      "translation": "Смиренно поклоняюсь"
+    },
+    {
+      "original": "निमग्नोऽहं",
+      "transliteration": "dharmadhare",
+      "translation": "Основа дхармы"
+    },
+    {
+      "original": "रसातले",
+      "transliteration": "namastubhyam",
+      "translation": "Приветствую тебя"
+    },
+    {
+      "original": "मज्जन्तं",
+      "transliteration": "namah",
+      "translation": "Поклон"
+    },
+    {
+      "original": "मां करे धृत्वा",
+      "transliteration": "sampattidayini",
+      "translation": "Дающая богатство"
+    },
+    {
+      "original": "सूद्धर",
+      "transliteration": "daridrarnavamagnoham",
+      "translation": "Я поглощен океаном бедности"
+    },
+    {
+      "original": "त्वं रमे द्रुतं",
+      "transliteration": "nimagnoham",
+      "translation": "Я погружен"
+    },
+    {
+      "original": "किं लक्ष्मी",
+      "transliteration": "rasatale",
+      "translation": "В ад"
+    },
+    {
+      "original": "बहुनोक्तेन",
+      "transliteration": "mazhzhantam",
+      "translation": "Тонущий"
+    },
+    {
+      "original": "जल्पितेन",
+      "transliteration": "mam",
+      "translation": "Меня"
+    },
+    {
+      "original": "पुनः पुनः",
+      "transliteration": "kare",
+      "translation": "В руке"
+    },
+    {
+      "original": "अन्यन्मे शरणं नास्ति",
+      "transliteration": "dhrutva",
+      "translation": "Держа"
+    },
+    {
+      "original": "सत्यं सत्यं हरिप्रिये",
+      "transliteration": "suddhar",
+      "translation": "Спаси меня"
+    },
+    {
+      "original": "एतच्श्रुत्वा",
+      "transliteration": "tvam",
+      "translation": "Ты"
+    },
+    {
+      "original": "अगस्तिवाक्यं",
+      "transliteration": "rame",
+      "translation": "Быстро"
+    },
+    {
+      "original": "हृष्यमाण",
+      "transliteration": "drutam",
+      "translation": "Быстро"
+    },
+    {
+      "original": "हरिप्रिये",
+      "transliteration": "kim",
+      "translation": "Что"
+    },
+    {
+      "original": "उवाच",
+      "transliteration": "lakshmi",
+      "translation": "Лакшми"
+    },
+    {
+      "original": "मधुरां",
+      "transliteration": "bahunoktena",
+      "translation": "Многими словами"
+    },
+    {
+      "original": "वाणीं",
+      "transliteration": "jalpitenā",
+      "translation": "Говорится"
+    },
+    {
+      "original": "तुष्टाहं",
+      "transliteration": "punah punah",
+      "translation": "Снова и снова"
+    },
+    {
+      "original": "तव",
+      "transliteration": "anyanme",
+      "translation": "Нет другого"
+    },
+    {
+      "original": "सर्वदा",
+      "transliteration": "sharannam",
+      "translation": "Прибежища"
+    },
+    {
+      "original": "लक्ष्मीर्वाच",
+      "transliteration": "nasti",
+      "translation": "Нет"
+    },
+    {
+      "original": "यत्त्वयोक्तमिदं स्तोत्रं",
+      "transliteration": "satyam",
+      "translation": "Истинно"
+    },
+    {
+      "original": "यः",
+      "transliteration": "satyam",
+      "translation": "Истинно"
+    },
+    {
+      "original": "पठिष्यति",
+      "transliteration": "haripriye",
+      "translation": "О, любимая Господа Вишну"
+    },
+    {
+      "original": "मानवः",
+      "transliteration": "etacshrutva",
+      "translation": "Услышав это"
+    },
+    {
+      "original": "शृणोति",
+      "transliteration": "agastivakyam",
+      "translation": "Слова мудреца Агасти"
+    },
+    {
+      "original": "च",
+      "transliteration": "hrishyaman",
+      "translation": "С радостью"
+    },
+    {
+      "original": "महाभागस्तस्याहं वशवर्तिनी",
+      "transliteration": "haripriya",
+      "translation": "О, любимая Господа Вишну"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "uvacha",
+      "translation": "Сказала"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "madhuram",
+      "translation": "Сладкие"
+    },
+    {
+      "original": "महापुण्यं",
+      "transliteration": "vanim",
+      "translation": "Слова"
+    },
+    {
+      "original": "लक्ष्म्यगस्तिप्रकीर्तितं",
+      "transliteration": "tushtaham",
+      "translation": "Довольная"
+    },
+    {
+      "original": "विष्णुप्रसादजननं",
+      "transliteration": "tava",
+      "translation": "Твои"
+    },
+    {
+      "original": "चतुर्वर्गफलप्रदं",
+      "transliteration": "sarvada",
+      "translation": "Всегда"
+    },
+    {
+      "original": "राजद्वारे",
+      "transliteration": "lakshmi",
+      "translation": "Лакшми"
+    },
+    {
+      "original": "जयश्चैव",
+      "transliteration": "uvacha",
+      "translation": "Сказала"
+    },
+    {
+      "original": "शत्रोश्चैव",
+      "transliteration": "yattv",
+      "translation": "Тот, кто"
+    },
+    {
+      "original": "पराजयः",
+      "transliteration": "yuktamidan",
+      "translation": "Произнесет эти слова"
+    },
+    {
+      "original": "भूतप्रेतपिशाचानां",
+      "transliteration": "stotram",
+      "translation": "Молитву"
+    },
+    {
+      "original": "व्याघ्राणां",
+      "transliteration": "yah",
+      "translation": "Тот, кто"
+    },
+    {
+      "original": "न",
+      "transliteration": "patishchati",
+      "translation": "Будет читать"
+    },
+    {
+      "original": "भयं",
+      "transliteration": "manavah",
+      "translation": "Человек"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "shrinoti",
+      "translation": "Слушает"
+    },
+    {
+      "original": "न",
+      "transliteration": "cha",
+      "translation": "И"
+    },
+    {
+      "original": "शस्त्रानलतोयौघाद्भयं",
+      "transliteration": "mahabhagah",
+      "translation": "Благословенный"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "tasya",
+      "translation": "Того"
+    },
+    {
+      "original": "प्रजायते",
+      "transliteration": "akham",
+      "translation": "Я"
+    },
+    {
+      "original": "दुर्वृत्तानां",
+      "transliteration": "vashavartini",
+      "translation": "Буду подчиняться"
+    },
+    {
+      "original": "च",
+      "transliteration": "nityam",
+      "translation": "Постоянно"
+    },
+    {
+      "original": "पापानां",
+      "transliteration": "patkhati",
+      "translation": "Читает"
+    },
+    {
+      "original": "बहुहानिकरं",
+      "transliteration": "yo",
+      "translation": "Кто"
+    },
+    {
+      "original": "परं",
+      "transliteration": "bhaktiya",
+      "translation": "С преданностью"
+    },
+    {
+      "original": "मन्दुराकरिशालासु",
+      "transliteration": "tvalakshmi",
+      "translation": "Твоя Лакшми"
+    },
+    {
+      "original": "गवां",
+      "transliteration": "tasya",
+      "translation": "Его"
+    },
+    {
+      "original": "गोष्ठे",
+      "transliteration": "nashyati",
+      "translation": "Уходит"
+    },
+    {
+      "original": "समाहितः",
+      "transliteration": "ranashcha",
+      "translation": "И в бою"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "nashyate",
+      "translation": "Исчезает"
+    },
+    {
+      "original": "तद्दोषशान्त्यर्थं",
+      "transliteration": "tivram",
+      "translation": "Сильно"
+    },
+    {
+      "original": "महापातकनाशनं",
+      "transliteration": "viyogam",
+      "translation": "Разлука"
+    },
+    {
+      "original": "सर्वसौख्यकरं",
+      "transliteration": "naiva",
+      "translation": "Никогда"
+    },
+    {
+      "original": "नृणाम",
+      "transliteration": "pashyati",
+      "translation": "Не видит"
+    },
+    {
+      "original": "आयुरारोग्यदं",
+      "transliteration": "yah",
+      "translation": "Тот, кто"
+    },
+    {
+      "original": "तथा",
+      "transliteration": "pathet",
+      "translation": "Будет читать"
+    },
+    {
+      "original": "अगस्रिआमुनिना प्रोक्तं",
+      "transliteration": "pratrutthaya",
+      "translation": "Встав с утра"
+    },
+    {
+      "original": "प्रजानां",
+      "transliteration": "shraddha-bhaktisamvito",
+      "translation": "С полным уважением и преданностью"
+    },
+    {
+      "original": "हितकाम्यया",
+      "transliteration": "gruhe",
+      "translation": "В доме"
+    },
+    {
+      "original": "इत्यगस्तिविरचितं",
+      "transliteration": "tasya",
+      "translation": "Его"
+    },
+    {
+      "original": "लक्ष्मीस्तोत्रं",
+      "transliteration": "sada",
+      "translation": "Всегда"
+    },
+    {
+      "original": "सम्पूर्णं",
+      "transliteration": "sthasye",
+      "translation": "Буду пребывать"
+    },
+    {
+      "original": "---",
+      "transliteration": "nityam",
+      "translation": "Постоянно"
+    },
+    {
+      "original": "---",
+      "transliteration": "shripatinā",
+      "translation": "С Господом Шри"
+    },
+    {
+      "original": "---",
+      "transliteration": "saha",
+      "translation": "Вместе"
+    },
+    {
+      "original": "---",
+      "transliteration": "sukhisaukhagyasampanno",
+      "translation": "Обладающий счастьем и благополучием"
+    },
+    {
+      "original": "---",
+      "transliteration": "manasvi",
+      "translation": "Мудрый"
+    },
+    {
+      "original": "---",
+      "transliteration": "buddhiman",
+      "translation": "Умный"
+    },
+    {
+      "original": "---",
+      "transliteration": "bhavet",
+      "translation": "Становится"
+    },
+    {
+      "original": "---",
+      "transliteration": "putravan",
+      "translation": "Имеющий детей"
+    },
+    {
+      "original": "---",
+      "transliteration": "gunavan",
+      "translation": "Обладающий качествами"
+    },
+    {
+      "original": "---",
+      "transliteration": "shrestho",
+      "translation": "Лучший"
+    },
+    {
+      "original": "---",
+      "transliteration": "bhogabhokta",
+      "translation": "Наслаждающийся удовольствиями"
+    },
+    {
+      "original": "---",
+      "transliteration": "cha",
+      "translation": "И"
+    },
+    {
+      "original": "---",
+      "transliteration": "manavah",
+      "translation": "Человек"
+    },
+    {
+      "original": "---",
+      "transliteration": "idam",
+      "translation": "Это"
+    },
+    {
+      "original": "---",
+      "transliteration": "stotram",
+      "translation": "Молитва"
+    },
+    {
+      "original": "---",
+      "transliteration": "mahapunyam",
+      "translation": "Великое благочестие"
+    },
+    {
+      "original": "---",
+      "transliteration": "lakshmigastiprakirtitam",
+      "translation": "Произнесенное Агастей для Лакшми"
+    },
+    {
+      "original": "---",
+      "transliteration": "vishnuprasadhajanam",
+      "translation": "Дающее благословение Вишну"
+    },
+    {
+      "original": "---",
+      "transliteration": "chaturvargaphalapradam",
+      "translation": "Приносящее плоды четырех целей жизни"
+    },
+    {
+      "original": "---",
+      "transliteration": "rajadvare",
+      "translation": "У ворот царя"
+    },
+    {
+      "original": "---",
+      "transliteration": "jayashchaiva",
+      "translation": "Победа и"
+    },
+    {
+      "original": "---",
+      "transliteration": "shatroshchaiva",
+      "translation": "Поражение врагов"
+    },
+    {
+      "original": "---",
+      "transliteration": "parazhaya",
+      "translation": "Поражение"
+    },
+    {
+      "original": "---",
+      "transliteration": "bhootpretepishachanam",
+      "translation": "От духов, привидений и демонов"
+    },
+    {
+      "original": "---",
+      "transliteration": "vyaghranam",
+      "translation": "От тигров"
+    },
+    {
+      "original": "---",
+      "transliteration": "na",
+      "translation": "Нет"
+    },
+    {
+      "original": "---",
+      "transliteration": "bhayam",
+      "translation": "Страха"
+    },
+    {
+      "original": "---",
+      "transliteration": "tathā",
+      "translation": "Того же"
+    },
+    {
+      "original": "---",
+      "transliteration": "na",
+      "translation": "Нет"
+    },
+    {
+      "original": "---",
+      "transliteration": "shastranalatoyaughadbhayam",
+      "translation": "От оружия, огня и воды"
+    },
+    {
+      "original": "---",
+      "transliteration": "tasya",
+      "translation": "Его"
+    },
+    {
+      "original": "---",
+      "transliteration": "prajayate",
+      "translation": "Не возникает"
+    },
+    {
+      "original": "---",
+      "transliteration": "durvrittanam",
+      "translation": "От плохих поступков"
+    },
+    {
+      "original": "---",
+      "transliteration": "cha",
+      "translation": "И"
+    },
+    {
+      "original": "---",
+      "transliteration": "papanam",
+      "translation": "От грехов"
+    },
+    {
+      "original": "---",
+      "transliteration": "bahuhanikaram",
+      "translation": "Множество страданий"
+    },
+    {
+      "original": "---",
+      "transliteration": "param",
+      "translation": "Великое"
+    },
+    {
+      "original": "---",
+      "transliteration": "mandurakarishalas",
+      "translation": "В помещениях для коров"
+    },
+    {
+      "original": "---",
+      "transliteration": "gavam",
+      "translation": "Коров"
+    },
+    {
+      "original": "---",
+      "transliteration": "goshthe",
+      "translation": "В стаде"
+    },
+    {
+      "original": "---",
+      "transliteration": "samakhitah",
+      "translation": "Сосредоточенный"
+    },
+    {
+      "original": "---",
+      "transliteration": "pathettaddoshashantyartham",
+      "translation": "Читая с целью очистить"
+    },
+    {
+      "original": "---",
+      "transliteration": "mahapatakanashanam",
+      "translation": "От удаления великих грехов"
+    },
+    {
+      "original": "---",
+      "transliteration": "sarvasukhakaram",
+      "translation": "Приносящее все счастье"
+    },
+    {
+      "original": "---",
+      "transliteration": "nrinam",
+      "translation": "Людям"
+    },
+    {
+      "original": "---",
+      "transliteration": "ayurārogyadam",
+      "translation": "Дающее долголетие и здоровье"
+    },
+    {
+      "original": "---",
+      "transliteration": "tatha",
+      "translation": "И"
+    },
+    {
+      "original": "---",
+      "transliteration": "agasriamunina",
+      "translation": "Проглашенное Агастией"
+    },
+    {
+      "original": "---",
+      "transliteration": "proktam",
+      "translation": "Произнесенное"
+    },
+    {
+      "original": "---",
+      "transliteration": "prajananam",
+      "translation": "Для людей"
+    },
+    {
+      "original": "---",
+      "transliteration": "hitakamyaya",
+      "translation": "Для блага всех существ"
+    },
+    {
+      "original": "---",
+      "transliteration": "iti",
+      "translation": "Таким образом"
+    },
+    {
+      "original": "---",
+      "transliteration": "agastivirachitam",
+      "translation": "Составлено Агасти"
+    },
+    {
+      "original": "---",
+      "transliteration": "lakshmistoram",
+      "translation": "Молитва Лакшми"
+    },
+    {
+      "original": "---",
+      "transliteration": "sampurnam",
+      "translation": "Полностью"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\laxmi_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\laxmi_stotra\\russian\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\laxmi_stotra\\russian\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.875Z"
+  }
+}

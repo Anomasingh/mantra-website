@@ -1,0 +1,859 @@
+{
+  "mantra": "maruti_stotra",
+  "language": "tamil",
+  "type": "word_to_word",
+  "totalWords": 169,
+  "alignedWords": [
+    {
+      "original": "ॐ",
+      "transliteration": "ஓம்",
+      "translation": "ஓம்"
+    },
+    {
+      "original": "नमो",
+      "transliteration": "நமோ",
+      "translation": "நமோ"
+    },
+    {
+      "original": "भगवते",
+      "transliteration": "பகவதே",
+      "translation": "பகவதே"
+    },
+    {
+      "original": "विचित्रवीर",
+      "transliteration": "விசித்ரவீரஹனுமதே",
+      "translation": "விசித்ரவீர ஹனுமானுக்கு"
+    },
+    {
+      "original": "हनुमते",
+      "transliteration": "பிரலயகாலாநலப்ரபாப்ரஜ்வலனாய",
+      "translation": "பிரலய காலக் காற்றின் போலக் கதிர்வாய்ந்த விசித்ரவீர ஹனுமான்"
+    },
+    {
+      "original": "प्रलयकाल",
+      "transliteration": "பிரதாபவஜ்ரதேஹாய",
+      "translation": "வஜ்ரம் போன்ற உடலுடன்"
+    },
+    {
+      "original": "अनलप्रभा",
+      "transliteration": "அஞ்சனீகர்பஸம்பூதாய",
+      "translation": "அஞ்சனி க்கான கருவிலிருந்து பிறந்தவர்"
+    },
+    {
+      "original": "प्रज्वलनाय",
+      "transliteration": "பிரகடவிக்ரமவீரதெய்த்யதானவயட்சரக்ஷோகணக்ரஹபந்தனாய",
+      "translation": "வெளிப்படையான வீரரீதியானவர்"
+    },
+    {
+      "original": "प्रताप",
+      "transliteration": "பூதக்ரஹபந்தனாய",
+      "translation": "பூதம், பிரேதம் மற்றும் பிசாசங்களை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "वज्रदेहाय",
+      "transliteration": "பிரேதக்ரஹபந்தனாய",
+      "translation": "பிரேதம் கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "अंजनी",
+      "transliteration": "பிசாசக்ரஹபந்தனாய",
+      "translation": "பிசாசங்களை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "गर्भ",
+      "transliteration": "ஷாகினீடாகினீக்ரஹபந்தனாய",
+      "translation": "ஷாகினி, டாகினி, காகினி மற்றும் காமினியை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "संभूताय",
+      "transliteration": "காகினீகாமினீக்ரஹபந்தனாய",
+      "translation": "காகினி மற்றும் காமினியை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "हसच्चारुवक्त्रं",
+      "transliteration": "பிரம்மக்ரஹபந்தனாய",
+      "translation": "பிரம்மரை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "भजेऽहं भजेऽहं",
+      "transliteration": "பிரம்மராக்ஷஸக்ரஹபந்தனாய",
+      "translation": "பிரம்மராக்ஷசையும் கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "रमाकण्ठहारं",
+      "transliteration": "சோர்க்ரஹபந்தனாய",
+      "translation": "திருடர்களை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "श्रुतिव्रातसारं",
+      "transliteration": "மாரீக்ரஹபந்தனாய",
+      "translation": "மாரி என்ற பாதகங்களை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "जलान्तर्विहारं",
+      "transliteration": "எஹி",
+      "translation": "வா"
+    },
+    {
+      "original": "धराभारहारं",
+      "transliteration": "எஹி",
+      "translation": "வா"
+    },
+    {
+      "original": "चिदानन्द रूपं",
+      "transliteration": "ஆ஗ச்ச",
+      "translation": "அணுகி வரு"
+    },
+    {
+      "original": "मनोज्ञस्वरूपं",
+      "transliteration": "ஆ஗ச்ச",
+      "translation": "அணுகி வரு"
+    },
+    {
+      "original": "ध्रुतानेकरूपं",
+      "transliteration": "ஆவேஷய",
+      "translation": "புலப்படு"
+    },
+    {
+      "original": "जराजन्महीनं",
+      "transliteration": "ஆவேஷய",
+      "translation": "புலப்படு"
+    },
+    {
+      "original": "परानन्दपीनं",
+      "transliteration": "மம",
+      "translation": "என்"
+    },
+    {
+      "original": "समाधानलीनं",
+      "transliteration": "ஹ்ருதயே",
+      "translation": "இதயத்தில்"
+    },
+    {
+      "original": "सदैवानवीनं",
+      "transliteration": "ப்ரவேசய",
+      "translation": "நுழையுங்கள்"
+    },
+    {
+      "original": "जगज्जन्महेतुं",
+      "transliteration": "ப்ரவேசய",
+      "translation": "நுழையுங்கள்"
+    },
+    {
+      "original": "सुरानीककेतुं",
+      "transliteration": "ஸ்பூர",
+      "translation": "வெளிப்படையுங்கள்"
+    },
+    {
+      "original": "त्रिलोकैकसेतुं",
+      "transliteration": "ஸ்பூர",
+      "translation": "வெளிப்படையுங்கள்"
+    },
+    {
+      "original": "कृताम्नायगानं",
+      "transliteration": "ப்ரஸ்பூர",
+      "translation": "வெளிப்படையுங்கள்"
+    },
+    {
+      "original": "खगाधीशयानं",
+      "transliteration": "ப்ரஸ்பூர",
+      "translation": "வெளிப்படையுங்கள்"
+    },
+    {
+      "original": "विमुक्तेर्निदानं",
+      "transliteration": "சத்தியம்",
+      "translation": "சத்தியம் கூறுங்கள்"
+    },
+    {
+      "original": "हरारातिमानं",
+      "transliteration": "கதய",
+      "translation": "கூறுங்கள்"
+    },
+    {
+      "original": "स्वभक्तानुकूलं",
+      "transliteration": "வியா஘்ரமுகபந்தன",
+      "translation": "புலியின் முகத்தை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "जगद्वृक्षमूलं",
+      "transliteration": "சர்பமுகபந்தன",
+      "translation": "பாம்பின் முகத்தை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "निरस्तार्तशूलं",
+      "transliteration": "ராஜமுகபந்தன",
+      "translation": "அரசனின் முகத்தை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "समस्तामरेशं",
+      "transliteration": "நாரிமுகபந்தன",
+      "translation": "பெண்ணின் முகத்தை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "द्विरेफाभकेशं",
+      "transliteration": "சபாமுகபந்தன",
+      "translation": "மன்றத்தின் முகத்தை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "जगद्विम्बलेशं",
+      "transliteration": "ஷத்ருமுகபந்தன",
+      "translation": "எதிரியின் முகத்தை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "हृदाकाशदेशं",
+      "transliteration": "சர்வமுகபந்தன",
+      "translation": "அனைத்திற்கும் முகங்களை கட்டி பிடிப்பவர்"
+    },
+    {
+      "original": "सदा दिव्यदेहं",
+      "transliteration": "லங்காபிராசாதபஞ்சன",
+      "translation": "லங்காவின் மாளிகையை உடைத்துவிடுபவர்"
+    },
+    {
+      "original": "विमुक्ताखिलेहं",
+      "transliteration": "அமுகம்",
+      "translation": "எவரைக்"
+    },
+    {
+      "original": "सुवैकुण्ठगेहं",
+      "transliteration": "மே",
+      "translation": "என்"
+    },
+    {
+      "original": "सुरालिबलिष्ठं",
+      "transliteration": "வஷமாநய",
+      "translation": "கட்டுப்படுத்துவேன்"
+    },
+    {
+      "original": "त्रिलोकीवरिष्ठं",
+      "transliteration": "க்ளீம்",
+      "translation": "க்ளீம்"
+    },
+    {
+      "original": "गुरुं गरिष्ठं",
+      "transliteration": "க்ளீம்",
+      "translation": "க்ளீம்"
+    },
+    {
+      "original": "स्वरूपैकनिष्ठं",
+      "transliteration": "க்ளீம்",
+      "translation": "க்ளீம்"
+    },
+    {
+      "original": "सदा युद्धधीरं",
+      "transliteration": "ஹ்ரீம்",
+      "translation": "ஹ்ரீம்"
+    },
+    {
+      "original": "महावीरवीरं",
+      "transliteration": "ஶ்ரீம்",
+      "translation": "ஶ்ரீம்"
+    },
+    {
+      "original": "महाम्भोधितीरं",
+      "transliteration": "ஶ்ரீம்",
+      "translation": "ஶ்ரீம்"
+    },
+    {
+      "original": "रमावामभागं",
+      "transliteration": "ராஜானம்",
+      "translation": "ராஜாவை"
+    },
+    {
+      "original": "तलानग्रनागं",
+      "transliteration": "வஷமாநய",
+      "translation": "கட்டி பிடிக்கின்றேன்"
+    },
+    {
+      "original": "कृताधीनयागं",
+      "transliteration": "ஶ்ரீம்",
+      "translation": "ஶ்ரீம்"
+    },
+    {
+      "original": "गतारागरागं",
+      "transliteration": "ஹ்ரீம்",
+      "translation": "ஹ்ரீம்"
+    },
+    {
+      "original": "मुनीन्द्रैः सुगीतं",
+      "transliteration": "க்ளீம்",
+      "translation": "க்ளீம்"
+    },
+    {
+      "original": "सुरैः संपरीतं",
+      "transliteration": "ஸ்திரிய",
+      "translation": "பெண்ணை"
+    },
+    {
+      "original": "गुणौधैरतीतं",
+      "transliteration": "ஆகர்ஷய",
+      "translation": "ஈர்க்கவும்"
+    },
+    {
+      "original": "क्लीं",
+      "transliteration": "ஆகர்ஷய",
+      "translation": "ஈர்க்கவும்"
+    },
+    {
+      "original": "ह्रीं",
+      "transliteration": "ஷத்திருன்மர்தய",
+      "translation": "எதிரியை அழிக்கவும்"
+    },
+    {
+      "original": "श्रीं",
+      "transliteration": "மர்தய",
+      "translation": "அழிக்கவும்"
+    },
+    {
+      "original": "मुखबंधन",
+      "transliteration": "மாரய",
+      "translation": "அழிக்கவும்"
+    },
+    {
+      "original": "सर्वमुखबंधन",
+      "transliteration": "மாரய",
+      "translation": "அழிக்கவும்"
+    },
+    {
+      "original": "वशमानय",
+      "transliteration": "சூர்ணய",
+      "translation": "அரிப்பு செய்"
+    },
+    {
+      "original": "स्वाहा",
+      "transliteration": "சூர்ணய",
+      "translation": "அரிப்பு செய்"
+    },
+    {
+      "original": "फट्",
+      "transliteration": "கெ",
+      "translation": "கெ"
+    },
+    {
+      "original": "मुनीन्द्रैः",
+      "transliteration": "கெ",
+      "translation": "கெ"
+    },
+    {
+      "original": "सुगीतं",
+      "transliteration": "ஶ்ரீராமச்சந்திராஜ்ஞயா",
+      "translation": "ஸ்ரீ ராமசந்திரன் கட்டளையில்"
+    },
+    {
+      "original": "सुरैः",
+      "transliteration": "மம",
+      "translation": "என்"
+    },
+    {
+      "original": "संपरीतं",
+      "transliteration": "காரியசித்திம்",
+      "translation": "காரியத்தை முடிப்பேன்"
+    },
+    {
+      "original": "गुणौधैः",
+      "transliteration": "குரு",
+      "translation": "செய்"
+    },
+    {
+      "original": "अतीतं",
+      "transliteration": "குரு",
+      "translation": "செய்"
+    },
+    {
+      "original": "भजेऽहं",
+      "transliteration": "ஓம்",
+      "translation": "ஓம்"
+    },
+    {
+      "original": "भजेऽहं",
+      "transliteration": "ஹ்ராஂ",
+      "translation": "ஹ்ராஂ"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "ஹ்ரீம்",
+      "translation": "ஹ்ரீம்"
+    },
+    {
+      "original": "यस्तु",
+      "transliteration": "ஹ்ரூம்",
+      "translation": "ஹ்ரூம்"
+    },
+    {
+      "original": "नित्यं",
+      "transliteration": "ஹ்ரைம்",
+      "translation": "ஹ்ரைம்"
+    },
+    {
+      "original": "समाधाय",
+      "transliteration": "ஹ்ரௌம்",
+      "translation": "ஹ்ரௌம்"
+    },
+    {
+      "original": "चित्तं",
+      "transliteration": "ஹ்ரஹ்",
+      "translation": "ஹ்ரஹ்"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "ப஠்",
+      "translation": "ப஠்"
+    },
+    {
+      "original": "अष्टकं",
+      "transliteration": "ஸ்வாஹா",
+      "translation": "ஸ்வாஹா"
+    },
+    {
+      "original": "मुरारेः",
+      "transliteration": "விசித்ரவீர ஹனுமத்",
+      "translation": "விசித்ரவீர ஹனுமான்"
+    },
+    {
+      "original": "स विष्णोः",
+      "transliteration": "மம சர்வஷத்திரூன்",
+      "translation": "என் அனைத்து எதிரிகளை"
+    },
+    {
+      "original": "विशोकं",
+      "transliteration": "பஸ்மிகுரு குரு",
+      "translation": "நசம்படச் செய்"
+    },
+    {
+      "original": "ध्रुवं",
+      "transliteration": "ஹந",
+      "translation": "அடியுங்கள்"
+    },
+    {
+      "original": "याति",
+      "transliteration": "ஹந",
+      "translation": "அடியுங்கள்"
+    },
+    {
+      "original": "लोकं",
+      "transliteration": "ஹூம்",
+      "translation": "ஹூம்"
+    },
+    {
+      "original": "जराजन्म",
+      "transliteration": "ப஠்",
+      "translation": "ப஠்"
+    },
+    {
+      "original": "शोकं",
+      "transliteration": "ஸ்வாஹா",
+      "translation": "ஸ்வாஹா"
+    },
+    {
+      "original": "पुनर्विन्दते",
+      "transliteration": "ஏகாதஷஷதவாரம்",
+      "translation": "ஆயிரத்து பதினொன்று முறை"
+    },
+    {
+      "original": "नो",
+      "transliteration": "ஜபித்தவா",
+      "translation": "ஜபித்தால்"
+    },
+    {
+      "original": "प्रकट",
+      "transliteration": "சர்வஷத்திரூன் வஷமாநயதி",
+      "translation": "அனைத்து எதிரிகளும் என் கட்டுப்பாட்டில்"
+    },
+    {
+      "original": "विक्रम",
+      "transliteration": "நான்யதா",
+      "translation": "இல்லாமல்"
+    },
+    {
+      "original": "वीर",
+      "transliteration": "இதி",
+      "translation": "இப்படி"
+    },
+    {
+      "original": "दैत्य",
+      "transliteration": "இதி ஸ்ரீமாருதிஸ்தோத்திரம்",
+      "translation": "இப்படி ஸ்ரீ மாருதி ஸ்தோத்திரம்"
+    },
+    {
+      "original": "दानव",
+      "transliteration": "சம்பூர்ணம்",
+      "translation": "முழுமையாக முடிந்தது"
+    },
+    {
+      "original": "यक्ष",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "रक्षो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "गण",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ग्रह",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बंधनाय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भूत",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ग्रहबंधनाय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रेत",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पिशाच",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शाकिनी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "डाकिनी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "काकिनी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कामिनी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ब्रह्म",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राक्षस",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चोर",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मारी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "एहि",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आगच्छ",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आवेशय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मम",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हृदये",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रवेशय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्फुर",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रस्फुर",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सत्यं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कथय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "व्याघ्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मुख",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बंधन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्प",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राज",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नारी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सभा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शत्रु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "लंका",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "प्रासाद",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भंजन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "अमुकं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वशमानय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "क्लीं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ह्रीं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "राजानं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्त्रिय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आकर्षय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शत्रुन्मर्दय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "मारय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "चूर्णय",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "खे",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीरामचंद्र",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "आज्ञया",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कार्यसिद्धिं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "कुरु",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ह्रां",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ह्रूं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ह्रैं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ह्रौं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "ह्रः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "फट्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वाहा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हन",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "हुं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "एकादशशतवारं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "जपित्वा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "सर्वशत्रून्",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "वशमानयति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "नान्यथा",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "इति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "श्रीमारुति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संपूर्णम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\maruti_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\maruti_stotra\\tamil\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\maruti_stotra\\tamil\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.094Z"
+  }
+}

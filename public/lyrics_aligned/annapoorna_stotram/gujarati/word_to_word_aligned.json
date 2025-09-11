@@ -1,0 +1,734 @@
+{
+  "mantra": "annapoorna_stotram",
+  "language": "gujarati",
+  "type": "word_to_word",
+  "totalWords": 144,
+  "alignedWords": [
+    {
+      "original": "नित्यानन्दकरी",
+      "transliteration": "નિત્યાત્મરસી",
+      "translation": "જે નિત્ય આનંદ આપનાર છે"
+    },
+    {
+      "original": "वराभयकरी",
+      "transliteration": "વારાભયકરસી",
+      "translation": "જે ભય હટાવનાર છે"
+    },
+    {
+      "original": "सौन्दर्यरत्नाकरी",
+      "transliteration": "સૌંદર્યરત્નાકરી",
+      "translation": "જે સૌંદર્યમાં શ્રેષ્ઠ રત્ન આપે છે"
+    },
+    {
+      "original": "निर्धूताखिलघोरपावनकरी",
+      "transliteration": "નિર્ધૂતાખિલઘોરપાવનકરી",
+      "translation": "જે તમામ પાપોને દૂર કરનાર છે"
+    },
+    {
+      "original": "प्रत्यक्षमाहेश्वरी",
+      "transliteration": "પ્રતિક્ષમાહેશ્વરી",
+      "translation": "જે પ્રત્યક્ષ વિષ્ણુના રૂપમાં છે"
+    },
+    {
+      "original": "प्रालेयाचलवंशपावनकरी",
+      "transliteration": "પ્રાળેયાચલવંશપાવનકરી",
+      "translation": "જે પ્રાચીન પર્વતમાળા સાથે પાવન છે"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "કાશીપુરાધીશ્વરી",
+      "translation": "કાશીમાં વસતી ભગવાનની માતા છે"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "ભિક્ષાં",
+      "translation": "ભિક્ષા આપો"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "દેહી",
+      "translation": "આપો"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "કૃપાવલંબનકરી",
+      "translation": "જે કૃપા દર્શાવતી છે"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "માતાન્નપૂર્નેશ્વરી",
+      "translation": "જે ANNAPERFORMANCE છે, જેનું એકમાત્ર કાર્ય છે ભક્ષ્ય આપવું"
+    },
+    {
+      "original": "नानारत्नविचित्रभूषणकरी",
+      "transliteration": "નાનારત્નવિચિત્રભૂષણકરી",
+      "translation": "જે વિવિધ અને અનોખા રત્નોથી શોભિત છે"
+    },
+    {
+      "original": "हेमाम्बराडम्बरी",
+      "transliteration": "હેમામ્બરાડમ્બરી",
+      "translation": "જે સોનેરી ઓડણ પહેરતી છે"
+    },
+    {
+      "original": "मुक्ताहारविलम्बमान",
+      "transliteration": "મુક્તાહારવિલંબમાનવિલસદ્વક્ષોજકુમ્ઠાંતરી",
+      "translation": "જે મુક્તાહાર પહેરે છે અને તેનો કુંભ સુશોભિત છે"
+    },
+    {
+      "original": "विलसद्वक्षोजकुम्भान्तरी",
+      "transliteration": "કાશ્મીરાગરુવાસિતાંગરુચિરે",
+      "translation": "જે કાશ્મીરી ગુરુ દ્વારા સજ્જ છે"
+    },
+    {
+      "original": "काश्मीरागरुवासिताङ्गरुचिरे",
+      "transliteration": "કાશીપુરાધીશ્વરી",
+      "translation": "કાશીપુરાના ધારક છે"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "ભિક્ષાં",
+      "translation": "ભિક્ષા આપો"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "દેહી",
+      "translation": "આપો"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "કૃપાવલંબનકરી",
+      "translation": "જે કૃપા દર્શાવતી છે"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "માતાન્નપૂર્નેશ્વરી",
+      "translation": "જે પૌષ્ટિક અને પૂર્ણ માતા છે"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "યોગાનંદકરો",
+      "translation": "જે યોગ અને આનંદ પ્રદાન કરનાર છે"
+    },
+    {
+      "original": "योगानन्दकरी",
+      "transliteration": "રિપુક્ષયકરો",
+      "translation": "જે દુશ્મનને નષ્ટ કરનાર છે"
+    },
+    {
+      "original": "रिपुक्षयकरी",
+      "transliteration": "ધર્માર્થેનિષ્ઠાકરી",
+      "translation": "જે ધર્મ અને અર્થ માટે નિષ્ઠાવાળી છે"
+    },
+    {
+      "original": "धर्मार्थनिष्ठाकरी",
+      "transliteration": "ચંદ્રાર્કાનલભાસમાનલહરી",
+      "translation": "જે ચંદ્ર, સૂર્ય અને અગ્નિની જેમ પ્રકાશવાળી છે"
+    },
+    {
+      "original": "चन्द्रार्कानलभासमानलहरी",
+      "transliteration": "ત્રૈલોક્યરક્ષાકરી",
+      "translation": "જે ત્રૈલોક્યનો રક્ષણ કરે છે"
+    },
+    {
+      "original": "त्रैलोक्यरक्षाकरी",
+      "transliteration": "સર્વૈશ્વર્યસમસ્તવાંચિતકરી",
+      "translation": "જે સર્વ ઈશ્વરની ચાહત આપનાર છે"
+    },
+    {
+      "original": "सर्वैश्वर्यसमस्तवाञ्छितकरी",
+      "transliteration": "કાશીપુરાધીશ્વરી",
+      "translation": "કાશીપુરાના ધારક છે"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "ભિક્ષાં",
+      "translation": "ભિક્ષા આપો"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "દેહી",
+      "translation": "આપો"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "કૈલાસાચલકંદરાલયકરી",
+      "translation": "જે કૈલાસ પર્વતના નગરમાં નિવાસ કરતી છે"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "ગૌરી",
+      "translation": "જે શિવની પત્ની છે"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "ઊમા",
+      "translation": "જે પર્વતી છે"
+    },
+    {
+      "original": "कैलासाचलकन्दरालयकरी",
+      "transliteration": "શંકરી",
+      "translation": "જે શિવને લગતી છે"
+    },
+    {
+      "original": "गौरी",
+      "transliteration": "કૌમારી",
+      "translation": "જે કૌમારી રુપે પ્રગટ છે"
+    },
+    {
+      "original": "उमा",
+      "transliteration": "નિગમાર્થીગોચરકરી",
+      "translation": "જે વૈદિક ગ્રંથોના અર્થને સમજાવતી છે"
+    },
+    {
+      "original": "शङ्करी",
+      "transliteration": "ઓંકારબીજાક્ષરી",
+      "translation": "જે ઓંકારના બીજાક્ષરથી પ્રગટ છે"
+    },
+    {
+      "original": "कौमारी",
+      "transliteration": "મોચદ્વારકપાટપાટનકરી",
+      "translation": "જે મુક્તિનું દ્વાર ખોલતી છે"
+    },
+    {
+      "original": "निगमार्थगोचरकरी",
+      "transliteration": "કાશીપુરાધીશ્વરી",
+      "translation": "કાશીપુરાના ધારક છે"
+    },
+    {
+      "original": "ओङ्कारबीजाक्षरी",
+      "transliteration": "ભિક્ષાં",
+      "translation": "ભિક્ષા આપો"
+    },
+    {
+      "original": "मोक्षद्वारकपाटपाटनकरी",
+      "transliteration": "દેહી",
+      "translation": "આપો"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "દૃશ્યાદૃશ્યવિભૂતિવાહનકરી",
+      "translation": "જે દૃશ્ય અને અદૃશ્ય વિભૂતિઓનો વાહન કરતી છે"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "બ્રહ્માંડભાંડોદરી",
+      "translation": "જે બ્રહ્માંડને પોષણ કરતી છે"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "લીલાનાટકસૂત્રભેદનકરી",
+      "translation": "જે નાટક અને કૃતિઓના સુંગઠિત બિહારી છે"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "વિજ્ઞાનદીપાંકુરી",
+      "translation": "જે જ્ઞાન અને દિવ્ય પ્રકાશ આપે છે"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "શ્રીવિશ્વેશમણ:પ્રસાદનકરો",
+      "translation": "જે વિશ્વના શાંત અને પ્રસન્નકરણ છે"
+    },
+    {
+      "original": "दृश्यादृश्यविभूतिवाहनकरी",
+      "transliteration": "કાશીપુરાધીશ્વરી",
+      "translation": "કાશીપુરાના ધારક છે"
+    },
+    {
+      "original": "ब्रह्माण्डभाण्डोदरी",
+      "transliteration": "ભિક્ષાં",
+      "translation": "ભિક્ષા આપો"
+    },
+    {
+      "original": "लीलानाटकसूत्रभेदनकरी",
+      "transliteration": "દેહી",
+      "translation": "આપો"
+    },
+    {
+      "original": "विज्ञानदीपाङ्कुरी",
+      "transliteration": "કૃપાવલંબનકરી",
+      "translation": "જે કૃપા દર્શાવતી છે"
+    },
+    {
+      "original": "श्रीविश्वेशमनःप्रसादनकरी",
+      "transliteration": "માતાન્નપૂર્નેશ્વરી",
+      "translation": "જે પૌષ્ટિક અને પૂર્ણ માતા છે"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "ઉર્વીસર્વજનેશ્વરી",
+      "translation": "જે તમામ જગતના દેવી છે"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "ભગવતી",
+      "translation": "જે પૌણ્ય અને દેવીઓની માલિકી ધરાવતી છે"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "માતાન્નપૂર્નેશ્વરી",
+      "translation": "જે પૌષ્ટિક અને પૂર્ણ માતા છે"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "વેણીનિલસમાનકુંતલહરી",
+      "translation": "જે કાંતો સાથે મંચ પર વળગતી છે"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "નિત્યાત્માન્નદાનેશ્વરી",
+      "translation": "જે અનંત નિત્ય આનંદ આપતી છે"
+    },
+    {
+      "original": "उर्वीसर्वजनेश्वरी",
+      "transliteration": "સર્વાનંદકરી",
+      "translation": "જે સર્વેને આનંદ આપે છે"
+    },
+    {
+      "original": "भगवती",
+      "transliteration": "સદા શુભકરી",
+      "translation": "જે સદા શુભ અને મંગલકારક છે"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "કાશીપુરાધીશ્વરી",
+      "translation": "કાશીપુરાના ધારક છે"
+    },
+    {
+      "original": "वेणीनीलसमानकुन्तलहरी",
+      "transliteration": "ભિક્ષાં",
+      "translation": "ભિક્ષા આપો"
+    },
+    {
+      "original": "नित्यान्नदानेश्वरी",
+      "transliteration": "દેહી",
+      "translation": "આપો"
+    },
+    {
+      "original": "सर्वानन्दकरी",
+      "transliteration": "કૃપાવલંબનકરી",
+      "translation": "જે કૃપા દર્શાવતી છે"
+    },
+    {
+      "original": "सदा शुभकरी",
+      "transliteration": "માતાન્નપૂર્નેશ્વરી",
+      "translation": "જે પૌષ્ટિક અને પૂર્ણ માતા છે"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "આદિક્ષાંતસમસ્તવર્ણનકરી",
+      "translation": "જે દરેક શ્રેષ્ઠ ગુણોથી પરિપૂર્ણ છે"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "શંભોસ્ટ્રિભાવાકરી",
+      "translation": "જે ત્રણ રૂપોમાં વિસ્થાપિત છે"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "કાશ્મીરાત્રિજલેશ્વરી",
+      "translation": "જે કાશ્મીરાત્રીની દેવી છે"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "ત્રિલહરી",
+      "translation": "જે ત્રિલોકીનો લહેરાવટ કરનાર છે"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "નિત્યાંકુરા",
+      "translation": "જે સદા પવન અને સ્વચ્છ છે"
+    },
+    {
+      "original": "आदिक्षान्तसमस्तवर्णनकरी",
+      "transliteration": "શર્વરી",
+      "translation": "જે શ્રાવણી છે"
+    },
+    {
+      "original": "शम्भोस्त्रिभावाकरी",
+      "transliteration": "કામાકાંક્ષકરી",
+      "translation": "જે દરેક ઈચ્છાઓનું પુર્ણકારક છે"
+    },
+    {
+      "original": "काश्मीरात्रिजलेश्वरी",
+      "transliteration": "જનોદયકરી",
+      "translation": "જે મનુષ્યની ભલાઈ માટે છે"
+    },
+    {
+      "original": "त्रिलहरी",
+      "transliteration": "કાશીપુરાધીશ્વરી",
+      "translation": "કાશીપુરાના ધારક છે"
+    },
+    {
+      "original": "नित्याङ्कुरा शर्वरी",
+      "transliteration": "ભિક્ષાં",
+      "translation": "ભિક્ષા આપો"
+    },
+    {
+      "original": "कामाकाङ्क्षकरी",
+      "transliteration": "દેહી",
+      "translation": "આપો"
+    },
+    {
+      "original": "जनोदयकरी",
+      "transliteration": "કૃપાવલંબનકરી",
+      "translation": "જે કૃપા દર્શાવતી છે"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "માતાન્નપૂર્નેશ્વરી",
+      "translation": "જે પૌષ્ટિક અને પૂર્ણ માતા છે"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "દેવી",
+      "translation": "જે દેવી છે"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "સર્વવિચિત્રરત્નરચિતા",
+      "translation": "જે વિવિધ અને અનોખા રત્નોથી શોભિત છે"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "દક્ષાયણી",
+      "translation": "જે દક્ષની પુત્રી છે"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "સુંદરી",
+      "translation": "જે સુંદર છે"
+    },
+    {
+      "original": "सर्वविचित्ररत्नरचिता",
+      "transliteration": "વાયમં",
+      "translation": "જે આપણી બाईं બાજુ પર વસતી છે"
+    },
+    {
+      "original": "दाक्षायणी",
+      "transliteration": "સ્વાદુપયોધરપ્રિયકરી",
+      "translation": "જે સ્વાદિષ્ટ અને આરોગ્યદાયક છે"
+    },
+    {
+      "original": "सुन्दरी",
+      "transliteration": "સૌભાગ્યમાહેશ્વરી",
+      "translation": "જે શુભ અને લાક્ષણિક માતા છે"
+    },
+    {
+      "original": "वामं",
+      "transliteration": "ભક્તાભીષ્ટકરી",
+      "translation": "જે શ્રદ્ધાળુઓની ભલાઈ માટે છે"
+    },
+    {
+      "original": "स्वादुपयोधरप्रियकरी",
+      "transliteration": "સદા શુભકરી",
+      "translation": "જે સદા શુભ અને મંગલકારક છે"
+    },
+    {
+      "original": "सौभाग्यमाहेश्वरी",
+      "transliteration": "કાશીપુરાધીશ્વરી",
+      "translation": "કાશીપુરાના ધારક છે"
+    },
+    {
+      "original": "भक्ताभीष्टकरी",
+      "transliteration": "ભિક્ષાં",
+      "translation": "ભિક્ષા આપો"
+    },
+    {
+      "original": "सदा शुभकरी",
+      "transliteration": "દેહી",
+      "translation": "આપો"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "કૃપાવલંબનકરી",
+      "translation": "જે કૃપા દર્શાવતી છે"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "માતાન્નપૂર્નેશ્વરી",
+      "translation": "જે પૌષ્ટિક અને પૂર્ણ માતા છે"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "ચંદ્રાર્કાનલકોટિકોટિસદૃશા",
+      "translation": "જે ચંદ્ર અને આગના કરોડો કિરણો જેમ છે"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "ચંદ્રાંશુબિંબાધરી",
+      "translation": "જે ચંદ્રના પ્રકાશથી ભરી છે"
+    },
+    {
+      "original": "चन्द्रार्कानलकोटिकोटिसदृशा",
+      "transliteration": "ચંદ્રાર્કાગ્નિસમાનકુંતલધરી",
+      "translation": "જે ચંદ્ર અને આગના તેજસ્વી વાળ ધરાવતી છે"
+    },
+    {
+      "original": "चन्द्रांशुबिम्बाधरी",
+      "transliteration": "ચંદ્રાર્કવર્ણેશ્વરી",
+      "translation": "જે ચંદ્ર અને આંચલના રંગોથી શોભિત છે"
+    },
+    {
+      "original": "चन्द्रार्काग्निसमानकुन्तलधरी",
+      "transliteration": "માલાપુસ્તકપાશાસાંકુશધરી",
+      "translation": "જે માળા, પుస్తક, પાશ અને સાંકુશ ધરાવતી છે"
+    },
+    {
+      "original": "चन्द्रार्कवर्णेश्वरी",
+      "transliteration": "કાશીપુરાધીશ્વરી",
+      "translation": "કાશીપુરાના ધારક છે"
+    },
+    {
+      "original": "मालापुस्तकपाशासाङ्कुशधरी",
+      "transliteration": "ભિક્ષાં",
+      "translation": "ભિક્ષા આપો"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "દેહી",
+      "translation": "આપો"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "કૃપાવલંબનકરી",
+      "translation": "જે કૃપા દર્શાવતી છે"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "માતાન્નપૂર્નेश્વરી",
+      "translation": "જે પૌષ્ટિક અને પૂર્ણ માતા છે"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "ક્ષત્રત્રાણકરી",
+      "translation": "જે યોદ્ધાઓ અને રાજાનું રક્ષણ કરતી છે"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "મહાભયકરી",
+      "translation": "જે તમામ ભયોને દૂર કરનારી છે"
+    },
+    {
+      "original": "चन्द्रार्कानलकोटिकोटिसदृशा",
+      "transliteration": "માતા",
+      "translation": "જે માતા છે"
+    },
+    {
+      "original": "चन्द्रांशुबिम्बाधरी",
+      "transliteration": "કૃપાસાગરી",
+      "translation": "જે કૃપાના સાગર છે"
+    },
+    {
+      "original": "चन्द्रार्काग्निसमानकुन्तलधरी",
+      "transliteration": "સાક્ષાન્મોચકરિ",
+      "translation": "જે મુક્તિ આપનારી છે"
+    },
+    {
+      "original": "चन्द्रार्कवर्णेश्वरी",
+      "transliteration": "સદા",
+      "translation": "સદા"
+    },
+    {
+      "original": "मालापुस्तकपाशासाङ्कुशधरी",
+      "transliteration": "શિવકરી",
+      "translation": "જે શિવની કૃપા ધરાવતી છે"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "વિશ્વેશ્વરશ્રીધરી",
+      "translation": "જે વિશ્વના ઈશ્વરની મাতা છે"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "કાશીપુરાધીશ્વરી",
+      "translation": "કાશીપુરાના ધારક છે"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "ભિક્ષાં",
+      "translation": "ભિક્ષા આપો"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "દેહી",
+      "translation": "આપો"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "કૃપાવલંબનકરી",
+      "translation": "જે કૃપા દર્શાવતી છે"
+    },
+    {
+      "original": "क्षत्रत्राणकरी",
+      "transliteration": "માતાન્નપૂર્નેશ્વરી",
+      "translation": "જે પૌષ્ટિક અને પૂર્ણ માતા છે"
+    },
+    {
+      "original": "महाऽभयकरी",
+      "transliteration": "અન્નપૂર્ને",
+      "translation": "જે અનાજ અને ખોરાક આપતી છે"
+    },
+    {
+      "original": "माता",
+      "transliteration": "સદાપૂર્ણે",
+      "translation": "જે સદાય પુર્ણ છે"
+    },
+    {
+      "original": "कृपासागरी",
+      "transliteration": "શંકરપ્રાણવલ્લભે",
+      "translation": "જે શંકરનું જીવ છે"
+    },
+    {
+      "original": "साक्षान्मोक्षकरी",
+      "transliteration": "જ્ઞાનવૈરાગ્યસિદ્ધ્યર્થં",
+      "translation": "જે જ્ઞાન અને વિરાગ્ય માટે છે"
+    },
+    {
+      "original": "सदा शिवकरी",
+      "transliteration": "ભિક્ષાં",
+      "translation": "ભિક્ષા આપો"
+    },
+    {
+      "original": "विश्वेश्वरश्रीधरी",
+      "transliteration": "દેહી",
+      "translation": "આપો"
+    },
+    {
+      "original": "दक्षाक्रन्दकरी",
+      "transliteration": "ચ",
+      "translation": "અને"
+    },
+    {
+      "original": "निरामयकरी",
+      "transliteration": "પાર્વતિ",
+      "translation": "જે પાર્વતી છે"
+    },
+    {
+      "original": "काशीपुराधीश्वरी",
+      "transliteration": "માતા",
+      "translation": "જે માતા છે"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "ચ",
+      "translation": "અને"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "પાર્વતી",
+      "translation": "જે પાર્વતી છે"
+    },
+    {
+      "original": "कृपावलम्बनकरी",
+      "transliteration": "દેવી",
+      "translation": "જે દેવી છે"
+    },
+    {
+      "original": "मातान्नपूर्णेश्वरी",
+      "transliteration": "પિતા",
+      "translation": "જે પિતા છે"
+    },
+    {
+      "original": "अन्नपूर्णे",
+      "transliteration": "દેવો",
+      "translation": "જે દેવ છે"
+    },
+    {
+      "original": "सदापूर्णे",
+      "transliteration": "મહેશ્વરઃ",
+      "translation": "જે મહેશ્વર છે"
+    },
+    {
+      "original": "शङ्करप्राणवल्लभे",
+      "transliteration": "બાન्धવઃ",
+      "translation": "જે શ્રદ્ધાળુઓના પરિવાર છે"
+    },
+    {
+      "original": "ज्ञानवैराग्यसिद्ध्यर्थं",
+      "transliteration": "શિવભક્તાશ્ચ",
+      "translation": "જે શિવના ભક્ત છે"
+    },
+    {
+      "original": "भिक्षां",
+      "transliteration": "સ્વદેશો",
+      "translation": "જે દેશનો છે"
+    },
+    {
+      "original": "देहि",
+      "transliteration": "ભૂવનત્રયં",
+      "translation": "જે ત્રિ-ભૂમિનો માલિક છે"
+    },
+    {
+      "original": "च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पार्वति",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "माता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पार्वती",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देवी",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "पिता",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "देवो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "महेश्वरः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "बान्धवाः",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शिवभक्ताश्च",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "स्वदेशो",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "भुवनत्रयम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\gujarati\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\annapoorna_stotram\\gujarati\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.134Z"
+  }
+}

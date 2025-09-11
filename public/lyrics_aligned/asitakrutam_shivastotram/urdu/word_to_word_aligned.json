@@ -1,0 +1,569 @@
+{
+  "mantra": "asitakrutam_shivastotram",
+  "language": "urdu",
+  "type": "word_to_word",
+  "totalWords": 111,
+  "alignedWords": [
+    {
+      "original": "असित",
+      "transliteration": "آسیط",
+      "translation": "وہ شخص"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "کرتم",
+      "translation": "کیا گیا"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "شیو",
+      "translation": "شیوا"
+    },
+    {
+      "original": "स्तोत्रम्",
+      "transliteration": "سوترم",
+      "translation": "دعا"
+    },
+    {
+      "original": "असित",
+      "transliteration": "جگدگرو",
+      "translation": "دنیا کا استاد"
+    },
+    {
+      "original": "उवाच",
+      "transliteration": "نمستبھیم",
+      "translation": "میں تمہاری عبادت کرتا ہوں"
+    },
+    {
+      "original": "जगद्गुरो",
+      "transliteration": "شیوائے",
+      "translation": "شیوا کو"
+    },
+    {
+      "original": "नमस्तुभ्यं",
+      "transliteration": "شیو دای",
+      "translation": "شیوا کی عطا"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "چ",
+      "translation": "اور"
+    },
+    {
+      "original": "शिवदाय",
+      "transliteration": "یوگیندرانم",
+      "translation": "یوگیوں کے استاد"
+    },
+    {
+      "original": "च",
+      "transliteration": "چ",
+      "translation": "اور"
+    },
+    {
+      "original": "योगीन्द्राणां",
+      "transliteration": "یوگینڈر",
+      "translation": "یوگیوں کا سردار"
+    },
+    {
+      "original": "च",
+      "transliteration": "گروڑنم",
+      "translation": "اساتذہ کا"
+    },
+    {
+      "original": "योगीन्द्र",
+      "transliteration": "گرووی",
+      "translation": "استاد کو"
+    },
+    {
+      "original": "गुरूणां",
+      "transliteration": "نمہ",
+      "translation": "درود و سلام"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "مرتیور",
+      "translation": "موت کا"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "مرتیوسوروپن",
+      "translation": "موت کی شکل میں"
+    },
+    {
+      "original": "मृत्योर",
+      "transliteration": "مرتیوسنکارکھنڈن",
+      "translation": "موت کی دنیا کو ختم کرنا"
+    },
+    {
+      "original": "मृत्युस्वरूपेण",
+      "transliteration": "مرتیوریش",
+      "translation": "موت کا مالک"
+    },
+    {
+      "original": "मृत्युसंसारखण्डन",
+      "transliteration": "مرتیوبیج",
+      "translation": "موت کا بیج"
+    },
+    {
+      "original": "मृत्योरीश",
+      "transliteration": "مرتیوجے",
+      "translation": "موت پر فتح پانے والا"
+    },
+    {
+      "original": "मृत्युबीज",
+      "transliteration": "نمستُ",
+      "translation": "درود ہو"
+    },
+    {
+      "original": "मृत्युञ्जय",
+      "transliteration": "تے",
+      "translation": "تمہیں"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "کالرُوپم",
+      "translation": "وقت کی شکل"
+    },
+    {
+      "original": "ते",
+      "transliteration": "کلیاتم",
+      "translation": "وقت کا اختیار کرنے والا"
+    },
+    {
+      "original": "कालरूपं",
+      "transliteration": "کَالکَالیش",
+      "translation": "وقت کا بادشاہ"
+    },
+    {
+      "original": "कलयतां",
+      "transliteration": "کارن",
+      "translation": "وجہ"
+    },
+    {
+      "original": "कालकालेश",
+      "transliteration": "کالادتیّت",
+      "translation": "وقت سے ماورا"
+    },
+    {
+      "original": "कारण",
+      "transliteration": "کالاستھ",
+      "translation": "وقت میں بیٹھی"
+    },
+    {
+      "original": "कालादतीत",
+      "transliteration": "کالکال",
+      "translation": "ہمیشہ کا وقت"
+    },
+    {
+      "original": "कालस्थ",
+      "transliteration": "نمستُ",
+      "translation": "درود ہو"
+    },
+    {
+      "original": "कालकाल",
+      "transliteration": "تے",
+      "translation": "تمہیں"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "گُناَتِتہ",
+      "translation": "صفات سے ماورا"
+    },
+    {
+      "original": "ते",
+      "transliteration": "گُناادھار",
+      "translation": "صفات کا آرتھ"
+    },
+    {
+      "original": "गुणातीत",
+      "transliteration": "گُنبِیج",
+      "translation": "صفات کا بیج"
+    },
+    {
+      "original": "गुणाधार",
+      "transliteration": "گُنااتمک",
+      "translation": "صفات کی نوعیت"
+    },
+    {
+      "original": "गुणबीज",
+      "transliteration": "گُنیش",
+      "translation": "صفات کا مالک"
+    },
+    {
+      "original": "गुणात्मक",
+      "transliteration": "گُنینم",
+      "translation": "صفات رکھنے والے"
+    },
+    {
+      "original": "गुणीश",
+      "transliteration": "بیج",
+      "translation": "بیج"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "گُنینم",
+      "translation": "صفات رکھنے والے"
+    },
+    {
+      "original": "बीज",
+      "transliteration": "گرووی",
+      "translation": "استاد کو"
+    },
+    {
+      "original": "गुणिनां",
+      "transliteration": "نمہ",
+      "translation": "درود و سلام"
+    },
+    {
+      "original": "गुरवे",
+      "transliteration": "برہمسورُوپ",
+      "translation": "براہمن کی شکل"
+    },
+    {
+      "original": "नमः",
+      "transliteration": "برہمگنیا",
+      "translation": "برہم کا علم رکھنے والا"
+    },
+    {
+      "original": "ब्रह्मस्वरूप",
+      "transliteration": "برہمبھاوے",
+      "translation": "برہم میں مستغرق"
+    },
+    {
+      "original": "ब्रह्मज्ञ",
+      "transliteration": "چ",
+      "translation": "اور"
+    },
+    {
+      "original": "ब्रह्मभावे",
+      "transliteration": "تَتپَر",
+      "translation": "اس میں محو"
+    },
+    {
+      "original": "च",
+      "transliteration": "برہمبیج",
+      "translation": "براہمن کا بیج"
+    },
+    {
+      "original": "तत्पर",
+      "transliteration": "سورُوپےن",
+      "translation": "اپنی شکل میں"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "برہمبیج",
+      "translation": "براہمن کا بیج"
+    },
+    {
+      "original": "स्वरूपेण",
+      "transliteration": "نمستُ",
+      "translation": "درود ہو"
+    },
+    {
+      "original": "ब्रह्मबीज",
+      "transliteration": "تے",
+      "translation": "تمہیں"
+    },
+    {
+      "original": "नमोऽस्तु",
+      "transliteration": "اِتی",
+      "translation": "اسی طرح"
+    },
+    {
+      "original": "ते",
+      "transliteration": "ستُتوا",
+      "translation": "عبادت کرنا"
+    },
+    {
+      "original": "इति",
+      "transliteration": "شِوَم",
+      "translation": "شیوا"
+    },
+    {
+      "original": "स्तुत्वा",
+      "transliteration": "نَتوا",
+      "translation": "سجدہ کرنا"
+    },
+    {
+      "original": "शिवं",
+      "transliteration": "پُرَسْتَسْتَھُو",
+      "translation": "آگے کھڑا ہوگیا"
+    },
+    {
+      "original": "नत्वा",
+      "transliteration": "مونیِشور",
+      "translation": "بزرگ عالم"
+    },
+    {
+      "original": "पुरस्तस्थौ",
+      "transliteration": "دینوتسا",
+      "translation": "دردمندوں کا دوست"
+    },
+    {
+      "original": "मुनीश्वरः",
+      "transliteration": "اشْرونیتَرْشْچ",
+      "translation": "آنکھوں سے آنسو"
+    },
+    {
+      "original": "दीनवत्साश्रुनेत्रश्च",
+      "transliteration": "پُلکاجنِتویگراہُ",
+      "translation": "جسم میں کپکپی"
+    },
+    {
+      "original": "पुळकाञ्चितविग्रहः",
+      "transliteration": "آسیطین",
+      "translation": "آسیط کی طرف سے"
+    },
+    {
+      "original": "असितेन",
+      "transliteration": "کرتم",
+      "translation": "کیا گیا"
+    },
+    {
+      "original": "कृतं",
+      "transliteration": "سوترم",
+      "translation": "دعا"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "بھکتِ یکتَشچ",
+      "translation": "جو بھکتی کے ساتھ ہو"
+    },
+    {
+      "original": "भक्तियुक्तश्च",
+      "transliteration": "یَہ",
+      "translation": "جو"
+    },
+    {
+      "original": "यः",
+      "transliteration": "پٹھےتْ",
+      "translation": "پڑھے"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "ورشَمیکم",
+      "translation": "ایک سال"
+    },
+    {
+      "original": "वर्षमेकं",
+      "transliteration": "ہیوشی آشی",
+      "translation": "قربانی دینے والا"
+    },
+    {
+      "original": "हविष्याशी",
+      "transliteration": "شَنگَرسیا",
+      "translation": "شنکر کا"
+    },
+    {
+      "original": "शङ्करस्य",
+      "transliteration": "مہاتمنہُ",
+      "translation": "عظیم شخص"
+    },
+    {
+      "original": "महात्मनः",
+      "transliteration": "س",
+      "translation": "وہ"
+    },
+    {
+      "original": "स",
+      "transliteration": "لبھدْوَیشْنَوام",
+      "translation": "ویشنوی کے بیٹے کو حاصل کریں"
+    },
+    {
+      "original": "लभेद्वैष्णवं",
+      "transliteration": "پترم",
+      "translation": "بیٹا"
+    },
+    {
+      "original": "पुत्रं",
+      "transliteration": "گیانِنم",
+      "translation": "عارف انسان"
+    },
+    {
+      "original": "ज्ञानिनं",
+      "transliteration": "چرَجیونِم",
+      "translation": "طویل عمر والے"
+    },
+    {
+      "original": "चिरजीविनम्",
+      "transliteration": "داریڈرو",
+      "translation": "فقیر"
+    },
+    {
+      "original": "दरिद्रो",
+      "transliteration": "بھویددھنادھیو",
+      "translation": "امیر ہو جائے گا"
+    },
+    {
+      "original": "भवेद्धनाढ्यो",
+      "transliteration": "موکو",
+      "translation": "گونگا"
+    },
+    {
+      "original": "मूको",
+      "transliteration": "بھَوتِ پانڈِتَہ",
+      "translation": "عالم بن جائے گا"
+    },
+    {
+      "original": "भवति",
+      "transliteration": "ابھارِو",
+      "translation": "بیوی حاصل کرتا ہے"
+    },
+    {
+      "original": "पण्डितः",
+      "transliteration": "لَبھتے",
+      "translation": "حاصل کرتا ہے"
+    },
+    {
+      "original": "अभार्यो",
+      "transliteration": "بھارِیَاں",
+      "translation": "بیوی"
+    },
+    {
+      "original": "लभते",
+      "transliteration": "سُشِیلَام",
+      "translation": "نیک"
+    },
+    {
+      "original": "भार्यां",
+      "transliteration": "چ",
+      "translation": "اور"
+    },
+    {
+      "original": "सुशीलां",
+      "transliteration": "پَتِورَتَام",
+      "translation": "وفادار بیوی"
+    },
+    {
+      "original": "च",
+      "transliteration": "اَہ لَوکے",
+      "translation": "اس دنیا میں"
+    },
+    {
+      "original": "पतिव्रताम्",
+      "transliteration": "سُکھم",
+      "translation": "خوشی"
+    },
+    {
+      "original": "इह",
+      "transliteration": "بھکتوا",
+      "translation": "تجربہ کرنے کے بعد"
+    },
+    {
+      "original": "लोके",
+      "transliteration": "یاتینتے",
+      "translation": "جاتے ہیں"
+    },
+    {
+      "original": "सुखं",
+      "transliteration": "شِو سَنیڈھِم",
+      "translation": "شیوا کی موجودگی میں"
+    },
+    {
+      "original": "भुक्त्वा",
+      "transliteration": "اَدم",
+      "translation": "یہ"
+    },
+    {
+      "original": "यात्यन्ते",
+      "transliteration": "سوترم",
+      "translation": "دعا"
+    },
+    {
+      "original": "शिवसन्निधिम्",
+      "transliteration": "پُرا",
+      "translation": "پہلے"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "دَتّمْ",
+      "translation": "دیا گیا"
+    },
+    {
+      "original": "स्तोत्रं",
+      "transliteration": "برہمنا",
+      "translation": "برہمن کی طرف سے"
+    },
+    {
+      "original": "पुरा",
+      "transliteration": "چ",
+      "translation": "اور"
+    },
+    {
+      "original": "दत्तं",
+      "transliteration": "پرَچِتَسے",
+      "translation": "پراچیٹ کو دیا"
+    },
+    {
+      "original": "ब्रह्मणा",
+      "transliteration": "پرَچِتَسا",
+      "translation": "پراچیٹ کی طرف سے"
+    },
+    {
+      "original": "च",
+      "transliteration": "سواپُترایاسِتَای",
+      "translation": "اپنے بیٹے کو دینے والے"
+    },
+    {
+      "original": "प्रचेतसे",
+      "transliteration": "دَتّمُتّمَام",
+      "translation": "بہترین دیا"
+    },
+    {
+      "original": "प्रचेतसा",
+      "transliteration": "اِتی",
+      "translation": "اس طرح"
+    },
+    {
+      "original": "स्वपुत्रायासिताय",
+      "transliteration": "شریبہرمواوَرَتِے",
+      "translation": "شری بَہَرم کا بیان"
+    },
+    {
+      "original": "दत्तमुत्तमम्",
+      "transliteration": "مہاپورَانَے",
+      "translation": "مہا پوران میں"
+    },
+    {
+      "original": "इति",
+      "transliteration": "شری کرشنجنمکھنڈے",
+      "translation": "کرشن کے جنم کا حصہ"
+    },
+    {
+      "original": "श्रीब्रह्मवैवर्ते",
+      "transliteration": "آسیطکرتم",
+      "translation": "آسیط کی طرف سے کیا گیا"
+    },
+    {
+      "original": "महापुराणे",
+      "transliteration": "شِو سوترم",
+      "translation": "شیوا کی دعا"
+    },
+    {
+      "original": "श्रीकृष्णजन्मखण्डे",
+      "transliteration": "سنپورنم",
+      "translation": "مکمل"
+    },
+    {
+      "original": "असितकृतं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "शिवस्तोत्रं",
+      "transliteration": "---",
+      "translation": "---"
+    },
+    {
+      "original": "संपूर्णम्",
+      "transliteration": "---",
+      "translation": "---"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\urdu\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\asitakrutam_shivastotram\\urdu\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.271Z"
+  }
+}

@@ -1,0 +1,1499 @@
+{
+  "mantra": "shiv_tandav_stotra",
+  "language": "tamil",
+  "type": "word_to_word",
+  "totalWords": 297,
+  "alignedWords": [
+    {
+      "original": "जटा",
+      "transliteration": "ஜடா",
+      "translation": "முடி"
+    },
+    {
+      "original": "टवी",
+      "transliteration": "டவி",
+      "translation": "உருக்கம்"
+    },
+    {
+      "original": "गलज्जल",
+      "transliteration": "களஜ்ஜல",
+      "translation": "நீர்ச் சுழல்"
+    },
+    {
+      "original": "प्रवाह",
+      "transliteration": "பிரவாஹ",
+      "translation": "ஓடம்"
+    },
+    {
+      "original": "पावितस्थले",
+      "transliteration": "பாவிதஸ்தலே",
+      "translation": "பரிசுத்த நிலம்"
+    },
+    {
+      "original": "गलेऽवलम्ब्य",
+      "transliteration": "கலைவலம்ப்ய",
+      "translation": "தொங்குகின்றது"
+    },
+    {
+      "original": "लम्बितां",
+      "transliteration": "லம்பிதாம்",
+      "translation": "நீண்டு"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "புஜங்க",
+      "translation": "பாம்பு"
+    },
+    {
+      "original": "तुङ्ग",
+      "transliteration": "துங்க",
+      "translation": "உயர்ந்த"
+    },
+    {
+      "original": "मालिकाम्",
+      "transliteration": "மாலிகாம்",
+      "translation": "மாலை"
+    },
+    {
+      "original": "डमड्डमड्ड",
+      "transliteration": "டமட்அடமட்அடமட்அடம்னிநாத",
+      "translation": "கொறிக்கும் சத்தம்"
+    },
+    {
+      "original": "डमड्डमड्डमड्डमन्निनाद्",
+      "transliteration": "வடடமர்வயம்",
+      "translation": "உடல் இயக்கம்"
+    },
+    {
+      "original": "वड्डमर्वयं",
+      "transliteration": "சகார",
+      "translation": "செய்தார்"
+    },
+    {
+      "original": "चकार",
+      "transliteration": "சண்டதாண்டவம்",
+      "translation": "உருமாற்ற நடனம்"
+    },
+    {
+      "original": "चण्डताण्डवं",
+      "transliteration": "தனோது",
+      "translation": "பரவி"
+    },
+    {
+      "original": "तनोतु",
+      "transliteration": "நஹ",
+      "translation": "நமக்கு"
+    },
+    {
+      "original": "नः",
+      "transliteration": "சிவஃ",
+      "translation": "சிவன்"
+    },
+    {
+      "original": "शिवः",
+      "transliteration": "சிவம்",
+      "translation": "சிவமாய்"
+    },
+    {
+      "original": "शिवम्",
+      "transliteration": "ஜடா",
+      "translation": "முடி"
+    },
+    {
+      "original": "जटा",
+      "transliteration": "கடா",
+      "translation": "தலையில்"
+    },
+    {
+      "original": "कटा",
+      "transliteration": "ஹஸம்ப்ரம்",
+      "translation": "மிகவும் கலக்கம்"
+    },
+    {
+      "original": "हसंभ्रम",
+      "transliteration": "ப்ரமன்னிலிம்ப",
+      "translation": "வினாடி விரிவடையும்"
+    },
+    {
+      "original": "भ्रमन्निलिम्प",
+      "transliteration": "நிர்ஜரி",
+      "translation": "நீர்நிறைந்தது"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "விலோ",
+      "translation": "மாற்றம்"
+    },
+    {
+      "original": "विलो",
+      "transliteration": "லவி",
+      "translation": "துடிப்புடன்"
+    },
+    {
+      "original": "लवी",
+      "transliteration": "சிவல்லரி",
+      "translation": "சிறந்த நிழலடி"
+    },
+    {
+      "original": "चिवल्लरी",
+      "transliteration": "விராஜமாந",
+      "translation": "பிரகாசமான"
+    },
+    {
+      "original": "विराजमान",
+      "transliteration": "மூர்தநி",
+      "translation": "உச்சம்"
+    },
+    {
+      "original": "मूर्धनि",
+      "transliteration": "தகத்",
+      "translation": "எழிற்புறுகிறது"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "தகத்",
+      "translation": "உருமாறு"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "தகஜ்ஜ்வலல்",
+      "translation": "எரிந்ததாக"
+    },
+    {
+      "original": "धगज्ज्वलल्",
+      "transliteration": "லலாட",
+      "translation": "நெற்றி"
+    },
+    {
+      "original": "ललाट",
+      "transliteration": "பட்ட",
+      "translation": "முத்திரை"
+    },
+    {
+      "original": "पट्ट",
+      "transliteration": "பாவகே",
+      "translation": "தீ"
+    },
+    {
+      "original": "पावके",
+      "transliteration": "கிசோர",
+      "translation": "இளம்"
+    },
+    {
+      "original": "किशोर",
+      "transliteration": "சந்திர",
+      "translation": "சந்திரன்"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "சேகரே",
+      "translation": "முடிமணி"
+    },
+    {
+      "original": "शेखरे",
+      "transliteration": "ரதிஃ",
+      "translation": "காதல்"
+    },
+    {
+      "original": "रति:",
+      "transliteration": "ப்ரதிக்ஷணம்",
+      "translation": "ஒவ்வொரு கணமும்"
+    },
+    {
+      "original": "प्रतिक्षणं",
+      "transliteration": "மம",
+      "translation": "எனக்கு"
+    },
+    {
+      "original": "मम",
+      "transliteration": "தரா",
+      "translation": "பூமி"
+    },
+    {
+      "original": "धरा",
+      "transliteration": "தரேந்திர",
+      "translation": "பூமியின் தலைவர்"
+    },
+    {
+      "original": "धरेन्द्र",
+      "transliteration": "நந்தினி",
+      "translation": "பசுவின் பெயர்"
+    },
+    {
+      "original": "नंदिनी",
+      "transliteration": "விலாஸ்",
+      "translation": "அழகு"
+    },
+    {
+      "original": "विलास",
+      "transliteration": "பந்து",
+      "translation": "நண்பன்"
+    },
+    {
+      "original": "बन्धु",
+      "transliteration": "பந்துரஸ்",
+      "translation": "அழகிய தோற்றம்"
+    },
+    {
+      "original": "बन्धुरस",
+      "transliteration": "புரத்",
+      "translation": "மின்கொட்டம்"
+    },
+    {
+      "original": "फुरद्",
+      "transliteration": "திகந்த",
+      "translation": "திசை எல்லை"
+    },
+    {
+      "original": "दिगन्त",
+      "transliteration": "சந்ததி",
+      "translation": "பெருகுதல்"
+    },
+    {
+      "original": "सन्तति",
+      "transliteration": "ப்ரமோத",
+      "translation": "மகிழ்ச்சி"
+    },
+    {
+      "original": "प्रमोद",
+      "transliteration": "மானமானஸே",
+      "translation": "பெரிய மனதில்"
+    },
+    {
+      "original": "मानमानसे",
+      "transliteration": "க்ருபா",
+      "translation": "கருணை"
+    },
+    {
+      "original": "कृपा",
+      "transliteration": "கடாக்ஷ",
+      "translation": "கண்சிமிட்டல்"
+    },
+    {
+      "original": "कटाक्ष",
+      "transliteration": "தோரணி",
+      "translation": "தாங்கும்"
+    },
+    {
+      "original": "धोरणी",
+      "transliteration": "நிருத்த",
+      "translation": "முடக்கியது"
+    },
+    {
+      "original": "निरुद्ध",
+      "transliteration": "துர்தராபதி",
+      "translation": "கடினமான நிலை"
+    },
+    {
+      "original": "दुर्धरापदि",
+      "transliteration": "க்வசித்",
+      "translation": "சில இடங்களில்"
+    },
+    {
+      "original": "क्वचिद्",
+      "transliteration": "திகம்பரே",
+      "translation": "வஸ்திரமற்றவர்"
+    },
+    {
+      "original": "दिगम्बरे",
+      "transliteration": "மனோ",
+      "translation": "மனம்"
+    },
+    {
+      "original": "मनो",
+      "transliteration": "வினோதமேது",
+      "translation": "மகிழ்ச்சி பெற"
+    },
+    {
+      "original": "विनोदमेतु",
+      "transliteration": "வஸ்துநி",
+      "translation": "உருவகமாக"
+    },
+    {
+      "original": "वस्तुनी",
+      "transliteration": "லதா",
+      "translation": "தண்டுக்கொடி"
+    },
+    {
+      "original": "लता",
+      "transliteration": "புஜங்க",
+      "translation": "பாம்பு"
+    },
+    {
+      "original": "भुजंग",
+      "transliteration": "பிங்கலஸ்",
+      "translation": "கருமையான"
+    },
+    {
+      "original": "पिंगलस",
+      "transliteration": "புரத்பணா",
+      "translation": "பின்னல்"
+    },
+    {
+      "original": "फुरत्फणा",
+      "transliteration": "மணிப்ரபா",
+      "translation": "பவள ஒளி"
+    },
+    {
+      "original": "मणिप्रभा",
+      "transliteration": "கடம்ப",
+      "translation": "மலர்ந்த மரம்"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "குங்குமத்ரவப்",
+      "translation": "குங்குமம் உமிழும்"
+    },
+    {
+      "original": "कुङ्कुमद्रवप्",
+      "transliteration": "ரலிப்ததிக்வ",
+      "translation": "ஒட்டிய திசை"
+    },
+    {
+      "original": "रलिप्तदिग्व",
+      "transliteration": "தூமுகே",
+      "translation": "புகைமூட்டம்"
+    },
+    {
+      "original": "धूमुखे",
+      "transliteration": "மதாந்த",
+      "translation": "மயக்கமடைந்த"
+    },
+    {
+      "original": "मदांध",
+      "transliteration": "சிந்துரஸ்",
+      "translation": "சிவப்பு நிறம்"
+    },
+    {
+      "original": "सिन्धुरस",
+      "transliteration": "புரத்",
+      "translation": "வெடிக்கும்"
+    },
+    {
+      "original": "फुरत",
+      "transliteration": "த்வகுத்தரீயமே",
+      "translation": "தோல் உறை"
+    },
+    {
+      "original": "त्वगुत्तरीयमे",
+      "transliteration": "தூரே",
+      "translation": "தூரத்தில்"
+    },
+    {
+      "original": "दूरे",
+      "transliteration": "மனோ",
+      "translation": "மனம்"
+    },
+    {
+      "original": "मनो",
+      "transliteration": "வினோத",
+      "translation": "அசாதாரணம்"
+    },
+    {
+      "original": "विनोद",
+      "transliteration": "மத்புதம்",
+      "translation": "அதிசயம்"
+    },
+    {
+      "original": "मद्भुतं",
+      "transliteration": "பிபர்து",
+      "translation": "தாங்கிக்கொள்ள"
+    },
+    {
+      "original": "बिभर्तु",
+      "transliteration": "பூதபர்தரி",
+      "translation": "அனைத்து உயிர்களும்"
+    },
+    {
+      "original": "भूतभर्तरि",
+      "transliteration": "சஹஸ்ர",
+      "translation": "ஆயிரம்"
+    },
+    {
+      "original": "सहस्र",
+      "transliteration": "லோசநப்ரப்ருத்ய",
+      "translation": "அனைத்து கண்கள்"
+    },
+    {
+      "original": "लोचनप्रभृत्य",
+      "transliteration": "சேஷ",
+      "translation": "மீதி"
+    },
+    {
+      "original": "शेष",
+      "transliteration": "லேகசேகர",
+      "translation": "கடைசி வரி"
+    },
+    {
+      "original": "लेखशेखर",
+      "transliteration": "ப்ரசூந",
+      "translation": "பூக்கள்"
+    },
+    {
+      "original": "प्रसून",
+      "transliteration": "தூலிதோரணி",
+      "translation": "தூசு தாங்கும்"
+    },
+    {
+      "original": "धूलिधोरणी",
+      "transliteration": "விதூச",
+      "translation": "பொசிப்பு"
+    },
+    {
+      "original": "विधूस",
+      "transliteration": "ராங்க்ரி",
+      "translation": "காலடியில்"
+    },
+    {
+      "original": "राङ्घ्रि",
+      "transliteration": "பீடபூ",
+      "translation": "அடித்தளம்"
+    },
+    {
+      "original": "पीठभूः",
+      "transliteration": "புஜங்க",
+      "translation": "பாம்பு"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "ராஜமாலயா",
+      "translation": "அரச மாலை"
+    },
+    {
+      "original": "राजमालया",
+      "transliteration": "நிபத்த",
+      "translation": "சூழப்பட்ட"
+    },
+    {
+      "original": "निबद्ध",
+      "transliteration": "ஜடஜூடக",
+      "translation": "முடியின் கட்டு"
+    },
+    {
+      "original": "जाटजूटक",
+      "transliteration": "சிரியே",
+      "translation": "பெருமையுடன்"
+    },
+    {
+      "original": "श्रियै",
+      "transliteration": "சிராய",
+      "translation": "நிரந்தரமாக"
+    },
+    {
+      "original": "चिराय",
+      "transliteration": "ஜாயதாம்",
+      "translation": "வளரட்டும்"
+    },
+    {
+      "original": "जायतां",
+      "transliteration": "சகோர",
+      "translation": "சந்திரகாந்தி"
+    },
+    {
+      "original": "चकोर",
+      "transliteration": "பந்து சேகர",
+      "translation": "நண்பனின் தலைமகன்"
+    },
+    {
+      "original": "बन्धुशेखरः",
+      "transliteration": "லலாட",
+      "translation": "நெற்றி"
+    },
+    {
+      "original": "ललाट",
+      "transliteration": "சத்வர",
+      "translation": "நாலு வழி"
+    },
+    {
+      "original": "चत्वर",
+      "transliteration": "ஜ்வலத்",
+      "translation": "எரிகின்றது"
+    },
+    {
+      "original": "ज्वलद्",
+      "transliteration": "தனஞ்சய",
+      "translation": "வெற்றியாளர்"
+    },
+    {
+      "original": "धनञ्जय",
+      "transliteration": "ஸ்புலிங்கபா",
+      "translation": "சிறு தீச்சிறகுகள்"
+    },
+    {
+      "original": "स्फुलिङ्गभा",
+      "transliteration": "நிபீத",
+      "translation": "நுகர்ந்தது"
+    },
+    {
+      "original": "निपीत",
+      "transliteration": "பஞ்சசாயகம்",
+      "translation": "ஐந்து அம்புகள்"
+    },
+    {
+      "original": "पञ्चसायकं",
+      "transliteration": "நமன்னிலிம்ப",
+      "translation": "தொழும் தேவர்"
+    },
+    {
+      "original": "नमन्",
+      "transliteration": "நாயகம்",
+      "translation": "தலைவன்"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "சுதா",
+      "translation": "அமிர்தம்"
+    },
+    {
+      "original": "नायकम्",
+      "transliteration": "மயுகலே",
+      "translation": "கதிர்கள்"
+    },
+    {
+      "original": "सुधा",
+      "transliteration": "கயா",
+      "translation": "புகழ்"
+    },
+    {
+      "original": "मयूखले",
+      "transliteration": "விராஜமாந சேகரம்",
+      "translation": "பிரகாசமிகு முடிமணி"
+    },
+    {
+      "original": "खया",
+      "transliteration": "மகாகபாலி ஸம்பதே",
+      "translation": "பெரும் செல்வம்"
+    },
+    {
+      "original": "विराजमानशेखरं",
+      "transliteration": "சிரோஜ",
+      "translation": "முடியின் மேலே"
+    },
+    {
+      "original": "महाकपालि",
+      "transliteration": "டாலமஸ்து",
+      "translation": "அமைதியுடன்"
+    },
+    {
+      "original": "सम्पदे",
+      "transliteration": "நஹ",
+      "translation": "நமக்கு"
+    },
+    {
+      "original": "शिरोज",
+      "transliteration": "கரால",
+      "translation": "கடினமான"
+    },
+    {
+      "original": "टालमस्तु",
+      "transliteration": "பால",
+      "translation": "நெற்றி"
+    },
+    {
+      "original": "नः",
+      "transliteration": "பட்டிகா",
+      "translation": "தகடு"
+    },
+    {
+      "original": "कराल",
+      "transliteration": "தகத்",
+      "translation": "தகத்தும்"
+    },
+    {
+      "original": "भाल",
+      "transliteration": "தகத்",
+      "translation": "தகத்தும்"
+    },
+    {
+      "original": "पट्टिका",
+      "transliteration": "தகஜ்வல்",
+      "translation": "மின்னும்"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "தனஞ்சயாஹுதி",
+      "translation": "அர்ச்சனை"
+    },
+    {
+      "original": "धगद्",
+      "transliteration": "க்ருதப்ரசண்ட",
+      "translation": "பயங்கரமான"
+    },
+    {
+      "original": "धगज्ज्वल",
+      "transliteration": "பஞ்சசாயகே",
+      "translation": "ஐந்து அம்புகள்"
+    },
+    {
+      "original": "धनञ्जयाहुती",
+      "transliteration": "தரா",
+      "translation": "பூமி"
+    },
+    {
+      "original": "कृतप्रचण्ड",
+      "transliteration": "தரேந்திர",
+      "translation": "பூமியின் தலைவர்"
+    },
+    {
+      "original": "पञ्चसायके",
+      "transliteration": "நந்தினி",
+      "translation": "பசுவின் பெயர்"
+    },
+    {
+      "original": "धरा",
+      "transliteration": "குசாக்ர",
+      "translation": "முலையின் தொடக்கம்"
+    },
+    {
+      "original": "धरेन्द्र",
+      "transliteration": "சித்ரபத்ரக",
+      "translation": "படம்"
+    },
+    {
+      "original": "नन्दिनी",
+      "transliteration": "ப்ரகல்ப",
+      "translation": "திட்டம்"
+    },
+    {
+      "original": "कुचाग्र",
+      "transliteration": "நைக",
+      "translation": "பல pala"
+    },
+    {
+      "original": "चित्रपत्रक",
+      "transliteration": "சில்பினி",
+      "translation": "சிற்பி"
+    },
+    {
+      "original": "प्रकल्प",
+      "transliteration": "திரிலோசனே",
+      "translation": "மூன்று கண் கொண்ட"
+    },
+    {
+      "original": "नैक",
+      "transliteration": "ரதிஃ மம",
+      "translation": "எனக்கு இன்பம்"
+    },
+    {
+      "original": "शिल्पिनि",
+      "transliteration": "நவீந",
+      "translation": "புதிய"
+    },
+    {
+      "original": "त्रिलोचने",
+      "transliteration": "மேக",
+      "translation": "மேகங்கள்"
+    },
+    {
+      "original": "रतिर्मम",
+      "transliteration": "மண்டலி",
+      "translation": "முற்றம்"
+    },
+    {
+      "original": "नवीन",
+      "transliteration": "நிருத்",
+      "translation": "தடுக்கப்பட்டது"
+    },
+    {
+      "original": "मेघ",
+      "transliteration": "ததுர்",
+      "translation": "மின்னல்"
+    },
+    {
+      "original": "मण्डली",
+      "transliteration": "தரஸ்புரத்",
+      "translation": "பூமியின் அதிர்வு"
+    },
+    {
+      "original": "निरुद्",
+      "transliteration": "குஹூ",
+      "translation": "குஹு என்ற ஒலி"
+    },
+    {
+      "original": "धदुर्",
+      "transliteration": "நிசிதி",
+      "translation": "இரவு"
+    },
+    {
+      "original": "धरस्फुरत्",
+      "transliteration": "நீதம",
+      "translation": "இருள்"
+    },
+    {
+      "original": "कुहू",
+      "transliteration": "ப்ரபந்த",
+      "translation": "பிணைப்பு"
+    },
+    {
+      "original": "निशीथि",
+      "transliteration": "பத்த",
+      "translation": "நெருக்கமான"
+    },
+    {
+      "original": "नीतमः",
+      "transliteration": "கந்தர",
+      "translation": "கழுத்து"
+    },
+    {
+      "original": "प्रबन्ध",
+      "transliteration": "நிலிம்ப",
+      "translation": "தேவர்கண்"
+    },
+    {
+      "original": "बद्ध",
+      "transliteration": "நிர்ஜரி",
+      "translation": "நதி"
+    },
+    {
+      "original": "कन्धरः",
+      "transliteration": "தரஸ்",
+      "translation": "பூமி"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "தனோது",
+      "translation": "அன்பை தாருங்கள்"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "க்ருத்தி",
+      "translation": "தோல்"
+    },
+    {
+      "original": "धरस्",
+      "transliteration": "சிந்துர",
+      "translation": "சிவப்பு"
+    },
+    {
+      "original": "तनोतु",
+      "transliteration": "கலா",
+      "translation": "கலை"
+    },
+    {
+      "original": "कृत्ति",
+      "transliteration": "நிதான",
+      "translation": "பதிவு"
+    },
+    {
+      "original": "सिन्धुरः",
+      "transliteration": "பந்துர",
+      "translation": "சிறந்த"
+    },
+    {
+      "original": "कला",
+      "transliteration": "ச்ரியம்",
+      "translation": "செல்வம்"
+    },
+    {
+      "original": "निधान",
+      "transliteration": "ஜகத்",
+      "translation": "உலகம்"
+    },
+    {
+      "original": "बन्धुरः",
+      "transliteration": "துரந்தர",
+      "translation": "பெரிய பொறுப்பு"
+    },
+    {
+      "original": "श्रियं",
+      "transliteration": "பிரபுல்",
+      "translation": "உற்சாகம்"
+    },
+    {
+      "original": "जगद्",
+      "transliteration": "நீலபங்கஜ",
+      "translation": "பருவப்பூ"
+    },
+    {
+      "original": "धुरंधरः",
+      "transliteration": "பிரபஞ்ச",
+      "translation": "உலகம்"
+    },
+    {
+      "original": "प्रफुल्ल",
+      "transliteration": "காலிம்",
+      "translation": "கழித்தது"
+    },
+    {
+      "original": "नीलपङ्कज",
+      "transliteration": "பிரபா",
+      "translation": "ஒளி"
+    },
+    {
+      "original": "प्रपञ्च",
+      "transliteration": "வலம்பி",
+      "translation": "ஒட்டுமொத்தமாக"
+    },
+    {
+      "original": "कालिम",
+      "transliteration": "கந்தகந்தலி",
+      "translation": "குருதியின் குழி"
+    },
+    {
+      "original": "प्रभा",
+      "transliteration": "ருசிப்ரபத்",
+      "translation": "சுவைமிகு"
+    },
+    {
+      "original": "वलम्बि",
+      "transliteration": "கந்தரம்",
+      "translation": "கழுத்து"
+    },
+    {
+      "original": "कण्ठकन्दली",
+      "transliteration": "ஸ்மரச்சிதம்",
+      "translation": "சிந்தனையை நசுக்குதல்"
+    },
+    {
+      "original": "रुचिप्रबद्ध",
+      "transliteration": "புரச்சிதம்",
+      "translation": "பழக்கமான செயல்கள்"
+    },
+    {
+      "original": "कन्धरम्",
+      "transliteration": "பவச்சிதம்",
+      "translation": "உயிரின் இறப்பு"
+    },
+    {
+      "original": "स्मरच्छिदं",
+      "transliteration": "மகச்சிதம்",
+      "translation": "மகா சிவமாகும்"
+    },
+    {
+      "original": "पुरच्छिदं",
+      "transliteration": "கஜச்சிதம்",
+      "translation": "பெரிய காலினம்"
+    },
+    {
+      "original": "भवच्छिदं",
+      "transliteration": "தாண்ட",
+      "translation": "பாதுகாப்பு"
+    },
+    {
+      "original": "मखच्छिदं",
+      "transliteration": "கஜச்சிதம்",
+      "translation": "படுக்களவுகள்"
+    },
+    {
+      "original": "गजच्छि",
+      "transliteration": "பஜே",
+      "translation": "பாடுவது"
+    },
+    {
+      "original": "दांध",
+      "transliteration": "அகர்வ்",
+      "translation": "உறுதி"
+    },
+    {
+      "original": "कच्छिदं",
+      "transliteration": "சர்வ்",
+      "translation": "எல்லாம்"
+    },
+    {
+      "original": "तमंत",
+      "transliteration": "மங்கலா",
+      "translation": "ஆலயமாக"
+    },
+    {
+      "original": "कच्छिदं",
+      "transliteration": "கலை",
+      "translation": "கலை"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "கதம்ப",
+      "translation": "மாதுளை"
+    },
+    {
+      "original": "अखर्व",
+      "transliteration": "மஞ்சரி",
+      "translation": "பூக்கள் பூக்கும்"
+    },
+    {
+      "original": "सर्व",
+      "transliteration": "ரச",
+      "translation": "ரசம்"
+    },
+    {
+      "original": "मङ्गला",
+      "transliteration": "பிரவா",
+      "translation": "பெரிய ஓட்ட"
+    },
+    {
+      "original": "कला",
+      "transliteration": "மாதுரி",
+      "translation": "சுகம்"
+    },
+    {
+      "original": "कदंब",
+      "transliteration": "விஜிரம்பணா",
+      "translation": "பிரகாசம்"
+    },
+    {
+      "original": "मञ्जरी",
+      "transliteration": "மதுவரதம்",
+      "translation": "பண்டிகை"
+    },
+    {
+      "original": "रस",
+      "transliteration": "ஸ்மராந்தகம்",
+      "translation": "அழிக்கும் நினைவுகள்"
+    },
+    {
+      "original": "प्रवाह",
+      "transliteration": "புராந்தகம்",
+      "translation": "பழைய ஒற்றைகள்"
+    },
+    {
+      "original": "माधुरी",
+      "transliteration": "பவாந்தகம்",
+      "translation": "பூமி வாழ்த்துதல்"
+    },
+    {
+      "original": "विजृंभणा",
+      "transliteration": "மகாந்தகம்",
+      "translation": "பரிபூரண வழி"
+    },
+    {
+      "original": "मधुव्रतम्",
+      "transliteration": "கஜாந்த",
+      "translation": "ஆடு"
+    },
+    {
+      "original": "स्मरान्तकं",
+      "transliteration": "காந்த",
+      "translation": "பாதுகாப்பு"
+    },
+    {
+      "original": "पुरान्तकं",
+      "transliteration": "காந்த",
+      "translation": "காதல்"
+    },
+    {
+      "original": "भवान्तकं",
+      "transliteration": "கும்",
+      "translation": "நிரந்தரமாக"
+    },
+    {
+      "original": "मखान्तकं",
+      "transliteration": "தமந்த",
+      "translation": "நகரம்"
+    },
+    {
+      "original": "गजान्त",
+      "transliteration": "காந்த",
+      "translation": "அழகு"
+    },
+    {
+      "original": "कान्ध",
+      "transliteration": "கும்",
+      "translation": "நகரம்"
+    },
+    {
+      "original": "कान्त",
+      "transliteration": "பஜே",
+      "translation": "பாடுகிறேன்"
+    },
+    {
+      "original": "कं",
+      "transliteration": "ஜயத்",
+      "translation": "வெற்றி"
+    },
+    {
+      "original": "तमन्त",
+      "transliteration": "வதભ்ர",
+      "translation": "பழக்கம்"
+    },
+    {
+      "original": "कान्त",
+      "transliteration": "விவ்ரம்",
+      "translation": "சுழற்சி"
+    },
+    {
+      "original": "कं",
+      "transliteration": "ப்ரமத்",
+      "translation": "அதிர்ச்சி"
+    },
+    {
+      "original": "भजे",
+      "transliteration": "புஜங்",
+      "translation": "பாம்பு"
+    },
+    {
+      "original": "जयत्",
+      "transliteration": "மச்வஸ்",
+      "translation": "சுவாசம்"
+    },
+    {
+      "original": "वदभ्र",
+      "transliteration": "த்விநிர்க்",
+      "translation": "இரட்டை வெளியேற்றம்"
+    },
+    {
+      "original": "विभ्रम",
+      "transliteration": "மத்",
+      "translation": "நான்"
+    },
+    {
+      "original": "भ्रमद्",
+      "transliteration": "க்ரமஸ்புரத்",
+      "translation": "நிரந்தர ஓட்டம்"
+    },
+    {
+      "original": "भुजङ्ग",
+      "transliteration": "கரால",
+      "translation": "போதான"
+    },
+    {
+      "original": "मश्वस",
+      "transliteration": "பால",
+      "translation": "அந்தரங்க"
+    },
+    {
+      "original": "द्विनिर्ग",
+      "transliteration": "ஹவ்யவாட்",
+      "translation": "விதி"
+    },
+    {
+      "original": "मत्",
+      "transliteration": "திமித்திமித்திமித்வனன்",
+      "translation": "சங்கீத ஒலி"
+    },
+    {
+      "original": "क्रमस्फुरत्",
+      "transliteration": "மிருதங்கதுங்",
+      "translation": "தாராள ஓசை"
+    },
+    {
+      "original": "कराल",
+      "transliteration": "மங்கல",
+      "translation": "சிவப்பு"
+    },
+    {
+      "original": "भाल",
+      "transliteration": "த்வனிக்ரமத்வனித்",
+      "translation": "ஒலி எழுச்சி"
+    },
+    {
+      "original": "हव्यवाट्",
+      "transliteration": "ப்ரவर्तித",
+      "translation": "பதவியில் முன்னேறுதல்"
+    },
+    {
+      "original": "धिमिद्धिमिद्धिमि",
+      "transliteration": "ப்ரசண்ட",
+      "translation": "பெரிய"
+    },
+    {
+      "original": "ध्वनन्मृदङ्ग",
+      "transliteration": "தாண்டவ",
+      "translation": "கூத்தாட்டம்"
+    },
+    {
+      "original": "तुङ्गमङ्गल",
+      "transliteration": "சிவः",
+      "translation": "பிரமன்"
+    },
+    {
+      "original": "ध्वनिक्रमप्रवर्तित",
+      "transliteration": "ஸ்ப்ருஷத்விதிரதல்பயோக",
+      "translation": "அசாதாரணமாக கலந்துரையாடுதல்"
+    },
+    {
+      "original": "प्रचण्डताण्डवः",
+      "transliteration": "புஜங்‌கமௌக்திகஸ்ரஜோர்",
+      "translation": "பாம்பு முத்துக் கலை"
+    },
+    {
+      "original": "शिव",
+      "transliteration": "கரிஷ்தரத்னலோஷ்டயோः",
+      "translation": "பெரிய ரத்தின முத்துக்கள்"
+    },
+    {
+      "original": "स्पृषद्विचित्रतल्पयोः",
+      "transliteration": "சுஹ்ரத்விபக்ஷபக்ஷயோः",
+      "translation": "அன்புள்ள எதிரிகள்"
+    },
+    {
+      "original": "भुजङ्गमौक्तिकस्रजोर्",
+      "transliteration": "த்ருஷ்ணாரவிந்தசக்ஷுஷோः",
+      "translation": "பகைத்தந்தையையும் வாக்கியத்தைக் கண்டு பின்பற்றுதல்"
+    },
+    {
+      "original": "गरिष्ठरत्नलोष्ठयोः",
+      "transliteration": "பிரஜாமஹீமஹேந்திரயோः",
+      "translation": "பொருளாதார தேவையையும் பூமியையும் பராமரிக்கின்றன"
+    },
+    {
+      "original": "सुहृद्विपक्षपक्षयोः",
+      "transliteration": "ஸமப்ரவிருத்திக",
+      "translation": "சாதாரண முறை என்னும் வரலாற்றின் வினை saadharāṇa muṟai eṉṉum varalāṟṟiṉ viṉai"
+    },
+    {
+      "original": "तृष्णारविन्दचक्षुषोः",
+      "transliteration": "(சமம் ப்ரவர்தயன் மனಃ)",
+      "translation": "நபரர்கள் மற்றும் அங்கிகள் வாழ்த்துக்களிலே"
+    },
+    {
+      "original": "प्रजामहीमहेन्द्रयोः",
+      "transliteration": "கதா",
+      "translation": "கதைகள்"
+    },
+    {
+      "original": "समप्रवृत्तिकः",
+      "transliteration": "சதாசிவம்",
+      "translation": "சிவன்"
+    },
+    {
+      "original": "कदा सदाशिवं भजे",
+      "transliteration": "பஜே",
+      "translation": "பாடுகிறேன்"
+    },
+    {
+      "original": "कदा",
+      "transliteration": "கதா",
+      "translation": "எப்போது"
+    },
+    {
+      "original": "निलिम्प",
+      "transliteration": "நிலிம்பநிர்ஜரீனிகுஞ்சகோட்டரே",
+      "translation": "பச்சை மரம் மூடியுள்ள கோட்டைகள்"
+    },
+    {
+      "original": "निर्झरी",
+      "transliteration": "வசன்",
+      "translation": "தங்கியிருக்கும்"
+    },
+    {
+      "original": "निकुञ्ज",
+      "transliteration": "விமுக்ததுர்மதி",
+      "translation": "பிடிவாரியான அறிவு"
+    },
+    {
+      "original": "कोटरे",
+      "transliteration": "சதா",
+      "translation": "எப்போதும்"
+    },
+    {
+      "original": "वसन",
+      "transliteration": "சிர:",
+      "translation": "மூக்கு"
+    },
+    {
+      "original": "विमुक्त",
+      "transliteration": "ஸ்தமஞ்சலிம்",
+      "translation": "கையில் தட்டியிருக்கும்"
+    },
+    {
+      "original": "दुर्मति",
+      "transliteration": "வஹன்",
+      "translation": "குமிழும்"
+    },
+    {
+      "original": "सदा",
+      "transliteration": "விமுக்தலோலலோசனோ",
+      "translation": "உலகத்தோடு உறவு இல்லாதவர்"
+    },
+    {
+      "original": "सिरः",
+      "transliteration": "லலாமபாலலங்கன:",
+      "translation": "தலையில் நுனிசென்று நின்ற"
+    },
+    {
+      "original": "स्थमञ्जलिं",
+      "transliteration": "சிவேதி",
+      "translation": "சிவன்"
+    },
+    {
+      "original": "वहन",
+      "transliteration": "மந்திரமுச்சரன்",
+      "translation": "கடவுளின் பெயர் சுத்தமாக உயர்ந்த குரல் மூலமாக கூறுகிறான்"
+    },
+    {
+      "original": "विमुक्त",
+      "transliteration": "கதா",
+      "translation": "எப்போது"
+    },
+    {
+      "original": "लोललोचनो",
+      "transliteration": "சுகீ",
+      "translation": "சமாதானம்"
+    },
+    {
+      "original": "ललाम",
+      "transliteration": "பவாம்யஹம்",
+      "translation": "நான் அமையப்போகின்றேன்"
+    },
+    {
+      "original": "भाललग्नकः",
+      "transliteration": "இதம்",
+      "translation": "இந்த"
+    },
+    {
+      "original": "शिवेति",
+      "transliteration": "ஹி",
+      "translation": "நிச்சயமாக"
+    },
+    {
+      "original": "मंत्रमुच्चरन्",
+      "transliteration": "நித்யம்",
+      "translation": "எப்போதும்"
+    },
+    {
+      "original": "कदा",
+      "transliteration": "ஏவம்",
+      "translation": "இந்த மாதிரி"
+    },
+    {
+      "original": "सुखी",
+      "transliteration": "முக்தம்",
+      "translation": "விடுபட்ட"
+    },
+    {
+      "original": "भवाम्यहम्",
+      "transliteration": "ஸ்தவம்",
+      "translation": "புரசாதனை"
+    },
+    {
+      "original": "इदं",
+      "transliteration": "படன்",
+      "translation": "படிக்கின்றது"
+    },
+    {
+      "original": "ही",
+      "transliteration": "ஸ்மரன்",
+      "translation": "நினைத்தல்"
+    },
+    {
+      "original": "नित्यंेव",
+      "transliteration": "ப்ருவன்",
+      "translation": "பேசுவது"
+    },
+    {
+      "original": "मुक्तम्",
+      "transliteration": "நர:",
+      "translation": "மனிதன்"
+    },
+    {
+      "original": "उत्तमं",
+      "transliteration": "விசுத்திம்",
+      "translation": "தானியக்கம்"
+    },
+    {
+      "original": "स्तवं",
+      "transliteration": "எதிரிசந்ததம்",
+      "translation": "அவை தொடர்ந்து"
+    },
+    {
+      "original": "पठन्",
+      "transliteration": "ஹரே",
+      "translation": "கணபதியே"
+    },
+    {
+      "original": "स्मरण",
+      "transliteration": "குரௌ",
+      "translation": "குருவின்"
+    },
+    {
+      "original": "ब्रुवन्",
+      "transliteration": "சுபக்திம்",
+      "translation": "உணர்வு"
+    },
+    {
+      "original": "नर",
+      "transliteration": "ஆஷு",
+      "translation": "தொடர்ந்து"
+    },
+    {
+      "original": "विशुद्धिम्",
+      "transliteration": "யாத்தி",
+      "translation": "செயல்"
+    },
+    {
+      "original": "एतित",
+      "transliteration": "நாந்யதா",
+      "translation": "பிறகு"
+    },
+    {
+      "original": "संतमं",
+      "transliteration": "கதி",
+      "translation": "வழி"
+    },
+    {
+      "original": "हरे",
+      "transliteration": "விமோகனம்",
+      "translation": "பாராட்டுவது"
+    },
+    {
+      "original": "गुरौ",
+      "transliteration": "ஹி",
+      "translation": "நிச்சயமாக"
+    },
+    {
+      "original": "सुभक्तिं",
+      "transliteration": "தேஹினாம்",
+      "translation": "உடலின்"
+    },
+    {
+      "original": "आशु",
+      "transliteration": "சுஷங்கரஸ்ய",
+      "translation": "சிவனின்"
+    },
+    {
+      "original": "याति",
+      "transliteration": "சிந்தனம்",
+      "translation": "பரிசோதனை"
+    },
+    {
+      "original": "नान्यथा",
+      "transliteration": "பூஜா",
+      "translation": "பூஜை"
+    },
+    {
+      "original": "गतिं",
+      "transliteration": "வசான",
+      "translation": "வசிப்பது"
+    },
+    {
+      "original": "विमोहनं",
+      "transliteration": "சமயே",
+      "translation": "நேரம்"
+    },
+    {
+      "original": "ही",
+      "transliteration": "தசவக்த்ர",
+      "translation": "பத்து முகம்"
+    },
+    {
+      "original": "देहिनां",
+      "transliteration": "கீதம்",
+      "translation": "பாடல்"
+    },
+    {
+      "original": "सुशङ्करस्य",
+      "transliteration": "ய:",
+      "translation": "எவர்"
+    },
+    {
+      "original": "चिंतनं",
+      "transliteration": "ஷம்பு",
+      "translation": "சிவன்"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "பூஜன",
+      "translation": "பூஜை"
+    },
+    {
+      "original": "वसान",
+      "transliteration": "பரம்",
+      "translation": "உயர்"
+    },
+    {
+      "original": "समये",
+      "transliteration": "பఴதி",
+      "translation": "படிக்கின்றது"
+    },
+    {
+      "original": "दशवक्त्र",
+      "transliteration": "பிரதோஷே",
+      "translation": "புரட்சிகாலம்"
+    },
+    {
+      "original": "गीतं",
+      "transliteration": "தச்ய",
+      "translation": "அவன்"
+    },
+    {
+      "original": "यः",
+      "transliteration": "ஸ்திராம்",
+      "translation": "நிலையான"
+    },
+    {
+      "original": "शंभु",
+      "transliteration": "ரதகஜேந்திர",
+      "translation": "எருது நாயக்கன்"
+    },
+    {
+      "original": "पूजा",
+      "transliteration": "துரங்க",
+      "translation": "குதிரை"
+    },
+    {
+      "original": "परं",
+      "transliteration": "யுத்தாம்",
+      "translation": "இணைந்த"
+    },
+    {
+      "original": "पठति",
+      "transliteration": "லட்ச்மி",
+      "translation": "பணக்காரி"
+    },
+    {
+      "original": "प्रदोषे",
+      "transliteration": "சதைவ",
+      "translation": "எப்போதும்"
+    },
+    {
+      "original": "तस्य",
+      "transliteration": "சுமுகிம்",
+      "translation": "புனித முகம்"
+    },
+    {
+      "original": "स्थिरां",
+      "transliteration": "பிரததாது",
+      "translation": "தருவது"
+    },
+    {
+      "original": "रथगजेन्द्र",
+      "transliteration": "ஷம்பு",
+      "translation": "ஷம்பு"
+    },
+    {
+      "original": "तुरङ्ग",
+      "transliteration": "இதி",
+      "translation": "இதுவே"
+    },
+    {
+      "original": "युक्तां",
+      "transliteration": "ஶ்ரீ",
+      "translation": "பெருமை"
+    },
+    {
+      "original": "लक्ष्मीं",
+      "transliteration": "ராவண",
+      "translation": "ராவணன்"
+    },
+    {
+      "original": "सदैव",
+      "transliteration": "கృతம்",
+      "translation": "கிருதம்"
+    },
+    {
+      "original": "सुमुखिं",
+      "transliteration": "சிவ",
+      "translation": "சிவன்"
+    },
+    {
+      "original": "प्रददाति",
+      "transliteration": "தாண்டவ",
+      "translation": "தாண்டவம்"
+    },
+    {
+      "original": "शंभुः",
+      "transliteration": "ஸ்தோத்திரம்",
+      "translation": "ஸ்தோத்திரம்"
+    },
+    {
+      "original": "---",
+      "transliteration": "சம்பூர்ணம்",
+      "translation": "முழுமையான"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\tamil\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_tandav_stotra\\tamil\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.735Z"
+  }
+}

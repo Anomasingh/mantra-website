@@ -1,0 +1,344 @@
+{
+  "mantra": "shiv_panchakshar",
+  "language": "german",
+  "type": "word_to_word",
+  "totalWords": 66,
+  "alignedWords": [
+    {
+      "original": "नागेन्द्रहाराय",
+      "transliteration": "Nāgendrahārāya",
+      "translation": "Dem Träger der Schlange"
+    },
+    {
+      "original": "त्रिलोचनाय",
+      "transliteration": "Trilocanāya",
+      "translation": "Dem, der drei Augen hat"
+    },
+    {
+      "original": "भस्माङ्गरागाय",
+      "transliteration": "Bhasmāṅgarāgāya",
+      "translation": "Dem, der mit Asche und Rötung bedeckt ist"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "Maheśvarāya",
+      "translation": "Dem großen Herrn"
+    },
+    {
+      "original": "नित्याय",
+      "transliteration": "Nityāya",
+      "translation": "Dem immerwährenden"
+    },
+    {
+      "original": "शुद्धाय",
+      "transliteration": "Śuddhāya",
+      "translation": "Dem reinen"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "Digambarāya",
+      "translation": "Dem, der den Himmel trägt"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Tasmai",
+      "translation": "Ihm"
+    },
+    {
+      "original": "न काराय",
+      "transliteration": "Na kārāya",
+      "translation": "Dem mit dem 'Na'-Symbol"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "Namaḥ śivāya",
+      "translation": "Ich verbeuge mich vor Shiva"
+    },
+    {
+      "original": "मन्दाकिनी",
+      "transliteration": "Mandākinī",
+      "translation": "Dem Fluss Mandākinī"
+    },
+    {
+      "original": "सलीलचन्दन",
+      "transliteration": "Salilacandana",
+      "translation": "Dem, der das Sandelholzwasser trägt"
+    },
+    {
+      "original": "चर्चिताय",
+      "transliteration": "Carcitāya",
+      "translation": "Dem verehrten"
+    },
+    {
+      "original": "नन्दीश्वर",
+      "transliteration": "Nandiśvara",
+      "translation": "Dem Herrn Nandi"
+    },
+    {
+      "original": "प्रमथनाथ",
+      "transliteration": "Pramathānātha",
+      "translation": "Dem Herrn der Dämonen"
+    },
+    {
+      "original": "महेश्वराय",
+      "transliteration": "Maheśvarāya",
+      "translation": "Dem großen Herrn"
+    },
+    {
+      "original": "मन्दारपुष्प",
+      "transliteration": "Mandārapuṣpa",
+      "translation": "Dem Mandara-Blüten tragenden"
+    },
+    {
+      "original": "बहुपुष्प",
+      "transliteration": "Bahupuṣpa",
+      "translation": "Dem, der viele Blumen trägt"
+    },
+    {
+      "original": "सुपूजिताय",
+      "transliteration": "Supūjitāya",
+      "translation": "Dem, der verehrt wird"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Tasmai",
+      "translation": "Ihm"
+    },
+    {
+      "original": "म काराय",
+      "transliteration": "Ma kārāya",
+      "translation": "Dem mit dem 'Ma'-Symbol"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "Namaḥ śivāya",
+      "translation": "Ich verbeuge mich vor Shiva"
+    },
+    {
+      "original": "शिवाय",
+      "transliteration": "Śivāya",
+      "translation": "Dem Shiva"
+    },
+    {
+      "original": "गोरिवदनाब्जवृंद",
+      "transliteration": "Gaurīvadānābja-vṛnda",
+      "translation": "Dem, dessen Gesicht wie die Lotusblüten von Gauri ist"
+    },
+    {
+      "original": "सूर्याय",
+      "transliteration": "Sūryāya",
+      "translation": "Dem, der wie die Sonne ist"
+    },
+    {
+      "original": "दक्षाध्वरनाशकाय",
+      "transliteration": "Dakṣādhvaranāśakāya",
+      "translation": "Dem Zerstörer des Daksha-Opfers"
+    },
+    {
+      "original": "श्रीनीलकंठाय",
+      "transliteration": "Śrī-nīlakaṇṭhāya",
+      "translation": "Dem mit dem blauen Hals"
+    },
+    {
+      "original": "वृषध्वजाय",
+      "transliteration": "Vṛṣadhvajāya",
+      "translation": "Dem mit dem Stier auf seiner Fahne"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Tasmai",
+      "translation": "Ihm"
+    },
+    {
+      "original": "शि काराय",
+      "transliteration": "Śi kārāya",
+      "translation": "Dem mit dem 'Shi'-Symbol"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "Namaḥ śivāya",
+      "translation": "Ich verbeuge mich vor Shiva"
+    },
+    {
+      "original": "वसिष्ठ",
+      "transliteration": "Vasiṣṭha",
+      "translation": "Dem Vasiṣṭha"
+    },
+    {
+      "original": "कुम्भोद्भव",
+      "transliteration": "Kumbhodbhava",
+      "translation": "Dem aus dem Kumbha (Topf) Geborenen"
+    },
+    {
+      "original": "गौतमार्य",
+      "transliteration": "Gautāmārya",
+      "translation": "Dem von Gautama geboren wurde"
+    },
+    {
+      "original": "मुनीन्द्र",
+      "transliteration": "Munīndra",
+      "translation": "Dem höchsten Mönch"
+    },
+    {
+      "original": "देव",
+      "transliteration": "Deva",
+      "translation": "Dem Gott"
+    },
+    {
+      "original": "अर्चित",
+      "transliteration": "Arciṭa",
+      "translation": "Dem verehrten"
+    },
+    {
+      "original": "शेखराय",
+      "transliteration": "Śekharāya",
+      "translation": "Dem, der der Kopf der Götter ist"
+    },
+    {
+      "original": "चन्द्र",
+      "transliteration": "Candra",
+      "translation": "Dem Mond"
+    },
+    {
+      "original": "अर्क",
+      "transliteration": "Arka",
+      "translation": "Dem, der die Sonne ist"
+    },
+    {
+      "original": "वैश्वानर",
+      "transliteration": "Vaiśvānara",
+      "translation": "Dem Feuergott"
+    },
+    {
+      "original": "लोचनाय",
+      "transliteration": "Locanāya",
+      "translation": "Dem mit den Augen"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Tasmai",
+      "translation": "Ihm"
+    },
+    {
+      "original": "व काराय",
+      "transliteration": "Va kārāya",
+      "translation": "Dem mit dem 'Va'-Symbol"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "Namaḥ śivāya",
+      "translation": "Ich verbeuge mich vor Shiva"
+    },
+    {
+      "original": "यक्ष",
+      "transliteration": "Yakṣa",
+      "translation": "Dem Yakṣa"
+    },
+    {
+      "original": "स्वरूपाय",
+      "transliteration": "Svarūpāya",
+      "translation": "Dem in der Form eines Yakṣa"
+    },
+    {
+      "original": "जटाधराय",
+      "transliteration": "Jaṭādharāya",
+      "translation": "Dem, der die Zöpfe trägt"
+    },
+    {
+      "original": "पिनाकहस्ताय",
+      "transliteration": "Pinākahastāya",
+      "translation": "Dem, der den Bogen Pināka hält"
+    },
+    {
+      "original": "सनातनाय",
+      "transliteration": "Sanātanāya",
+      "translation": "Dem Ewigen"
+    },
+    {
+      "original": "दिव्याय",
+      "transliteration": "Divyāya",
+      "translation": "Dem Göttlichen"
+    },
+    {
+      "original": "देवाय",
+      "transliteration": "Devāya",
+      "translation": "Dem Gott"
+    },
+    {
+      "original": "दिगम्बराय",
+      "transliteration": "Digambarāya",
+      "translation": "Dem, der den Himmel trägt"
+    },
+    {
+      "original": "तस्मै",
+      "transliteration": "Tasmai",
+      "translation": "Ihm"
+    },
+    {
+      "original": "य काराय",
+      "transliteration": "Ya kārāya",
+      "translation": "Dem mit dem 'Ya'-Symbol"
+    },
+    {
+      "original": "नमः शिवाय",
+      "transliteration": "Namaḥ śivāya",
+      "translation": "Ich verbeuge mich vor Shiva"
+    },
+    {
+      "original": "पञ्चाक्षरमिदं",
+      "transliteration": "Pañcākṣaramidaṃ",
+      "translation": "Dieses fünfklangige Mantra"
+    },
+    {
+      "original": "पुण्यं",
+      "transliteration": "Puṇyaṃ",
+      "translation": "Heilig"
+    },
+    {
+      "original": "यः",
+      "transliteration": "Yaḥ",
+      "translation": "Wer"
+    },
+    {
+      "original": "पठेत्",
+      "transliteration": "Paṭhet",
+      "translation": "Rezitiert"
+    },
+    {
+      "original": "शिवसन्निधौ",
+      "transliteration": "Śivasannidhau",
+      "translation": "In der Nähe von Shiva"
+    },
+    {
+      "original": "शिवलोकं",
+      "transliteration": "Śivalokaṃ",
+      "translation": "Das Reich von Shiva"
+    },
+    {
+      "original": "अवाप्नोति",
+      "transliteration": "Avāpnoti",
+      "translation": "Erreicht"
+    },
+    {
+      "original": "शिवेन",
+      "transliteration": "Śivena",
+      "translation": "Mit Shiva"
+    },
+    {
+      "original": "सह",
+      "transliteration": "Saha",
+      "translation": "Mit"
+    },
+    {
+      "original": "मोदीते",
+      "transliteration": "Modate",
+      "translation": "Erfreut sich"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\german\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shiv_panchakshar\\german\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.585Z"
+  }
+}

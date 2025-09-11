@@ -1,0 +1,434 @@
+{
+  "mantra": "shri_hari_stotram",
+  "language": "tamil",
+  "type": "word_to_word",
+  "totalWords": 84,
+  "alignedWords": [
+    {
+      "original": "जगत का रक्षक है",
+      "transliteration": "ஸ்ரீ",
+      "translation": "ஸ்ரீ"
+    },
+    {
+      "original": "गले में माला धारण करने वाला",
+      "transliteration": "ஹரி",
+      "translation": "ஹரி"
+    },
+    {
+      "original": "शरद पूर्णिमा के चंद्रमा के समान",
+      "transliteration": "ஸ்தோத்திரம்",
+      "translation": "ஸ்தோத்திரம்"
+    },
+    {
+      "original": "महादैत्यों का काल",
+      "transliteration": "ஜகஜ்ஜாலபாலம்",
+      "translation": "உலகத்தின் பாதுகாப்பு"
+    },
+    {
+      "original": "आकाशवत नीले शरीर वाला",
+      "transliteration": "செலத்கண்ட்மாலம்",
+      "translation": "அதிர்வெண் கொண்ட குருதி மலர்"
+    },
+    {
+      "original": "दुर्निवार माया वाला",
+      "transliteration": "சரச்சந்திரபாலம்",
+      "translation": "மஞ்சள் நிலவின் ஒளி"
+    },
+    {
+      "original": "लक्ष्मी के सहायक",
+      "transliteration": "மகாதைத்யகாலம்",
+      "translation": "பெரிய பிசாசு காலம்"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "நபனீலகாயம்",
+      "translation": "வானின் நீல உடல்"
+    },
+    {
+      "original": "समुद्र में निवास करने वाला",
+      "transliteration": "துராவாரமாயம்",
+      "translation": "கடினமான பயம்"
+    },
+    {
+      "original": "पुष्पों की हंसी बिखेरने वाला",
+      "transliteration": "சூபத்மாசஹாயம்",
+      "translation": "சிறந்த உதவி வழங்கும்"
+    },
+    {
+      "original": "जगत का निवास स्थान",
+      "transliteration": "பஜே'ஹம்",
+      "translation": "பக்தி செய்கிறேன்"
+    },
+    {
+      "original": "सौ सूर्यों के समान प्रकाशमान",
+      "transliteration": "சதா",
+      "translation": "எப்போதும்"
+    },
+    {
+      "original": "गदा और चक्र धारण करने वाला",
+      "transliteration": "அம்போதிவாசம்",
+      "translation": "நீரின் வாசம்"
+    },
+    {
+      "original": "पीताम्बर धारण करने वाला",
+      "transliteration": "கலத்பூஷ்பஹாசம்",
+      "translation": "மலரின் புன்னகை"
+    },
+    {
+      "original": "सुंदर मुस्कुराते मुख वाला",
+      "transliteration": "ஜகத்சந்நிவாசம்",
+      "translation": "உலகில் வாழும்"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "ஷதாதித்யபாஸம்",
+      "translation": "நூறு சூரியன் ஒளி"
+    },
+    {
+      "original": "लक्ष्मी के गले का हार",
+      "transliteration": "கடாசக்ரஷஸ்த்ரம்",
+      "translation": "ஆயுதம்"
+    },
+    {
+      "original": "वेदों का सार",
+      "transliteration": "லஸத் பீடவஸ்திரம்",
+      "translation": "மஞ்சள் உடை"
+    },
+    {
+      "original": "जल में विहार करने वाला",
+      "transliteration": "ஹசச்சாருவக்த்ரம்",
+      "translation": "அழகான வாயு"
+    },
+    {
+      "original": "धरती का भार हरने वाला",
+      "transliteration": "ராமாகண்ட்ஹாரம்",
+      "translation": "ராமாவின் கத்தி"
+    },
+    {
+      "original": "चिदानंद स्वरूप",
+      "transliteration": "ஷ்ருதிவ்ராதசாரம்",
+      "translation": "வேதத்தின் பொருள்"
+    },
+    {
+      "original": "मनोहर स्वरूप",
+      "transliteration": "ஜலாந்தர்விஹாரம்",
+      "translation": "நீரில் விளையாட்டு"
+    },
+    {
+      "original": "अनेक रूप धारण करने वाला",
+      "transliteration": "தராபாரஹாரம்",
+      "translation": "நிலத்தினை பரிசுத்தமான செயல்"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "சிதானந்தரூபம்",
+      "translation": "ஆனந்தரூபம்"
+    },
+    {
+      "original": "जन्म और मृत्यु से रहित",
+      "transliteration": "மனோஜñas்வரூபம்",
+      "translation": "அழகான அடையாளம்"
+    },
+    {
+      "original": "परमानंद से परिपूर्ण",
+      "transliteration": "ஷ்ருதாஅனேகரூபம்",
+      "translation": "உடைமைகளில் மாறும்"
+    },
+    {
+      "original": "समाधि में लीन",
+      "transliteration": "ஜராஜன்மஹீனம்",
+      "translation": "பிறப்புக்குப் பிறகு அவசரமாக உண்டாகும்"
+    },
+    {
+      "original": "सदैव नवीन",
+      "transliteration": "பரானந்தபீனம்",
+      "translation": "பரமாதிக மகிழ்ச்சி"
+    },
+    {
+      "original": "जगत की उत्पत्ति का कारण",
+      "transliteration": "சமாதானாலீனம்",
+      "translation": "மனதில் அமைதி"
+    },
+    {
+      "original": "देवताओं की सेना का ध्वज",
+      "transliteration": "சதைவானவீனம்",
+      "translation": "எப்போதும் புதிய நிலை"
+    },
+    {
+      "original": "तीनों लोकों का एकमात्र सेतु",
+      "transliteration": "ஜகஜ்ஜன்மஹேதுஂ",
+      "translation": "உலகத்தின்முதல் பிறப்பில் காரணம்"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "சுரானீககேது",
+      "translation": "தேவன் உருவாக்கிய குறியீடு"
+    },
+    {
+      "original": "वेदों का गान करने वाला",
+      "transliteration": "த்ரிலோகைக்கேது",
+      "translation": "மூன்று உலகங்களுக்கான இணைப்பு"
+    },
+    {
+      "original": "गरुड़ पर शयन करने वाला",
+      "transliteration": "க்ருதாம்னாயகானம்",
+      "translation": "புனித வேத பாடல்"
+    },
+    {
+      "original": "मुक्ति का कारण",
+      "transliteration": "காகாதீஷயானம்",
+      "translation": "விண்மீன்கள் காட்சி"
+    },
+    {
+      "original": "शत्रुओं का मान मर्दन करने वाला",
+      "transliteration": "விமுத்தேர்நிதானம்",
+      "translation": "விடுதலை பரிசு"
+    },
+    {
+      "original": "भक्तों के अनुकूल",
+      "transliteration": "ஹராராதிமானம்",
+      "translation": "தீவிரமான சூழல்"
+    },
+    {
+      "original": "संसार रूपी वृक्ष का मूल",
+      "transliteration": "ஸ்வபக்தாநுகூலம்",
+      "translation": "பக்தர்களுக்கான உதவி"
+    },
+    {
+      "original": "दुःखों को नष्ट करने वाला",
+      "transliteration": "ஜகத்வ்ரக்ஷகூலம்",
+      "translation": "உலகத் பாதுகாப்பு"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "நிரஸ்தார்தஷூலம்",
+      "translation": "துன்பங்களை அகற்றும்"
+    },
+    {
+      "original": "समस्त देवों के स्वामी",
+      "transliteration": "சமஸ்தாமரேஷம்",
+      "translation": "அனைத்து அமரர்களின் அரச"
+    },
+    {
+      "original": "सुंदर केशों वाला",
+      "transliteration": "த்விரேபாப்கேஷம்",
+      "translation": "இரட்டைக் குருடிகள்"
+    },
+    {
+      "original": "जगत की छाया के स्वामी",
+      "transliteration": "ஜகத்விம்பலேஷம்",
+      "translation": "உலகத்தின் பகுதி பரிசு"
+    },
+    {
+      "original": "हृदयाकाश में निवास करने वाला",
+      "transliteration": "ஹ்ருதாகாஷதேசம்",
+      "translation": "இருதயத்தின் வெளி பரிசு"
+    },
+    {
+      "original": "सदा दिव्य शरीर वाला",
+      "transliteration": "சதா திவ்யதேஹம்",
+      "translation": "எப்போதும் அற்புதமான உடல்"
+    },
+    {
+      "original": "समस्त इच्छाओं से मुक्त",
+      "transliteration": "விமுத்தாகிலேஹம்",
+      "translation": "முழுமையாக விடுதலை பெற்ற உடல்"
+    },
+    {
+      "original": "वैकुंठ के निवासी",
+      "transliteration": "சுவைகுண்ட்ஹகேஹம்",
+      "translation": "பரவலான ஐக்ய ஒளி"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "சுராலிபலிஷ்டம்",
+      "translation": "தேவளுக்கு மிக உயர்ந்த அணி"
+    },
+    {
+      "original": "देवताओं में सबसे बलवान",
+      "transliteration": "த்ரிலோகீவரிஷ்டம்",
+      "translation": "அனைத்து உலகங்களின் முதன்மை"
+    },
+    {
+      "original": "तीनों लोकों में श्रेष्ठ",
+      "transliteration": "குரூணாம் கரிஷ்டம்",
+      "translation": "முதன்மை ஆசான்கள்"
+    },
+    {
+      "original": "गुरुओं में श्रेष्ठ",
+      "transliteration": "ஸ்வரூபைகநிஷ்டம்",
+      "translation": "ஒரே அமைப்பில் திருப்புதல்"
+    },
+    {
+      "original": "अपने स्वरूप में स्थित",
+      "transliteration": "சதா யுத்ததீரம்",
+      "translation": "எப்போதும் போராட்ட வீரன்"
+    },
+    {
+      "original": "युद्ध में सदा धीर",
+      "transliteration": "மஹாவீரவீரம்",
+      "translation": "பெரும் வீரர்கள்"
+    },
+    {
+      "original": "महावीरों में वीर",
+      "transliteration": "மகாம्भோததீரம்",
+      "translation": "பெரிய ஆழி வெள்ளம்"
+    },
+    {
+      "original": "महासागर के तट के समान",
+      "transliteration": "பஜே'ஹம்",
+      "translation": "பக்தி செய்கிறேன்"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "பஜே'ஹம்",
+      "translation": "பக்தி செய்கிறேன்"
+    },
+    {
+      "original": "लक्ष्मी को बाईं ओर रखने वाला",
+      "transliteration": "ராமாவாம்பாகம்",
+      "translation": "ராமாவின் பகுதி"
+    },
+    {
+      "original": "शेषनाग पर शयन करने वाला",
+      "transliteration": "தலாநகரநாகம்",
+      "translation": "பக்கத்தில் சூழலில் நிலைத்த தீயவன்"
+    },
+    {
+      "original": "यज्ञों को अधीन करने वाला",
+      "transliteration": "க்ருதாதீனயாகம்",
+      "translation": "செயல்முறைச் செய்யும் பணி"
+    },
+    {
+      "original": "राग-द्वेष से रहित",
+      "transliteration": "கதாராகராகம்",
+      "translation": "மனிதர்களுக்கான ஆசை வகை"
+    },
+    {
+      "original": "मुनियों द्वारा गाया जाने वाला",
+      "transliteration": "முமீன்றைஹ் சூகீதம்",
+      "translation": "முனிவர்களின் இசை"
+    },
+    {
+      "original": "देवों से घिरा हुआ",
+      "transliteration": "சுரைஹ் சம்பரீதம்",
+      "translation": "தேவகாந்தரின் பாடல்கள்"
+    },
+    {
+      "original": "गुणों से परे",
+      "transliteration": "ணுகௌஊதயாரதீம்",
+      "translation": "பரிசுத்த நுணுக்கம்"
+    },
+    {
+      "original": "मैं भजता हूं, मैं भजता हूं",
+      "transliteration": "பஜே'ஹம்",
+      "translation": "பக்தி செய்கிறேன்"
+    },
+    {
+      "original": "जो इस स्तोत्र को नित्य",
+      "transliteration": "பஜே'ஹம்",
+      "translation": "பக்தி செய்கிறேன்"
+    },
+    {
+      "original": "चित्त को एकाग्र करके",
+      "transliteration": "பலश्रுதி",
+      "translation": "பழிவாங்கும் பயன்"
+    },
+    {
+      "original": "इस अष्टक का पाठ करता है",
+      "transliteration": "இதம்",
+      "translation": "இத"
+    },
+    {
+      "original": "मुरारि के कंठहार को",
+      "transliteration": "யஸ்து",
+      "translation": "அவர்"
+    },
+    {
+      "original": "वह विष्णु के शोकरहित",
+      "transliteration": "நித்யம்",
+      "translation": "எப்போதும்"
+    },
+    {
+      "original": "ध्रुव लोक को प्राप्त करता है",
+      "transliteration": "சமாதாய",
+      "translation": "மனதில் நினைத்து"
+    },
+    {
+      "original": "जन्म-मृत्यु के शोक को",
+      "transliteration": "சித்தம்",
+      "translation": "மனம்"
+    },
+    {
+      "original": "फिर कभी नहीं पाता है",
+      "transliteration": "பட்தேத்",
+      "translation": "படிக்கவும்"
+    },
+    {
+      "original": "---",
+      "transliteration": "அஷ்டகம்",
+      "translation": "ஓகைகள் உள்ள பாடல்"
+    },
+    {
+      "original": "---",
+      "transliteration": "கண்ட்ஹாரம்",
+      "translation": "நகை பழக்கமான குரல்"
+    },
+    {
+      "original": "---",
+      "transliteration": "முராரே",
+      "translation": "மூர்த்தி பாத்திரம்"
+    },
+    {
+      "original": "---",
+      "transliteration": "ச",
+      "translation": "அது"
+    },
+    {
+      "original": "---",
+      "transliteration": "விஷ்ணோஹ்",
+      "translation": "விஷ்ணு"
+    },
+    {
+      "original": "---",
+      "transliteration": "விஷோகம்",
+      "translation": "விசோகம்"
+    },
+    {
+      "original": "---",
+      "transliteration": "த்ருவம்",
+      "translation": "நிலையான"
+    },
+    {
+      "original": "---",
+      "transliteration": "யாதி",
+      "translation": "சென்று செல்லும்"
+    },
+    {
+      "original": "---",
+      "transliteration": "லோகம்",
+      "translation": "உலகம்"
+    },
+    {
+      "original": "---",
+      "transliteration": "ஜராஜன்மஷோகம்",
+      "translation": "பிறப்பின் சோகத்தை கடக்கிறது"
+    },
+    {
+      "original": "---",
+      "transliteration": "புனர்விந்ததே",
+      "translation": "மீண்டும் பெறுவதை"
+    },
+    {
+      "original": "---",
+      "transliteration": "நோ",
+      "translation": "இல்லை"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\tamil\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\shri_hari_stotram\\tamil\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:43.850Z"
+  }
+}

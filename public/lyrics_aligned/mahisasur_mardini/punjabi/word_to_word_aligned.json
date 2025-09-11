@@ -1,0 +1,2049 @@
+{
+  "mantra": "mahisasur_mardini",
+  "language": "punjabi",
+  "type": "word_to_word",
+  "totalWords": 407,
+  "alignedWords": [
+    {
+      "original": "अयि",
+      "transliteration": "ਅਯਿ",
+      "translation": "ਹੇ"
+    },
+    {
+      "original": "गिरिनन्दिनि",
+      "transliteration": "ਗਿਰਿਨੰਦਿਨਿ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਛੋਟੀ ਥਾਂ ਦੀ ਮਾਲਕਾ"
+    },
+    {
+      "original": "नन्दितमेदिनि",
+      "transliteration": "ਨੰਦਿਤਮੇਦਿਨਿ",
+      "translation": "ਧਰਤੀ ਦੀ ਮਾਲਕਾ"
+    },
+    {
+      "original": "विश्वविनोदिनि",
+      "transliteration": "ਵਿਸ਼ਵਵਿਨੋਦਿਨਿ",
+      "translation": "ਸਾਰੇ ਸੰਸਾਰ ਦੀ ਮਾਲਕਾ"
+    },
+    {
+      "original": "नन्दिनुते",
+      "transliteration": "ਨੰਦਿਨੁਤੇ",
+      "translation": "ਨੰਦਿਤ ਕੀਤੇ ਗਏ"
+    },
+    {
+      "original": "गिरिवरविन्ध्यशिरोऽधिनिवासिनि",
+      "transliteration": "ਗਿਰਿਵਰਵਿਨਧੀਸ਼ੀਰੋऽਧਿਨਿਵਾ",
+      "translation": "ਪਹਾੜਾਂ ਦੇ ਉੱਚੇ ਸਿਰ ਉੱਤੇ ਵਸਣ ਵਾਲੀ"
+    },
+    {
+      "original": "विष्णुविलासिनि",
+      "transliteration": "ਸਿਨਿ",
+      "translation": "ਸਿੰਘਣੀ"
+    },
+    {
+      "original": "जिष्णुनुते",
+      "transliteration": "ਵਿਸ਼੍ਹੁਣੁਲਾਸਿਨਿ",
+      "translation": "ਵਿਸ਼ਣੂ ਦੀ ਪਸੰਦ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "भगवति",
+      "transliteration": "ਜਿਸ਼ਨੁਤੇ",
+      "translation": "ਜਿਸ ਦੀ ਸ਼ੁਰੂਆਤ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਭਗਵਤੀ",
+      "translation": "ਦੈਵੀ"
+    },
+    {
+      "original": "शितिकण्ठकुटुम्बिनि",
+      "transliteration": "ਸ਼ਿਤਿਕੰਠਕੁਟੁੰਬਿਨਿ",
+      "translation": "ਠੰਡੀ ਗਲੇ ਵਾਲੀ ਕੱਟੂੰਬੀ Shitikānṭhakutumbini ṭhaṇḍī galē wālī kaṭṭūmbī"
+    },
+    {
+      "original": "भूरिकुटुम्बिनि",
+      "transliteration": "ਭੂਰਿਕੁਟੁੰਬਿਨਿ",
+      "translation": "ਕੁੱਟੂੰਬੀ ਜੋ ਚੜ੍ਹਦੀ ਰਹੀ Bhūrikuṭumbini kaṭṭūmbī jō chaṛhdī rahī"
+    },
+    {
+      "original": "भूरिकृते",
+      "transliteration": "ਭੂਰਿਕ੍ਰਿਤੇ",
+      "translation": "ਕੁੱਤਾ ਭੂਲਾਏ Bhūrikṛtē kaṭṭā bhūlā'ē"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਜੈ",
+      "translation": "ਜੈ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਮਹੀਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਮਹੀਸ਼ਾਸੁਰ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਰਮਯਕਪਰਦਿਨਿ",
+      "translation": "ਸੁੰਦਰ ਰੂਪ ਵਾਲੀ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਸੁਰਵਰਵਰਸ਼ਿਣਿ",
+      "translation": "ਦਿਵਿਆਂ ਦੀ ਧਾਰਾ ਦੇਣ ਵਾਲੀ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਦੁਰਧਰਧਰਸ਼ਿਣਿ",
+      "translation": "ਕਠਿਨ ਦੂਤਾਂ ਨੂੰ ਦੂਰ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "सुरवरवर्षिणि",
+      "transliteration": "ਦੁਰਮੁਖਮਰਸ਼ਿਣਿ",
+      "translation": "ਮੁਸ਼ਕਿਲਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "दुर्धरधर्षिणि",
+      "transliteration": "ਹਰਸ਼ਰਤੇ",
+      "translation": "ਆਨੰਦ ਨਾਲ ਮਨੋਰੰਜਨ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "दुर्मुखमर्षिणि",
+      "transliteration": "ਤ੍ਰਿਭੁਵਨਪੋਸ਼ਿਣਿ",
+      "translation": "ਸਾਰੇ ਸੰਸਾਰ ਨੂੰ ਪਾਲਣ ਵਾਲੀ"
+    },
+    {
+      "original": "हर्षरते",
+      "transliteration": "ਸ਼ੰਕਰਤੋਸ਼ਿਣਿ",
+      "translation": "ਸ਼ੰਕਰ ਦੀ ਖੁਸ਼ੀ ਦੇਣ ਵਾਲੀ"
+    },
+    {
+      "original": "त्रिभुवनपोषिणि",
+      "transliteration": "ਕਿਲਬਿ਷ਮੋਸ਼ਿਣਿ",
+      "translation": "ਪਾਪਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "शङ्करतोषिणि",
+      "transliteration": "ਘੋਸ਼ਰਤੇ",
+      "translation": "ਧਵਨੀ ਨਾਲ ਜਸ਼ਨ ਮਨਾਉਣ ਵਾਲੀ"
+    },
+    {
+      "original": "किल्बिषमोषिणि",
+      "transliteration": "ਦਨੁਜਨਿਰੋਸ਼ਿਣਿ",
+      "translation": "ਦੈਤਾਂ ਨੂੰ ਗੁੱਸਾ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "घोषरते",
+      "transliteration": "ਦਿਤਿਸੁਤਰੋਸ਼ਿਣਿ",
+      "translation": "ਦਿਤੀ ਦੇ ਬੱਚਿਆਂ ਨੂੰ ਗੁੱਸਾ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "दनुजनिरोषिणि",
+      "transliteration": "ਦੁਰਮਦਸ਼ੋਸ਼ਿਣਿ",
+      "translation": "ਗਰੂਰ ਨੂੰ ਨਾਸ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "दितिसुतरोषिणि",
+      "transliteration": "ਸਿੰਧੁਸੁਤੇ",
+      "translation": "ਸਮੁੰਦਰ ਦੀ ਧੀ"
+    },
+    {
+      "original": "दुर्मदशोषिणि",
+      "transliteration": "ਜਯ",
+      "translation": "ਜੈ"
+    },
+    {
+      "original": "सिन्धुसुते",
+      "transliteration": "ਮਹੀਸ਼ਾਸੁਰਮਰ੍ਦਿਨਿ",
+      "translation": "ਮਹੀਸ਼ਾਸੁਰ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਰਮ੍ਯਕਪਰ੍ਦਿਨਿ",
+      "translation": "ਸੁੰਦਰ ਰੂਪ ਵਾਲੀ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਅਯਿ",
+      "translation": "ਹੇ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਜਗਦੰਬ",
+      "translation": "ਜਗਤ ਦੀ ਮਾਂ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਮਦੰਬ",
+      "translation": "ਖੁਸ਼ੀ ਦੀ ਮਾਂ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਕਦੰਬ",
+      "translation": "ਕਦੰਬ ਦੇ ਦਰੱਖਤ ਦੀ ਮਾਂ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਵਨਪ੍ਰੀਯਵਾਸਿਨਿ",
+      "translation": "ਜੋ ਜੰਗਲਾਂ ਵਿੱਚ ਵਾਸ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "जगदम्ब",
+      "transliteration": "ਹਾਸਰਤੇ",
+      "translation": "ਜੋ ਹੰਸੀ ਦਿੰਦੀ ਹੈ"
+    },
+    {
+      "original": "मदम्ब",
+      "transliteration": "ਸ਼ਿਖਰਿ",
+      "translation": "ਜੋ ਚੋਟੀ 'ਤੇ ਹੈ"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "ਸ਼ੀਰੋਮਣਿ",
+      "translation": "ਕੰਮਲ ਮਣੀ"
+    },
+    {
+      "original": "वनप्रियवासिनि",
+      "transliteration": "ਤੁੰਗਹਿਮਲਯ",
+      "translation": "ਉੱਚੇ ਹਿਮਾਲੇ"
+    },
+    {
+      "original": "हासरते",
+      "transliteration": "ਸ਼੍ਰਿੰਗਨਿਜਾਲਯ",
+      "translation": "ਪਹਾੜਾਂ ਅਤੇ ਚੋਟੀਆਂ ਦਾ ਗ੍ਰਹਿ"
+    },
+    {
+      "original": "शिखरी",
+      "transliteration": "ਮੱਧਗਤੇ",
+      "translation": "ਜੋ ਵਿਚਕਾਰ ਹੈ"
+    },
+    {
+      "original": "शिरोमणि",
+      "transliteration": "ਮਧੁਮਧੁਰੇ",
+      "translation": "ਮੀਠੇ ਅਤੇ ਸੁਖਮਈ"
+    },
+    {
+      "original": "तुङ्गहिमालय",
+      "transliteration": "ਮਧੁਕੈਟਭਗଞ୍ਜਿਨਿ",
+      "translation": "ਜੋ ਮਧੂ ਅਤੇ ਕੈਟਭ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "शृङ्गनिजालय",
+      "transliteration": "ਕੈਟਭਭੰਜਿਨਿ",
+      "translation": "ਕੈਟਭ ਨੂੰ ਮਾਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "मध्यगते",
+      "transliteration": "ਰਾਸਰਤੇ",
+      "translation": "ਜੋ ਨਚਣ ਵਿੱਚ ਖੁਸ਼ੀ ਮਹਿਸੂਸ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "मधुमधुरे",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "मधुकैटभगञ्जिनी",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "कैटभभञ्जिनी",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "रासरते",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਅਯਿ",
+      "translation": "ਹੇ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਸ਼ਤਖੰਡ",
+      "translation": "ਸੇ ਬਾਰੇ ਸ਼ਹਿਰ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਵਿਖੰਡਿਤਰुणਡ",
+      "translation": "ਟੁਟਿਆ ਹੋਇਆ ਸਿਰ"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "ਵਿਤੁੰਡਿਤਸ਼ੁੰਡ",
+      "translation": "ਬੇਨਤੀ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ਗਜਾਧਿਪਤੇ",
+      "translation": "ਹਾਥੀ ਦੇ ਮਾਲਕ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਰਿਪੁਗਜਗੰਡ",
+      "translation": "ਦੁਸ਼ਮਨ ਹਾਥੀ ਦਾ ਖਾਲੀ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਵਿਦਾਰਣਚੰਡ",
+      "translation": "ਚਿਰਚੜਾ ਚੰਡ"
+    },
+    {
+      "original": "शतखण्ड",
+      "transliteration": "ਪਰਾਕ੍ਰਮਸ਼ੁੰਡ",
+      "translation": "ਅਤੇ ਪਰਾਕ੍ਰਮ ਵਾਲਾ"
+    },
+    {
+      "original": "विखण्डितरुण्ड",
+      "transliteration": "ਮ੍ਰਿਗਾਧਿਪਤੇ",
+      "translation": "ਜੰਗਲ ਦੇ ਮਾਲਕ"
+    },
+    {
+      "original": "वितुण्डितशुण्द",
+      "transliteration": "ਨਿਜਭੁਜਦੰਡ",
+      "translation": "ਆਪਣੇ ਹੱਥ ਦੀ ਤਾਕਤ"
+    },
+    {
+      "original": "गजाधिपते",
+      "transliteration": "ਨਿਪਾਤਿਤਖੰਡ",
+      "translation": "ਗਿਰਾ ਹੋਇਆ ਟੁਕੜਾ"
+    },
+    {
+      "original": "रिपुगजगण्ड",
+      "transliteration": "ਵਿਪਾਤਿਤਮੁੰਡ",
+      "translation": "ਮੁੰਡ ਬਿਨਾ ਸਿਰ"
+    },
+    {
+      "original": "विदारणचण्ड",
+      "transliteration": "ਭਟਾਧਿਪਤੇ",
+      "translation": "ਜੰਗਲੀ ਲੋਕਾਂ ਦੇ ਮਾਲਕ"
+    },
+    {
+      "original": "पराक्रमशुण्ड",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "मृगाधिपते",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "निजभुजदण्ड",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "निपातितखण्ड",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "विपातितमुण्ड",
+      "transliteration": "ਅਯਿ",
+      "translation": "ਹੇ"
+    },
+    {
+      "original": "भटाधिपते",
+      "transliteration": "ਰਣਦੁਰਮਦ",
+      "translation": "ਬੜੀ ਜੰਗ ਦੀ ਤਾਕਤ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਸ਼ਤ੍ਰੁਵਧੋਦਿਤ",
+      "translation": "ਸ਼ਤਰੂ ਦੀ ਮੌਤ ਦੁਆਰਾ ਉਤਸ਼ਾਹਿਤ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਦੁਰਧਰਨਿਰਜਰ",
+      "translation": "ਜੋ ਹੌਸਲੇ ਨਾਲ ਸੰਘਰਸ਼ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਸ਼ਕਤਿਭ੍ਰਿਤੇ",
+      "translation": "ਸ਼ਕਤੀ ਦੇ ਮਾਲਕ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਚਤੁਰਵਿਚਾਰ",
+      "translation": "ਚੁਸਤ ਅਤੇ ਹੋਸ਼ਿਆਰ ਸੋਚ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਧੁਰੀਣਮਹਾਸ਼ਿਵ",
+      "translation": "ਮਹਾਸ਼ਿਵ ਦੇ ਪੱਖ ਵਾਲੇ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਦੂਤਕ੍ਰਿਤ",
+      "translation": "ਦੂਤਾਂ ਦੁਆਰਾ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਪ੍ਰਮਥਾਧਿਪਤੇ",
+      "translation": "ਪ੍ਰਮਥਾ ਦੇ ਮਾਲਕ"
+    },
+    {
+      "original": "रणदुर्मद",
+      "transliteration": "ਦੁਰਿਤਦੁਰੀਹ",
+      "translation": "ਬੁਰੇ ਕੰਮਾਂ ਨੂੰ ਦੂਰ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "original": "शत्रुवधोदित",
+      "transliteration": "ਦੁਰਾਸ਼ਯਦੁ਼ਮਤੀ",
+      "translation": "ਬੁਰੇ ਮਨੋਵਿਚਾਰ ਵਾਲਾ"
+    },
+    {
+      "original": "दुर्धरनिर्जर",
+      "transliteration": "ਦਾਨਵਦੁਤ",
+      "translation": "ਦਾਨਵ ਦੇ ਤੂਫਾਨ ਦਾ ਪਰਤੀਕ"
+    },
+    {
+      "original": "शक्तिभृते",
+      "transliteration": "ਕ੍ਰਿਤਾਂਤਮਤੇ",
+      "translation": "ਅੰਤ ਨੂੰ ਮਨਨ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "चतुरविचार",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "धुरीणमहाशिव",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "दूतकृत",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "प्रमथाधिपते",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "दुरितदुरीह",
+      "transliteration": "ਅਯਿ",
+      "translation": "ਹੇ"
+    },
+    {
+      "original": "दुराशयदुर्मति",
+      "transliteration": "ਸ਼ਰਣਾਗਤ",
+      "translation": "ਜੋ ਅਰਦਾਸ ਕਰਨ ਵਾਲਾ ਹੈ"
+    },
+    {
+      "original": "दानवदुत",
+      "transliteration": "ਵੈਰੀਵਧੁਵਰ",
+      "translation": "ਸ਼ਤਰੂ ਦੀ ਪਤਨੀ ਨਾਲ ਸੰਬੰਧਿਤ"
+    },
+    {
+      "original": "कृतान्तमते",
+      "transliteration": "ਵੀਰਵਰਾਭਯ",
+      "translation": "ਬਹਾਦੁਰ ਦੀ ਭਯਾਵਹਤਾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਦਾਇਕਰੇ",
+      "translation": "ਦੇਣ ਵਾਲਾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਤ੍ਰਿਭੁਵਨਮਸਤਕ",
+      "translation": "ਤਿੰਨ ਲੋਕਾਂ ਦਾ ਮੱਥਾ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਸ਼ੁਲਵਿਰੋਧੀ",
+      "translation": "ਟੁੱਟਣ ਵਾਲੇ ਹਥਿਆਰ ਦੇ ਖਿਲਾਫ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਸ਼ਿਰੋऽਧਿਕ੍ਰੁਤਾਮਲ",
+      "translation": "ਅੰਮੋਲ ਅਤੇ ਸ਼ੁੱਧ ਕਿਰਣ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਸ਼ੁਲਕਰੇ",
+      "translation": "ਹਥਿਆਰ ਵਾਲਾ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਦੁਮਿਦੁਮਿਤਾਮਰ",
+      "translation": "ਦਮਦਾਰ ਤੇ ਮਜ਼ਬੂਤ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਧੁੰਦੁਭਿਨਾਦਮਹੋਮੁਖਰੀਕ੍ਰਿਤ",
+      "translation": "ਸੰਗੀਤ ਦੀ ਧੁਨੀ ਨਾਲ ਭਰਿਆ ਹੋਇਆ"
+    },
+    {
+      "original": "शरणागत",
+      "transliteration": "ਦਿਙਮਕਰੇ",
+      "translation": "ਹੋਸ਼ੀਅਾਰ ਅਤੇ ਮਿਹਨਤੀ"
+    },
+    {
+      "original": "वैरिवधुवर",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "वीरवराभय",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "दायकरे",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "त्रिभुवनमस्तक",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "शुलविरोधि",
+      "transliteration": "ਅਯਿ",
+      "translation": "ਹੇ"
+    },
+    {
+      "original": "शिरोऽधिकृतामल",
+      "transliteration": "ਨਿਜਹੁੰਕ੍ਰਿਤੀ",
+      "translation": "ਆਪਣੀ ਬਣਾਈ ਹੋਈ ਸਥਿਤੀ"
+    },
+    {
+      "original": "शुलकरे",
+      "transliteration": "ਮਾਤ੍ਰਨਿਰਾਕ੍ਰਿਤ",
+      "translation": "ਸਿਰਫ ਖਤਮ ਹੋਈ"
+    },
+    {
+      "original": "दुमिदुमितामर",
+      "transliteration": "ਧੂਮ੍ਰਵਿਲੋਚਨ",
+      "translation": "ਧੂਆਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਆਖਾਂ"
+    },
+    {
+      "original": "धुन्दुभिनादमहोमुखरीकृत",
+      "transliteration": "ਧੂਮ੍ਰਸ਼ਤੇ",
+      "translation": "ਧੂਆਂ ਨਾਲ ਢਕਿਆ ਹੋਇਆ"
+    },
+    {
+      "original": "दिङ्मकरे",
+      "transliteration": "ਸਮਰਵਿਸ਼ੋਸ਼ਿਤ",
+      "translation": "ਯੁੱਧ ਨਾਲ ਸੜਿਆ ਹੋਇਆ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਸ਼ੋਣਿਤਬੀਜ",
+      "translation": "ਲਾਲ ਰੰਗ ਦਾ ਬੀਜ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਸਮੁਦਭਵਸ਼ੋਣਿਤ",
+      "translation": "ਸਮੁਦਰ ਤੋਂ ਨਿਕਲਿਆ ਲਾਲ ਰੰਗ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਬੀਜਲਤੇ",
+      "translation": "ਜੋ ਬੀਜ ਪੈਦਾ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "ਸ਼ਿਵਸ਼ਿਵਸ਼ੁੰਭ",
+      "translation": "ਸ਼ਿਵ ਦੇ ਅਲੰਕਾਰ ਦੇ ਨਾਲ"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ਨਿਸ਼ੁੰਭਮਹਾਹਵ",
+      "translation": "ਬਹੁਤ ਪ੍ਰਚੰਡ ਹਵਾ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਤਰਪਿਤਭੂਤ",
+      "translation": "ਪੂਜਾ ਕਰਨ ਵਾਲੇ ਭੂਤ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਪਿਸਾਚਰਤੇ",
+      "translation": "ਪਿਸਾਚਾਂ ਦੀ ਤਰ੍ਹਾਂ"
+    },
+    {
+      "original": "निजहुङ्कृति",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "मात्रनिराकृत",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "धूम्रविलोचन",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "धूम्रशते",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "समरविशोषित",
+      "transliteration": "ਧਨੁਰਨੁਸ਼ੰਗ",
+      "translation": "ਧਨੂਸ਼ ਦਾ ਤੀਰ"
+    },
+    {
+      "original": "शोणितबीज",
+      "transliteration": "ਰਣਕṣਣਸੰਗ",
+      "translation": "ਯੁੱਧ ਦੀ ਤਿਆਰੀ ਵਿੱਚ ਸਹਿਯੋਗ"
+    },
+    {
+      "original": "समुद्भवशोणित",
+      "transliteration": "ਪਰਿਸ्फੁਰਦੰਗ",
+      "translation": "ਪ੍ਰकाशਿਤ ਹੁੰਦੀ ਹੋਈ ਚਮਕ"
+    },
+    {
+      "original": "बीजलते",
+      "transliteration": "ਨਟਤ੍ਕਟਕੇ",
+      "translation": "ਨੱਚਣ ਵਾਲੇ ਹੱਥ"
+    },
+    {
+      "original": "शिवशिवशुम्भ",
+      "transliteration": "ਕਨਕਪਿਸ਼ੰਗ",
+      "translation": "ਸੋਨੇ ਦਾ ਰੰਗ"
+    },
+    {
+      "original": "निशुम्भमहाहव",
+      "transliteration": "ਪෘਸ਼ਤਕਨਿਸ਼ੰਗ",
+      "translation": "ਪਿੱਠ ਦੀ ਪਿਛੋਕੜ"
+    },
+    {
+      "original": "तर्पितभूत",
+      "transliteration": "ਰਸਦ्भਟਸ਼ृṅਗ",
+      "translation": "ਕੋਹੜੇ ਦੀ ਤੀਰ"
+    },
+    {
+      "original": "पिशाचरते",
+      "transliteration": "ਹਤਾਬਟੁਕੇ",
+      "translation": "ਮੁੱਕੇ ਵਾਲੇ ਹੱਥ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਕ੍ਰਿਤਚਤੁਰੰਗ",
+      "translation": "ਚਾਰ ਯੋਧਿਆਂ ਵਾਲੀ ਚਤੁਰੰਗੀ ਯੋਜਨਾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਬਲਕਸ਼ਿਤਿਰੰਗ",
+      "translation": "ਬਲ ਨਾਲ ਤਿਆਰ ਕੀਤੀ ਚਤੁਰੰਗੀ ਸ਼ਕਤੀ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਘਟਦਬਹੁਰੰਗ",
+      "translation": "ਭਾਰਤ ਦੇ ਬਹੁਤ ਸਾਰੇ ਰੰਗ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਰਟਦਬਟੁਕੇ",
+      "translation": "ਪਟਾਕੇ ਵਾਲੇ ਹੱਥ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "धनुरनुषङ्ग",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "रणक्षणसङ्ग",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "परिस्फुरदङ्ग",
+      "transliteration": "ਸੁਰਲਲਨਾ",
+      "translation": "ਸੁੰਦਰ ਅਤੇ ਲਾਭਦਾਇਕ"
+    },
+    {
+      "original": "नटत्कटके",
+      "transliteration": "ਤਤਥੇਯਿ",
+      "translation": "ਉਹ ਜਿਹੜਾ ਹੈ"
+    },
+    {
+      "original": "कनकपिशङ्ग",
+      "transliteration": "ਤਤਥੇਯਿ",
+      "translation": "ਉਹ ਜਿਹੜਾ ਹੈ"
+    },
+    {
+      "original": "पृषत्कनिषङ्ग",
+      "transliteration": "ਕ੍ਰਿਤਾਭਿਨਯੋਦਰ",
+      "translation": "ਅਦਾਕਾਰੀ ਨਾਲ ਸੰਬੰਧਿਤ"
+    },
+    {
+      "original": "रसद्भटशृङ्ग",
+      "transliteration": "ਨ੍ਰਿਤ੍ਯਰਤੇ",
+      "translation": "ਨੱਚਣ ਵਿੱਚ ਰੁਚੀ ਰੱਖਣ ਵਾਲਾ"
+    },
+    {
+      "original": "हताबटुके",
+      "transliteration": "ਕ੍ਰਿਤ",
+      "translation": "ਕੀਤੀ ਹੋਈ ਕੰਮ"
+    },
+    {
+      "original": "कृतचतुरङ्ग",
+      "transliteration": "ਕੁਕੁਥः",
+      "translation": "ਅਜੀਬ ਬੋਲੀਆਂ"
+    },
+    {
+      "original": "बलक्षितिरङ्ग",
+      "transliteration": "ਕੁਕੁਥੋ",
+      "translation": "ਹੌਲੀਆਂ ਕਹਾਣੀਆਂ"
+    },
+    {
+      "original": "घटद्बहुरङ्ग",
+      "transliteration": "ਗਡਦਾਦਿਕਤਾਲ",
+      "translation": "ਦੁਆਹਰੀ ਗਲੀਆਂ"
+    },
+    {
+      "original": "रटद्बटुके",
+      "transliteration": "ਕੁਤੂਹਲ",
+      "translation": "ਰੁਚੀ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਗਾਨਰਤੇ",
+      "translation": "ਸੰਗੀਤ ਵਿੱਚ ਰੁਚੀ ਰੱਖਣ ਵਾਲਾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਧੁਧੁਕੁਟ",
+      "translation": "ਜੰਗਲ ਵਿੱਚ ਆਵਾਜ਼"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਧੁੱਕੁਟ",
+      "translation": "ਹਲਚਲ ਵਧਾਉਣ ਵਾਲਾ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਧਿੰਧਿਮਿਤ",
+      "translation": "ਹਲਚਲ ਕਰਦੇ ਹੋਏ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਧਵਨੀ",
+      "translation": "ਆਵਾਜ਼"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਧੀਰ",
+      "translation": "ਧੀਰਜ Dheeraj"
+    },
+    {
+      "original": "सुरललना",
+      "transliteration": "ਮ੍ਰਿਦੰਗ",
+      "translation": "ਵਾਦਯ ਉਪਕਰਨ"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "ਨਿਨਾਦਰਤੇ",
+      "translation": "ਗੂੰਜਣ ਵਾਲਾ"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "कृताभिनयोदर",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "नृत्यरते",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "कृत",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "कुकुथः",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "कुकुथो",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "गडदादिकताल",
+      "transliteration": "ਜਪ੍ਯ",
+      "translation": "ਜਪ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "original": "कुतूहल",
+      "transliteration": "ਜਯੇਜਯਸ਼ਬਦ",
+      "translation": "ਸੰਸਾਰ ਵਿਚ ਪ੍ਰਸਿੱਧ ਸ਼ਬਦ"
+    },
+    {
+      "original": "गानरते",
+      "transliteration": "ਪਰਸਤੁਤੀ",
+      "translation": "ਸਾਰੀ ਸ਼ਲਾਘਾ"
+    },
+    {
+      "original": "धुधुकुट",
+      "transliteration": "ਤਤ੍ਪਰ",
+      "translation": "ਲਗਾਤਾਰ"
+    },
+    {
+      "original": "धुक्कुट",
+      "transliteration": "ਵਿਸ਼੍ਵਨੁਤੇ",
+      "translation": "ਸਭ ਨੂੰ ਸਲਾਮ"
+    },
+    {
+      "original": "धिंधिमित",
+      "transliteration": "ਝਣਝਣਝਿਞਝਿਮਿ",
+      "translation": "ਉੱਚੀ ਧੁਨੀ ਜੋ ਵਧਦੀ ਜਾਂਦੀ ਹੈ"
+    },
+    {
+      "original": "ध्वनि",
+      "transliteration": "ਝਿੰਗ੍ਰਿਤ",
+      "translation": "ਚਮਚਮਾਟੀ"
+    },
+    {
+      "original": "धीर",
+      "transliteration": "ਨੂਪੁਰਸ਼ਿਞ੍ਜਿਤ",
+      "translation": "ਪਾਦਾਂ ਦੀ ਆਵਾਜ਼ ਜੋ ਕਣਕ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "मृदंग",
+      "transliteration": "ਮੋਹਿਤ",
+      "translation": "ਆਕਰਸ਼ਿਤ"
+    },
+    {
+      "original": "निनादरते",
+      "transliteration": "ਭੂਤਪਤੇ",
+      "translation": "ਭੂਤਾਂ ਦਾ ਸੁਭਾਵ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਨਟਿਤ",
+      "translation": "ਨਾਚ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਨਟਾਰਧ",
+      "translation": "ਨਾਚ ਵਿਚ ਯੋਗਤਾ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਨਟੀ",
+      "translation": "ਨਾਚਣ ਵਾਲੀ"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "ਨਟ",
+      "translation": "ਨਾਚਣ ਵਾਲਾ"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ਨਾਇਕ",
+      "translation": "ਅਗਵਾਈ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਨਾਟਿਤਨਾਟਯ",
+      "translation": "ਥੀਏਟਰ ਦਾ ਪ੍ਰਦਰਸ਼ਨ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਸੁਗਾਨਰਤੇ",
+      "translation": "ਸੰਗੀਤ ਵਿੱਚ ਰੁਚੀ ਰੱਖਣ ਵਾਲਾ"
+    },
+    {
+      "original": "गिरिनन्दिनि",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "नन्दितमेदिनि",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "विश्वविनोदिनि",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "नन्दिनुते",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "गिरिवरविन्ध्यशिरोऽधिनिवासिनि",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "विष्णुविलासिनि",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "जिष्णुनुते",
+      "transliteration": "अयि",
+      "translation": "ਹੇ"
+    },
+    {
+      "original": "भगवति",
+      "transliteration": "ਸੁਮਨঃਸੁਮਨःਸੁਮਨः",
+      "translation": "ਫੁੱਲ, ਖੁਸ਼ਬੂਦਾਰ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਸੁਮਨःਸੁਮਨੋਹਰਕਾਂਤਿਯੁਤੇ",
+      "translation": "ਫੁੱਲਾਂ ਨਾਲ ਸੋਹਣੀ"
+    },
+    {
+      "original": "शितिकण्ठकुटुम्बिनि",
+      "transliteration": "ਸ਼੍ਰਿਤਰਜਨੀ",
+      "translation": "ਰਾਤ ਦਾ ਦ੍ਰਿਸ਼੍ਯ"
+    },
+    {
+      "original": "भूरिकुटुम्बिनि",
+      "transliteration": "ਰਜਨੀਰਜਨੀ",
+      "translation": "ਰਾਤ, ਰਾਤਾਂ ਦੇ ਸੰਗ੍ਰਹਿਤ"
+    },
+    {
+      "original": "भूरिकृते",
+      "transliteration": "ਰਜਨੀਰਜਨੀ",
+      "translation": "ਰਾਤ, ਰਾਤਾਂ ਦੇ ਸੰਗ੍ਰਹਿਤ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਕਰਵਕ੍ਤ੍ਰਵ੍ਰਤੇ",
+      "translation": "ਹੱਥ ਵਿੱਚ ਲੇਣ ਵਾਲਾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਸੁਨਯਨਵਿਭ੍ਰਮਰ",
+      "translation": "ਸੁੰਦਰ ਚਲਣ ਵਾਲਾ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਭ੍ਰਮਰਭ੍ਰਮਰ",
+      "translation": "ਭੂਤਾਂ ਦਾ ਰਾਜ਼ੀ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਭ੍ਰਮਰਭ੍ਰਮਰ",
+      "translation": "ਭੂਤਾਂ ਦਾ ਰਾਜ਼ੀ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਅਧਿਪਤੇ",
+      "translation": "ਰਾਜਾ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "सुरवरवर्षिणि",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "दुर्धरधर्षिणि",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "दुर्मुखमर्षिणि",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "हर्षरते",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "त्रिभुवनपोषिणि",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "शङ्करतोषिणि",
+      "transliteration": "ਸਹਿਤਮਹਾਹਵ",
+      "translation": "ਇੱਕ ਪ੍ਰਸਿੱਧ ਰਚਨਾ"
+    },
+    {
+      "original": "किल्बिषमोषिणि",
+      "transliteration": "ਮੱਲਮਤੱਲਿਕ",
+      "translation": "ਬਹੁਤ ਖੁਸ਼"
+    },
+    {
+      "original": "घोषरते",
+      "transliteration": "ਮੱਲਿਤਰੱਲਕ",
+      "translation": "ਉਤਸ਼ਾਹਿਤ"
+    },
+    {
+      "original": "दनुजनिरोषिणि",
+      "transliteration": "ਮੱਲਰਤੇ",
+      "translation": "ਨਚ ਰਹੇ ਹਨ"
+    },
+    {
+      "original": "दितिसुतरोषिणि",
+      "transliteration": "ਵਿਰਚਿਤਵੱਲਿਕ",
+      "translation": "ਇੱਕ ਔਰਤ ਦੇ ਸਨਮਾਨ ਵਿਚ"
+    },
+    {
+      "original": "दुर्मदशोषिणि",
+      "transliteration": "ਪੱਲਿਕਮੱਲਿਕ",
+      "translation": "ਪਹਿਲੀ ਰਾਤ ਦੀ ਰਚਨਾ"
+    },
+    {
+      "original": "सिन्धुसुते",
+      "transliteration": "ਝਿੱਲਿਕਭਿੱਲਿਕ",
+      "translation": "ਚਮਕਦਾਰ ਰੋਸ਼ਨੀ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਵਰਗਵ੍ਰਤੇ",
+      "translation": "ਸਭ ਨੂੰ ਕ੍ਰਿਆਸ਼ੀਲ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਸ਼ਿਤਕ੍ਰਿਤਫੁੱਲ",
+      "translation": "ਬਦਲੀਆਂ ਦੇ ਨਾਲ ਖੁਸ਼ਬੂ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਸਮੁੱਲਸਿਤਾਰੁਣ",
+      "translation": "ਤਾਜ਼ਾ ਪ੍ਰੋਜੈਕਟ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਤੱਲਜਪੱਲਵ",
+      "translation": "ਪੱਤੇ ਜਾਂ ਪਾਕੀਜ਼ਾ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਸੱਲਲਿਤੇ",
+      "translation": "ਬਹੁਤ ਖੂਬਸੂਰਤ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "जगदम्ब",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "मदम्ब",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "कदम्ब",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "वनप्रियवासिनि",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "हासरते",
+      "transliteration": "ਅਵਿਰਲਗੰਡ",
+      "translation": "ਬਿਨਾ ਰੁਕਾਵਟ ਦੇ ਸੁਗੰਧ"
+    },
+    {
+      "original": "शिखरी",
+      "transliteration": "ਗਲਨਮਦਮੇਦੁਰ",
+      "translation": "ਮਦਮਦਾਵਾਂ ਵਾਲਾ"
+    },
+    {
+      "original": "शिरोमणि",
+      "transliteration": "ਮੱਤਮਤੰਗ",
+      "translation": "ਹਵਾਈ ਸਵਾਰ"
+    },
+    {
+      "original": "तुङ्गहिमालय",
+      "transliteration": "ਜਰਾਜਪਤੇ",
+      "translation": "ਬੁਜ਼ੁਰਗ ਰਾਜਾ"
+    },
+    {
+      "original": "शृङ्गनिजालय",
+      "transliteration": "ਤ੍ਰਿਭੁਵਨਭੂṣਣ",
+      "translation": "ਤਿੰਨ ਲੋਕਾਂ ਦੀ ਸ਼ੋਭਾ"
+    },
+    {
+      "original": "मध्यगते",
+      "transliteration": "ਭੂਤਕਲਾਨਿਧਿ",
+      "translation": "ਪੁਰਾਣੇ ਸਮੇਂ ਦਾ ਖਜਾਨਾ"
+    },
+    {
+      "original": "मधुमधुरे",
+      "transliteration": "ਰੂਪਪਯੋਨਿਧਿ",
+      "translation": "ਸੋਹਣੀ ਰੂਪ ਦੀ ਥਾਂ"
+    },
+    {
+      "original": "मधुकैटभगञ्जिनी",
+      "transliteration": "ਰਾਜਸੁਤੇ",
+      "translation": "ਰਾਜਾ ਦੀ ਧੀ"
+    },
+    {
+      "original": "कैटभभञ्जिनी",
+      "transliteration": "ਅਯਿ",
+      "translation": "ਹੇ"
+    },
+    {
+      "original": "रासरते",
+      "transliteration": "ਸੁਦਤੀਜਨ",
+      "translation": "ਭਲੇ ਲੋਕ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਲਾਲਸਮਾਨਸ",
+      "translation": "ਚਾਹਤਾਂ ਨਾਲ ਭਰਿਆ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਮੋਹਨ",
+      "translation": "ਲੋਭੀ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਮਨਮਥਰਾਜਸੁਤੇ",
+      "translation": "ਕਾਮ ਦੇ ਰਾਜੇ ਦੀ ਧੀ"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "शतखण्ड",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "विखण्डितरुण्ड",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "वितुण्डितशुण्द",
+      "transliteration": "ਕਮਲਦਲਾਮਲ",
+      "translation": "ਸੁੰਦਰ ਫੁੱਲ ਦਾ ਪੱਤਾ"
+    },
+    {
+      "original": "गजाधिपते",
+      "transliteration": "ਕੋਮਲਕਾਂਤਿ",
+      "translation": "ਨਾਜੁਕ ਰੂਪ"
+    },
+    {
+      "original": "रिपुगजगण्ड",
+      "transliteration": "ਕਲਾਕਲਿਤਾਮਲ",
+      "translation": "ਕਲਾ ਨਾਲ ਸਜੀਵ"
+    },
+    {
+      "original": "विदारणचण्ड",
+      "transliteration": "ਭਾਲਲਤੇ",
+      "translation": "ਮੱਥੇ 'ਤੇ ਲਗੇ"
+    },
+    {
+      "original": "पराक्रमशुण्ड",
+      "transliteration": "ਸਕਲਵਿਲਾਸ",
+      "translation": "ਸਾਰੀਆਂ ਸੁੰਦਰਤਾਵਾਂ"
+    },
+    {
+      "original": "मृगाधिपते",
+      "transliteration": "ਕਲਾਨਿਲਯ",
+      "translation": "ਕਲਾ ਦਾ ਸਥਾਨ"
+    },
+    {
+      "original": "निजभुजदण्ड",
+      "transliteration": "ਕ੍ਰਮ",
+      "translation": "ਵਿਧੀ"
+    },
+    {
+      "original": "निपातितखण्ड",
+      "transliteration": "ਕੇਲਿਚਲਤਕਲ",
+      "translation": "ਨਚਦੀ ਕਲਾ"
+    },
+    {
+      "original": "विपातितमुण्ड",
+      "transliteration": "ਹੰਸਕੁਲੇ",
+      "translation": "ਹੰਸਾਂ ਦੀ ਉਡਾਣ"
+    },
+    {
+      "original": "भटाधिपते",
+      "transliteration": "ਅਲਿਕੁਲਸੰਕੁਲ",
+      "translation": "ਪੂਰੀ ਤਰ੍ਹਾਂ ਭਰਿਆ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਕੁਵਲਯਮੰਡਲ",
+      "translation": "lotusy circle"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਮੌਲਿਮਿਲਦਬਕੁਲਾਲਿਕੁਲੇ",
+      "translation": "ਕੁੰਜ ਰਾਜ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "रणदुर्मद",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "शत्रुवधोदित",
+      "transliteration": "ਕਰਮੁਰਲੀਰਵ",
+      "translation": "ਬਾਜੇ ਵਾਲਾ ਬੰਬੀਲ ਸੰਗੀਤ"
+    },
+    {
+      "original": "दुर्धरनिर्जर",
+      "transliteration": "ਵੀਜਿਤਕੂਜਿਤ",
+      "translation": "ਜਿੱਤਿਆਂ ਅਤੇ ਹਟਕਿਆਂ"
+    },
+    {
+      "original": "शक्तिभृते",
+      "transliteration": "ਲਜਿਤਕੋਕਿਲ",
+      "translation": "ਸ਼ਰਮਿਤ ਕੋਕਿਲ"
+    },
+    {
+      "original": "चतुरविचार",
+      "transliteration": "ਮੰਜੁਮਤੇ",
+      "translation": "ਸੁੰਦਰ ਸਥਾਨ"
+    },
+    {
+      "original": "धुरीणमहाशिव",
+      "transliteration": "ਮਿਲਿਤਪੁਲਿੰਦ",
+      "translation": "ਇੱਕਠੇ ਹੋਏ ਲੋਕ"
+    },
+    {
+      "original": "दूतकृत",
+      "transliteration": "ਮਨੋਹਰਗੁੰਜਿਤ",
+      "translation": "ਸੁਹਾਵਣੀ ਗੂੰਜ"
+    },
+    {
+      "original": "प्रमथाधिपते",
+      "transliteration": "ਰੰਜਿਤਸ਼ੈਲ",
+      "translation": "ਰੰਗੀਨ ਪਹਾੜ"
+    },
+    {
+      "original": "दुरितदुरीह",
+      "transliteration": "ਨਿਕੁੰਜਗਤੇ",
+      "translation": "ਜਗ੍ਹਾ ਜਾਂ ਅਵਸਥਾ"
+    },
+    {
+      "original": "दुराशयदुर्मति",
+      "transliteration": "ਨਿਜਗਣਭੂਤ",
+      "translation": "ਆਪਣੇ ਅਸਤੀਤਵ ਨਾਲ ਸੰਬੰਧਤ"
+    },
+    {
+      "original": "दानवदुत",
+      "transliteration": "ਮਹਾਸ਼ਬਰੀਗਣ",
+      "translation": "ਪਾਰਮਿਕ ਲੋਕ"
+    },
+    {
+      "original": "कृतान्तमते",
+      "transliteration": "ਸਦ्गੁਣਸੰਭ੍ਰਿਤ",
+      "translation": "ਚੰਗੇ ਗੁਣਾਂ ਨਾਲ ਭਰਪੂਰ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਕੇਲਿਤਲੈ",
+      "translation": "ਖੇਡ ਦੀ ਪ੍ਰਕਿਰਿਆ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "शरणागत",
+      "transliteration": "ਕਟਿਤਟਪੀਤ",
+      "translation": "ਜੋ ਪੀਤ ਰੰਗ ਦਾ ਹੈ"
+    },
+    {
+      "original": "वैरिवधुवर",
+      "transliteration": "ਦੂਕੂਲਵਿਚਿੱਤਰ",
+      "translation": "ਅਨੋਖਾ ਅਤੇ ਅਜੀਬ"
+    },
+    {
+      "original": "वीरवराभय",
+      "transliteration": "ਮਯੁਖਤਿਰਸਕ੍ਰਿਤ",
+      "translation": "ਚੰਦ੍ਰਮਾ ਦੇ ਰੋਸ਼ਨ ਪ੍ਰਕਾਸ਼ ਨਾਲ ਗੜਬੜ ਹੋਈ"
+    },
+    {
+      "original": "दायकरे",
+      "transliteration": "ਚੰਦਰਰੁਚੇ",
+      "translation": "ਚੰਦ੍ਰਮਾ ਦੀ ਰੋਸ਼ਨੀ"
+    },
+    {
+      "original": "त्रिभुवनमस्तक",
+      "transliteration": "ਪ੍ਰਣਤਸੁਰਾਸੁਰ",
+      "translation": "ਪੂਜਾ ਕਰਨ ਵਾਲੇ ਦਿਵਤਾ ਅਤੇ ਰਾਸ਼ੀਆਂ"
+    },
+    {
+      "original": "शुलविरोधि",
+      "transliteration": "ਮੌਲਿਮਣਿਸਫੁਰ",
+      "translation": "ਮੁਲਾਈ ਮਣੀ ਦੇ ਚਮਕਣ ਨਾਲ"
+    },
+    {
+      "original": "शिरोऽधिकृतामल",
+      "transliteration": "ਦੰਸ਼ੁਲਸੰਨਖ",
+      "translation": "ਦੰਸ਼ ਦੇ ਜ਼ਖ਼ਮਾਂ ਨਾਲ"
+    },
+    {
+      "original": "शुलकरे",
+      "transliteration": "ਚੰਦਰਰੁਚੇ",
+      "translation": "ਚੰਦ੍ਰਮਾ ਦੀ ਰੋਸ਼ਨੀ"
+    },
+    {
+      "original": "दुमिदुमितामर",
+      "transliteration": "ਜਿਤਕਨਕਾਚਲ",
+      "translation": "ਜੋ ਸੋਨੇ ਦਾ ਟੁਕੜਾ ਜਿੱਤਦਾ ਹੈ"
+    },
+    {
+      "original": "धुन्दुभिनादमहोमुखरीकृत",
+      "transliteration": "ਮੌਲਿਮਦੋਰਜਿਤ",
+      "translation": "ਮੁਲਾਈ ਮਣੀ ਨਾਲ ਪ੍ਰਾਪਤ"
+    },
+    {
+      "original": "दिङ्मकरे",
+      "transliteration": "ਨਿਰਭਰਕੁੰਜਰ",
+      "translation": "ਬਿਨਾ ਹਿਸਾਬ ਦੇ ਹਾਥੀ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਕੁੰਭਕੁਚੇ",
+      "translation": "ਕੁੰਭ ਦੀ ਮੁਹੰਮਦ ਬੂਟੇ ਦਾ ਗੁਲਾਬ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "निजहुङ्कृति",
+      "transliteration": "ਵਿਜਿਤਸਹਸ੍ਰਕਰੇਕ",
+      "translation": "ਜੋ ਸਹਸ੍ਰਾਂ ਦੀ ਜਿੱਤ ਵਾਲਾ ਹੈ"
+    },
+    {
+      "original": "मात्रनिराकृत",
+      "transliteration": "ਸਹਸ੍ਰਕਰੇਕ",
+      "translation": "ਹਜ਼ਾਰਾਂ ਦੇ ਸਮਾਨ"
+    },
+    {
+      "original": "धूम्रविलोचन",
+      "transliteration": "ਸਹਸ੍ਰਕਰੇਕਨੁਤੇ",
+      "translation": "ਹਜ਼ਾਰਾਂ ਦੀ ਪ੍ਰਸੰਸਾ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "धूम्रशते",
+      "transliteration": "ਕ੍ਰਿਤਸੁਰਤਾਰਕ",
+      "translation": "ਜੋ ਸੁਰਿਆਂ ਨੂੰ ਪਰਾਜਿਤ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "समरविशोषित",
+      "transliteration": "ਸੰਗਰਤਾਰਕ",
+      "translation": "ਜੋ ਦੁਸ਼ਮਣਾਂ ਨਾਲ ਲੜਦਾ ਹੈ"
+    },
+    {
+      "original": "शोणितबीज",
+      "transliteration": "ਸੰਗਰਤਾਰਕ",
+      "translation": "ਜੋ ਜੰਗ ਜਿੱਤਣ ਵਾਲਾ ਹੈ"
+    },
+    {
+      "original": "समुद्भवशोणित",
+      "transliteration": "ਸੂਨੁਸੁਤੇ",
+      "translation": "ਪ੍ਰਧਾਨ ਪੁਤਰੀ"
+    },
+    {
+      "original": "बीजलते",
+      "transliteration": "ਸੁਰਥਸਮਾਧਿ",
+      "translation": "ਜੋ ਰਾਜਾ ਨੂੰ ਪ੍ਰਸੰਨ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "शिवशिवशुम्भ",
+      "transliteration": "ਸਮਾਨਸਮਾਧਿ",
+      "translation": "ਉਹ ਜੋ ਸਭ ਨੂੰ ਸਮਾਨ ਦੇਵੇ"
+    },
+    {
+      "original": "निशुम्भमहाहव",
+      "transliteration": "ਸਮਾਧਿਸਮਾਧਿ",
+      "translation": "ਪੂਰਨ ਸ਼ਾਂਤੀ"
+    },
+    {
+      "original": "तर्पितभूत",
+      "transliteration": "ਸੁਜਾਤਰਤੇ",
+      "translation": "ਜੋ ਸੁਖੀ ਰੱਖਦੀ ਹੈ"
+    },
+    {
+      "original": "पिशाचरते",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਮਹਿਸ਼ਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਪਦਕਮਲੰ",
+      "translation": "ਪਦਮੁਖ ਤੋਂ ਹਟਾ ਬਲਿ ਚਮਕਦਾ ਹਾਲੀ"
+    },
+    {
+      "original": "धनुरनुषङ्ग",
+      "transliteration": "ਕਰੁਣਾਨਿਲਯੇ",
+      "translation": "ਕਰੁਣਾ ਦਾ ਸਥਾਨ"
+    },
+    {
+      "original": "रणक्षणसङ्ग",
+      "transliteration": "ਵਰੀਵਸ੍ਯਤਿ",
+      "translation": "ਜੋ ਸਮਰਪਿਤ ਹੋ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "original": "परिस्फुरदङ्ग",
+      "transliteration": "ਯੋऽਨੁਦਿਨੰ",
+      "translation": "ਜੋ ਹਰ ਰੋਜ਼"
+    },
+    {
+      "original": "नटत्कटके",
+      "transliteration": "ਸੁਸ਼ਿਵੇ",
+      "translation": "ਸੁਖਮਈ ਜਨਮ"
+    },
+    {
+      "original": "कनकपिशङ्ग",
+      "transliteration": "ਅਯਿ",
+      "translation": "ਹੈ Ai"
+    },
+    {
+      "original": "पृषत्कनिषङ्ग",
+      "transliteration": "ਕਮਲੇ",
+      "translation": "ਸੁੰਦਰ"
+    },
+    {
+      "original": "रसद्भटशृङ्ग",
+      "transliteration": "ਕਮਲਾਨਿਲਯੇ",
+      "translation": "ਜੋ ਕਮਲ ਦੇ ਰੂਪ ਵਾਲੀ ਹੈ"
+    },
+    {
+      "original": "हताबटुके",
+      "transliteration": "ਕਮਲਾਨਿਲਯः",
+      "translation": "ਜੋ ਕਮਲ ਦਾ ਅੱਡਾ ਹੈ"
+    },
+    {
+      "original": "कृतचतुरङ्ग",
+      "transliteration": "ਸ",
+      "translation": "ਹਾਂ"
+    },
+    {
+      "original": "बलक्षितिरङ्ग",
+      "transliteration": "ਕਥੰ",
+      "translation": "ਕਿਵੇਂ"
+    },
+    {
+      "original": "घटद्बहुरङ्ग",
+      "transliteration": "ਨ",
+      "translation": "ਨਹੀਂ"
+    },
+    {
+      "original": "रटद्बटुके",
+      "transliteration": "ਭਵੇਤ्",
+      "translation": "ਹੋਣਾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਤਵ",
+      "translation": "ਤੁਹਾਡੇ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਪਦਮੇਵ",
+      "translation": "ਪਦਾਂ ਦੇ ਨਾਲ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਪਰੰਪਦਮਿਤ੍ਯਨੁਸ਼ੀਲਯਤੋ",
+      "translation": "ਜੋ ਇੱਕ ਉੱਚ ਅਧਿਕਾਰ ਦੇ ਅੰਦਰ ਪ੍ਰਚੰਡ ਹੈ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਮਮ",
+      "translation": "ਮੇਰੇ"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਕਿੰ",
+      "translation": "ਕੀ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਨ",
+      "translation": "ਨਹੀਂ"
+    },
+    {
+      "original": "सुरललना",
+      "transliteration": "ਸ਼ਿਵੇ",
+      "translation": "ਸ਼ਿਵ"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "ततथेयी",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "कृताभिनयोदर",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "नृत्यरते",
+      "transliteration": "ਮਹਿਸਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "कृत",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "कुकुथः",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "कुकुथो",
+      "transliteration": "ਕਨਕਲਸਤਕਲਸਿੰਧੁਜਲੈਰਨੁਸ਼ਿੰਚਤਿ",
+      "translation": "ਜੋ ਸੁਨਹਿਰੀ ਲਹਿਰਾਂ ਨਾਲ ਸਮੁੰਦਰ ਦੇ ਨਾਲ ਸੰਜੋੜਦਾ ਹੈ"
+    },
+    {
+      "original": "गडदादिकताल",
+      "transliteration": "ਤੇਗੁਣਰੰਗਭੁਵਮ্",
+      "translation": "ਜੋ ਚਮਕਦਾਰ ਹੈ, ਅਤੇ ਰੰਗਤੋਂ ਭਰਿਆ ਹੈ"
+    },
+    {
+      "original": "कुतूहल",
+      "transliteration": "ਭਜਤਿ",
+      "translation": "ਪੂਜਾ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "गानरते",
+      "transliteration": "ਸ",
+      "translation": "ਹਾਂ"
+    },
+    {
+      "original": "धुधुकुट",
+      "transliteration": "ਕਿੰ",
+      "translation": "ਕੀ"
+    },
+    {
+      "original": "धुक्कुट",
+      "transliteration": "ਨ",
+      "translation": "ਨਹੀਂ"
+    },
+    {
+      "original": "धिंधिमित",
+      "transliteration": "ਸ਼ਚੀਕੁਚਕੁੰਭਤਟੀਪਰਿਰੰਭਸੁਖਾਨੁਭਵਮ",
+      "translation": "ਜੋ ਸੁਖ ਦੈਣ ਵਾਲਾ ਹੈ, ਅਤੇ ਨਾਜੁਕ ਤੱਟੀ ਤੇ ਖਿਲਾਰਾ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "original": "ध्वनि",
+      "transliteration": "ਤਵ",
+      "translation": "ਤੁਹਾਡੇ"
+    },
+    {
+      "original": "धीर",
+      "transliteration": "ਚਰਨं",
+      "translation": "ਪਦਾਰਥ"
+    },
+    {
+      "original": "मृदंग",
+      "transliteration": "ਸ਼ਰਣं",
+      "translation": "ਪ੍ਰਸ਼ਨ"
+    },
+    {
+      "original": "निनादरते",
+      "transliteration": "ਕਰਵਾਣਿ",
+      "translation": "ਹਟਾਉਣਾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਨਤਾਮਰਵਾਣਿ",
+      "translation": "ਪ੍ਰਣਾਮ ਦੇਣ ਵਾਲਾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਨਿਵਾਸਿ",
+      "translation": "ਵਾਸ ਕਰਨਾ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਸ਼ਿਵਮ",
+      "translation": "ਸ਼ਿਵ"
+    },
+    {
+      "original": "महिषासुरमर्दिनी",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "रम्याकपर्दिनी",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਮਹਿਸਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਜੋ ਮਹਿਸ਼ਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "मयि",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨि",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "दीन",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "दयालुतया",
+      "transliteration": "ਤਵ",
+      "translation": "ਤੁਹਾਡੇ"
+    },
+    {
+      "original": "कृपयैव",
+      "transliteration": "ਵਿਮਲੇੰਦੁਕੁਲੰ",
+      "translation": "ਚੰਦਰਮਾ ਦੇ ਕੁਲ ਨਾਲ Vimlendu Kulam"
+    },
+    {
+      "original": "त्वया",
+      "transliteration": "ਵਦਨੇੰਦੁਮਲੰ",
+      "translation": "ਚੰਦਾ ਵਰਗਾ ਸਹੀ ਅਤੇ ਸੁੰਦਰ ਖੋਹਾਂ ਵਾਲਾ"
+    },
+    {
+      "original": "भवितव्यमुमे",
+      "transliteration": "ਸਕਲੰ",
+      "translation": "ਸਭ ਕੁਝ"
+    },
+    {
+      "original": "अयि",
+      "transliteration": "ਨਨੁ",
+      "translation": "ਤੁਸੀਂ"
+    },
+    {
+      "original": "जगतो",
+      "transliteration": "ਕੂਲਯਤੇ",
+      "translation": "ਪੁਨਰਗਠਿਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "original": "जननी",
+      "transliteration": "ਕਿਮੁ",
+      "translation": "ਕੀ"
+    },
+    {
+      "original": "कृपयासि",
+      "transliteration": "ਪੁਰੁਹੂਤਪੁਰੀਂਦੁ",
+      "translation": "ਜੋ ਸਹੀ ਰੂਪ ਵਿੱਚ ਜਾਰੀ ਹੈ"
+    },
+    {
+      "original": "यथासि",
+      "transliteration": "ਮੁਖੀ",
+      "translation": "ਸਿਰਜਣਹਾਰ"
+    },
+    {
+      "original": "तथानुमितासिरते",
+      "transliteration": "ਸੁਮੁਖੀਭਿਰਸੌ",
+      "translation": "ਹਿਰਣੀ ਦੀ ਸੁੰਦਰਤਾ ਸਾਲ੍ਹਾ"
+    },
+    {
+      "original": "यदुचितमत्र",
+      "transliteration": "ਵਿਮੁਖੀਕ੍ਰਿਯਤੇ",
+      "translation": "ਹੋਵੇਗਾ ਕਿਸੇ ਨਾਲ ਹਟਕੇ"
+    },
+    {
+      "original": "भवत्युररीकुरुतादुरुतापमपाकुरुते",
+      "transliteration": "ਮਮ",
+      "translation": "ਮੇਰਾ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਤੁ",
+      "translation": "ਤੁਸੀਂ"
+    },
+    {
+      "original": "जय",
+      "transliteration": "ਮਤं",
+      "translation": "ਵਿਚਾਰ"
+    },
+    {
+      "original": "हे",
+      "transliteration": "ਸ਼ਿਵਨਾਮਧਨੇ",
+      "translation": "ਸ਼ਿਵ ਦੇ ਨਾਮ ਨਾਲ ਢੁਕਵਾਂ ਸ਼ਾਮਿਲ ਕਰਨਾ"
+    },
+    {
+      "original": "महिषासुरमर्दिनि",
+      "transliteration": "ਭਵਤੀ",
+      "translation": "ਪ੍ਰਕਿਰਿਆ Bhavati"
+    },
+    {
+      "original": "रम्यकपर्दिनि",
+      "transliteration": "ਕ੍ਰਿਪਯਾ",
+      "translation": "ਦਇਆਸ਼ੀਲਤਾ"
+    },
+    {
+      "original": "शैलसुते",
+      "transliteration": "ਕਿਮੁ",
+      "translation": "ਕੀ Kimu"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕ੍ਰਿਯਤੇ",
+      "translation": "ਕਰਨਾ Kriytē"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜੈ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਹਿਸਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਮਹਿਸਾਸੁਰ ਨੂੰ ਮਾਰਦੀ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਰਮ੍ਯਕਪਦਿਨਿ",
+      "translation": "ਜੋ ਸੰਸਾਰ ਨੂੰ ਖੁਸ਼ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜਾਂ ਦੀ ਧੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਅਯਿ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਈ",
+      "translation": "ਮੇਰੇ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਦੀਨ",
+      "translation": "ਗਰੀਬ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਦਯਾਲੁਤਯਾ",
+      "translation": "ਦਇਆ ਨਾਲ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕ੍ਰਿਪਯਾ",
+      "translation": "ਕ੍ਰਿਪਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਏਵ",
+      "translation": "ਇਸ ਤਰ੍ਹਾਂ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਤਵਯਾ",
+      "translation": "ਤੁਹਾਡੇ ਦੁਆਰਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਭਵਿਤਵ੍ਯਮੁਮੇ",
+      "translation": "ਤੁਹਾਡੇ ਨਾਲ ਅਨੁਕੂਲ ਹੋਣਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਅਯਿ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਗਤੋ",
+      "translation": "ਦੁਨੀਆਂ ਦੇ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਨਨੀ",
+      "translation": "ਮਾਂ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਕ੍ਰਿਪਯਾ",
+      "translation": "ਕ੍ਰਿਪਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਅਸੀ",
+      "translation": "ਤੁਸੀਂ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਯਥਾ",
+      "translation": "ਜਿਵੇਂ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਅਸੀ",
+      "translation": "ਤੁਸੀਂ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਤਥਾ",
+      "translation": "ਉਹੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਅਨੁਮਿਤਾਸੀ",
+      "translation": "ਪ੍ਰਤੀਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਰਤੇ",
+      "translation": "ਰਤੀਆਂ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਯਦੁਚਿਤਮ",
+      "translation": "ਜੋ ਉਚਿਤ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਅਤ੍ਰ",
+      "translation": "ਇੱਥੇ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਭਵਤਯੁ",
+      "translation": "ਤੁਸੀਂ ਹੋ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਰਰੀਕੁਰਤਾਤ",
+      "translation": "ਸਮਝ ਸਕਦੇ ਹੋ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਦੁਰੁਤਾਪਮਪਾਕੁਰੁਤੇ",
+      "translation": "ਬੁਰਾ ਕ੍ਰਿਤੀ ਵਿੱਚ ਬਦਲ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਯ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਜਯ",
+      "translation": "ਜਿੱਤ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਹੇ",
+      "translation": "ਹੈ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਮਹਿਸਾਸੁਰਮਰਦਿਨਿ",
+      "translation": "ਮਹਿਸਾਸੁਰ ਨੂੰ ਮਾਰਨ ਵਾਲੀ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਰਮਯਕਪਰਦਿਨਿ",
+      "translation": "ਸੁੰਦਰ ਮਿਠੀ ਜੀਵਨ ਰੇਖਾ"
+    },
+    {
+      "original": "---",
+      "transliteration": "ਸ਼ੈਲਸੁਤੇ",
+      "translation": "ਪਹਾੜ ਦੀ ਧੀ"
+    }
+  ],
+  "metadata": {
+    "originalFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\hindi\\wordtoword_transliteration.json",
+    "transliterationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\punjabi\\wordtoword_transliteration.json",
+    "translationFile": "C:\\Users\\anoma\\OneDrive\\Desktop\\Mantra Website working - Copy\\Mantra\\Lyrics_data\\mahisasur_mardini\\punjabi\\wordtoword_translation.json",
+    "processedAt": "2025-08-25T18:39:42.994Z"
+  }
+}
