@@ -4,11 +4,11 @@ import Card from "../components/Card";
 
 const MostlySearched = () => {
   const cardDetails = [
-    { title: "Hanuman Chalisa", artist: "Geeta Rabari", image: "./img1.png" },
-    { title: "Mahamrityunjaya Mantra", artist: "Shankar Mahadevan", image: "./img2.png" },
-    { title: "Gayatri Mantra", artist: "Anuradha Paudwal", image: "./img3.png" },
-    { title: "Shiv Tandav Stotram", artist: "Sanskrit", image: "./img4.png" },
-    { title: "Durga Kavach", artist: "Devotional", image: "./img5.png" }
+    { title: "Hanuman Chalisa", artist: "Geeta Rabari", image: "./images/img1.png" },
+    { title: "Mahamrityunjaya Mantra", artist: "Shankar Mahadevan", image: "./images/img2.png" },
+    { title: "Gayatri Mantra", artist: "Anuradha Paudwal", image: "./images/img3.png" },
+    { title: "Shiv Tandav Stotram", artist: "Sanskrit", image: "./images/img4.png" },
+    { title: "Durga Kavach", artist: "Devotional", image: "./images/img5.png" }
   ];
 
   const [sortOrder, setSortOrder] = useState("asc");
@@ -49,7 +49,7 @@ const MostlySearched = () => {
               className="bg-[#2C2C2C] text-sm flex flex-row  p-4 gap-2 border border-[#383838] rounded-full hover:text-[#FF9256] transition cursor-pointer"
             >
               <img
-                src="/sort.png"
+                src="/images/sort.png"
                 alt="Sort Icon"
                 className={`transition-transform duration-300 ${sortOrder === "desc" ? "rotate-180" : ""}`}
               />

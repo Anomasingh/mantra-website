@@ -87,7 +87,7 @@ const Header = () => {
         {/* Mobile Search Icon */}
         <div className="lg:hidden">
           <button onClick={() => setShowMobileSearch(!showMobileSearch)}>
-           <img src="/Search_Bar.png" alt="" />
+           <img src="/images/Search_Bar.png" alt="" />
           </button>
         </div>
       </header>

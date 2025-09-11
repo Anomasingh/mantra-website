@@ -10,12 +10,12 @@ const Slideshow = () => (
             {/* Background Gradient */}
             <div
               className="absolute inset-0 bg-cover bg-center z-0"
-              style={{ backgroundImage: `url('/Gradient.png')` }}
+              style={{ backgroundImage: `url('/images/Gradient.png')` }}
             ></div>
   
             {/* Text Content */}
             <div className="md:ml-20 z-20 flex flex-col items-center md:items-start text-center md:text-left px-6 md:px-10 py-10 md:py-20 max-w-xl">
-              <img src="/Vector.png" alt="Vector" className="mb-4 w-12 h-1" />
+              <img src="/images/Vector.png" alt="Vector" className="mb-4 w-12 h-1" />
               <h3 className="text-xl font-semibold text-white">Ajay Bhandari</h3>
               <h1 className="text-3xl md:text-5xl font-bold text-white">Hanuman Chalisa</h1>
               <p className="text-sm text-white">Song • Hindi • 2023 • 2.58 mins</p>
@@ -28,17 +28,17 @@ const Slideshow = () => (
             {/* Hanuman Image */}
             <div className="z-20 px-0 md:px-10 w-full md:w-auto">
               <img
-                src="/Hanuman-Desktop.png"
+                src="/images/Hanuman-Desktop.png"
                 alt="Hanuman"
                 className="hidden xl:block h-full object-contain"
               />
               <img
-                src="/Hanuman-md.png"
+                src="/images/Hanuman-md.png"
                 alt="Hanuman"
                 className="hidden md:block xl:hidden h-1/4 object-contain"
               />
               <img
-                src="/Hanuman.png"
+                src="/images/Hanuman.png"
                 alt="Hanuman Mobile"
                 className="block md:hidden w-full h-auto object-cover"
               />

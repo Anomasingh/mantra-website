@@ -8,27 +8,27 @@ const HomePage = () => {
     {
       title: "Hanuman Chalisa",
       artist: "Geeta Rabari",
-      image: "./img1.png"
+      image: "./images/img1.png"
     },
     {
       title: "Mahamrityunjaya Mantra",
       artist: "Shankar Mahadevan",
-      image: "./img2.png"
+      image: "./images/img2.png"
     },
     {
       title: "Gayatri Mantra",
       artist: "Anuradha Paudwal",
-      image: "./img3.png"
+      image: "./images/img3.png"
     },
     {
       title: "Shiv Tandav Stotram",
       artist: "Sanskrit",
-      image: "./img4.png"
+      image: "./images/img4.png"
     },
     {
       title: "Durga Kavach",
       artist: "Devotional",
-      image: "./img5.png"
+      image: "./images/img5.png"
     }
   ];
   const categoriesTable = (
