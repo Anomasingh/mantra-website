@@ -189,10 +189,11 @@ const MantraDetail = () => {
         
         // Skip words that contain only:
         // - Devanagari punctuation (॥, ।, etc.)
-        // - Numbers (including Devanagari numbers)
+        // - Numbers from all 14 language scripts
         // - Common punctuation marks
         // - Brackets, parentheses, etc.
-        const symbolOnlyRegex = /^[॥।०-९0-9\(\)\[\]\{\}\.,;:!?\-\s"']+$/;
+        // - Verse markers like ॥१॥, ॥൧॥, ॥೧॥, etc.
+        const symbolOnlyRegex = /^[॥।\u0966-\u096F\u09E6-\u09EF\u0A66-\u0A6F\u0AE6-\u0AEF\u0BE6-\u0BEF\u0C66-\u0C6F\u0CE6-\u0CEF\u0D66-\u0D6F\u0660-\u06690-9\(\)\[\]\{\}\.,;:!?\-\s"']+$/;
         
         return !symbolOnlyRegex.test(trimmedWord);
       });
@@ -264,7 +265,9 @@ const MantraDetail = () => {
       const trimmedPart = part.trim();
       if (trimmedPart === '') return null;
       
-      const symbolOnlyRegex = /^[॥।०-९0-9\(\)\[\]\{\}\.,;:!?\-\s"']+$/;
+      // Enhanced regex to detect verse numbers and punctuation symbols
+      // Includes all 14 language script numbers and verse markers
+      const symbolOnlyRegex = /^[॥।\u0966-\u096F\u09E6-\u09EF\u0A66-\u0A6F\u0AE6-\u0AEF\u0BE6-\u0BEF\u0C66-\u0C6F\u0CE6-\u0CEF\u0D66-\u0D6F\u0660-\u06690-9\(\)\[\]\{\}\.,;:!?\-\s"']+$/;
       const isSymbol = symbolOnlyRegex.test(trimmedPart);
       
       if (isSymbol) {
