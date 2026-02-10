@@ -50,9 +50,6 @@ const Header = () => {
           <Link to="/mantras" className="block cursor-pointer hover:opacity-90" onClick={() => setMenuOpen(false)}>
             All Mantras
           </Link>
-          <Link to="/validation" className="block cursor-pointer hover:opacity-90" onClick={() => setMenuOpen(false)}>
-            Validation Dashboard
-          </Link>
           {["Stotra", "Aarti", "Chalisa", "Gods", "Goddesses"].map(
             (item) => (
               <div key={item} className="cursor-pointer hover:opacity-90">
