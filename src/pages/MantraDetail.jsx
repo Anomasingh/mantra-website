@@ -13,6 +13,7 @@ const MantraDetail = () => {
   });
   const [wordToWordData, setWordToWordData] = useState(null);
   const [hoveredWordIndex, setHoveredWordIndex] = useState(null);
+  const [hoveredLineIndex, setHoveredLineIndex] = useState(null);
   const [loading, setLoading] = useState(true);
   const [showTransliteration, setShowTransliteration] = useState(true);
   const [showTranslation, setShowTranslation] = useState(true);
@@ -22,6 +23,27 @@ const MantraDetail = () => {
   const transliterationScrollRef = useRef(null);
   const translationScrollRef = useRef(null);
   const scrollTimeoutRef = useRef(null);
+
+  useEffect(() => {
+    if (hoveredLineIndex === null) return;
+
+    const scrollToLine = (containerRef, lineIndex) => {
+      if (!containerRef.current) return;
+
+      const targetElement = containerRef.current.querySelector(
+        `[data-line-index="${lineIndex}"]`
+      );
+      if (targetElement) {
+        targetElement.scrollIntoView({
+          behavior: 'smooth',
+          block: 'center',
+          inline: 'nearest'
+        });
+      }
+    };
+
+    scrollToLine(translationScrollRef, hoveredLineIndex);
+  }, [hoveredLineIndex]);
 
   useEffect(() => {
   // Load mantras metadata from backend-served assets
@@ -223,7 +245,7 @@ const MantraDetail = () => {
     : [];
 
   // Component for rendering interactive words
-  const InteractiveWord = ({ word, globalWordIndex, meaning, isHighlighted, wordRef }) => (
+  const InteractiveWord = ({ word, globalWordIndex, meaning, isHighlighted, wordRef, lineIndex }) => (
     <span
       ref={wordRef}
       className={`inline-block px-0.5 py-0.5 mx-0 rounded cursor-pointer transition-colors duration-200 ${
@@ -233,9 +255,13 @@ const MantraDetail = () => {
       }`}
       onMouseEnter={() => {
         setHoveredWordIndex(globalWordIndex);
+        setHoveredLineIndex(lineIndex);
         scrollToCorrespondingWords(globalWordIndex);
       }}
-      onMouseLeave={() => setHoveredWordIndex(null)}
+      onMouseLeave={() => {
+        setHoveredWordIndex(null);
+        setHoveredLineIndex(null);
+      }}
       title={meaning}
     >
       {word}
@@ -294,6 +320,7 @@ const MantraDetail = () => {
               globalWordIndex={globalIndex}
               meaning={meaning}
               isHighlighted={hoveredWordIndex === globalIndex}
+              lineIndex={lineIndex}
               wordRef={React.createRef()}
             />
           </span>
@@ -342,7 +369,6 @@ const MantraDetail = () => {
     scrollTimeoutRef.current = setTimeout(() => {
       scrollToWord(originalScrollRef, globalWordIndex);
       scrollToWord(transliterationScrollRef, globalWordIndex);
-      // Removed translation scrolling: scrollToWord(translationScrollRef, globalWordIndex);
     }, 200); // Increased delay for gentler scrolling
   };
 
@@ -361,6 +387,7 @@ const MantraDetail = () => {
       </div>
     );
   }
+
 
   return (
     <div className="bg-[#121212] text-white min-h-screen">
@@ -434,6 +461,7 @@ const MantraDetail = () => {
               </div>
             </div>
 
+
             <div className={`grid gap-6 ${
               !showTransliteration && !showTranslation
                 ? 'grid-cols-1'
@@ -456,6 +484,9 @@ const MantraDetail = () => {
                           <div
                             key={index}
                             className="whitespace-normal hover:bg-gray-800/30 px-2 py-1 rounded transition-all duration-200"
+                            data-line-index={index}
+                            onMouseEnter={() => setHoveredLineIndex(index)}
+                            onMouseLeave={() => setHoveredLineIndex(null)}
                           >
                             {renderLineWithWordsAndSymbols(line, index, originalWordMapping, 'original')}
                           </div>
@@ -465,6 +496,9 @@ const MantraDetail = () => {
                           <div
                             key={index}
                             className="whitespace-normal hover:bg-gray-800/30 px-2 py-1 rounded transition-all duration-200"
+                            data-line-index={index}
+                            onMouseEnter={() => setHoveredLineIndex(index)}
+                            onMouseLeave={() => setHoveredLineIndex(null)}
                           >
                             {line}
                           </div>
@@ -497,6 +531,9 @@ const MantraDetail = () => {
                             <div
                               key={index}
                               className="whitespace-normal hover:bg-gray-800/30 px-2 py-1 rounded transition-all duration-200"
+                              data-line-index={index}
+                              onMouseEnter={() => setHoveredLineIndex(index)}
+                              onMouseLeave={() => setHoveredLineIndex(null)}
                             >
                               {renderLineWithWordsAndSymbols(line, index, transliterationWordMapping, 'transliteration')}
                             </div>
@@ -506,6 +543,9 @@ const MantraDetail = () => {
                             <div
                               key={index}
                               className="whitespace-normal hover:bg-gray-800/30 px-2 py-1 rounded transition-all duration-200"
+                              data-line-index={index}
+                              onMouseEnter={() => setHoveredLineIndex(index)}
+                              onMouseLeave={() => setHoveredLineIndex(null)}
                             >
                               {line}
                             </div>
@@ -538,8 +578,12 @@ const MantraDetail = () => {
                         lyricsData.translation.lyrics.map((line, index) => (
                           <div
                             key={index}
-                            className="whitespace-normal hover:bg-gray-800/30 px-2 py-1 rounded transition-all duration-200"
-                            data-word-index={index}
+                            className={`whitespace-normal px-2 py-1 rounded transition-all duration-200 ${
+                              hoveredLineIndex === index
+                                ? 'bg-orange-500/25'
+                                : 'hover:bg-orange-900/20'
+                            }`}
+                            data-line-index={index}
                           >
                             {line}
                           </div>
