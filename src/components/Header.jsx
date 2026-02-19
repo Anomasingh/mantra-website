@@ -50,6 +50,9 @@ const Header = () => {
           <Link to="/mantras" className="block cursor-pointer hover:opacity-90" onClick={() => setMenuOpen(false)}>
             All Mantras
           </Link>
+          <Link to="/blogs" className="block cursor-pointer hover:opacity-90" onClick={() => setMenuOpen(false)}>
+            Blogs
+          </Link>
           {["Stotra", "Aarti", "Chalisa", "Gods", "Goddesses"].map(
             (item) => (
               <div key={item} className="cursor-pointer hover:opacity-90">
@@ -81,13 +84,13 @@ const Header = () => {
           />
         </div>
         <div>
-          
+
         </div>
 
         {/* Mobile Search Icon */}
         <div className="lg:hidden">
           <button onClick={() => setShowMobileSearch(!showMobileSearch)}>
-           <img src="/images/Search_Bar.png" alt="" />
+            <img src="/images/Search_Bar.png" alt="" />
           </button>
         </div>
       </header>

@@ -4,6 +4,9 @@ import HomePage from './pages/HomePage';
 import MostlySearched from './pages/MostlySearched';
 import MantrasList from './pages/MantrasList';
 import MantraDetail from './pages/MantraDetail';
+import BlogsListing from './components/blogs/BlogsListing';
+import BlogDetail from './components/blogs/BlogDetail';
+
 // import God_Goddess from "./pages/God_Goddess"     // General details view
 function App() {
   return (
@@ -14,6 +17,8 @@ function App() {
           <Route path="mostly-searched" element={<MostlySearched />} />
           <Route path="/mantras" element={<MantrasList />} />
           <Route path="/mantra/:mantraId" element={<MantraDetail />} />
+          <Route path="/blogs" element={<BlogsListing />} />
+          <Route path="/blogs/:id" element={<BlogDetail />} />
           {/* <Route path="/gods/:id" element={<God_Goddess/>} /> */}
         </Route>
       </Routes>
