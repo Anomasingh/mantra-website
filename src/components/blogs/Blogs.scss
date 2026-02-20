@@ -1,0 +1,421 @@
+.app__blogs__section {
+  margin-top: 2rem;
+
+  .blog-slider-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-top: 2rem;
+  }
+
+  .blog-slider-container {
+    width: 100%;
+  }
+
+  .blog-slider {
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    margin: 2rem 0;
+    scroll-snap-type: x mandatory;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  .blog-slider-track {
+    display: flex;
+    width: max-content;
+    gap: 1rem;
+
+    @media screen and (max-width: 768px) {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+  }
+
+  .blog-slider-item-wrapper {
+    flex: 0 0 20rem;
+    scroll-snap-align: start;
+
+    @media screen and (max-width: 1080px) {
+      flex: 0 0 50%;
+    }
+
+    @media screen and (max-width: 768px) {
+      flex: 0 0 calc(100vw - 2rem);
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+  }
+
+  .blog-buffer-card {
+    flex: 0 0 20rem;
+    pointer-events: none;
+    background: transparent;
+  }
+
+  .blog-slider-item {
+    background-color: #1E1E1E;
+    /* Dark Theme Background */
+    border-radius: 20px;
+    border: 1px solid #f9731633;
+    /* Subtle Orange Border */
+    box-shadow: inset 0 0 40px #000000;
+    /* Dark inner shadow */
+    padding: 1.5rem 2rem 1rem;
+    min-height: 400px;
+    max-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    transition: all 0.3s ease;
+    overflow: hidden;
+
+    h2 {
+      margin: 0;
+
+      &:first-of-type {
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 0.4rem;
+        color: #ffffff;
+        /* White title */
+      }
+
+      &:not(:first-of-type) {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 0.6rem;
+        color: #f97316;
+        /* Orange author and date */
+      }
+    }
+
+    .blog-intro-text {
+      font-size: 15px;
+      color: #a1a1aa;
+      /* Light gray */
+      line-height: 1.5;
+      margin-bottom: 0.5rem;
+    }
+
+    .description {
+      font-size: 15px;
+      color: #d4d4d8;
+      /* Off-white / light gray */
+      line-height: 1.5;
+      margin-bottom: 0.5rem;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .readmore-link {
+      margin-top: auto;
+      margin-bottom: 10px;
+      font-size: 0.95rem;
+      color: #f97316;
+      /* Orange link */
+      text-decoration: underline;
+      align-self: flex-start;
+
+      &:hover {
+        text-decoration: none;
+        color: #ea580c;
+        /* Darker orange on hover */
+      }
+    }
+
+    @media screen and (max-width: 500px) {
+      width: 100%;
+      min-height: auto;
+      max-height: none;
+
+      h2 {
+        font-size: 1.1rem;
+      }
+
+      .blog-intro-text,
+      .description {
+        font-size: 0.9rem;
+      }
+
+      .readmore-link {
+        font-size: 0.85rem;
+      }
+    }
+  }
+
+  .blog-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    margin-top: 2rem;
+
+    button {
+      background: none;
+      border: none;
+      cursor: pointer;
+
+      .blog-slider-arrow {
+        color: #f97316;
+        /* Orange Arrows */
+        width: 44px;
+        height: 44px;
+        transition: color 0.3s ease;
+
+        &:hover {
+          color: #ea580c;
+        }
+      }
+
+      &:disabled .blog-slider-arrow {
+        color: #3f3f46;
+        /* Gray out when disabled */
+      }
+    }
+  }
+}
+
+/* Blog Detail Layout */
+.blog-detail-wrapper {
+  margin-top: 2rem;
+
+  h1.blog-title {
+    font-size: 2.6rem;
+    color: #ffffff;
+    /* White title */
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+
+    @media screen and (max-width: 600px) {
+      font-size: 2rem;
+    }
+  }
+
+  h2.main-line {
+    font-size: 1.2rem;
+    color: #a1a1aa;
+    /* Light gray */
+    font-weight: 500;
+    margin-bottom: 1rem;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid #3f3f46;
+    /* Dark gray line */
+    margin: 1.5rem 0;
+  }
+
+  section.blog-section {
+    margin-bottom: 2.5rem;
+
+    .intro-paragraph {
+      font-size: 15.5px;
+      line-height: 1.7;
+      margin-bottom: 1.2rem;
+      color: #d4d4d8;
+      /* Light gray text */
+
+      strong {
+        font-weight: 600;
+        color: #f97316;
+        /* Orange emphasis text */
+        background-color: transparent;
+      }
+    }
+
+    .blog-point-block {
+      margin-bottom: 2rem;
+      scroll-margin-top: 7rem;
+
+      .section-heading {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: #ffffff;
+        /* White subheadings */
+        margin-bottom: 0.4rem;
+        position: relative;
+
+        &::before {
+          content: "• ";
+          color: #f97316;
+          /* Orange bullet point */
+          font-weight: bold;
+          margin-right: 0.3rem;
+        }
+      }
+
+      .section-content {
+        margin-top: 0.5rem;
+
+        p {
+          font-size: 15.5px;
+          color: #d4d4d8;
+          line-height: 1.7;
+          margin-bottom: 0.8rem;
+
+          strong {
+            font-weight: 600;
+            color: #f97316;
+            background-color: transparent;
+          }
+        }
+
+        li {
+          font-size: 15px;
+          color: #d4d4d8;
+          line-height: 1.6;
+          margin-left: 1.5rem;
+          margin-bottom: 0.5rem;
+          list-style-type: disc;
+
+          strong {
+            font-weight: 600;
+            color: #f97316;
+            background-color: transparent;
+          }
+        }
+      }
+    }
+  }
+}
+
+.blog-detail-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2.5rem;
+  flex-wrap: nowrap;
+
+  @media screen and (max-width: 900px) {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .blog-detail-content {
+    flex: 0 0 68%;
+    min-width: 300px;
+
+    @media screen and (max-width: 900px) {
+      width: 100%;
+    }
+  }
+
+  .blog-right-panel {
+    flex: 0 0 30%;
+    min-width: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+
+    .toc-wrapper {
+      position: relative;
+      max-height: calc(100vh - 14rem);
+      overflow: visible;
+    }
+
+    .blog-toc-card {
+      position: sticky;
+      top: 2rem;
+      max-height: calc(100vh - 16rem);
+      overflow-y: auto;
+      background-color: #1E1E1E;
+      /* Dark TOC Box */
+      border: 1px solid #3f3f46;
+      /* Dark gray border */
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+      /* Shadow for depth */
+      border-radius: 10px;
+      padding: 1.5rem 1.8rem;
+      width: 100%;
+      z-index: 2;
+
+      &::-webkit-scrollbar {
+        width: 6px;
+      }
+
+      &::-webkit-scrollbar-thumb {
+        background-color: #52525b;
+        border-radius: 4px;
+      }
+
+      h3 {
+        font-size: 19px;
+        margin-bottom: 1rem;
+        font-weight: 600;
+        color: #f97316;
+        /* Orange TOC Heading */
+      }
+
+      ul {
+        padding-left: 1.2rem;
+        margin: 0;
+
+        .toc-item {
+          font-size: 15px;
+          line-height: 2.2;
+          color: #d4d4d8;
+
+          a {
+            color: #d4d4d8;
+            text-decoration: none;
+            transition: color 0.2s ease;
+
+            &:hover {
+              color: #f97316;
+              /* Turn orange on hover */
+              text-decoration: underline;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.tags-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.8rem 0;
+
+  .tag-card {
+    display: inline-block;
+    font-size: 12px;
+    padding: 0.3rem 0.6rem;
+    background-color: #27272a;
+    /* Dark gray background */
+    border: 1px solid #3f3f46;
+    /* Subtle dark border */
+    border-radius: 6px;
+    color: #f97316;
+    /* Orange text */
+    white-space: nowrap;
+
+    /* Highlighted Domain Tag */
+    &.domain {
+      background-color: #f97316;
+      /* Solid orange background */
+      border-color: #ea580c;
+      color: #ffffff;
+      /* White text */
+      font-weight: 600;
+      font-size: 12.5px;
+      letter-spacing: 0.3px;
+
+      &::before {
+        content: '📜 ';
+        margin-right: 4px;
+      }
+    }
+  }
+}
