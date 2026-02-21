@@ -67,8 +67,8 @@ const BlogsListing = () => {
     };
 
     return (
-        <section className="app__wrapper mt-2 md:mt-10" aria-label="Blog posts">
-            <h1 className="h1-text text-center text-3xl font-bold text-[#080061] mb-6">Mantra Foundations</h1>
+        <section className="app__wrapper mt-4 px-4 md:px-8" aria-label="Blog posts">
+            <h1 className="h1-text text-center text-2xl md:text-3xl font-bold text-white mb-4">Mantra Foundations</h1>
             <div className="app__blogs__section">
                 <motion.div
                     whileInView={{ y: [100, 50, 0], opacity: [0, 0, 1] }}
@@ -116,7 +116,7 @@ function BlogCard({ post }) {
     return (
         <div className={`blog-slider-item ${isTall ? 'tall-card' : ''}`}>
             <h2 className="bold-text">{post.title}</h2>
-            <h2 className="p-text text-[#080061]">
+            <h2 className="p-text text-orange-500">
                 {post.author} • {post.date}
             </h2>
             <p className="blog-intro-text italic">{post.intro}</p>
