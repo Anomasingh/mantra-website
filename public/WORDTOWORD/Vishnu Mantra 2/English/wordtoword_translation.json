@@ -1,23 +1,8 @@
-﻿{
-    "lines":  [
-                  "You alone",
-                  "Mother",
-                  "and",
-                  "Father",
-                  "You alone",
-                  "You alone",
-                  "Relative",
-                  "and",
-                  "Friend",
-                  "You alone",
-                  "You alone",
-                  "Knowledge",
-                  "Wealth",
-                  "You alone",
-                  "You alone",
-                  "All",
-                  "Mine",
-                  "God",
-                  "God"
-              ]
+{
+  "lines": [
+    "You alone", "mother", "and", "father", "you alone",
+    "You alone", "relative", "friend", "you alone",
+    "You alone", "knowledge", "wealth", "you alone",
+    "You alone", "everything", "my", "O God", "of gods"
+  ]
 }

@@ -1,23 +1,8 @@
-﻿{
-    "lines":  [
-                  "Nur du",
-                  "Mutter",
-                  "und",
-                  "Vater",
-                  "Nur du",
-                  "Nur du",
-                  "Verwandter",
-                  "und",
-                  "Freund",
-                  "Nur du",
-                  "Nur du",
-                  "Wissen",
-                  "Reichtum",
-                  "Nur du",
-                  "Nur du",
-                  "Alles",
-                  "Mein",
-                  "Gott",
-                  "Gott"
-              ]
+{
+  "lines": [
+    "Du allein", "Mutter", "und", "Vater", "du allein",
+    "Du allein", "Verwandter", "Freund", "du allein",
+    "Du allein", "Wissen", "Besitz", "du allein",
+    "Du allein", "alles", "mein", "O Gott", "der Götter"
+  ]
 }

@@ -23,6 +23,7 @@ const MantraDetail = () => {
   const transliterationScrollRef = useRef(null);
   const translationScrollRef = useRef(null);
   const scrollTimeoutRef = useRef(null);
+  const activePanelRef = useRef(null);
 
   useEffect(() => {
     if (hoveredLineIndex === null) return;
@@ -42,7 +43,9 @@ const MantraDetail = () => {
       }
     };
 
-    scrollToLine(translationScrollRef, hoveredLineIndex);
+    if (activePanelRef.current !== 'translation') {
+      scrollToLine(translationScrollRef, hoveredLineIndex);
+    }
   }, [hoveredLineIndex]);
 
   useEffect(() => {
@@ -367,8 +370,12 @@ const MantraDetail = () => {
 
     // Debounced scroll with longer delay for gentler experience
     scrollTimeoutRef.current = setTimeout(() => {
-      scrollToWord(originalScrollRef, globalWordIndex);
-      scrollToWord(transliterationScrollRef, globalWordIndex);
+      if (activePanelRef.current !== 'original') {
+        scrollToWord(originalScrollRef, globalWordIndex);
+      }
+      if (activePanelRef.current !== 'transliteration') {
+        scrollToWord(transliterationScrollRef, globalWordIndex);
+      }
     }, 200); // Increased delay for gentler scrolling
   };
 
@@ -477,7 +484,16 @@ const MantraDetail = () => {
                     Convert to original
                   </button>
                 </div>
-                <div className="h-88 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-600 scrollbar-track-gray-800 pr-2" ref={originalScrollRef}>
+                <div
+                  className="h-88 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-600 scrollbar-track-gray-800 pr-2"
+                  ref={originalScrollRef}
+                  onMouseEnter={() => {
+                    activePanelRef.current = 'original';
+                  }}
+                  onMouseLeave={() => {
+                    activePanelRef.current = null;
+                  }}
+                >
                   <div className="space-y-0.5 text-orange-300 text-sm leading-relaxed">
                     {Array.isArray(lyricsData.original?.lyrics) && wordToWordData
                       ? lyricsData.original.lyrics.map((line, index) => (
@@ -524,7 +540,16 @@ const MantraDetail = () => {
                       ))}
                     </select>
                   </div>
-                  <div className="h-88 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-600 scrollbar-track-gray-800 pr-2" ref={transliterationScrollRef}>
+                  <div
+                    className="h-88 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-600 scrollbar-track-gray-800 pr-2"
+                    ref={transliterationScrollRef}
+                    onMouseEnter={() => {
+                      activePanelRef.current = 'transliteration';
+                    }}
+                    onMouseLeave={() => {
+                      activePanelRef.current = null;
+                    }}
+                  >
                     <div className="space-y-0.5 text-white text-sm leading-relaxed">
                       {Array.isArray(lyricsData.transliteration?.lyrics) && wordToWordData
                         ? lyricsData.transliteration.lyrics.map((line, index) => (
@@ -572,7 +597,16 @@ const MantraDetail = () => {
                       ))}
                     </select>
                   </div>
-                  <div className="h-88 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-600 scrollbar-track-gray-800 pr-2" ref={translationScrollRef}>
+                  <div
+                    className="h-88 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-600 scrollbar-track-gray-800 pr-2"
+                    ref={translationScrollRef}
+                    onMouseEnter={() => {
+                      activePanelRef.current = 'translation';
+                    }}
+                    onMouseLeave={() => {
+                      activePanelRef.current = null;
+                    }}
+                  >
                     <div className="space-y-0.5 text-white text-sm leading-relaxed">
                       {Array.isArray(lyricsData.translation?.lyrics) &&
                         lyricsData.translation.lyrics.map((line, index) => (
@@ -595,10 +629,6 @@ const MantraDetail = () => {
             </div>
           </div>
 
-          {/* Ads */}
-          <div className="bg-[#1E1E1E] rounded-lg p-8 mt-6 text-center text-gray-400">
-            Ads Space
-          </div>
         </div>
 
         {/* Sidebar */}
@@ -629,10 +659,6 @@ const MantraDetail = () => {
                 </div>
               ))}
             </div>
-          </div>
-
-          <div className="bg-[#1E1E1E] rounded-lg p-8 mt-6 text-center text-gray-400">
-            Ads Space
           </div>
         </div>
       </div>

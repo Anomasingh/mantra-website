@@ -8,7 +8,7 @@ const MainLayout = () => {
       <header className="fixed top-0 left-0 w-full z-50">
         <Header />
       </header>
-      <main className="pt-[70px]">
+      <main className="pt-[70px] overscroll-contain">
         <Outlet />
       </main>
       <footer className='bottom-0 '>
