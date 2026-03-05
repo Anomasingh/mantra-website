@@ -53,9 +53,6 @@ const Header = () => {
           <Link to="/blogs" className="block cursor-pointer hover:opacity-90" onClick={() => setMenuOpen(false)}>
             Blogs
           </Link>
-          <Link to="/validation" className="block cursor-pointer hover:opacity-90 text-orange-300" onClick={() => setMenuOpen(false)}>
-            Validator Tool
-          </Link>
           {["Stotra", "Aarti", "Chalisa", "Gods", "Goddesses"].map(
             (item) => (
               <div key={item} className="cursor-pointer hover:opacity-90">
