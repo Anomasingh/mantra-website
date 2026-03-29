@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import SquareMantraImage from '../components/SquareMantraImage';
 
 const MantrasList = () => {
   const [mantras, setMantras] = useState([]);
@@ -39,11 +40,11 @@ const MantrasList = () => {
               className="bg-[#1E1E1E] rounded-lg p-6 hover:bg-[#2A2A2A] transition-colors duration-200 border border-[#383838]"
             >
               <div className="flex items-center space-x-4">
-                <div className="bg-gradient-to-br from-orange-400 to-orange-600 rounded-lg p-3 flex-shrink-0">
-                  <span className="text-white font-bold text-lg">
-                    {index + 1}
-                  </span>
-                </div>
+                <SquareMantraImage
+                  mantraName={mantra.name}
+                  alt={mantra.name}
+                  className="w-14 h-14 flex-shrink-0"
+                />
                 
                 <div className="flex-1">
                   <h3 className="text-lg font-semibold text-white mb-2">

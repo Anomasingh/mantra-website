@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useParams } from 'react-router-dom';
+import SquareMantraImage from '../components/SquareMantraImage';
 
 const MantraDetail = () => {
   const { mantraId } = useParams();
@@ -402,13 +403,11 @@ const MantraDetail = () => {
       <div className="bg-gradient-to-r from-orange-500 to-orange-600 py-6 px-12">
         <div className="max-w-7xl mx-auto flex items-center space-x-6">
           <div className="bg-white/20 rounded-lg p-4">
-            <img
-              src="/Hanuman.png"
+            <SquareMantraImage
+              mantraName={mantraInfo.name}
               alt={mantraInfo.name}
-              className="w-20 h-20 object-cover rounded"
-              onError={(e) => {
-                e.target.src = '/img1.png';
-              }}
+              className="w-20 h-20"
+              fallbackSrc="/images/HANUMAN%20CHALISA.png"
             />
           </div>
           <div>
@@ -642,10 +641,11 @@ const MantraDetail = () => {
                 { name: "Gayatri Mantra", artist: "Gayatri Mata" }
               ].map((item, index) => (
                 <div key={index} className="flex items-center space-x-3">
-                  <img
-                    src="/img1.png"
+                  <SquareMantraImage
+                    mantraName={item.name}
                     alt={item.name}
-                    className="w-12 h-12 rounded object-cover"
+                    className="w-12 h-12"
+                    fallbackSrc="/images/HANUMAN%20CHALISA.png"
                   />
                   <div>
                     <div className="text-white text-sm font-medium">

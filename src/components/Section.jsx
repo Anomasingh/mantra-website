@@ -1,3 +1,5 @@
+import SquareMantraImage from "./SquareMantraImage";
+
 const Section = ({ title, items, circle = false, artistDisable = false, topContent, hide = false }) => (
   <div className="mt-10 px-4 md:px-10 lg:px-20 md:-mr-2">
     {/* Header */}
@@ -16,10 +18,12 @@ const Section = ({ title, items, circle = false, artistDisable = false, topConte
     <div className="flex overflow-x-auto gap-3 sm:gap-4 md:gap-3 lg:gap-4 xl:gap-6 pb-2 scroll-smooth whitespace-nowrap scrollbar-hide">
       {items.map((item, idx) => (
         <div key={idx} className="max-w-[200px] text-center flex-shrink-0">
-          <img
-            src={item.image}
+          <SquareMantraImage
+            mantraName={item.title}
             alt={item.title}
-            className={`w-30 h-30 sm:w-30 sm:h-30 md:w-38 md:h-38 object-cover ${circle ? "rounded-full" : "rounded-lg"}`}
+            className="w-30 h-30 sm:w-30 sm:h-30 md:w-38 md:h-38"
+            circle={circle}
+            fallbackSrc={item.image}
           />
           <p className="mt-2 text-sm">
             {item.title
