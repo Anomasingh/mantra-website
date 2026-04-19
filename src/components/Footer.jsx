@@ -7,15 +7,9 @@ const Footer = () => {
     <footer className="bg-[#121212] border-t border-t-[#272727] text-white px-4 py-6 pt-4 text-center text-sm mx-20">
       
       <div className="flex flex-col lg:flex-row justify-between items-center max-w-6xl mx-auto gap-2 ">
-      <div className="justify-center md:hidden">
-          <img src="./MantraSpirit.png" alt="MantraSpirit Logo" />
-      </div>
         <p>
           © {currentYear} MantraSpirit | <span className="font-semibold">All Rights Reserved.</span>
         </p>
-        <div className="hidden md:block">
-          <img src="./MantraSpirit.png" alt="MantraSpirit Logo" />
-        </div>
         <div className="space-x-4">
           <a href="#" className="hover:text-orange-400">Privacy Policy</a>
           <span>|</span>
