@@ -1,7 +1,7 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { motion } from 'framer-motion';
 import { MdArrowCircleLeft, MdArrowCircleRight } from 'react-icons/md';
-import { Link } from 'react-router-dom';
+import { Link, useSearchParams } from 'react-router-dom';
 import { blogPosts } from './Blogs'; // Imports the massive data file we just made
 import './Blogs.scss';
 
@@ -9,7 +9,31 @@ const BlogsListing = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [visibleItems, setVisibleItems] = useState(getVisibleItems());
     const [scrollStep, setScrollStep] = useState(0);
+    const [searchParams] = useSearchParams();
     const trackRef = useRef(null);
+    const searchQuery = searchParams.get('q') || '';
+
+    // Filter blog posts based on search query
+    const filteredBlogPosts = useMemo(() => {
+        if (!searchQuery.trim()) {
+            return blogPosts;
+        }
+        
+        const normalizedQuery = searchQuery.toLowerCase();
+        return blogPosts.filter((post) => {
+            const searchableText = [
+                post.title,
+                post.author,
+                post.intro,
+                post.description
+            ]
+                .filter(Boolean)
+                .join(' ')
+                .toLowerCase();
+            
+            return searchableText.includes(normalizedQuery);
+        });
+    }, [searchQuery]);
 
     function getVisibleItems() {
         const width = window.innerWidth;
@@ -77,7 +101,7 @@ const BlogsListing = () => {
                     <div className="blog-slider-container">
                         <div className="blog-slider" ref={trackRef}>
                             <div className="blog-slider-track">
-                                {blogPosts.map((post) => (
+                                {filteredBlogPosts.map((post) => (
                                     <div className="blog-slider-item-wrapper" key={post.id}>
                                         <BlogCard post={post} />
                                     </div>
@@ -93,7 +117,7 @@ const BlogsListing = () => {
                         </button>
                         <button
                             onClick={handleNext}
-                            disabled={currentIndex >= blogPosts.length - visibleItems}
+                            disabled={currentIndex >= filteredBlogPosts.length - visibleItems}
                         >
                             <MdArrowCircleRight className="blog-slider-arrow" />
                         </button>
@@ -121,7 +145,7 @@ function BlogCard({ post }) {
             </h2>
             <p className="blog-intro-text italic">{post.intro}</p>
             <p className="description">{firstParagraph}</p>
-            <Link to={`/blogs/${post.id}`} className="readmore-link">
+            <Link to={`/blogs/${post.slug}`} className="readmore-link">
                 Read More
             </Link>
         </div>

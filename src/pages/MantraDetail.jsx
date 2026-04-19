@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useParams } from 'react-router-dom';
 import SquareMantraImage from '../components/SquareMantraImage';
+import Sidebar from '../components/Sidebar';
 
 const MantraDetail = () => {
   const { mantraId } = useParams();
@@ -25,6 +26,10 @@ const MantraDetail = () => {
   const translationScrollRef = useRef(null);
   const scrollTimeoutRef = useRef(null);
   const activePanelRef = useRef(null);
+
+  useEffect(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+  }, [mantraId]);
 
   useEffect(() => {
     if (hoveredLineIndex === null) return;
@@ -400,40 +405,41 @@ const MantraDetail = () => {
   return (
     <div className="bg-[#121212] text-white min-h-screen">
       {/* Header */}
-      <div className="bg-gradient-to-r from-orange-500 to-orange-600 py-6 px-12">
-        <div className="max-w-7xl mx-auto flex items-center space-x-6">
-          <div className="bg-white/20 rounded-lg p-4">
+      <div className="bg-gradient-to-r from-orange-500 to-orange-600 py-4 md:py-6 px-3 md:px-4 lg:px-6">
+        <div className="w-full flex items-center space-x-4 md:space-x-6">
+          <div className="bg-white/20 rounded-lg p-3 md:p-4">
             <SquareMantraImage
               mantraName={mantraInfo.name}
               alt={mantraInfo.name}
-              className="w-20 h-20"
+              className="w-16 md:w-20 h-16 md:h-20"
               fallbackSrc="/images/HANUMAN%20CHALISA.png"
             />
           </div>
           <div>
-            <div className="text-orange-200 text-sm mb-1">Ajay Bhushan</div>
-            <h1 className="text-3xl font-bold text-white">
+            <div className="text-orange-200 text-xs md:text-sm mb-1">Ajay Bhushan</div>
+            <h1 className="text-2xl md:text-3xl font-bold text-white">
               {mantraInfo.name
                 .replace(/_/g, ' ')
                 .split(' ')
                 .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
                 .join(' ')}
             </h1>
-            <div className="text-orange-200 text-sm mt-1">
+            <div className="text-orange-200 text-xs md:text-sm mt-1">
               Song • Hindi • 2023 • 2.58 mins
             </div>
           </div>
         </div>
       </div>
 
-      <div className="container mx-auto p-6 flex gap-8">
+      <div className="w-full px-3 md:px-4 lg:px-6 py-4 md:py-6">
+        <div className="grid grid-cols-1 lg:grid-cols-[2.4fr_0.9fr] xl:grid-cols-[2.8fr_0.85fr] gap-4 md:gap-6 items-start">
         {/* Main Content */}
-        <div className="flex-1">
+        <div className="min-w-0">
           {/* Audio Controls */}
-          <div className="bg-[#1E1E1E] rounded-lg p-6 mb-6">
-            <div className="flex items-center justify-between">
-              <h3 className="text-lg font-semibold text-white">Original Audio</h3>
-              <div className="flex items-center gap-2">
+          <div className="bg-[#1E1E1E] rounded-lg p-4 md:p-6 mb-4 md:mb-6">
+            <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-3 md:gap-0">
+              <h3 className="text-base md:text-lg font-semibold text-white">Original Audio</h3>
+              <div className="flex flex-wrap items-center gap-2">
                 <button
                   onClick={() => setShowTransliteration(!showTransliteration)}
                   className="bg-[#3A3A3A] text-gray-300 px-3 py-1 rounded-full text-xs hover:bg-[#4A4A4A] transition-colors flex items-center gap-1"
@@ -473,7 +479,7 @@ const MantraDetail = () => {
                 ? 'grid-cols-1'
                 : !showTransliteration || !showTranslation
                 ? 'grid-cols-1 lg:grid-cols-2'
-                : 'grid-cols-1 lg:grid-cols-3'
+                : 'grid-cols-1 lg:grid-cols-2 xl:grid-cols-3'
             }`}>
               {/* Original */}
               <div className="bg-[#2A2A2A] rounded-lg p-4">
@@ -631,35 +637,9 @@ const MantraDetail = () => {
         </div>
 
         {/* Sidebar */}
-        <div className="w-64">
-          <div className="bg-[#1E1E1E] rounded-lg p-6">
-            <h3 className="text-lg font-semibold mb-4">Mostly Searched</h3>
-            <div className="space-y-3">
-              {[
-                { name: "Mahamrityunjay Mantra", artist: "Sanskrit" },
-                { name: "Hanuman Chalisa", artist: "Hanuman" },
-                { name: "Gayatri Mantra", artist: "Gayatri Mata" }
-              ].map((item, index) => (
-                <div key={index} className="flex items-center space-x-3">
-                  <SquareMantraImage
-                    mantraName={item.name}
-                    alt={item.name}
-                    className="w-12 h-12"
-                    fallbackSrc="/images/HANUMAN%20CHALISA.png"
-                  />
-                  <div>
-                    <div className="text-white text-sm font-medium">
-                      {item.name
-                        .split(' ')
-                        .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-                        .join(' ')}
-                    </div>
-                    <div className="text-gray-400 text-xs">{item.artist}</div>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
+        <div className="min-w-0">
+          <Sidebar showHomeButton={false} showAds={false} fluid compact className="mt-0" />
+        </div>
         </div>
       </div>
     </div>

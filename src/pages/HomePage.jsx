@@ -1,54 +1,42 @@
-import React from "react";
+import React, { useMemo } from "react";
 import Section from "../components/Section";
 import Sidebar from '../components/Sidebar';
 import Slideshow from "../components/Slideshow";
+import CategoryFilterBar from "../components/CategoryFilterBar";
+import { getMantraPathByTitle } from "../data/mantraCatalog";
+import { HOME_FEATURED_MANTRAS } from "../data/featuredMantras";
+import { useSearchParams } from "react-router-dom";
 
 const HomePage = () => {
-  const cards = [
-    {
-      title: "Hanuman Chalisa",
-      artist: "Geeta Rabari",
-      image: "/images/HANUMAN%20CHALISA.png"
-    },
-    {
-      title: "Mahamrityunjai Mantra",
-      artist: "Shankar Mahadevan",
-      image: "/images/MAHAMRITYUNJAI%20MANTRA.png"
-    },
-    {
-      title: "Gayatri Mantra",
-      artist: "Anuradha Paudwal",
-      image: "/images/GAYATRI%20MANTRA.png"
-    },
-    {
-      title: "Shiv Tandav Stotra",
-      artist: "Sanskrit",
-      image: "/images/SHIV%20TANDAV%20STOTRA.png"
-    },
-    {
-      title: "Durga Mantra 1",
-      artist: "Devotional",
-      image: "/images/DURGA%20MANTRA%201.png"
-    }
-  ];
+  const [searchParams] = useSearchParams();
+  const searchQuery = searchParams.get('q') || '';
+
   const categoriesTable = (
-    <div className="overflow-x-auto scrollbar-hide -mx-4 px-4 scroll-smooth">
-      <div className="flex gap-3 pb-4 w-max">
-        {["Mantra", "Stotra", "Aarti", "Chalisa", "Gods", "Goddesses"].map((item, idx) => (
-          <div
-            key={idx}
-            className="mb-4 md:gap-4 text-sm md:text-sm font-semibold tracking-wide px-6 md:px-7 py-2 
-                       rounded-full cursor-pointer whitespace-nowrap
-                       text-white border border-[#383838]
-                       hover:text-[#FF9256] transition"
-          >
-            {item}
-          </div>
-        ))}
-      </div>
-    </div>
+    <CategoryFilterBar useLinks />
   );
+
+  const getHomeMantraLink = (item) => getMantraPathByTitle(item?.title);
   
+  // Filter featured mantras based on search query
+  const filteredMantras = useMemo(() => {
+    if (!searchQuery.trim()) {
+      return HOME_FEATURED_MANTRAS;
+    }
+    
+    const normalizedQuery = searchQuery.toLowerCase();
+    return HOME_FEATURED_MANTRAS.filter((item) => {
+      const searchableText = [
+        item.title,
+        item.artist,
+        item.category || ''
+      ]
+        .filter(Boolean)
+        .join(' ')
+        .toLowerCase();
+      
+      return searchableText.includes(normalizedQuery);
+    });
+  }, [searchQuery]);
 
   return (
     <div className="bg-[#121212] text-white">
@@ -58,11 +46,12 @@ const HomePage = () => {
         <div className="flex-1">
           <Section 
             title="Mostly Searched" 
-            items={cards} 
+            items={filteredMantras} 
             topContent={categoriesTable}
+            getItemLink={getHomeMantraLink}
           />
-          <Section title="Most Famous" items={cards} artistDisable />
-          <Section title="Gods/Goddesses" items={cards} artistDisable circle />
+          <Section title="Most Famous" items={filteredMantras} artistDisable getItemLink={getHomeMantraLink} />
+          <Section title="Gods/Goddesses" items={filteredMantras} artistDisable circle getItemLink={getHomeMantraLink} />
           <div className="w-full md:w-5/6 mx-2 lg:ml-20 lg:mr-40 text-center py-20 bg-[#1E1E1E] text-gray-400 my-5">Ads Space</div>
         </div>
         <div>

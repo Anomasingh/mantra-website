@@ -4,8 +4,8 @@ import { blogPosts } from './Blogs';
 import { useState } from 'react';
 
 const BlogDetail = () => {
-    const { id } = useParams();
-    const blog = blogPosts.find((post) => post.id === Number(id));
+    const { slug } = useParams();
+    const blog = blogPosts.find((post) => post.slug === slug);
     const [activeSection, setActiveSection] = useState(null);
 
     if (!blog) return <p className="text-white p-10">Blog not found.</p>;
@@ -113,7 +113,7 @@ const BlogDetail = () => {
                                 {relatedPosts.map(p => (
                                     <Link
                                         key={p.id}
-                                        to={`/blogs/${p.id}`}
+                                        to={`/blogs/${p.slug}`}
                                         className="block text-sm mb-2 text-orange-500 hover:text-orange-400 transition-colors"
                                     >
                                         • {p.title}

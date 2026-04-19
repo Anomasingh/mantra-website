@@ -1,44 +1,42 @@
 import { Link } from 'react-router-dom';
-import SquareMantraImage from './SquareMantraImage';
+import { useLocation } from 'react-router-dom';
+import MostlySearchedList from './MostlySearchedList';
 
-const Sidebar = () => (
-  <div className="flex flex-col items-center gap-4 px-4 lg:-ml-8 mt-5 lg:mt-20 lg:mr-10">
-    {/* Mostly Searched */}
-    <div className="bg-[#1E1E1E] text-white rounded-[12px] p-6 space-y-6 w-full lg:w-80">
-      <div>
-        <h2 className="text-lg font-semibold mb-4">Mostly Searched</h2>
-        <div className="space-y-4 max-h-[554px] overflow-y-auto pr-1">
-          {[
-            { title: "Mahamrityunjai Mantra", artist: "Shankar" },
-            { title: "Mahamrityunjai Mantra", artist: "Shankar" },
-            { title: "Hanuman Chalisa", artist: "Hanuman" },
-            { title: "Hanuman Chalisa", artist: "Hanuman" },
-            { title: "Gayatri Mantra", artist: "Gayatri Maa" },
-            { title: "Gayatri Mantra", artist: "Gayatri Maa" },
-          ].map((item, index) => (
-            <Link to="/mostly-searched" key={index}>
-              <div className="flex items-start gap-3 cursor-pointer hover:bg-[#2A2A2A] p-2 rounded-md">
-                <SquareMantraImage
-                  mantraName={item.title}
-                  alt={item.title}
-                  className="w-12 h-12"
-                />
-                <div>
-                  <p className="text-sm font-medium leading-tight">{item.title}</p>
-                  <p className="text-xs text-orange-400">{item.artist}</p>
-                </div>
-              </div>
-            </Link>
-          ))}
-        </div>
+const Sidebar = ({ showHomeButton = true, showAds = true, fluid = false, compact = false, className = '' }) => {
+  const { pathname } = useLocation();
+  const isHomePage = pathname === '/';
+  const shouldShowHomeButton = showHomeButton && !isHomePage;
+  const panelWidthClass = fluid ? 'w-full' : 'w-full lg:w-80';
+  const wrapperClasses = fluid
+    ? `flex flex-col gap-4 w-full ${className}`
+    : `flex flex-col items-center gap-4 px-4 lg:-ml-8 mt-5 lg:mt-20 lg:mr-10 ${className}`;
+
+  return (
+  <div className={wrapperClasses}>
+    {shouldShowHomeButton && (
+      <div className={`bg-[#1E1E1E] text-white rounded-[12px] ${compact ? 'p-3' : 'p-4'} ${panelWidthClass}`}>
+        <Link
+          to="/"
+          className="block w-full text-center bg-[#2A2A2A] hover:bg-[#FF9256] transition-colors rounded-md py-2 text-sm font-medium"
+        >
+          Home
+        </Link>
       </div>
+    )}
+
+    {/* Mostly Searched */}
+    <div className={`bg-[#1E1E1E] text-white rounded-[12px] ${compact ? 'p-4 space-y-4' : 'p-6 space-y-6'} ${panelWidthClass}`}>
+      <MostlySearchedList />
     </div>
 
     {/* Ads Section */}
-    <div className="bg-[#2B2B2B] flex items-center mt-10 justify-center w-full lg:w-80 h-100">
-      <span className="text-sm text-center leading-snug">Ads<br />Space</span>
-    </div>
+    {showAds && (
+      <div className={`bg-[#2B2B2B] flex items-center mt-10 justify-center h-100 ${panelWidthClass}`}>
+        <span className="text-sm text-center leading-snug">Ads<br />Space</span>
+      </div>
+    )}
   </div>
-);
+  );
+};
 
 export default Sidebar;
