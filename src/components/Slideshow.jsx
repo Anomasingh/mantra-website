@@ -66,7 +66,7 @@ const Slideshow = () => (
             </div>
   
             {/* Universal Image with Circular Frame */}
-            <div className="z-20 pl-2 md:pl-4 pr-6 md:pr-16 w-full md:w-auto flex items-center justify-center py-6 md:py-0">
+            <div className="z-20 pl-2 md:pl-4 pr-12 md:pr-32 w-full md:w-auto flex items-center justify-center py-6 md:py-0">
               <img
                 src="/images/Om1-Desktop.jpg"
                 alt="Sacred Om Symbol"
