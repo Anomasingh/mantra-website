@@ -505,9 +505,6 @@ const MantraDetail = () => {
                 .join(' ')}
             </h1>
             <p className="text-orange-100 text-sm md:text-base mt-2 max-w-2xl">{contentSections.intro || seoMeta.tagline}</p>
-            <div className="text-orange-200 text-xs md:text-sm mt-1">
-              Song • Hindi • 2023 • 2.58 mins
-            </div>
           </div>
         </div>
       </div>
