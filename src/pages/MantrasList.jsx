@@ -1,14 +1,17 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { Link, useParams, useSearchParams } from 'react-router-dom';
+import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { FiArrowRight } from 'react-icons/fi';
 import CategoryFilterBar from '../components/CategoryFilterBar';
 import SquareMantraImage from '../components/SquareMantraImage';
 import {
+  createCategoryPath,
   filterMantrasByCategory,
   getCategoryLabel,
+  getMantraPathByMeta,
   normalizeCategoryValue,
   resolveMantraMeta
 } from '../data/mantraCatalog';
+import { buildCategorySeo, buildMantrasListingSeo, Seo } from '../seo';
 
 const formatMantraTitle = (value = '') =>
   value
@@ -23,7 +26,7 @@ const MantraCard = ({ mantra }) => {
 
   return (
     <Link
-      to={`/mantra/${mantra.id}`}
+      to={getMantraPathByMeta(mantra)}
       className="group relative block cursor-pointer overflow-hidden rounded-2xl border border-white/10 bg-gradient-to-b from-[#2A2A2A] to-[#1A1A1A] p-4 transition duration-200 hover:scale-[1.015] hover:border-[#FF9256]/50 hover:shadow-[0_0_0_1px_rgba(255,146,86,0.12),0_16px_32px_rgba(0,0,0,0.34)]"
     >
       <span
@@ -88,11 +91,12 @@ const MantrasList = () => {
   const [mantras, setMantras] = useState([]);
   const [loading, setLoading] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState('all');
-  const [searchParams, setSearchParams] = useSearchParams();
+  const [searchParams] = useSearchParams();
+  const navigate = useNavigate();
   const { type } = useParams();
   const searchQuery = searchParams.get('q') || '';
 
-  const routeCategory = normalizeCategoryValue(searchParams.get('category') || type || 'all');
+  const routeCategory = normalizeCategoryValue(type || 'all');
 
   useEffect(() => {
     fetch('/mantrasData.json')
@@ -120,15 +124,13 @@ const MantrasList = () => {
     const nextCategory = normalizeCategoryValue(category);
     setSelectedCategory(nextCategory);
 
-    const newParams = new URLSearchParams(searchParams);
-    
-    if (nextCategory === 'all') {
-      newParams.delete('category');
-    } else {
-      newParams.set('category', nextCategory);
+    const nextPath = createCategoryPath(nextCategory);
+    const currentSearch = searchParams.get('q');
+    if (currentSearch?.trim()) {
+      navigate(`${nextPath}?q=${encodeURIComponent(currentSearch.trim())}`);
+      return;
     }
-    
-    setSearchParams(newParams);
+    navigate(nextPath);
   };
 
   const normalizedQuery = searchQuery.trim().toLowerCase();
@@ -157,6 +159,9 @@ const MantrasList = () => {
 
   const pageHeading = selectedCategory === 'all' ? 'All Mantras' : getCategoryLabel(selectedCategory);
   const resultLabel = filteredMantras.length === 1 ? 'result' : 'results';
+  const seoMeta = selectedCategory === 'all'
+    ? buildMantrasListingSeo({ pathname: '/mantras' })
+    : buildCategorySeo({ category: selectedCategory, pathname: `/category/${selectedCategory}` });
 
   if (loading) {
     return (
@@ -168,6 +173,7 @@ const MantrasList = () => {
 
   return (
     <div className="bg-[#121212] text-white min-h-screen">
+      <Seo {...seoMeta} />
       <div className="container mx-auto px-3 md:px-4 py-4 md:py-6">
         <div className="mb-4 md:mb-6">
           <h1 className="text-2xl md:text-3xl font-bold text-center">{pageHeading}</h1>

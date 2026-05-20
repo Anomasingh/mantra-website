@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import AdSpaceBanner from './AdSpaceBanner';
 
 const Slideshow = () => (
     <>
@@ -37,11 +38,9 @@ const Slideshow = () => (
       `}</style>
 
       {/* Top Ad Space */}
-      <div className="border-b border-[#272727] py-2 px-4 bg-[#1E1E1E] flex items-center justify-center min-h-[50px]">
-        <div className="w-full max-w-6xl border-2 border-dashed border-[#333333] rounded-lg py-2 text-center">
-          <p className="text-gray-500 text-xs">Advertisement Space</p>
-        </div>
-      </div>
+      <AdSpaceBanner
+        className=""
+      />
   
       <div className="md:flex py-4 md:py-6 space-y-8 md:space-y-0">
         <div className="md:w-full space-y-8">
@@ -70,16 +69,25 @@ const Slideshow = () => (
               <img
                 src="/images/Om1-Desktop.jpg"
                 alt="Sacred Om Symbol"
-                className="hidden xl:block h-full object-cover max-h-[380px] glow-filter circular-frame"
+                width="760"
+                height="760"
+                decoding="async"
+                className="hidden xl:block w-[380px] h-[380px] object-cover glow-filter circular-frame"
               />
               <img
                 src="/images/Om1-md.jpg"
                 alt="Sacred Om Symbol"
-                className="hidden md:block xl:hidden h-auto object-cover max-h-[300px] glow-filter circular-frame"
+                width="600"
+                height="600"
+                decoding="async"
+                className="hidden md:block xl:hidden w-[300px] h-[300px] object-cover glow-filter circular-frame"
               />
               <img
                 src="/images/Om1-mobile.jpg"
                 alt="Sacred Om Symbol"
+                width="288"
+                height="288"
+                decoding="async"
                 className="block md:hidden w-72 h-72 object-cover glow-filter circular-frame"
               />
             </div>

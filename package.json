@@ -6,9 +6,10 @@
   "scripts": {
     "start": "react-scripts start",
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run seo:generate && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "seo:generate": "node scripts/generate-seo-assets.mjs"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.3",

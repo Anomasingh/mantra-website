@@ -1,14 +1,24 @@
 import './Blogs.scss';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useLocation } from 'react-router-dom';
 import { blogPosts } from './Blogs';
 import { useState } from 'react';
+import { buildBlogSeo, Seo } from '../../seo';
 
 const BlogDetail = () => {
     const { slug } = useParams();
+    const location = useLocation();
     const blog = blogPosts.find((post) => post.slug === slug);
     const [activeSection, setActiveSection] = useState(null);
+    const seoMeta = buildBlogSeo({ blog, pathname: location.pathname || `/blogs/${slug}` });
 
-    if (!blog) return <p className="text-white p-10">Blog not found.</p>;
+    if (!blog) {
+        return (
+            <>
+                <Seo {...seoMeta} />
+                <p className="text-white p-10">Blog not found.</p>
+            </>
+        );
+    }
 
     const handleSectionClick = (index) => {
         setActiveSection(index);
@@ -34,7 +44,8 @@ const BlogDetail = () => {
     }
 
     return (
-        <section className="blog-detail-wrapper p-4 md:p-6 lg:p-10 bg-[#121212] min-h-screen">
+        <article className="blog-detail-wrapper p-4 md:p-6 lg:p-10 bg-[#121212] min-h-screen">
+            <Seo {...seoMeta} />
             {/* Back Button at Top */}
             <Link 
                 to="/blogs" 
@@ -124,7 +135,7 @@ const BlogDetail = () => {
                     </div>
                 </div>
             </div>
-        </section>
+        </article>
     );
 };
 

@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { useLocation } from 'react-router-dom';
+import AdSpaceBanner from './AdSpaceBanner';
 import MostlySearchedList from './MostlySearchedList';
 
 const Sidebar = ({ showHomeButton = true, showAds = true, fluid = false, compact = false, className = '' }) => {
@@ -31,8 +32,11 @@ const Sidebar = ({ showHomeButton = true, showAds = true, fluid = false, compact
 
     {/* Ads Section */}
     {showAds && (
-      <div className={`bg-[#2B2B2B] flex items-center mt-10 justify-center h-100 ${panelWidthClass}`}>
-        <span className="text-sm text-center leading-snug">Ads<br />Space</span>
+      <div className={panelWidthClass}>
+        <AdSpaceBanner
+          className={`mt-10 ${panelWidthClass}`}
+          innerClassName="min-h-[420px]"
+        />
       </div>
     )}
   </div>

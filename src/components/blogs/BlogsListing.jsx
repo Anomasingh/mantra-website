@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
-import { motion } from 'framer-motion';
 import { MdArrowCircleLeft, MdArrowCircleRight } from 'react-icons/md';
-import { Link, useSearchParams } from 'react-router-dom';
+import { Link, useLocation, useSearchParams } from 'react-router-dom';
 import { blogPosts } from './Blogs'; // Imports the massive data file we just made
+import { buildBlogListingSeo, Seo } from '../../seo';
 import './Blogs.scss';
 
 const BlogsListing = () => {
@@ -10,8 +10,10 @@ const BlogsListing = () => {
     const [visibleItems, setVisibleItems] = useState(getVisibleItems());
     const [scrollStep, setScrollStep] = useState(0);
     const [searchParams] = useSearchParams();
+    const location = useLocation();
     const trackRef = useRef(null);
     const searchQuery = searchParams.get('q') || '';
+    const seoMeta = buildBlogListingSeo({ pathname: location.pathname || '/blogs' });
 
     // Filter blog posts based on search query
     const filteredBlogPosts = useMemo(() => {
@@ -92,12 +94,10 @@ const BlogsListing = () => {
 
     return (
         <section className="app__wrapper mt-4 px-4 md:px-8" aria-label="Blog posts">
+            <Seo {...seoMeta} />
             <h1 className="h1-text text-center text-2xl md:text-3xl font-bold text-white mb-4">Mantra Foundations</h1>
             <div className="app__blogs__section">
-                <motion.div
-                    whileInView={{ y: [100, 50, 0], opacity: [0, 0, 1] }}
-                    transition={{ duration: 0.5 }}
-                >
+                <div>
                     <div className="blog-slider-container">
                         <div className="blog-slider" ref={trackRef}>
                             <div className="blog-slider-track">
@@ -122,7 +122,7 @@ const BlogsListing = () => {
                             <MdArrowCircleRight className="blog-slider-arrow" />
                         </button>
                     </div>
-                </motion.div>
+                </div>
             </div>
         </section>
     );

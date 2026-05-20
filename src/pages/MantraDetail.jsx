@@ -1,10 +1,23 @@
-import React, { useState, useEffect, useRef } from 'react';
-import { useParams } from 'react-router-dom';
+import React, { useCallback, useEffect, useRef, useState } from 'react';
+import { Link, useLocation, useNavigate, useParams } from 'react-router-dom';
 import SquareMantraImage from '../components/SquareMantraImage';
 import Sidebar from '../components/Sidebar';
+import FAQ from '../components/FAQ';
+import { getMantraPathByMeta, resolveMantraMeta } from '../data/mantraCatalog';
+import {
+  buildMantraSeo,
+  getMantraContentSections,
+  getRelatedMantras,
+  normalizeLanguageSlug,
+  Seo
+} from '../seo';
 
 const MantraDetail = () => {
-  const { mantraId } = useParams();
+  const { slug, lang, mantraId } = useParams();
+  const location = useLocation();
+  const navigate = useNavigate();
+  const routeMantraKey = slug || mantraId || '';
+  const routeLanguage = normalizeLanguageSlug(lang || 'english');
   const [mantraInfo, setMantraInfo] = useState(null);
   const [selectedTransliterationLang, setSelectedTransliterationLang] = useState('english');
   const [selectedTranslationLang, setSelectedTranslationLang] = useState('english');
@@ -29,7 +42,7 @@ const MantraDetail = () => {
 
   useEffect(() => {
     window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
-  }, [mantraId]);
+  }, [routeMantraKey, routeLanguage]);
 
   useEffect(() => {
     if (hoveredLineIndex === null) return;
@@ -55,35 +68,51 @@ const MantraDetail = () => {
   }, [hoveredLineIndex]);
 
   useEffect(() => {
-  // Load mantras metadata from backend-served assets
-  fetch('/mantrasData.json')
+    // Load mantras metadata from backend-served assets
+    fetch('/mantrasData.json')
       .then(response => response.json())
       .then(data => {
-        const mantra = data.mantras.find(m => String(m.id) === mantraId);
+        const normalizedRouteKey = String(routeMantraKey).trim().toLowerCase();
+        const mantra = (data.mantras || []).find((entry) => {
+          const resolved = resolveMantraMeta(entry);
+          const candidates = [
+            String(entry.id || '').toLowerCase(),
+            String(entry.path || '').toLowerCase(),
+            String(entry.name || '').toLowerCase(),
+            String(resolved.slug || '').toLowerCase()
+          ];
+
+          return candidates.includes(normalizedRouteKey);
+        });
+
         if (mantra) {
+          const resolvedMantra = resolveMantraMeta(mantra);
+          const availableLanguages = (mantra.languages || []).map((value) => normalizeLanguageSlug(value));
+          const defaultLang = availableLanguages.includes(routeLanguage)
+            ? routeLanguage
+            : (availableLanguages.includes('english') ? 'english' : availableLanguages[0] || 'english');
+
           setMantraInfo({
+            ...resolvedMantra,
             ...mantra,
-            availableLanguages: mantra.languages || []
+            slug: resolvedMantra.slug,
+            availableLanguages
           });
-          const defaultLang = mantra.languages?.includes('english')
-            ? 'english'
-            : mantra.languages?.[0] || 'english';
+
           setSelectedTransliterationLang(defaultLang);
           setSelectedTranslationLang(defaultLang);
+
+          if (!slug && resolvedMantra.slug) {
+            navigate(getMantraPathByMeta(resolvedMantra, defaultLang), { replace: true });
+          }
         }
       })
       .catch(error => {
         console.error('Error loading mantras data:', error);
       });
-  }, [mantraId]);
+  }, [navigate, routeLanguage, routeMantraKey, slug]);
 
-  useEffect(() => {
-    if (mantraInfo) {
-      loadMantraData();
-    }
-  }, [mantraInfo, selectedTransliterationLang, selectedTranslationLang]);
-
-  const loadMantraData = async () => {
+  const loadMantraData = useCallback(async () => {
     setLoading(true);
     try {
       const originalLang = mantraInfo.originalLanguage || 'hindi';
@@ -202,7 +231,32 @@ const MantraDetail = () => {
     } finally {
       setLoading(false);
     }
-  };
+  }, [mantraInfo, selectedTransliterationLang, selectedTranslationLang]);
+
+  useEffect(() => {
+    if (mantraInfo) {
+      loadMantraData();
+    }
+  }, [mantraInfo, loadMantraData]);
+
+  useEffect(() => {
+    if (!mantraInfo?.slug) return;
+
+    const availableLanguages = mantraInfo.availableLanguages || [];
+    const normalizedParam = normalizeLanguageSlug(lang || '');
+
+    // Keep canonical URL clean by collapsing /english to /mantras/:slug.
+    if (lang && normalizedParam === 'english') {
+      navigate(getMantraPathByMeta(mantraInfo), { replace: true });
+      return;
+    }
+
+    // If route language is invalid for this mantra, redirect to best available canonical path.
+    if (lang && !availableLanguages.includes(normalizedParam)) {
+      const fallbackLanguage = availableLanguages.includes('english') ? 'english' : availableLanguages[0];
+      navigate(getMantraPathByMeta(mantraInfo, fallbackLanguage), { replace: true });
+    }
+  }, [lang, mantraInfo, navigate]);
 
   // Helper function to split text into words and create mappings
   const createWordMapping = (lyrics, wordToWordLines) => {
@@ -224,7 +278,7 @@ const MantraDetail = () => {
         // - Common punctuation marks
         // - Brackets, parentheses, etc.
         // - Verse markers like ॥१॥, ॥൧॥, ॥೧॥, etc.
-        const symbolOnlyRegex = /^[॥।\u0966-\u096F\u09E6-\u09EF\u0A66-\u0A6F\u0AE6-\u0AEF\u0BE6-\u0BEF\u0C66-\u0C6F\u0CE6-\u0CEF\u0D66-\u0D6F\u0660-\u06690-9\(\)\[\]\{\}\.,;:!?\-\s"']+$/;
+        const symbolOnlyRegex = /^[॥।\u0966-\u096F\u09E6-\u09EF\u0A66-\u0A6F\u0AE6-\u0AEF\u0BE6-\u0BEF\u0C66-\u0C6F\u0CE6-\u0CEF\u0D66-\u0D6F\u0660-\u06690-9()[\]{}.,;:!?\-\s"']+$/;
         
         return !symbolOnlyRegex.test(trimmedWord);
       });
@@ -302,7 +356,7 @@ const MantraDetail = () => {
       
       // Enhanced regex to detect verse numbers and punctuation symbols
       // Includes all 14 language script numbers and verse markers
-      const symbolOnlyRegex = /^[॥।\u0966-\u096F\u09E6-\u09EF\u0A66-\u0A6F\u0AE6-\u0AEF\u0BE6-\u0BEF\u0C66-\u0C6F\u0CE6-\u0CEF\u0D66-\u0D6F\u0660-\u06690-9\(\)\[\]\{\}\.,;:!?\-\s"']+$/;
+      const symbolOnlyRegex = /^[॥।\u0966-\u096F\u09E6-\u09EF\u0A66-\u0A6F\u0AE6-\u0AEF\u0BE6-\u0BEF\u0C66-\u0C6F\u0CE6-\u0CEF\u0D66-\u0D6F\u0660-\u06690-9()[\]{}.,;:!?\-\s"']+$/;
       const isSymbol = symbolOnlyRegex.test(trimmedPart);
       
       if (isSymbol) {
@@ -387,11 +441,36 @@ const MantraDetail = () => {
 
   if (!mantraInfo) {
     return (
-      <div className="bg-[#121212] text-white min-h-screen flex items-center justify-center">
-        <div className="text-xl">Mantra not found</div>
-      </div>
+      <>
+        <Seo
+          title="Mantra Not Found | MantraSpirit"
+          description="The requested mantra page could not be found. Browse all mantras, transliterations, and translations."
+          canonical={location.pathname}
+          robots="noindex,follow"
+        />
+        <div className="bg-[#121212] text-white min-h-screen flex items-center justify-center">
+          <div className="text-xl">Mantra not found</div>
+        </div>
+      </>
     );
   }
+
+  const seoMeta = buildMantraSeo({
+    mantra: mantraInfo,
+    pathname: location.pathname,
+    lang: routeLanguage || selectedTranslationLang
+  });
+  const contentSections = getMantraContentSections(mantraInfo, routeLanguage || selectedTranslationLang);
+  const relatedMantras = getRelatedMantras(mantraInfo, 6);
+
+  const handleTranslationLanguageChange = (nextLanguage) => {
+    const normalizedLanguage = normalizeLanguageSlug(nextLanguage);
+    setSelectedTranslationLang(normalizedLanguage);
+
+    if (mantraInfo?.slug) {
+      navigate(getMantraPathByMeta(mantraInfo, normalizedLanguage), { replace: true });
+    }
+  };
 
   if (loading) {
     return (
@@ -403,7 +482,8 @@ const MantraDetail = () => {
 
 
   return (
-    <div className="bg-[#121212] text-white min-h-screen">
+    <article className="bg-[#121212] text-white min-h-screen">
+      <Seo {...seoMeta} />
       {/* Header */}
       <div className="bg-gradient-to-r from-orange-500 to-orange-600 py-4 md:py-6 px-3 md:px-4 lg:px-6">
         <div className="w-full flex items-center space-x-4 md:space-x-6">
@@ -413,10 +493,10 @@ const MantraDetail = () => {
               alt={mantraInfo.name}
               className="w-16 md:w-20 h-16 md:h-20"
               fallbackSrc="/images/HANUMAN%20CHALISA.png"
+              priority
             />
           </div>
           <div>
-            <div className="text-orange-200 text-xs md:text-sm mb-1">Ajay Bhushan</div>
             <h1 className="text-2xl md:text-3xl font-bold text-white">
               {mantraInfo.name
                 .replace(/_/g, ' ')
@@ -424,6 +504,7 @@ const MantraDetail = () => {
                 .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
                 .join(' ')}
             </h1>
+            <p className="text-orange-100 text-sm md:text-base mt-2 max-w-2xl">{contentSections.intro || seoMeta.tagline}</p>
             <div className="text-orange-200 text-xs md:text-sm mt-1">
               Song • Hindi • 2023 • 2.58 mins
             </div>
@@ -431,10 +512,12 @@ const MantraDetail = () => {
         </div>
       </div>
 
-      <div className="w-full px-3 md:px-4 lg:px-6 py-4 md:py-6">
+      <main className="w-full px-3 md:px-4 lg:px-6 py-4 md:py-6">
         <div className="grid grid-cols-1 lg:grid-cols-[2.4fr_0.9fr] xl:grid-cols-[2.8fr_0.85fr] gap-4 md:gap-6 items-start">
         {/* Main Content */}
         <div className="min-w-0">
+          {/* Intro removed per request: intro now shown beneath the title */}
+
           {/* Audio Controls */}
           <div className="bg-[#1E1E1E] rounded-lg p-4 md:p-6 mb-4 md:mb-6">
             <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-3 md:gap-0">
@@ -459,9 +542,9 @@ const MantraDetail = () => {
           </div>
 
           {/* Lyrics */}
-          <div className="bg-[#1E1E1E] rounded-lg p-6">
+          <section className="bg-[#1E1E1E] rounded-lg p-6" aria-labelledby="lyrics-heading">
             <div className="flex items-center justify-between mb-6">
-              <h2 className="text-2xl font-bold">Lyrics</h2>
+              <h2 id="lyrics-heading" className="text-2xl font-bold">Lyrics</h2>
               {/* Fixed height container to prevent layout shifts */}
               <div className="h-12 flex items-center">
                 {hoveredWordIndex !== null && wordToWordData && (
@@ -592,7 +675,7 @@ const MantraDetail = () => {
                     <h3 className="text-lg font-semibold text-white">Translation</h3>
                     <select
                       value={selectedTranslationLang}
-                      onChange={(e) => setSelectedTranslationLang(e.target.value)}
+                      onChange={(e) => handleTranslationLanguageChange(e.target.value)}
                       className="bg-[#3A3A3A] text-white px-3 py-1 rounded text-xs border border-[#4A4A4A] hover:border-[#5A5A5A] transition-colors"
                     >
                       {mantraInfo.availableLanguages.map((lang) => (
@@ -632,7 +715,51 @@ const MantraDetail = () => {
                 </div>
               )}
             </div>
-          </div>
+          </section>
+
+          <section className="bg-[#1E1E1E] rounded-lg p-6 mt-4 md:mt-6">
+            <h2 className="text-2xl font-bold mb-4">Meaning</h2>
+            <ul className="list-disc pl-5 space-y-2 text-gray-300">
+              {contentSections.meaningPoints.map((point) => (
+                <li key={point}>{point}</li>
+              ))}
+            </ul>
+          </section>
+
+          <section className="bg-[#1E1E1E] rounded-lg p-6 mt-4 md:mt-6">
+            <h2 className="text-2xl font-bold mb-4">Benefits</h2>
+            <ul className="list-disc pl-5 space-y-2 text-gray-300">
+              {contentSections.benefits.map((point) => (
+                <li key={point}>{point}</li>
+              ))}
+            </ul>
+          </section>
+
+          <section className="bg-[#1E1E1E] rounded-lg p-6 mt-4 md:mt-6">
+            <h2 className="text-2xl font-bold mb-4">How To Chant</h2>
+            <ol className="list-decimal pl-5 space-y-2 text-gray-300">
+              {contentSections.chantGuide.map((point) => (
+                <li key={point}>{point}</li>
+              ))}
+            </ol>
+          </section>
+
+          <FAQ faqs={contentSections.faq} />
+
+          <section className="bg-[#1E1E1E] rounded-lg p-6 mt-4 md:mt-6">
+            <h2 className="text-2xl font-bold mb-4">Related Mantras</h2>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              {relatedMantras.map((item) => (
+                <Link
+                  key={item.id}
+                  to={getMantraPathByMeta(item)}
+                  className="rounded-md border border-[#343434] bg-[#252525] px-3 py-2 text-sm hover:border-[#FF9256]/60 hover:text-[#FF9256] transition-colors"
+                >
+                  {item.title}
+                </Link>
+              ))}
+            </div>
+          </section>
 
         </div>
 
@@ -641,8 +768,8 @@ const MantraDetail = () => {
           <Sidebar showHomeButton={false} showAds={false} fluid compact className="mt-0" />
         </div>
         </div>
-      </div>
-    </div>
+      </main>
+    </article>
   );
 };
 

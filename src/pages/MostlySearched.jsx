@@ -1,40 +1,35 @@
 import React, { useState } from "react";
 import Sidebar from "../components/Sidebar";
 import Card from "../components/Card";
+import AdSpaceBanner from "../components/AdSpaceBanner";
 
 const MostlySearched = () => {
   const cardDetails = [
-    { title: "Hanuman Chalisa", artist: "Geeta Rabari", image: "/images/HANUMAN%20CHALISA.png" },
-    { title: "Mahamrityunjai Mantra", artist: "Shankar Mahadevan", image: "/images/MAHAMRITYUNJAI%20MANTRA.png" },
-    { title: "Gayatri Mantra", artist: "Anuradha Paudwal", image: "/images/GAYATRI%20MANTRA.png" },
-    { title: "Shiv Tandav Stotra", artist: "Sanskrit", image: "/images/SHIV%20TANDAV%20STOTRA.png" },
-    { title: "Durga Mantra 1", artist: "Devotional", image: "/images/DURGA%20MANTRA%201.png" }
+    { title: "Hanuman Chalisa", image: "/images/HANUMAN%20CHALISA.png" },
+    { title: "Mahamrityunjai Mantra", image: "/images/MAHAMRITYUNJAI%20MANTRA.png" },
+    { title: "Gayatri Mantra", image: "/images/GAYATRI%20MANTRA.png" },
+    { title: "Shiv Tandav Stotra", image: "/images/SHIV%20TANDAV%20STOTRA.png" },
+    { title: "Durga Mantra 1", image: "/images/DURGA%20MANTRA%201.png" }
   ];
 
   const [sortOrder, setSortOrder] = useState("asc");
-  const [selectedArtist, setSelectedArtist] = useState("All");
 
   const toggleSortOrder = () => {
     setSortOrder((prev) => (prev === "asc" ? "desc" : "asc"));
   };
 
-  const handleArtistFilter = (e) => {
-    setSelectedArtist(e.target.value);
-  };
-
   const filteredCards = cardDetails
-    .filter((card) => selectedArtist === "All" || card.artist === selectedArtist)
     .sort((a, b) => {
       const compare = a.title.localeCompare(b.title);
       return sortOrder === "asc" ? compare : -compare;
     });
   const repeatedCards = Array(5).fill(filteredCards).flat();
 
-  const uniqueArtists = ["All", ...new Set(cardDetails.map((c) => c.artist))];
-
   return (
     <div className="text-white bg-[#121212]">
-        <div className="text-center pb-10 py-8 md:py-4 bg-[#1E1E1E]">Ads Space</div>
+      <AdSpaceBanner
+        className=""
+      />
       <div className="flex flex-col lg:flex-row">
         {/* Left Section */}
         <div className="flex-1 px-4 md:px-10 lg:px-20 mt-10">
@@ -61,14 +56,15 @@ const MostlySearched = () => {
           {/* Cards Grid */}
           <div className=" grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-y-8 gap-3 sm:gap-4 mb-15">
             {repeatedCards.map((item, idx) => (
-                <Card key={idx} image={item.image} title={item.title} artist={item.artist} />
+                <Card key={idx} image={item.image} title={item.title} />
             ))}
             </div>
 
           {/* Ads Space */}
-        <div className="w-full text-center py-20 bg-[#1E1E1E] text-gray-400 my-5 border border-[#383838]">
-        Ads Space
-        </div>
+          <AdSpaceBanner
+            className="w-full my-5"
+            innerClassName="py-20 text-center"
+          />
 
         </div>
 

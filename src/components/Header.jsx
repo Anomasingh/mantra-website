@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect, useMemo } from "react";
 import { FiSearch, FiMenu, FiX } from "react-icons/fi";
-import { Link, useSearchParams, useLocation, useNavigate } from "react-router-dom";
+import { Link, useSearchParams, useNavigate } from "react-router-dom";
 import clsx from "clsx";
 import { CATEGORY_OPTIONS, createCategoryPath, getMantraPathByTitle } from "../data/mantraCatalog";
 
@@ -17,23 +17,10 @@ const Header = () => {
   const [showDropdown, setShowDropdown] = useState(false);
   const [mantras, setMantras] = useState([]);
   const [searchParams, setSearchParams] = useSearchParams();
-  const location = useLocation();
   const navigate = useNavigate();
   const menuRef = useRef(null);
   const dropdownRef = useRef(null);
   const searchQuery = searchParams.get('q') || '';
-  
-  // Check if we're on a page that supports search filtering
-  const isSearchablePage = 
-    location.pathname === '/' ||
-    location.pathname.includes('/mantras') || 
-    location.pathname.includes('/category') ||
-    location.pathname.includes('/stotra') ||
-    location.pathname.includes('/chalisa') ||
-    location.pathname.includes('/aartis') ||
-    location.pathname.includes('/gods') ||
-    location.pathname.includes('/goddesses') ||
-    location.pathname.includes('/blogs');
   
   // Fetch mantras data on mount
   useEffect(() => {

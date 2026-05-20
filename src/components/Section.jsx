@@ -1,7 +1,7 @@
 import SquareMantraImage from "./SquareMantraImage";
 import { Link } from "react-router-dom";
 
-const Section = ({ title, items, circle = false, artistDisable = false, topContent, hide = false, getItemLink }) => (
+const Section = ({ title, items, circle = false, artistDisable = false, topContent, getItemLink }) => (
   <div className="mt-10 px-4 md:px-10 lg:px-20 md:-mr-2">
     {/* Optional top content */}
     {topContent && (

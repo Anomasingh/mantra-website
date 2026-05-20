@@ -344,7 +344,7 @@ export const filterMantrasByCategory = (mantras = [], category = "all") => {
 
 export const createCategoryPath = (category = "all") => {
   const normalizedCategory = normalizeCategoryValue(category);
-  return normalizedCategory === "all" ? "/mantras" : `/mantras?category=${encodeURIComponent(normalizedCategory)}`;
+  return normalizedCategory === "all" ? "/mantras" : `/category/${encodeURIComponent(normalizedCategory)}`;
 };
 
 export const getMantraByTitle = (title = "") => {
@@ -354,5 +354,16 @@ export const getMantraByTitle = (title = "") => {
 
 export const getMantraPathByTitle = (title = "") => {
   const mantra = getMantraByTitle(title);
-  return mantra ? `/mantra/${mantra.id}` : "/mantras";
+  return mantra ? `/mantras/${mantra.slug}` : "/mantras";
+};
+
+export const getMantraPathByMeta = (mantra = {}, lang) => {
+  const resolved = resolveMantraMeta(mantra);
+  if (!resolved?.slug) return '/mantras';
+
+  if (lang) {
+    return `/mantras/${resolved.slug}/${String(lang).toLowerCase()}`;
+  }
+
+  return `/mantras/${resolved.slug}`;
 };
